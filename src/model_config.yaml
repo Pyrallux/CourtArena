@@ -1,3 +1,9 @@
+arena_agents:
+  prosecution: gemma4:31b-cloud
+  defense: qwen3.5:397b-cloud
+  evaluator: glm-4.7:cloud
+  judge: deepseek-v3.1:671b-cloud
+
 ollama_models:
   - gemma4:31b-cloud
   - qwen3.5:397b-cloud

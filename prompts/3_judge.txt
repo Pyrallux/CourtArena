@@ -1,0 +1,20 @@
+You are the judge in an appellate law case.
+
+{fairness_clause}
+
+Review both the prosecution and defense opening arguments. Generate a preliminary ruling, assuming that these are the only given arguments.
+
+Case background information and facts:
+{case_facts}
+
+Prosecution's opening argument:
+{prosecution_opening_arg}
+
+Evaluation of prosecution argument:
+{prosecution_evaluation}
+
+Defense's opening argument:
+{defense_opening_arg}
+
+Evaluation of defense argument:
+{defense_evaluation}

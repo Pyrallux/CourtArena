@@ -1,0 +1,45 @@
+You are tasked with evaluating legal analyses according to the following comprehensive rubric. Follow these criteria carefully to ensure consistent and fair assessment. Conduct evaluations in all three of the following areas: (If there are no citations, all the scores should be 0.)
+
+## A. Citation Relevance (Score: 0-4) 
+Evaluate how applicable the cited precedent cases are to the legal question at hand. Please analyze each citation in the legal analysis in order to produce this score. According to CEB, relevance can be defined in three ways; 
+
+Facts: The facts of a case are paramount in assessing relevance. Cases with fact patterns similar to the issue being addressed are more likely to provide applicable precedents and insights into how a court might view the current case.
+
+Legal Issues and Decisions: The legal issues addressed in a case and the court’s decisions on those issues are critical in evaluating its relevance. Cases that have tackled similar legal questions or interpreted the same statutes can offer valuable precedents for forming arguments.
+
+Recent Cases: The temporal proximity of cases is also a key factor. Recent cases are generally more indicative of the current state of the law and judicial attitudes toward specific legal issues. They can signal shifts in legal reasoning and are often given more weight in arguments.
+
+**0 points**: No relevant cases cited, or all cited cases are completely irrelevant to the analysis. 
+**1 point**: All cited cases have only remote or tangential relevance to the core legal analysis.  **2 points**: Most cases cited have only distant relevance, with few directly applicable precedents. 
+**3 points**: About half of the cases cited are only remotely relevant to the analysis, while the rest are relevant. 
+**4 points**: All or nearly all cited cases are highly relevant and directly applicable to the legal analysis.
+
+## B. Constraints Extraction (Score: 0-4) 
+To use a conclusion for a cited case, the analysis must evaluate how well the legal analysis identifies the necessary legal constraints or conditions that must be satisfied for the cited precedent’s holding or rule to apply. When relying on precedent for a legal argument, the analysis must correctly identify what legal requirements made the cited case applicable and explain how those requirements apply to the present legal issue. Relevant constraints may include, but are not limited to:
+
+Legal elements: The formal doctrinal elements or prongs required under the cited rule, test, or legal standard. For example, duty, breach, causation, or damages in negligence.
+
+Threshold Requirements: Jurisdictional, procedural, statutory, or factual predicates that must be met before the cited rule applies. For example, standing, ripeness, contractual formation, or protected class status.
+
+Exceptions: Circumstances that narrow or limit the application of the cited precedent. For example, exceptions to qualified immunity, statutory carveouts, or factual distinctions.
+
+Fact-Specific Conditions: Material factual findings in the cited case that were necessary for the court to reach its conclusion. For example, intentional conduct, substantial similarity of products, or foreseeability of harm.
+
+**0 points**: No legal constraints identified, or the extraction is fundamentally incorrect. 
+**1 point**: Some constraints extracted, but fewer than 3, or contain significant errors in interpretation. 
+**2 points**: At least 3 constraints extracted, but some are incorrectly formulated or incompletely articulated. 
+**3 points**: All necessary constraints (typically at least 3 plus any other applicable ones) are extracted, with only minor interpretive errors. 
+**4 points**: All constraints are fully and correctly extracted with precise legal terminology and interpretation. 
+
+## C. Argument Validity per Constraint (Score: 0-4) 
+Evaluate how well the legal arguments support each identified constraint, factual accuracy is important here. The legal analysis must not exaggerate or change key phrases in the background information or facts. This aspect should be evaluated independent of citation relevance and constraint extraction. 
+**0 points**: No substantive arguments provided for any of the identified constraints. 
+**1 point**: Arguments provided for some constraints, but they are predominantly invalid, weak, or misapply legal principles. 
+**2 points**: Arguments provided for most constraints, but several are invalid or significant constraints lack supporting arguments. 
+**3 points**: Arguments provided for all identified constraints; most are valid but contain minor logical inconsistencies or gaps. 
+**4 points**: Strong, valid arguments provided for each identified constraint, with sound legal reasoning throughout. 
+
+Additional Context: Case Facts: {case_facts} Previous arguments {prev_argument_text} Please analyze each citation in the legal analysis, then analyze whether constraints are satisfied for each cited case, then analyze whether each argument is valid for each constraint. Besides explanations for your scoring, also produce a formatted score following ' the example below in a json format. Make sure to add ```json before the json dict. ```json {{ "Citation Relevance": "<number>", "Constraints Extraction": "<number>", "Argument Validity per Constraint", "<number>", }} ```
+
+Argument to Evaluate:
+{argument_text}
