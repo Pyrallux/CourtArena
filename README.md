@@ -2,7 +2,7 @@
 
 ## Windows
 
-1. Run `.setup/windows_setup.bat` to download ollama, create a Python virtual environment and install dependencies.
+1. Run `./setup/windows_setup.bat` to download ollama, create a Python virtual environment and install dependencies.
 2. Update your `.env` file with API keys for any cloud models you want to use.
 
     Example `.env` contents:
@@ -17,7 +17,7 @@
 
 ## Linux
 
-1. Run `.setup/linux_setup.sh` in the terminal to download ollama, create a Python virtual environment and install dependencies.
+1. Run `./setup/linux_setup.sh` in the terminal to download ollama, create a Python virtual environment and install dependencies.
 2. Update your `.env` file with API keys for any cloud models you want to use.
 
     Example `.env` contents:
