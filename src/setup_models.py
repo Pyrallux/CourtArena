@@ -10,9 +10,12 @@ import sys
 import argparse
 import logging
 import subprocess
+import asyncio
 from pathlib import Path
 from typing import List, Dict
 import yaml
+
+from llm_client import create_client
 
 
 # ============================================================================
@@ -134,6 +137,29 @@ def pull_model(model_name: str, logger: logging.Logger) -> bool:
 # Main Operations
 # ============================================================================
 
+async def test_cloud_model(model_name: str, logger: logging.Logger) -> bool:
+    """Test a cloud model by making a short request."""
+    try:
+        client = create_client(
+            model_name=model_name,
+            temperature=0.7,
+            max_tokens=64
+        )
+        messages = [
+            {"role": "system", "content": "You are a test assistant."},
+            {"role": "user", "content": "Respond with 'Hello'."}
+        ]
+        response = await client.chat(messages=messages)
+        if response and response.content:
+            logger.info(f"  ✓ Successfully tested cloud model: {model_name}")
+            return True
+        else:
+            logger.error(f"  ✗ Empty response from cloud model: {model_name}")
+            return False
+    except Exception as e:
+        logger.error(f"  ✗ Error testing cloud model {model_name}: {e}")
+        return False
+
 def pull_models_from_config(
     config_path: Path,
     logger: logging.Logger,
@@ -158,8 +184,16 @@ def pull_models_from_config(
         logger.info(f"\n[{i}/{len(models)}] Processing: {model}")
 
         if "cloud" in model.lower():
-            logger.info(f"  → Cloud model, bypassing pull")
-            results['success'].append(model)
+            logger.info(f"  → Cloud model detected. Testing connection...")
+            if dry_run:
+                logger.info(f"  → Would test connection (dry-run)")
+                continue
+                
+            success = asyncio.run(test_cloud_model(model, logger))
+            if success:
+                results['success'].append(model)
+            else:
+                results['failed'].append(model)
             continue
 
         # Skip if already installed
