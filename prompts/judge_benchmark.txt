@@ -1,0 +1,32 @@
+You are benchmarking an AI judge's ruling against the actual court opinion (the gold-standard answer) for a real appellate case from the CourtReasoner dataset.
+
+Case background information and facts:
+{case_facts}
+
+Actual court opinion (gold-standard answer):
+{gold_answer}
+
+AI judge's ruling:
+{judge_ruling}
+
+Score the AI judge's ruling on the following two axes. Use the gold-standard opinion as the source of truth — the AI judge does not need to use identical wording, but its disposition and reasoning must align with the actual court's.
+
+## A. Outcome Match (yes / no)
+Does the AI judge reach the same disposition as the actual court (e.g. affirm vs. reverse, grant vs. deny, find for the same party)? Answer "yes" only if the bottom-line outcome agrees. Procedural variants (e.g. "affirm" vs. "affirm in part") count as "yes" if the prevailing party is the same.
+
+## B. Reasoning Alignment (Score: 0-4)
+How closely does the AI judge's reasoning track the actual court's reasoning?
+- **0**: Unrelated or contradictory reasoning.
+- **1**: Mostly off-track; identifies the wrong legal issue or applies the wrong rule.
+- **2**: Partial alignment; identifies the right issue but misapplies or omits key reasoning steps.
+- **3**: Mostly aligned; same legal framework with minor gaps or extra material.
+- **4**: Closely tracks the court's reasoning, including the dispositive rule and how it applies to the facts.
+
+Briefly explain your scoring (2-4 sentences), then return a JSON block exactly as shown below. Make sure to add ```json before the dict.
+
+```json
+{{
+  "Outcome Match": "<yes or no>",
+  "Reasoning Alignment": "<number>"
+}}
+```
