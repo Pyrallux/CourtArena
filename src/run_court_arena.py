@@ -15,6 +15,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+NUM_ROUNDS = 3
+
 def get_agent_models():
     config_path = Path(__file__).parent / 'model_config.yaml'
     default_fallback = "glm-5.1:cloud"
@@ -40,7 +42,9 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
     logs_dir = Path(__file__).parent.parent / "logs"
     logs_dir.mkdir(parents=True, exist_ok=True)
     log_file_path = logs_dir / f"arena_log_case_{case.get('id')}.txt"
-    
+
+    rounds = []
+
     with open(log_file_path, "w", encoding="utf-8") as lf:
         
         def write_log(stage, model_used, content):
@@ -52,54 +56,79 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
             
         lf.write(f"COURT ARENA LOG - {case_name}\n")
         lf.write(f"FACTS:\n{case.get('facts', '')}\n")
-        
-        # 1 - Prompt Prosecution
-        logger.info(f"Step 1: Generating Prosecution Argument...")
-        pros_arg = await agents.generate_prosecution(case)
-        write_log("1. Prosecution Argument", agents.pros_model_name, pros_arg)
-        
-        # 1.5 - Evaluate Prosecution (no previous arguments)
-        logger.info(f"Step 1.5: Evaluating Prosecution Argument...")
-        pros_eval = await agents.evaluate_argument(case, pros_arg, prev_argument_text="None")
-        write_log("1.5. Evaluator (Prosecution)", agents.eval_model_name, pros_eval)
-        
-        # 2 - Prompt Defense
-        logger.info(f"Step 2: Generating Defense Argument...")
-        def_arg = await agents.generate_defense(case, pros_arg)
-        write_log("2. Defense Argument", agents.def_model_name, def_arg)
-        
-        # 2.5 - Evaluate Defense (includes past arguments)
-        logger.info(f"Step 2.5: Evaluating Defense Argument...")
-        def_eval = await agents.evaluate_argument(case, def_arg, prev_argument_text=f"Prosecution's Argument:\n{pros_arg}")
-        write_log("2.5. Evaluator (Defense)", agents.eval_model_name, def_eval)
-        
-        # 3 - Prompt Judge
-        logger.info(f"Step 3: Generating Judge Ruling...")
-        judge_ruling = await agents.generate_judge_ruling(
-            case, pros_arg, pros_eval, def_arg, def_eval
-        )
-        write_log("3. Judge Preliminary Ruling", agents.judge_model_name, judge_ruling)
 
-        # 3.5 - Evaluate Judge (include argument history)
-        logger.info(f"Step 3.5: Evaluating Judge Ruling...")
-        judgement_history = (
-            f"Prosecution's Argument:\n{pros_arg}\n\n"
-            f"Defense's Argument:\n{def_arg}\n"
-        )
-        judge_eval = await agents.evaluate_argument(case, judge_ruling, prev_argument_text=judgement_history)
-        write_log("3.5. Evaluator (Judge)", agents.eval_model_name, judge_eval)
+        prev_judge_ruling = None
+
+        for round_num in range(1, NUM_ROUNDS + 1):
+            lf.write(f"\n{'#'*60}\n")
+            lf.write(f"ROUND {round_num} of {NUM_ROUNDS}\n")
+            lf.write(f"{'#'*60}\n")
+            logger.info(f"=== Round {round_num}/{NUM_ROUNDS} ===")
+
+            # Append the previous judge ruling to facts so agents have full context.
+            round_case = dict(case)
+            if prev_judge_ruling is not None:
+                round_case["facts"] = (
+                    case.get("facts", "") +
+                    f"\n\n--- Judge's Ruling from Round {round_num - 1} ---\n{prev_judge_ruling}"
+                )
+
+            prefix = f"R{round_num}."
+
+            # 1 - Prompt Prosecution
+            logger.info(f"Step {prefix}1: Generating Prosecution Argument...")
+            pros_arg = await agents.generate_prosecution(round_case)
+            write_log(f"{prefix}1. Prosecution Argument", agents.pros_model_name, pros_arg)
+            
+            # 1.5 - Evaluate Prosecution (no previous arguments)
+            logger.info(f"Step {prefix}1.5: Evaluating Prosecution Argument...")
+            pros_eval = await agents.evaluate_argument(round_case, pros_arg, prev_argument_text="None")
+            write_log(f"{prefix}1.5. Evaluator (Prosecution)", agents.eval_model_name, pros_eval)
+            
+            # 2 - Prompt Defense
+            logger.info(f"Step {prefix}2: Generating Defense Argument...")
+            def_arg = await agents.generate_defense(round_case, pros_arg)
+            write_log(f"{prefix}2. Defense Argument", agents.def_model_name, def_arg)
+            
+            # 2.5 - Evaluate Defense (includes past arguments)
+            logger.info(f"Step {prefix}2.5: Evaluating Defense Argument...")
+            def_eval = await agents.evaluate_argument(round_case, def_arg, prev_argument_text=f"Prosecution's Argument:\n{pros_arg}")
+            write_log(f"{prefix}2.5. Evaluator (Defense)", agents.eval_model_name, def_eval)
+            
+            # 3 - Prompt Judge
+            logger.info(f"Step {prefix}3: Generating Judge Ruling...")
+            judge_ruling = await agents.generate_judge_ruling(
+                round_case, pros_arg, pros_eval, def_arg, def_eval
+            )
+            write_log(f"{prefix}3. Judge Ruling", agents.judge_model_name, judge_ruling)
+
+            # 3.5 - Evaluate Judge (include argument history)
+            logger.info(f"Step {prefix}3.5: Evaluating Judge Ruling...")
+            judgement_history = (
+                f"Prosecution's Argument:\n{pros_arg}\n\n"
+                f"Defense's Argument:\n{def_arg}\n"
+            )
+            judge_eval = await agents.evaluate_argument(round_case, judge_ruling, prev_argument_text=judgement_history)
+            write_log(f"{prefix}3.5. Evaluator (Judge)", agents.eval_model_name, judge_eval)
+
+            rounds.append({
+                "round": round_num,
+                "prosecution_argument": pros_arg,
+                "prosecution_evaluation": pros_eval,
+                "defense_argument": def_arg,
+                "defense_evaluation": def_eval,
+                "judge_ruling": judge_ruling,
+                "judge_evaluation": judge_eval,
+            })
+
+            prev_judge_ruling = judge_ruling
 
     logger.info(f"--- Completed CourtArena for Case: {case_name} ---")
     
     return {
         "case_id": case.get("id"),
         "case_name": case_name,
-        "prosecution_argument": pros_arg,
-        "prosecution_evaluation": pros_eval,
-        "defense_argument": def_arg,
-        "defense_evaluation": def_eval,
-        "judge_ruling": judge_ruling,
-        "judge_evaluation": judge_eval,
+        "rounds": rounds,
         "log_file": str(log_file_path)
     }
 
