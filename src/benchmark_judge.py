@@ -121,7 +121,8 @@ async def main():
     skipped = 0
     for result in arena_results:
         case_id = str(result.get("case_id"))
-        judge_ruling = result.get("judge_ruling", "")
+        final_round = result.get("rounds", [])[-1]
+        judge_ruling = final_round.get("judge_ruling", "")
         case = cases_by_id.get(case_id)
         if case is None:
             logger.warning(f"Case {case_id} not in sampled_cases.json; skipping")
