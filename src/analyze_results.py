@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 
 AXES = ["Citation Relevance", "Constraints Extraction", "Argument Validity per Constraint"]
 ROLES = ["prosecution", "defense", "judge"]
+ROUNDS = [1, 2, 3]
 
 
 def extract_scores(eval_text):
@@ -49,20 +50,22 @@ def parse_results(results):
     skipped = 0
     for case in results:
         case_id = case.get("case_id")
-        for role in ROLES:
-            eval_text = case.get(f"{role}_evaluation", "")
-            scores = extract_scores(eval_text)
-            if scores is None:
-                logger.warning(f"Could not parse scores for case {case_id} ({role})")
-                skipped += 1
-                continue
-            rows.append({
-                "case_id": case_id,
-                "role": role,
-                "citation_relevance": scores["Citation Relevance"],
-                "constraints_extraction": scores["Constraints Extraction"],
-                "argument_validity": scores["Argument Validity per Constraint"],
-            })
+        rounds = case.get("rounds", [])
+        for round in rounds:
+            for role in ROLES:
+                eval_text = round.get(f"{role}_evaluation", "")
+                scores = extract_scores(eval_text)
+                if scores is None:
+                    logger.warning(f"Could not parse scores for case {case_id} ({role})")
+                    skipped += 1
+                    continue
+                rows.append({
+                    "case_id": case_id,
+                    "role": role,
+                    "citation_relevance": scores["Citation Relevance"],
+                    "constraints_extraction": scores["Constraints Extraction"],
+                    "argument_validity": scores["Argument Validity per Constraint"],
+                })
     return rows, skipped
 
 
