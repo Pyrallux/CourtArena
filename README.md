@@ -10,8 +10,6 @@
     Example `.env` contents:
 
     ```env
-    OPENAI_API_KEY=sk-your-openai-api-key
-    LITELLM_API_KEY=sk-your-litellm-proxy-key
     OLLAMA_API_KEY=your-ollama-cloud-key
     ```
 
@@ -23,8 +21,6 @@
     Example `.env` contents:
 
     ```env
-    OPENAI_API_KEY=sk-your-openai-api-key
-    LITELLM_API_KEY=sk-your-litellm-proxy-key
     OLLAMA_API_KEY=your-ollama-cloud-key
     ```
 
@@ -32,7 +28,10 @@
 
 1. Run `python src/get_courtreasoner_cases.py` to download and parse cases from the CourtReasoner repository. This will save the cases in `case_data/courtreasoner_cases.json`.
 2. Configure the models to use in the arena by editing `src/model_config.py`. Verify and initialize your models by running `python src/setup_models.py`. This will pull any local models and verify connectivity to cloud models.
-3. Run the arena with `python src/run_court_arena.py`. This will load the cases, run the agents, and log the process to `/logs`.
+3. Run the arena with `python src/run_court_arena.py --max-cases <integer>`. This will randomly sampel the specified number of cases and perform the CourtArena simulation process. Model outputs for each case will be stored in `/logs`, and model evaluation results and other useful info will be stored in `/results`.
+3. To parse and aggregate these results, run `python src/analyze_results.py`. Model evaluation metrics will be stored in `results/scores.csv`.
+4. Additionally, the similarity of CourtArena's final case verdicts can be compared with the real-world case verdicts by running `python src/benchmark_judge.py` for additional analysis.
+
 
 ## References
 
