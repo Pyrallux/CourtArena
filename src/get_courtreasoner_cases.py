@@ -117,11 +117,24 @@ def main():
                     error_file = error_dir / f"error_case_{error_cases_count}.txt"
                     error_file.write_text(text, encoding="utf-8")
                     continue
-                
+
+                # Pull the gold-standard analysis-report.md sibling so we can
+                # benchmark the arena's judge against the actual court opinion.
+                analysis_path = path.replace("question.txt", "analysis-report.md")
+                analysis_url = f"https://raw.githubusercontent.com/yale-nlp/CourtReasoner/main/{analysis_path}"
+                try:
+                    analysis_resp = client.get(analysis_url)
+                    analysis_resp.raise_for_status()
+                    gold_answer = analysis_resp.text.strip()
+                except Exception as e:
+                    logger.warning(f"Case {idx + 1}: gold-standard analysis-report.md unavailable ({e})")
+                    gold_answer = ""
+
                 case_obj = {
                     "id": str(valid_cases_count),
                     "prompt": parsed_data["prompt"],
-                    "facts": parsed_data["facts"]
+                    "facts": parsed_data["facts"],
+                    "gold_answer": gold_answer,
                 }
                 
                 cases.append(case_obj)
