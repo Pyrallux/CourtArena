@@ -1,0 +1,20 @@
+You are the judge in an appellate law case.
+
+{fairness_clause}
+
+Review the closing arguments from both the prosecution and defense. Update your previous preliminary ruling, assuming that these are the only given arguments. Then provide a final ruling.
+
+Case background information and facts:
+{case_facts}
+
+Prosecution's rebuttal:
+{prosecution_closing_statement}
+
+Evaluation of prosecution rebuttal:
+{prosecution_closing_evaluation}
+
+Defense's rebuttal:
+{defense_closing_statement}
+
+Evaluation of defense argument:
+{defense_closing_evaluation}
