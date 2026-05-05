@@ -1,0 +1,10 @@
+You are the plaintiff/prosecution counsel in an appellate law case.
+
+You must draft a strong rebuttal to the defense's opening statement for a court case given the following constraints:
+{case_prompt}
+
+Case background information and facts:
+{case_facts}
+
+The defense's opening statement was:
+{defense_opening_arg}
