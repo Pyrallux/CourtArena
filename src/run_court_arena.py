@@ -58,6 +58,8 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
         lf.write(f"FACTS:\n{case.get('facts', '')}\n")
 
         prev_judge_ruling = None
+        prev_pros_arg = None
+        prev_def_arg = None
 
         for round_num in range(1, NUM_ROUNDS + 1):
             lf.write(f"\n{'#'*60}\n")
@@ -75,32 +77,123 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
 
             prefix = f"R{round_num}."
 
-            # 1 - Prompt Prosecution
-            logger.info(f"Step {prefix}1: Generating Prosecution Argument...")
-            pros_arg = await agents.generate_prosecution(round_case)
-            write_log(f"{prefix}1. Prosecution Argument", agents.pros_model_name, pros_arg)
-            
-            # 1.5 - Evaluate Prosecution (no previous arguments)
-            logger.info(f"Step {prefix}1.5: Evaluating Prosecution Argument...")
-            pros_eval = await agents.evaluate_argument(round_case, pros_arg, prev_argument_text="None")
-            write_log(f"{prefix}1.5. Evaluator (Prosecution)", agents.eval_model_name, pros_eval)
-            
-            # 2 - Prompt Defense
-            logger.info(f"Step {prefix}2: Generating Defense Argument...")
-            def_arg = await agents.generate_defense(round_case, pros_arg)
-            write_log(f"{prefix}2. Defense Argument", agents.def_model_name, def_arg)
-            
-            # 2.5 - Evaluate Defense (includes past arguments)
-            logger.info(f"Step {prefix}2.5: Evaluating Defense Argument...")
-            def_eval = await agents.evaluate_argument(round_case, def_arg, prev_argument_text=f"Prosecution's Argument:\n{pros_arg}")
-            write_log(f"{prefix}2.5. Evaluator (Defense)", agents.eval_model_name, def_eval)
-            
-            # 3 - Prompt Judge
-            logger.info(f"Step {prefix}3: Generating Judge Ruling...")
-            judge_ruling = await agents.generate_judge_ruling(
-                round_case, pros_arg, pros_eval, def_arg, def_eval
-            )
-            write_log(f"{prefix}3. Judge Ruling", agents.judge_model_name, judge_ruling)
+            if round_num == 1:
+                # 1 - Prompt Prosecution
+                logger.info(f"Step {prefix}1: Generating Prosecution Opening Argument...")
+                pros_arg = await agents.generate_prosecution(round_case)
+                write_log(f"{prefix}1. Prosecution Opening Argument", agents.pros_model_name, pros_arg)
+                
+                # 1.5 - Evaluate Prosecution (no previous arguments)
+                logger.info(f"Step {prefix}1.5: Evaluating Prosecution Opening Argument...")
+                pros_eval = await agents.evaluate_argument(round_case, pros_arg, prev_argument_text="None")
+                write_log(f"{prefix}1.5. Evaluator (Prosecution Opening)", agents.eval_model_name, pros_eval)
+                
+                # 2 - Prompt Defense
+                logger.info(f"Step {prefix}2: Generating Defense Opening Argument...")
+                def_arg = await agents.generate_defense(round_case, pros_arg)
+                write_log(f"{prefix}2. Defense Opening Argument", agents.def_model_name, def_arg)
+                
+                # 2.5 - Evaluate Defense (includes past arguments)
+                logger.info(f"Step {prefix}2.5: Evaluating Defense Opening Argument...")
+                def_eval = await agents.evaluate_argument(round_case, def_arg, prev_argument_text=f"Prosecution's Opening Argument:\n{pros_arg}")
+                write_log(f"{prefix}2.5. Evaluator (Defense Opening)", agents.eval_model_name, def_eval)
+                
+                # 3 - Prompt Judge
+                logger.info(f"Step {prefix}3: Generating Preliminary Judge Ruling...")
+                judge_ruling = await agents.generate_judge_ruling(
+                    round_case, pros_arg, pros_eval, def_arg, def_eval
+                )
+                write_log(f"{prefix}3. Preliminary Judge Ruling", agents.judge_model_name, judge_ruling)
+
+            elif round_num == 2:
+                prior_openings = (
+                    f"Prosecution's Opening Argument:\n{prev_pros_arg}\n\n"
+                    f"Defense's Opening Argument:\n{prev_def_arg}\n"
+                )
+
+                # 1 - Prompt Prosecution
+                logger.info(f"Step {prefix}1: Generating Prosecution Rebuttal...")
+                pros_arg = await agents.generate_prosecution_rebuttal(round_case, prev_def_arg)
+                write_log(f"{prefix}1. Prosecution Rebuttal", agents.pros_model_name, pros_arg)
+                
+                # 1.5 - Evaluate Prosecution (no previous arguments)
+                logger.info(f"Step {prefix}1.5: Evaluating Prosecution Rebuttal...")
+                pros_eval = await agents.evaluate_rebuttal(
+                    round_case,
+                    pros_arg,
+                    prev_argument_text=prior_openings,
+                    opposing_argument_text=f"Defense's Opening Argument:\n{prev_def_arg}"
+                )
+                write_log(f"{prefix}1.5. Evaluator (Prosecution Rebuttal)", agents.eval_model_name, pros_eval)
+                
+                # 2 - Prompt Defense
+                logger.info(f"Step {prefix}2: Generating Defense Rebuttal...")
+                def_arg = await agents.generate_defense_rebuttal(round_case, pros_arg)
+                write_log(f"{prefix}2. Defense Rebuttal", agents.def_model_name, def_arg)
+                
+                # 2.5 - Evaluate Defense (includes past arguments)
+                logger.info(f"Step {prefix}2.5: Evaluating Defense Rebuttal...")
+                def_eval = await agents.evaluate_rebuttal(
+                    round_case,
+                    def_arg,
+                    prev_argument_text=f"{prior_openings}\nProsecution's Rebuttal:\n{pros_arg}",
+                    opposing_argument_text=f"Prosecution's Rebuttal:\n{pros_arg}"
+                )
+                write_log(f"{prefix}2.5. Evaluator (Defense Rebuttal)", agents.eval_model_name, def_eval)
+                
+                # 3 - Prompt Judge
+                logger.info(f"Step {prefix}3: Generating Second Judge Ruling...")
+                judge_ruling = await agents.generate_second_judge_ruling(
+                    round_case, pros_arg, pros_eval, def_arg, def_eval
+                )
+                write_log(f"{prefix}3. Second Judge Ruling", agents.judge_model_name, judge_ruling)
+
+            else:
+                prior_arguments = (
+                    f"Prosecution's Opening Argument:\n{rounds[0].get('prosecution_argument', '')}\n\n"
+                    f"Defense's Opening Argument:\n{rounds[0].get('defense_argument', '')}\n"
+                )
+                prior_rebuttals = (
+                    f"Prosecution's Rebuttal:\n{prev_pros_arg}\n\n"
+                    f"Defense's Rebuttal:\n{prev_def_arg}\n"
+                )
+
+                # 1 - Prompt Prosecution
+                logger.info(f"Step {prefix}1: Generating Prosecution Closing Argument...")
+                pros_arg = await agents.generate_prosecution_closing(round_case, prev_def_arg)
+                write_log(f"{prefix}1. Prosecution Closing Argument", agents.pros_model_name, pros_arg)
+                
+                # 1.5 - Evaluate Prosecution (no previous arguments)
+                logger.info(f"Step {prefix}1.5: Evaluating Prosecution Closing Argument...")
+                pros_eval = await agents.evaluate_closing(
+                    round_case,
+                    pros_arg,
+                    prev_argument_text=prior_arguments,
+                    rebuttal_text=prior_rebuttals
+                )
+                write_log(f"{prefix}1.5. Evaluator (Prosecution Closing)", agents.eval_model_name, pros_eval)
+                
+                # 2 - Prompt Defense
+                logger.info(f"Step {prefix}2: Generating Defense Closing Argument...")
+                def_arg = await agents.generate_defense_closing(round_case, pros_arg)
+                write_log(f"{prefix}2. Defense Closing Argument", agents.def_model_name, def_arg)
+                
+                # 2.5 - Evaluate Defense (includes past arguments)
+                logger.info(f"Step {prefix}2.5: Evaluating Defense Closing Argument...")
+                def_eval = await agents.evaluate_closing(
+                    round_case,
+                    def_arg,
+                    prev_argument_text=f"{prior_arguments}\nProsecution's Closing Argument:\n{pros_arg}",
+                    rebuttal_text=prior_rebuttals
+                )
+                write_log(f"{prefix}2.5. Evaluator (Defense Closing)", agents.eval_model_name, def_eval)
+                
+                # 3 - Prompt Judge
+                logger.info(f"Step {prefix}3: Generating Final Judge Ruling...")
+                judge_ruling = await agents.generate_final_judge_ruling(
+                    round_case, pros_arg, pros_eval, def_arg, def_eval
+                )
+                write_log(f"{prefix}3. Final Judge Ruling", agents.judge_model_name, judge_ruling)
 
             # 3.5 - Evaluate Judge (include argument history)
             logger.info(f"Step {prefix}3.5: Evaluating Judge Ruling...")
@@ -122,6 +215,8 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
             })
 
             prev_judge_ruling = judge_ruling
+            prev_pros_arg = pros_arg
+            prev_def_arg = def_arg
 
     logger.info(f"--- Completed CourtArena for Case: {case_name} ---")
     
