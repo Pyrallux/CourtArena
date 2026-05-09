@@ -116,7 +116,7 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
                 pros_arg = await agents.generate_prosecution_rebuttal(round_case, prev_def_arg)
                 write_log(f"{prefix}1. Prosecution Rebuttal", agents.pros_model_name, pros_arg)
                 
-                # 1.5 - Evaluate Prosecution (no previous arguments)
+                # 1.5 - Evaluate Prosecution (with previous arguments)
                 logger.info(f"Step {prefix}1.5: Evaluating Prosecution Rebuttal...")
                 pros_eval = await agents.evaluate_rebuttal(
                     round_case,
@@ -163,7 +163,7 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
                 pros_arg = await agents.generate_prosecution_closing(round_case, prev_def_arg)
                 write_log(f"{prefix}1. Prosecution Closing Argument", agents.pros_model_name, pros_arg)
                 
-                # 1.5 - Evaluate Prosecution (no previous arguments)
+                # 1.5 - Evaluate Prosecution (with previous arguments)
                 logger.info(f"Step {prefix}1.5: Evaluating Prosecution Closing Argument...")
                 pros_eval = await agents.evaluate_closing(
                     round_case,
@@ -247,7 +247,10 @@ async def main():
     with open(case_data_path, "r", encoding="utf-8") as f:
         cases = json.load(f)
 
-    max_cases = min(len(cases), args.max_cases)
+    if args.max_cases == "all":
+        max_cases = len(cases)
+    else:
+        max_cases = min(len(cases), args.max_cases)
     logger.info(f"Loaded {len(cases)} total cases limit. Randomly sampling {max_cases} instances.")
     cases_subset = random.sample(cases, max_cases)
 
