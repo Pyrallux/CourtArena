@@ -227,9 +227,18 @@ async def run_arena_on_case(case: dict, agents: CourtArenaAgents) -> dict:
         "log_file": str(log_file_path)
     }
 
+def _parse_num_cases(value: str):
+    """Parse num-cases argument: either an integer or 'all'."""
+    if value.lower() == "all":
+        return "all"
+    try:
+        return int(value)
+    except ValueError:
+        raise argparse.ArgumentTypeError(f"num-cases must be an integer or 'all', got '{value}'")
+
 async def main():
     parser = argparse.ArgumentParser(description="Run CourtArena Multi-Agent Evaluation")
-    parser.add_argument("--max-cases", type=int, default=3, help="Max cases to evaluate as a batch")
+    parser.add_argument("--num-cases", type=_parse_num_cases, default=3, help="Number of cases to evaluate as a batch (integer or 'all')")
     args = parser.parse_args()
 
     pros_model, def_model, eval_model, judge_model = get_agent_models()
@@ -247,10 +256,10 @@ async def main():
     with open(case_data_path, "r", encoding="utf-8") as f:
         cases = json.load(f)
 
-    if args.max_cases == "all":
+    if args.num_cases == "all":
         max_cases = len(cases)
     else:
-        max_cases = min(len(cases), args.max_cases)
+        max_cases = min(len(cases), args.num_cases)
     logger.info(f"Loaded {len(cases)} total cases limit. Randomly sampling {max_cases} instances.")
     cases_subset = random.sample(cases, max_cases)
 
