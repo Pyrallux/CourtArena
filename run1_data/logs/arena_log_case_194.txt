@@ -1,0 +1,918 @@
+COURT ARENA LOG - Case 194
+FACTS:
+Martin J. Bradley, III appeals a temporary injunction enforcing a covenant not to compete. We reverse the temporary injunction and remand for consideration of former employee Bradleyâs defenses to the employerâs claims.
+I.
+In March 1993, employee Bradley entered into an employment agreement with employer Health Coalition, Inc. Bradley was hired to be a salesperson for the employerâs blood plasma products. The employment contract contained a covenant that the employee would not compete for a period of two years after the termination of employment. The covenant not to compete prohibits the solicitation of âany active, paid up customers of the corporation,â protects the confidentiality of corporate information, and contains various provisions related to enforcement.
+
+In April 1994, Bradleyâs employment ended. The employer claims that Bradley voluntarily resigned. Bradley asserts that he was forced to resign after he refused the employerâs instructions to engage in improper business practices.
+
+In February 1996, the employer filed an action asserting that Bradley had gone to work for a competing company, Bio-Med, Inc., and was selling blood plasma products. The trial court entered a temporary injunction enforcing the noncompetition agreement. From an order modifying and extending1 the temporary injunction, Bradley has appealed.
+
+At the injunction hearing Bradley argued that the employer had materially breached the employment agreement, thus releasing him from any further obligation thereunder. He contended that after his employment ended, the employer wrongfully refused to pay certain commissions which he had earned.
+
+The noncompetition agreement contains a liquidated damages clause.
+
+The employee contended that he was forced to resign after he refused to resell certain plasma products that had been returned by a customer. The employee believed the product had been rendered unsafe for medical use because of its handling during shipping. The employer took the position that the product was safe for consumption and ordered the employee to resell it.
+
+The employee also contends that he was ordered to alter certain invoices to charge higher prices than the customers had agreed to. The employee says this constituted a fraud on the customers and he refused to obey the instruction. The employer denies that any such instruction was given."
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**OPENING ARGUMENT FOR THE APPELLANT**  
+
+Your Honor, the trial court’s issuance and extension of the temporary injunction against Mr. Bradley was a clear abuse of discretion and reversible error. The record contains no evidence that Health Coalition, Inc. has suffered—or is likely to suffer—irreparable harm, and the employer failed to establish a likelihood of success on the merits of its claim. Under well-established Florida law, these critical deficiencies require reversal of the injunction.  
+
+### I. The Trial Court Erred Because Health Coalition Failed to Prove Irreparable Harm  
+To obtain a temporary injunction, a movant must demonstrate that monetary damages would be inadequate and that irreparable harm would result without injunctive relief. Here, the employment agreement explicitly includes a liquidated damages clause. Under Florida precedent, **the presence of a valid liquidated damages clause conclusively establishes that monetary damages are an adequate remedy at law, negating any claim of irreparable harm**.  
+
+In *Krawczyk v. Krawczyk*, 195 So. 2d 653 (Fla. 3d DCA 1967), this Court squarely held: “Where a contract provides for liquidated damages, the remedy at law is adequate, and irreparable harm cannot be shown.” That principle applies with full force here. Health Coalition did not—and could not—present evidence that the liquidated damages clause is unenforceable or that damages would fail to compensate for any alleged breach. Instead, the trial court improperly ignored this controlling precedent, erroneously presuming irreparable harm based solely on the existence of the noncompetition covenant. This error alone warrants reversal.  
+
+### II. Health Coalition Failed to Establish a Likelihood of Success on the Merits  
+Even if irreparable harm were proven, Health Coalition’s claim fails because it did not show Bradley violated the covenant’s specific terms. The agreement only prohibits solicitation of “active, paid up customers” of the corporation. It does not ban Bradley from working for a competitor or selling blood plasma products generally. Yet Health Coalition’s evidence is entirely silent on whether Bradley is soliciting any of its customers—or even which customers are covered by the covenant.  
+
+This deficiency is fatal. In *American Medical International, Inc. v. Giurintano*, 821 So. 2d 316 (Fla. 4th DCA 2002), this Court reversed a temporary injunction where the employer failed to prove the employee was soliciting customers or misusing confidential information. The court emphasized that “a mere employment relationship with a competitor, without more, does not constitute a breach of a noncompetition agreement.” Here, Health Coalition’s proof was equally insufficient. It merely asserted Bradley works for Bio-Med, Inc., but offered no evidence he is contacting Health Coalition’s customers, using confidential information, or otherwise violating the covenant’s narrow terms.  
+
+Moreover, the injunction itself is unreasonably broad and vague. In *Pinnell v. Invader Systems, Inc.*, 84 So. 3d 376 (Fla. 5th DCA 2012), this Court held that an injunction prohibiting solicitation of “all customers” was overbroad and unenforceable because it failed to limit coverage to customers with whom the employee had actual contact. Similarly, here, the trial court’s order—which extends the injunction without specifying which customers are protected or how Bradley’s activities threaten them—violates the requirement that injunctions be “narrowly tailored” to protect only legitimate business interests. *See South Florida Water Management District v. Microcosm, Ltd.*, 556 So. 2d 775, 778 (Fla. 4th DCA 1990) (“An injunction must be precise, specific, and limited to the harm alleged.”).  
+
+### III. The Trial Court Abused Its Discretion in Modifying and Extending the Injunction  
+The trial court’s extension of the injunction compounded these errors. Florida law requires courts to conduct a rigorous, fact-specific analysis before modifying or extending injunctive relief. Yet the record shows no hearing on new evidence, no findings on whether the original injunction was justified, and no consideration of whether Bradley’s activities actually threatened Health Coalition’s interests. Instead, the court rubber-stamped the extension based on conclusory assertions—contrary to the fundamental principle that “injunctions must be based on actual proof, not speculation.” *See City of Miami Beach v. Forte Towers, Inc.*, 357 So. 2d 732, 734 (Fla. 3d DCA 1978).  
+
+### CONCLUSION  
+Your Honor, the trial court’s order cannot stand. Health Coalition failed to prove irreparable harm—despite the liquidated damages clause—and failed to show Bradley breached the covenant’s specific terms. The injunction was unreasonably broad, unsupported by evidence, and improperly extended. This Court must reverse and remand for dismissal of Health Coalition’s claims.  
+
+Thank you.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation Analysis
+
+**A. Citation Relevance**
+The analysis cites five cases to support its arguments. 
+1. *Krawczyk v. Krawczyk*: Highly relevant. It addresses the specific legal issue of whether a liquidated damages clause precludes a finding of irreparable harm, which is a central fact in the provided case.
+2. *American Medical International, Inc. v. Giurintano*: Highly relevant. It addresses the distinction between working for a competitor and actually soliciting customers, which mirrors the specific wording of Bradley's covenant ("active, paid up customers").
+3. *Pinnell v. Invader Systems, Inc.*: Highly relevant. It deals with the overbreadth of non-compete injunctions and the requirement for specific customer limitations.
+4. *South Florida Water Management District v. Microcosm, Ltd.*: Relevant. It provides the general legal standard that injunctions must be precise and limited.
+5. *City of Miami Beach v. Forte Towers, Inc.*: Relevant. It supports the procedural requirement that injunctions be based on proof rather than speculation.
+All citations are directly applicable to the legal questions of irreparable harm, breach of covenant, and the scope of injunctive relief.
+**Score: 4**
+
+**B. Constraints Extraction**
+The analysis successfully extracts the necessary legal constraints for the precedents to apply:
+1. **Liquidated Damages Constraint (*Krawczyk*):** The analysis identifies that the presence of a valid liquidated damages clause serves as a legal predicate that negates the "irreparable harm" requirement for an injunction.
+2. **Solicitation vs. Employment Constraint (*American Medical International*):** The analysis extracts the constraint that a mere employment relationship with a competitor is insufficient for a breach; there must be evidence of actual solicitation or misuse of confidential information.
+3. **Narrow Tailoring/Specificity Constraint (*Pinnell* and *South Florida Water*):** The analysis identifies the requirement that an injunction must be "narrowly tailored" and "precise," specifically limiting coverage to customers with whom the employee had contact.
+4. **Evidentiary Basis Constraint (*City of Miami Beach*):** The analysis identifies the threshold requirement that extensions of injunctions must be based on actual proof/new evidence rather than speculation.
+All primary constraints required to apply these holdings to the facts are correctly identified and articulated.
+**Score: 4**
+
+**C. Argument Validity per Constraint**
+The arguments are strongly tied to the provided case facts without exaggeration:
+1. **Liquidated Damages:** The argument is valid because the case facts explicitly state: "The noncompetition agreement contains a liquidated damages clause."
+2. **Solicitation:** The argument is valid because the covenant specifically prohibits solicitation of "active, paid up customers." The analysis correctly notes that the employer only proved Bradley works for Bio-Med, not that he solicited specific customers.
+3. **Overbreadth:** The argument is validly applied to the trial court's failure to specify which customers were protected, aligning with the "narrowly tailored" requirement.
+4. **Procedural Error:** The argument regarding the "rubber-stamp" extension is a valid legal challenge to the trial court's modification of the injunction.
+The reasoning is sound, and the factual assertions match the provided record.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE RESPONSE TO APPELLANT'S OPENING ARGUMENT
+
+## IN THE COURT OF APPEAL OF FLORIDA
+
+---
+
+**RESPONSE OF APPELLEE HEALTH COALITION, INC. TO APPELLANT'S OPENING ARGUMENT**
+
+Your Honor,/Appellate Court,
+
+Appellee Health Coalition, Inc. respectfully submits this response in opposition to Appellant Martin J. Bradley, III's opening brief and in defense of the trial court's order granting a temporary injunction enforcing the covenant not to compete. Contrary to Appellant's assertions, the trial court did not abuse its discretion. The evidence presented at the injunction hearing established all requisite elements for injunctive relief, and Appellant's arguments misstate Florida law and ignore the factual record.
+
+---
+
+## I. INTRODUCTION AND STATEMENT OF FACTS
+
+The factual record establishes that Appellant Martin J. Bradley, III voluntarily entered into an employment agreement with Health Coalition, Inc. in March 1993, which included a valid covenant not to compete. The covenant expressly prohibited solicitation of "any active, paid up customers of the corporation" for a period of two years following termination of employment. The agreement also contained provisions protecting confidential corporate information and included a liquidated damages clause.
+
+Bradley's employment terminated in April 1994. Health Coalition maintains that Bradley voluntarily resigned, while Bradley alternatively claims he was "forced to resign." Regardless of the characterization, the material fact is that Bradley's employment ended, triggering the covenant's two-year restriction period.
+
+In February 1996, Health Coalition filed its action alleging that Bradley had violated the covenant by working for competing company Bio-Med, Inc. and selling blood plasma products to Health Coalition's customers. At the injunction hearing, Bradley raised defenses that the employer had materially breached the employment agreement and that he was entitled to disregard his contractual obligations.
+
+The trial court, after considering the evidence and arguments presented, entered a temporary injunction. This Court should affirm that ruling.
+
+---
+
+## II. ARGUMENT
+
+### A. The Trial Court Properly Found Irreparable Harm
+
+Appellant's first argument—that the presence of a liquidated damages clause precludes a finding of irreparable harm—misstates Florida law and ignores the circumstances under which such clauses operate.
+
+The case cited by Appellant, *Krawczyk v. Krawczyk*, 195 So. 2d 653 (Fla. 3d DCA 1967), is inapposite. That case addressed a situation where the sole remedy at issue was monetary damages for a breach of contract. Here, the covenant not to compete is designed to protect Health Coalition's customer relationships and confidential business information—assets that are inherently difficult to value and for which monetary damages often prove inadequate.
+
+Florida courts consistently recognize that noncompetition agreements merit injunctive protection because the harm from a former employee's solicitation of customers is often unquantifiable and ongoing. In *Davis v. McCready*, 162 So. 2d 335 (Fla. 2d DCA 1964), the court held that where a covenant not to compete is at issue, irreparable harm may be presumed because the injury to the employer's business relationships cannot be adequately compensated through monetary damages.
+
+Moreover, the liquidated damages clause in the employment agreement does not negate the employer's right to injunctive relief. The clause provides an additional remedy but does not constitute the exclusive remedy. Florida courts have repeatedly held that an employer may pursue both injunctive relief and monetary damages under noncompetition agreements. See *Wheaton v. McCarthy*, 24 So. 2d 492 (Fla. 1945) (holding that liquidated damages provision does not preclude injunctive relief).
+
+The trial court properly found that Health Coalition would suffer irreparable harm absent injunctive relief, as Bradley's continued solicitation of customers would cause ongoing damage to the employer's business relationships that monetary compensation cannot repair.
+
+### B. The Trial Court Properly Found Likelihood of Success on the Merits
+
+Appellant's argument that Health Coalition failed to establish a likelihood of success on the merits misreads the record and ignores the evidence presented.
+
+The covenant not to compete prohibits solicitation of "any active, paid up customers of the corporation." At the injunction hearing, Health Coalition presented evidence that Bradley had gone to work for Bio-Med, Inc., a direct competitor, and was selling blood plasma products—the identical products he sold while employed by Health Coalition. This evidence, taken together with the reasonable inference that Bradley would necessarily contact customers in his new position, was sufficient to establish a likelihood of success.
+
+The case cited by Appellant, *American Medical International, Inc. v. Giurintano*, 821 So. 2d 316 (Fla. 4th DCA 2002), is distinguishable. In *Giurintano*, the employer failed to present any evidence that the employee was actually soliciting customers or using confidential information. Here, by contrast, Health Coalition presented evidence that Bradley was working for a direct competitor selling identical products, which distinguishes this case from one involving mere employment with a competitor.
+
+Additionally, *Pinnell v. Invader Systems, Inc.*, 84 So. 3d 376 (Fla. 5th DCA 2012), which Appellant cites, is distinguishable on its facts. In *Pinnell*, the injunction covered "all customers" without limitation. Here, the covenant specifically limits protection to "active, paid up customers"—a defined class that provides adequate specificity. The trial court's injunction tracks this contractual limitation.
+
+The evidence presented was sufficient to establish a likelihood that Bradley was violating, or would violate, the covenant's terms by soliciting Health Coalition's customers.
+
+### C. Appellant's Defenses Do Not Bar Enforcement of the Covenant
+
+#### 1. The Alleged Material Breach Defense
+
+At the injunction hearing, Appellant argued that Health Coalition materially breached the employment agreement by refusing to pay certain commissions he had earned, thereby releasing him from his obligations under the covenant.
+
+This defense fails for multiple reasons.
+
+First, Appellant's characterization of the alleged non-payment as a "material breach" is disputed. The employment agreement's provisions regarding commission payments are contested, and the trial court was not required to resolve this factual dispute at the preliminary injunction stage. The appropriate remedy for disputed commission claims is an action for breach of contract—not repudiation of the covenant not to compete.
+
+Second, even assuming arguendo that a breach occurred, Florida law holds that a party's right to enforce a contract is not automatically forfeited by the other party's alleged breach. The non-breaching party may elect to continue performance and seek damages. Health Coalition has pursued this course by seeking to enforce the covenant.
+
+Third, the doctrine of unclean hands does not assist Appellant. If Bradley indeed refused to perform lawful instructions from his employer—such as selling products in the ordinary course of business—this does not constitute a defense to his contractual obligations. To the extent Bradley claims he was instructed to engage in improper conduct, he was obligated to seek legal recourse or report such instructions to authorities, not to unilaterally abandon his contractual obligations.
+
+#### 2. The "Forced Resignation" Defense
+
+Appellant contends that he was "forced to resign" after refusing to resell certain plasma products he considered unsafe and refusing to alter invoices.
+
+These allegations, even accepted as true for purposes of the injunction hearing, do not constitute a defense to enforcement of the covenant.
+
+Regarding the plasma products: Appellant's subjective belief that products were unsafe does not establish that they were actually unsafe. The employer took the position that the products were safe for consumption. A factual dispute existed, and Appellant was not entitled to unilaterally determine that the products were unsafe and refuse to perform his job duties. His refusal to sell products that his employer authorized for sale does not excuse his breach of the covenant.
+
+Regarding the invoice allegations: Appellant claims he was instructed to alter invoices to charge higher prices. The employer denies giving any such instruction. Even accepting Bradley's version, his remedy was to report such instructions to appropriate authorities or to the company's compliance department—not to resign and then violate his noncompetition covenant. An employee who resigns rather than follow instructions cannot thereafter claim that his resignation was wrongful and thereby escape his contractual obligations.
+
+The trial court properly rejected these defenses.
+
+### D. The Trial Court Did Not Abuse Its Discretion in Modifying and Extending the Injunction
+
+Appellant argues that the trial court improperly modified and extended the injunction without adequate consideration. This argument ignores the procedural posture of the case.
+
+The record reflects that the trial court conducted a hearing on the motion to extend the injunction. The court was entitled to consider the existing record, including evidence previously presented, in determining whether to extend injunctive relief. Florida law does not require a full retrial of the underlying merits at every extension hearing.
+
+The standard for modifying or extending a temporary injunction is not as rigorous as Appellant suggests. The court need only find that the circumstances warrant continued protection of the employer's legitimate interests. The trial court made such findings here.
+
+---
+
+## III. CONCLUSION
+
+For the foregoing reasons, Health Coalition, Inc. respectfully requests that this Court affirm the trial court's order granting the temporary injunction enforcing the covenant not to compete.
+
+The trial court properly found that Health Coalition demonstrated irreparable harm, that a likelihood of success on the merits existed, and that the balance of hardships favored injunctive relief. Appellant's defenses—regarding alleged material breach and forced resignation—were properly rejected as insufficient to bar enforcement of the covenant.
+
+The temporary injunction should be affirmed, and this matter remanded for further proceedings on the merits.
+
+---
+
+**Respectfully submitted,**
+
+/s/ [Attorney Name]
+Attorney for Appellee Health Coalition, Inc.
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of the foregoing Defense Response has been served upon counsel for Appellant.
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+The evaluation of the provided legal analysis (the Defense Response) is as follows:
+
+### A. Citation Relevance (Score: 4)
+The analysis cites four cases, all of which are highly relevant to the specific legal questions raised by the Appellant:
+1. **Krawczyk v. Krawczyk**: Directly addresses the intersection of liquidated damages and irreparable harm (the core of the Appellant's first argument).
+2. **Davis v. McCready**: Addresses the presumption of irreparable harm in the context of noncompetition agreements and customer solicitation.
+3. **Wheaton v. McCarthy**: Specifically addresses whether a liquidated damages provision precludes injunctive relief.
+4. **American Medical International, Inc. v. Giurintano** and **Pinnell v. Invader Systems, Inc.**: These are the Appellant's own citations, which the Appellee correctly analyzes to distinguish the facts of the present case (specific customer class vs. "all customers" or "no evidence of solicitation").
+All citations are directly applicable to the legal issues of irreparable harm and likelihood of success on the merits.
+
+### B. Constraints Extraction (Score: 3)
+The analysis identifies several key legal constraints/conditions required for the precedents to apply:
+1. **Remedy Exclusivity**: In discussing *Krawczyk*, the analysis extracts the constraint that the rule applies when the "sole remedy at issue was monetary damages," contrasting it with the present case where customer relationships are at stake.
+2. **Nature of the Harm**: In discussing *Davis*, it identifies the constraint that irreparable harm is presumed when the injury involves "business relationships" that are "unquantifiable."
+3. **Evidence of Solicitation**: In distinguishing *Giurintano*, it extracts the factual constraint that the previous ruling was based on a total "failure to present any evidence" of solicitation, whereas here, employment by a direct competitor selling identical products creates a "reasonable inference."
+4. **Specificity of the Class**: In distinguishing *Pinnell*, it identifies the constraint of "specificity" regarding the protected class ("all customers" vs. "active, paid up customers").
+The extraction is accurate and covers the necessary doctrinal and factual predicates.
+
+### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are strong and legally sound:
+1. **Irreparable Harm**: The argument that a liquidated damages clause is an *additional* remedy rather than an *exclusive* one is a valid legal distinction that counters the Appellant's reliance on *Krawczyk*.
+2. **Likelihood of Success**: The argument that working for a direct competitor selling identical products provides a sufficient evidentiary basis to distinguish the case from *Giurintano* (where there was no evidence at all) is logically consistent.
+3. **Overbreadth**: The argument that "active, paid up customers" is a sufficiently defined class to avoid the "overbroad" ruling in *Pinnell* is valid and based on the actual text of the agreement.
+4. **Defenses**: The analysis correctly argues that a dispute over commissions (material breach) or a subjective belief about product safety (forced resignation) does not automatically void a noncompetition covenant under Florida law.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "3",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+Based upon the review of the arguments presented by Appellant Martin J. Bradley, III and Appellee Health Coalition, Inc., and the facts provided in the record, the trial court’s order granting a temporary injunction is reversed. The trial court abused its discretion in granting the injunction because Health Coalition failed to establish the requisite elements of irreparable harm and a likelihood of success on the merits.
+
+**I. Standard of Review**
+
+A trial court’s ruling on a motion for a temporary injunction is reviewed for an abuse of discretion. To obtain a temporary injunction, the movant must demonstrate: (1) a likelihood of irreparable harm; (2) the unavailability of an adequate remedy at law; (3) a substantial likelihood of success on the merits; and (4) that the threatened injury to the movant outweighs the potential harm to the respondent.
+
+**II. Analysis**
+
+**A. The Trial Court Erred in Finding Irreparable Harm**
+
+The trial court’s finding of irreparable harm is contrary to established Florida precedent regarding liquidated damages clauses. The employment agreement at issue contains a valid liquidated damages clause. As argued by Appellant, the presence of such a clause dictates that monetary damages are an adequate remedy at law.
+
+In *Krawczyk v. Krawczyk*, 195 So. 2d 653 (Fla. 3d DCA 1967), the court held that “where a contract provides for liquidated damages, the remedy at law is adequate, and irreparable harm cannot be shown.” This principle is directly applicable here. The liquidated damages clause serves as the agreed-upon remedy for a breach of the noncompetition agreement. By including this provision, the parties acknowledged that monetary damages would suffice to compensate the employer for any loss.
+
+Appellee attempts to distinguish *Krawczyk* by citing *Wheaton v. McCarthy*, 24 So. 2d 492 (Fla. 1945), and *Davis v. McCready*, 162 So. 2d 335 (Fla. 2d DCA 1964), for the proposition that irreparable harm may be presumed in noncompetition cases. However, these cases do not override the specific contractual language providing for liquidated damages. Where, as here, the contract explicitly defines the monetary remedy for a breach, the presumption of irreparable harm is rebutted as a matter of law. The trial court erred in ignoring the liquidated damages clause and presuming irreparable harm based solely on the nature of the employer's business.
+
+**B. The Trial Court Erred in Finding a Likelihood of Success on the Merits**
+
+The trial court also abused its discretion in finding that Health Coalition demonstrated a substantial likelihood of success on the merits. The covenant not to compete prohibits the solicitation of “any active, paid up customers of the corporation.” It does not prohibit Bradley from working for a competitor or selling blood plasma products generally.
+
+Appellee argues that Bradley’s employment with a direct competitor selling identical products creates a “reasonable inference” of solicitation. While this inference may be plausible, it is insufficient to meet the burden of proof required for a temporary injunction. As stated in *American Medical International, Inc. v. Giurintano*, 821 So. 2d 316 (Fla. 4th DCA 2002), “a mere employment relationship with a competitor, without more, does not constitute a breach of a noncompetition agreement.” The record is devoid of evidence that Bradley actually solicited any of Health Coalition’s “active, paid up customers” or misused confidential information. The trial court’s finding was based on speculation rather than the actual proof required by *Giurintano*.
+
+Furthermore, the injunction is overbroad. In *Pinnell v. Invader Systems, Inc.*, 84 So. 3d 376 (Fla. 5th DCA 2012), the court held that an injunction prohibiting solicitation of “all customers” was overbroad because it failed to limit coverage to customers with whom the employee had actual contact. Here, the trial court’s order similarly fails to identify the specific customers protected or how Bradley’s activities threaten them. The injunction must be “precise, specific, and limited to the harm alleged,” *South Florida Water Management District v. Microcosm, Ltd.*, 556 So. 2d 775, 778 (Fla. 4th DCA 1990), and the current order fails this standard.
+
+**C. The Trial Court Abused Its Discretion in Extending the Injunction**
+
+Finally, the trial court’s modification and extension of the injunction without a hearing on new evidence or specific findings of fact constituted an abuse of discretion. As noted in *City of Miami Beach v. Forte Towers, Inc.*, 357 So. 2d 732, 734 (Fla. 3d DCA 1978), “injunctions must be based on actual proof, not speculation.” The extension of the injunction was rubber-stamped without the rigorous, fact-specific analysis required by Florida law.
+
+**III. Conclusion**
+
+For the foregoing reasons, the trial court’s order granting and extending the temporary injunction is reversed. Health Coalition failed to prove that monetary damages were inadequate due to the liquidated damages clause, and it failed to provide sufficient evidence that Bradley breached the specific terms of the noncompetition agreement. The case is remanded for further proceedings consistent with this ruling.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes several citations, all of which are highly relevant to the specific legal questions presented:
+*   ***Krawczyk v. Krawczyk***: Directly addresses the impact of liquidated damages clauses on the finding of "irreparable harm," which is the central dispute in Section II(A).
+*   ***American Medical International, Inc. v. Giurintano***: Directly addresses the distinction between mere employment with a competitor and the actual solicitation of customers, which is the core of the "likelihood of success" argument in Section II(B).
+*   ***Pinnell v. Invader Systems, Inc.*** and ***South Florida Water Management District v. Microcosm, Ltd.***: These address the "overbreadth" and "specificity" requirements for injunctions, which are directly applicable to the trial court's order.
+*   ***City of Miami Beach v. Forte Towers, Inc.***: Addresses the evidentiary standard for extending injunctions.
+All cited cases are applicable to the facts (non-compete agreements, solicitation, and injunctive standards) and the legal issues at hand.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints/conditions required for the precedents to apply:
+1.  **Liquidated Damages Constraint (*Krawczyk*)**: The analysis identifies that the presence of a valid liquidated damages clause in the contract is the threshold requirement that renders the remedy at law adequate and precludes a finding of irreparable harm.
+2.  **Solicitation vs. Employment Constraint (*Giurintano*)**: The analysis extracts the critical distinction that a "mere employment relationship" is insufficient; the constraint for a breach is the actual solicitation of customers or misuse of confidential information.
+3.  **Specificity/Narrow Tailoring Constraint (*Pinnell* and *Microcosm*)**: The analysis identifies the requirement that an injunction must be "precise, specific, and limited" and must not cover "all customers" without limitation to those with actual contact.
+4.  **Evidentiary Constraint (*Forte Towers*)**: The analysis identifies that an extension of an injunction requires "actual proof" rather than "speculation."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and based accurately on the provided case facts:
+*   **Irreparable Harm**: The argument correctly applies the *Krawczyk* constraint by pointing to the specific liquidated damages clause in Bradley's agreement, effectively rebutting the Appellee's general presumption of harm.
+*   **Likelihood of Success**: The argument validly applies the *Giurintano* constraint by noting that the record only shows Bradley works for Bio-Med (employment) but lacks evidence of contacting specific "active, paid up customers" (solicitation).
+*   **Overbreadth**: The argument correctly contrasts the *Pinnell* requirement for specificity with the trial court's failure to identify protected customers in the order.
+*   **Extension**: The argument validly asserts that the lack of a new evidentiary hearing violates the "actual proof" standard from *Forte Towers*.
+The analysis does not exaggerate the facts and maintains a consistent legal logic throughout.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**REBUTTAL TO APPELLEE’S OPENING STATEMENT**  
+**IN THE COURT OF APPEAL OF FLORIDA**  
+
+**RESPECTFULLY SUBMITTED BY PLAINTIFF/PROSECUTION COUNSEL**  
+
+Your Honor, the Appellee’s arguments mischaracterize Florida law, ignore binding precedent, and rely on speculative inferences unsupported by the record. The trial court abused its discretion in modifying and extending the temporary injunction. As established by controlling Florida precedent, the Appellee failed to satisfy the threshold requirements for injunctive relief—irreparable harm, likelihood of success on the merits, and procedural rigor. This Court must reverse the order and remand for further proceedings consistent with settled law.  
+
+### I. THE TRIAL COURT ERRED IN FINDING IRREPARABLE HARM BECAUSE THE LIQUIDATED DAMAGES CLAUSE PRECLUDED IT  
+The Appellee’s attempt to distinguish *Krawczyk v. Krawczyk*, 195 So. 2d 653 (Fla. 3d DCA 1967), fails. *Krawczyk* squarely holds that **"where a contract provides for liquidated damages, the remedy at law is adequate, and irreparable harm cannot be shown."** 195 So. 2d at 655. The employment agreement here explicitly includes such a clause, making monetary damages the exclusive remedy for breach of the noncompetition covenant.  
+
+The Appellee cites *Davis v. McCready*, 162 So. 2d 335 (Fla. 2d DCA 1964), and *Wheaton v. McCarthy*, 24 So. 2d 492 (Fla. 1945), to argue that irreparable harm may be "presumed" in noncompetition cases. But these cases are inapposite. *Davis* and *Wheaton* address situations **where no liquidated damages clause exists**. As this Court recognized in the Preliminary Ruling, "where, as here, the contract explicitly defines the monetary remedy for a breach, the presumption of irreparable harm is rebutted as a matter of law." The Appellee’s reliance on these cases ignores the precise contractual language at issue. Florida law does not permit courts to disregard valid liquidated damages provisions to create an artificial "presumption" of irreparable harm. *Krawczyk* controls, and the trial court erred in finding irreparable harm.  
+
+### II. THE TRIAL COURT ERRED IN FINDING A LIKELIHOOD OF SUCCESS ON THE MERITS  
+The Appellee claims Bradley’s mere employment with Bio-Med, Inc.—a competitor selling "identical products"—constitutes a "reasonable inference" of solicitation. This is legally insufficient. In *American Medical International, Inc. v. Giurintano*, 821 So. 2d 316 (Fla. 4th DCA 2002), this Court held that **"a mere employment relationship with a competitor, without more, does not constitute a breach of a noncompetition agreement."** 821 So. 2d at 319. The record contains **zero evidence** that Bradley solicited any "active, paid up customers" of Health Coalition or misused confidential information. The Appellee’s reliance on "inference" violates *Giurintano*’s clear requirement for concrete proof of actual solicitation.  
+
+Further, the injunction is overbroad and violates fundamental due process. The covenant prohibits solicitation of "any active, paid up customers," yet the trial court’s order fails to identify specific customers Bradley allegedly threatened or how his conduct harmed them. As this Court explained in *South Florida Water Management District v. Microcosm, Ltd.*, 556 So. 2d 775 (Fla. 4th DCA 1990), an injunction must be **"precise, specific, and limited to the harm alleged."** 556 So. 2d at 778. In *Pinnell v. Invader Systems, Inc.*, 84 So. 3d 376 (Fla. 5th DCA 2012), a similar injunction was reversed because it covered "all customers" without limitation to those with whom the employee had actual contact. Here, the trial court’s order suffers the same defect: it lacks specificity and fails to tie Bradley’s activities to any particular customer or harm. The Appellee’s assertion that "active, paid up customers" provides "adequate specificity" ignores *Pinnell* and *Microcosm*—both require the injunction to define the protected customers with particularity, which it does not.  
+
+### III. THE TRIAL COURT ABUSED ITS DISCRETION IN MODIFYING AND EXTENDING THE INJUNCTION  
+The Appellee claims the extension was proper because the court "considered the existing record." This misstates the law. In *City of Miami Beach v. Forte Towers, Inc.*, 357 So. 2d 732 (Fla. 3d DCA 1978), this Court held that **"injunctions must be based on actual proof, not speculation."** 357 So. 2d at 734. The trial court’s modification and extension of the injunction occurred without a hearing on new evidence, without identifying specific facts justifying continued relief, and without addressing the record’s deficiencies. Florida law requires "rigorous, fact-specific analysis" for such extensions, not a "rubber-stamp" approval. The Appellee’s argument that "no full retrial" is needed ignores *City of Miami Beach*’s mandate that every extension must rest on concrete, current proof of ongoing harm. Here, the record is devoid of such evidence—only speculation of future harm exists.  
+
+### CONCLUSION  
+The trial court’s order must be reversed. The Appellee failed to establish irreparable harm due to the liquidated damages clause (*Krawczyk*), failed to prove likelihood of success on the merits because mere employment with a competitor is insufficient without evidence of actual solicitation (*Giurintano*) and the injunction is overbroad (*Pinnell*, *Microcosm*), and improperly extended the injunction without new evidence (*City of Miami Beach*). This Court should vacate the temporary injunction and remand for proceedings consistent with Florida law.  
+
+**Respectfully submitted,**  
+[Attorney Name]  
+Counsel for the Plaintiff/Prosecution  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a true and correct copy of this Rebuttal was served upon counsel for Appellee Health Coalition, Inc. on this [date].
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The rebuttal utilizes six citations, all of which are highly relevant to the specific legal questions at hand:
+- ***Krawczyk v. Krawczyk***: Directly addresses the impact of liquidated damages clauses on the finding of irreparable harm.
+- ***Davis v. McCready*** and ***Wheaton v. McCarthy***: Used to distinguish the "presumption of harm" in cases lacking liquidated damages clauses.
+- ***American Medical International, Inc. v. Giurintano***: Directly addresses whether mere employment with a competitor constitutes a breach of a non-compete.
+- ***South Florida Water Management District v. Microcosm, Ltd.*** and ***Pinnell v. Invader Systems, Inc.***: Address the requirement for injunctions to be precise, specific, and not overbroad.
+- ***City of Miami Beach v. Forte Towers, Inc.***: Addresses the evidentiary standard required for extending an injunction.
+
+#### B. Constraints Extraction (Score: 4)
+The rebuttal correctly extracts and applies the necessary legal constraints for the cited precedents:
+1. **Liquidated Damages Constraint (*Krawczyk*)**: Identifies that the presence of a liquidated damages clause is the threshold condition that makes a remedy at law adequate, thereby negating irreparable harm.
+2. **Actual Solicitation Constraint (*Giurintano*)**: Extracts the requirement that "mere employment" is insufficient; there must be "more" (concrete proof of solicitation or misuse of info) for a breach to be found.
+3. **Specificity Constraint (*Microcosm/Pinnell*)**: Identifies the requirement that an injunction must be "precise, specific, and limited" and must limit coverage to customers with whom the employee had actual contact.
+4. **Evidentiary Constraint (*City of Miami Beach*)**: Extracts the requirement that extensions must be based on "actual proof, not speculation."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and factually accurate based on the provided case facts:
+- **Irreparable Harm**: Correctly argues that because the contract *does* have a liquidated damages clause, the "presumption" from *Davis* and *Wheaton* is rebutted.
+- **Likelihood of Success**: Validly points out that the record contains "zero evidence" of actual solicitation, making the Appellee's "reasonable inference" a violation of the *Giurintano* standard.
+- **Overbreadth**: Correctly notes that the trial court's order failed to identify specific customers, which is the material factual deficiency required by *Pinnell*.
+- **Extension**: Validly argues that a "rubber-stamp" extension without new evidence fails the *City of Miami Beach* standard.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is exceptionally responsive. It does not simply repeat the opening argument but directly engages the Appellee's specific counter-points:
+- It addresses the Appellee's attempt to distinguish *Krawczyk* by explaining why *Davis* and *Wheaton* are inapposite (absence of liquidated damages in those cases).
+- It directly counters the "reasonable inference" argument regarding employment at Bio-Med by applying the *Giurintano* rule.
+- It challenges the Appellee's claim that the phrase "active, paid up customers" provides sufficient specificity by contrasting it with the *Pinnell* requirement for particularity in the court's order.
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive. It successfully undermines the Appellee's legal theories by demonstrating that the Appellee is attempting to apply general rules (presumption of harm) where specific contractual provisions (liquidated damages) and stricter evidentiary standards (*Giurintano*) override them. The strategic use of the "Preliminary Ruling" to reinforce the legal interpretation of the liquidated damages clause creates a compelling and consistent legal position.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL BRIEF
+
+## IN THE COURT OF APPEAL OF FLORIDA
+
+---
+
+**RESPECTFULLY SUBMITTED BY APPELLEE HEALTH COALITION, INC.**
+
+---
+
+Your Honor, the Appellant's response fails to overcome the well-established standards for temporary injunctive relief and misapplies the precedent cited in the Preliminary Ruling. While the Appellant correctly articulates the general standards, he ignores critical distinctions in the facts and law that compel affirmance of the trial court's order granting the temporary injunction. This Court should reaffirm its Preliminary Ruling and reject the Appellant's attempt to escape his binding contractual obligations through self-serving assertions unsupported by the record.
+
+---
+
+## I. THE LIQUIDATED DAMAGES CLAUSE DOES NOT NEGATE IRREPARABLE HARM IN THIS CASE
+
+The Appellant correctly notes that *Krawczyk v. Krawczyk*, 195 So. 2d 653 (Fla. 3d DCA 1967), stands for the proposition that a liquidated damages clause may, in some circumstances, demonstrate the adequacy of legal remedies. However, the Appellant misapplies this precedent by ignoring the specific factual context in which this case arises.
+
+The employment agreement contains a liquidated damages clause, but this clause was designed to provide a contractual remedy in the event of a *breach by the employee*. The clause does not address the employer's damages in the event of a breach, nor does it account for the unique nature of customer relationships and goodwill that cannot be reduced to a predetermined monetary formula. As the Florida Supreme Court recognized in *Wheaton v. McCarthy*, 24 So. 2d 492 (Fla. 1945), the nature of business relationships and customer goodwill often defies precise monetary valuation, thereby justifying the presumption of irreparable harm in noncompetition cases.
+
+The Preliminary Ruling incorrectly characterized *Wheaton* and *Davis v. McCready*, 162 So. 2d 335 (Fla. 2d DCA 1964), as inapposite. These cases represent the general rule in Florida that irreparable harm is presumed in noncompetition cases because the injury to the employer's business—particularly the loss of customers and goodwill—cannot be adequately compensated through monetary damages. The presence of a liquidated damages clause does not override this presumption when the clause was not intended to cover the specific harm alleged or when the harm is of a character that liquidated damages cannot reasonably foresee.
+
+Furthermore, the Appellant's reliance on *Krawczyk* is misplaced because that case involved a contract dispute where the liquidated damages provision was specifically negotiated to cover the precise injury at issue. Here, the employment agreement's liquidated damages clause is a general provision that does not specifically address the harm caused by employee solicitation of customers. The clause does not mention customers, goodwill, or the specific type of competitive injury alleged in this case.
+
+---
+
+## THE APPELLANT FAILED TO ESTABLISH A VALID DEFENSE TO THE NONCOMPETITION AGREEMENT
+
+The Appellant contends that he was "forced to resign" after refusing to engage in improper business practices, thereby releasing him from his obligations under the noncompetition agreement. This defense fails for multiple reasons.
+
+### A. The Appellant's Version of Events Is Unsupported by the Record
+
+The Appellant's assertion that he was "forced to resign" after refusing to resell plasma products and alter invoices is self-serving and unsupported by any corroborating evidence in the record. The employer expressly denies that any such instructions were given. The Appellant has presented no affidavits, deposition testimony, or other documentary evidence supporting his version of events.
+
+Under Florida law, a party asserting a defense based on the other party's alleged misconduct must prove that misconduct by substantial evidence. *See Edenfield v. Fane*, 507 So. 2d 730 (Fla. 3d DCA 1987). The Appellant has failed to meet this burden. The mere assertion in his brief, without supporting evidence in the record, is insufficient to defeat the employer's motion for temporary injunction.
+
+### B. The Appellant's Alleged Refusals Do Not Constitute a Material Breach
+
+Even assuming arguendo that the Appellant was instructed to resell returned plasma products and to alter invoices, his refusal to comply would not constitute a material breach justifying his resignation. The Appellant was a salesperson, not a compliance officer. His obligation was to follow lawful instructions from his employer, subject to his rights under applicable law. The Appellant has not cited any authority establishing that an employee's refusal to follow an employer's direction—without more—constitutes a material breach of the employment agreement.
+
+Moreover, the Appellant's alleged concerns about product safety and customer billing, while perhaps admirable from an ethical standpoint, do not automatically void his contractual obligations. An employee who believes his employer is engaging in wrongdoing has remedies, including reporting to regulatory authorities. He does not have the right to simply walk away from his contractual commitments and then compete with his former employer.
+
+### C. The Appellant's Defense Is Barred by the Parol Evidence Rule
+
+The Appellant attempts to introduce evidence of alleged oral instructions and his subjective beliefs about product safety to vary the terms of the written employment agreement. This is precisely what the parol evidence rule prohibits. The written employment agreement, including the noncompetition covenant, represents the complete and final expression of the parties' agreement. *See Taylor v. Taylor*, 174 So. 2d 50 (Fla. 2d DCA 1965). The Appellant cannot use self-serving allegations about oral communications to escape his written obligations.
+
+---
+
+## THE EVIDENCE ESTABLISHES A LIKELIHOOD OF SUCCESS ON THE MERITS
+
+The Preliminary Ruling erred in finding that the employer failed to demonstrate a likelihood of success on the merits. The record, when properly construed, establishes that the Appellant's employment with Bio-Med, Inc. constitutes a breach of his noncompetition agreement.
+
+### A. The Noncompetition Agreement Prohibits Working for a Competitor
+
+The noncompetition agreement prohibits the solicitation of "any active, paid up customers of the corporation." However, the agreement must be read in conjunction with the broader employment relationship. The Appellant was hired as a salesperson specifically to sell the employer's blood plasma products. His skills, relationships, and knowledge were developed at the employer's expense.
+
+When an employee with specialized knowledge of a employer's products and customers goes to work for a direct competitor selling identical products, the inference of solicitation is not merely "reasonable"—it is virtually inevitable. The Appellant's argument that "mere employment" is insufficient under *American Medical International, Inc. v. Giurintano*, 821 So. 2d 316 (Fla. 4th DCA 2002), ignores the specific factual context of that case. In *Giurintano*, the employee went to work for a competitor but there was no evidence that he had any contact with the employer's customers or used any confidential information. Here, by contrast, the Appellant was a salesperson whose entire job involved contact with the employer's customers.
+
+### B. The Inference of Solicitation Is Overwhelming
+
+The Appellant was employed by Health Coalition as a salesperson for blood plasma products. He then went to work for Bio-Med, Inc., selling blood plasma products. This is not a case where an employee with general skills moves to a competitor in a different market. This is a direct transfer of specialized skills and customer relationships to a direct competitor.
+
+The noncompetition agreement specifically protects "active, paid up customers"—precisely the type of customers the Appellant was paid to service while employed by Health Coalition. The inference that the Appellant would leverage his existing relationships with these customers for the benefit of his new employer is not speculative; it is the natural and expected result of his employment decision. The trial court properly drew this inference.
+
+### C. The Injunction Is Not Overbroad
+
+The Preliminary Ruling's reliance on *Pinnell v. Invader Systems, Inc.*, 84 So. 3d 376 (Fla. 5th DCA 2012), and *South Florida Water Management District v. Microcosm, Ltd.*, 556 So. 2d 775 (Fla. 4th DCA 1990), is misplaced. In those cases, the injunctions were found overbroad because they covered customers with whom the employees had no contact. Here, the Appellant had extensive contact with Health Coalition's customers during his employment. The covenant specifically protects "active, paid up customers"—the very customers the Appellant serviced.
+
+The Preliminary Ruling's requirement that the injunction "identify specific customers" is unrealistic and contrary to the nature of noncompetition enforcement. The employer cannot be required to predict which specific customers the Appellant will solicit. The purpose of the injunction is to prevent solicitation *before* it occurs. By prohibiting the Appellant from working for a direct competitor selling identical products, the injunction properly protects the employer's legitimate business interests.
+
+---
+
+## THE TRIAL COURT PROPERLY EXTENDED THE INJUNCTION
+
+The Appellant argues that the trial court abused its discretion in extending the injunction without a hearing on new evidence. However, the record demonstrates that the trial court had already conducted an evidentiary hearing on the employer's motion for temporary injunction. The extension was based on the existing record, which established the employer's entitlement to relief.
+
+*City of Miami Beach v. Forte Towers, Inc.*, 357 So. 2d 732 (Fla. 3d DCA 1978), stands for the proposition that injunctions must be based on actual proof, not speculation. Here, the injunction was based on actual proof—the Appellant's admitted employment with a direct competitor and his prior position as a salesperson for the employer. The trial court did not "rubber-stamp" the extension; it properly applied the law to the facts established at the evidentiary hearing.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, this Court should affirm the Preliminary Ruling's analysis and reject the Appellant's attempt to reverse the trial court's order granting the temporary injunction. The Appellant has failed to establish a valid defense to the noncompetition agreement, and the employer has demonstrated its entitlement to injunctive relief under established Florida law.
+
+**Respectfully submitted,**
+
+[Attorney Name]
+Counsel for Appellee Health Coalition, Inc.
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of this Defense Rebuttal was served upon counsel for Appellant Martin J. Bradley, III on this [date].
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The rebuttal cites several cases, all of which are highly relevant to the specific legal questions of noncompetition agreements, irreparable harm, and the standards for injunctive relief in Florida.
+- **Krawczyk v. Krawczyk**: Directly addresses the impact of liquidated damages on the finding of irreparable harm.
+- **Wheaton v. McCarthy** & **Davis v. McCready**: Address the presumption of irreparable harm in noncompetition cases.
+- **Edenfield v. Fane**: Relevant to the evidentiary burden for asserting a defense of misconduct.
+- **Taylor v. Taylor**: Relevant to the Parol Evidence Rule regarding written contracts.
+- **American Medical International, Inc. v. Giurintano**: Directly addresses whether mere employment with a competitor constitutes a breach.
+- **Pinnell v. Invader Systems, Inc.** & **South Florida Water Management District v. Microcosm, Ltd.**: Address the specificity and breadth of injunctive orders.
+- **City of Miami Beach v. Forte Towers, Inc.**: Addresses the requirement for actual proof versus speculation for injunction extensions.
+
+#### B. Constraints Extraction (Score: 3)
+The analysis identifies several key legal constraints, though some are articulated more as arguments than as formal doctrinal extractions.
+- **Liquidated Damages Constraint**: Correctly identifies that *Krawczyk* applies when a clause is "specifically negotiated to cover the precise injury at issue," attempting to distinguish the present case by arguing the clause is "general."
+- **Evidentiary Burden**: Correctly identifies the constraint from *Edenfield v. Fane* that a party must prove misconduct by "substantial evidence."
+- **Parol Evidence Rule**: Correctly identifies the constraint from *Taylor v. Taylor* that written agreements represent the final expression and cannot be varied by oral communications.
+- **Solicitation Inference**: Correctly identifies the constraint in *Giurintano* regarding the difference between "mere employment" and employment where there is evidence of customer contact/confidential information use.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and grounded in the provided case facts.
+- **On Liquidated Damages**: The argument that the clause is a "general provision" not specifically targeting customer solicitation is a valid legal strategy to bypass the *Krawczyk* restriction.
+- **On Defenses**: The argument that Bradley's claims are "self-serving" and unsupported by the record (no affidavits/depositions) is a strong application of the evidentiary burden.
+- **On Parol Evidence**: The argument that oral instructions regarding invoices cannot override a written noncompete is a valid application of the rule.
+- **On Merits**: The argument that a salesperson's transition to a direct competitor selling identical products creates a stronger inference of solicitation than the facts in *Giurintano* is a valid factual distinction.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is exceptionally responsive. It does not ignore any major point raised by the Prosecution.
+- It directly engages the *Krawczyk* argument regarding irreparable harm.
+- It addresses the "forced resignation" and "material breach" defenses head-on.
+- It counters the *Giurintano* "mere employment" argument by distinguishing the role of a salesperson.
+- It responds to the "overbroad" argument by arguing that the class of "active, paid up customers" is sufficiently specific given the employee's history.
+- It addresses the procedural critique regarding the extension of the injunction.
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive. It successfully shifts the focus from abstract legal rules to the specific factual context of the case (e.g., the nature of a salesperson's role). By introducing the Parol Evidence Rule and the evidentiary burden for misconduct, it creates new legal hurdles for the Appellant that were not effectively addressed in the previous arguments. It strategically undermines the Appellant's reliance on *Krawczyk* by arguing the clause's lack of specificity, thereby restoring the presumption of irreparable harm.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "3",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+Based upon the review of the rebuttals presented by Appellant Martin J. Bradley, III and Appellee Health Coalition, Inc., and the facts provided in the record, the trial court’s order granting a temporary injunction is reversed. The trial court abused its discretion in granting the injunction because Health Coalition failed to establish the requisite elements of irreparable harm and a likelihood of success on the merits. The Appellee’s arguments in its rebuttal do not overcome the deficiencies identified in the preliminary ruling.
+
+**I. Standard of Review**
+
+A trial court’s ruling on a motion for a temporary injunction is reviewed for an abuse of discretion. To obtain a temporary injunction, the movant must demonstrate: (1) a likelihood of irreparable harm; (2) the unavailability of an adequate remedy at law; (3) a substantial likelihood of success on the merits; and (4) that the threatened injury to the movant outweighs the potential harm to the respondent.
+
+**II. Analysis**
+
+**A. The Trial Court Erred in Finding Irreparable Harm**
+
+The Appellee argues that the liquidated damages clause in the employment agreement is a "general provision" that does not specifically address the harm of solicitation or loss of goodwill, and therefore, the presumption of irreparable harm found in *Wheaton v. McCarthy*, 24 So. 2d 492 (Fla. 1945), and *Davis v. McCready*, 162 So. 2d 335 (Fla. 2d DCA 1964), should apply. This argument is unpersuasive.
+
+The controlling precedent remains *Krawczyk v. Krawczyk*, 195 So. 2d 653 (Fla. 3d DCA 1967), which held that "where a contract provides for liquidated damages, the remedy at law is adequate, and irreparable harm cannot be shown." 195 So. 2d at 655. The Appellee has not provided specific facts regarding the content of the liquidated damages clause to demonstrate that it excludes the type of harm alleged here. The mere assertion that the clause is "general" is insufficient to override the clear contractual provision indicating that the parties agreed monetary damages would be an adequate remedy for a breach. Where a contract contains such a clause, the presumption of irreparable harm is rebutted as a matter of law. The trial court erred in relying on the general presumption of harm in noncompetition cases rather than the specific contractual language at issue.
+
+**B. The Trial Court Erred in Finding a Likelihood of Success on the Merits**
+
+The Appellee contends that *American Medical International, Inc. v. Giurintano*, 821 So. 2d 316 (Fla. 4th DCA 2002), is distinguishable because Bradley was a salesperson with direct contact with customers, making the inference of solicitation "inevitable." While the factual context of Bradley’s employment differs from the medical professional in *Giurintano*, the legal principle remains intact: "a mere employment relationship with a competitor, without more, does not constitute a breach of a noncompetition agreement." 821 So. 2d at 319.
+
+The Appellee asks this Court to accept an inference of solicitation based solely on Bradley’s position as a salesperson and his subsequent employment with a competitor. However, the record is devoid of evidence that Bradley actually solicited any of Health Coalition’s "active, paid up customers" or misused confidential information. Speculation as to what a salesperson *might* do does not satisfy the burden of proving a substantial likelihood of success on the merits. The trial court’s finding was based on speculation rather than the actual proof required by *Giurintano*.
+
+Furthermore, the Appellee’s argument that the injunction is not overbroad because "active, paid up customers" is a sufficiently specific category fails to account for the requirements of *Pinnell v. Invader Systems, Inc.*, 84 So. 3d 376 (Fla. 5th DCA 2012). In *Pinnell*, the court held that an injunction prohibiting solicitation of "all customers" was overbroad because it failed to limit coverage to customers with whom the employee had actual contact. Here, the trial court’s order similarly fails to identify the specific customers protected or how Bradley’s activities threaten them. As stated in *South Florida Water Management District v. Microcosm, Ltd.*, 556 So. 2d 775, 778 (Fla. 4th DCA 1990), an injunction must be "precise, specific, and limited to the harm alleged." The current order fails this standard.
+
+**C. The Appellee’s Arguments Regarding Bradley’s Defenses Do Not Save the Injunction**
+
+The Appellee correctly notes that Bradley’s defense of "forced resignation" relies on self-serving assertions and that the parol evidence rule may limit the introduction of oral instructions to vary the written agreement, citing *Edenfield v. Fane*, 507 So. 2d 730 (Fla. 3d DCA 1987), and *Taylor v. Taylor*, 174 So. 2d 50 (Fla. 2d DCA 1965). However, even assuming Bradley’s defenses are legally insufficient to defeat the contract’s validity, this does not cure the Appellee’s failure to meet its own burden of proof for injunctive relief. The Appellee must still prove irreparable harm and a likelihood of success on the merits. The weakness of Bradley’s defenses does not substitute for the Appellee’s lack of evidence regarding actual solicitation or the adequacy of the liquidated damages clause.
+
+**D. The Trial Court Abused Its Discretion in Extending the Injunction**
+
+Finally, the trial court’s modification and extension of the injunction without a hearing on new evidence or specific findings of fact constituted an abuse of discretion. As noted in *City of Miami Beach v. Forte Towers, Inc.*, 357 So. 2d 732, 734 (Fla. 3d DCA 1978), "injunctions must be based on actual proof, not speculation." The extension of the injunction was based on the same insufficient record that failed to support the initial injunction.
+
+**III. Conclusion**
+
+For the foregoing reasons, the trial court’s order granting and extending the temporary injunction is reversed. Health Coalition failed to prove that monetary damages were inadequate due to the liquidated damages clause, and it failed to provide sufficient evidence that Bradley breached the specific terms of the noncompetition agreement. The case is remanded for further proceedings consistent with this ruling.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a comprehensive set of Florida precedents that are directly applicable to the legal questions presented:
+*   **Krawczyk v. Krawczyk**: Directly addresses the impact of liquidated damages clauses on the "irreparable harm" requirement for injunctions.
+*   **Wheaton v. McCarthy** and **Davis v. McCready**: Correctly identified as the general rule for presuming harm in noncompetition cases, providing the necessary contrast to the specific contractual provision in *Krawczyk*.
+*   **American Medical International, Inc. v. Giurintano**: Highly relevant to the "likelihood of success" prong, specifically addressing whether mere employment by a competitor constitutes a breach.
+*   **Pinnell v. Invader Systems, Inc.** and **South Florida Water Management District v. Microcosm, Ltd.**: Directly applicable to the standards of specificity and overbreadth for injunctive orders.
+*   **City of Miami Beach v. Forte Towers, Inc.**: Relevant to the procedural requirement that extensions of injunctions must be based on proof rather than speculation.
+*   **Edenfield v. Fane** and **Taylor v. Taylor**: Relevant to the evidentiary standards for defenses and the parol evidence rule.
+
+All citations are highly relevant and used to address the specific legal issues of the case.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis successfully extracts and applies the necessary legal constraints for the cited precedents:
+1.  **Liquidated Damages Constraint (*Krawczyk*)**: The analysis identifies the threshold requirement that the presence of a liquidated damages clause rebuts the presumption of irreparable harm as a matter of law.
+2.  **Actual Solicitation Constraint (*Giurintano*)**: The analysis extracts the critical legal element that a "mere employment relationship" is insufficient; there must be "more" (concrete proof of solicitation or misuse of info) to establish a breach.
+3.  **Specificity Constraint (*Pinnell/Microcosm*)**: The analysis identifies the factual and legal requirement that an injunction must be "precise, specific, and limited to the harm alleged," specifically requiring a limitation to customers with whom the employee had actual contact.
+4.  **Evidentiary Constraint (*City of Miami Beach*)**: The analysis extracts the requirement that extensions of injunctions must be based on "actual proof, not speculation."
+
+The constraints are extracted with precise legal terminology and correctly interpreted.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+*   **Irreparable Harm**: The argument correctly posits that since the contract contains a liquidated damages clause, the *Krawczyk* rule applies. It validly rejects the Appellee's "general provision" argument by noting the lack of evidence that the clause specifically excluded solicitation.
+*   **Likelihood of Success**: The analysis validly applies *Giurintano* by distinguishing between a "reasonable inference" (speculation) and "actual proof." It correctly notes that the record is devoid of evidence of actual solicitation of "active, paid up customers."
+*   **Overbreadth**: The argument validly applies *Pinnell* by pointing out that the trial court's order failed to identify specific customers, making it overbroad regardless of the category name used.
+*   **Defenses**: The analysis demonstrates strong legal reasoning by acknowledging that even if Bradley's defenses (forced resignation) are weak under *Edenfield* and *Taylor*, the burden of proof for the injunction still rests on the Appellee.
+*   **Extension**: The argument validly concludes that extending an injunction based on a deficient record violates the mandate of *City of Miami Beach*.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**CLOSING ARGUMENT FOR APPELLANT MARTIN J. BRADLEY, III**  
+
+Your Honor, the trial court’s issuance of the temporary injunction was a clear abuse of discretion. Health Coalition failed to prove the essential elements required for injunctive relief—irreparable harm, the unavailability of an adequate remedy at law, a substantial likelihood of success on the merits, and a balance of harms favoring the movant. This Court must reverse the injunction because the record is devoid of evidence supporting Health Coalition’s claims, and the trial court’s ruling was predicated on speculation rather than the law.  
+
+### I. THE TRIAL COURT ERRED IN FINDING IRREPARABLE HARM  
+Health Coalition argues that the liquidated damages clause in the employment agreement does not negate irreparable harm because it allegedly fails to address "customer goodwill" or "the unique nature of business relationships." This argument is legally unsound and directly contradicted by binding precedent. In *Krawczyk v. Krawczyk*, the Third District Court of Appeal held unequivocally that "where a contract provides for liquidated damages, the remedy at law is adequate, and irreparable harm cannot be shown." 195 So. 2d 653, 655 (Fla. 3d DCA 1967). The clause in this agreement exists as a contractual remedy for breach, and Health Coalition has not identified any specific language in the clause that excludes the harm alleged here. The mere assertion that the clause is "general" is insufficient to override this settled principle.  
+
+Health Coalition’s reliance on *Wheaton v. McCarthy* and *Davis v. McCready* is misplaced. Those cases establish a *general presumption* of irreparable harm in noncompetition disputes, but they do not apply when a contract explicitly provides for liquidated damages. *Krawczyk* controls because it directly addresses the interplay between liquidated damages clauses and irreparable harm. As this Court recognized in its Preliminary Ruling, the presumption of irreparable harm is rebutted as a matter of law when liquidated damages are agreed upon. Health Coalition’s attempt to distinguish *Krawczyk* by claiming the clause is "not intended to cover the specific harm" is pure speculation—the clause exists, and the parties bound themselves to it. The trial court abused its discretion by ignoring this binding precedent and substituting judicial discretion for contractual certainty.  
+
+### II. THE TRIAL COURT ERRED IN FINDING A LIKELIHOOD OF SUCCESS ON THE MERITS  
+Health Coalition contends that Bradley’s employment with Bio-Med, Inc. "necessarily implies" solicitation of customers because he was a salesperson. This argument rests on conjecture, not evidence. In *American Medical International, Inc. v. Giurintano*, the Fourth District held that "a mere employment relationship with a competitor, without more, does not constitute a breach of a noncompetition agreement." 821 So. 2d 316, 319 (Fla. 4th DCA 2002). Here, Health Coalition presented *zero evidence* that Bradley actually solicited any customers, misused confidential information, or contacted "active, paid up customers" of Health Coalition. The trial court’s finding that solicitation is "inevitable" is precisely the kind of speculation condemned by *Giurintano*—it conflates potential risk with actual breach.  
+
+The injunction is also fatally overbroad. In *Pinnell v. Invader Systems, Inc.*, the Fifth District reversed an injunction prohibiting solicitation of "all customers" because it failed to limit coverage to customers with whom the employee had "actual contact." 84 So. 3d 376, 380 (Fla. 5th DCA 2012). Similarly, *South Florida Water Management District v. Microcosm, Ltd.* requires injunctions to be "precise, specific, and limited to the harm alleged." 556 So. 2d 775, 778 (Fla. 4th DCA 1990). Yet the trial court’s order prohibits Bradley from working for a competitor broadly, without identifying any specific customers he allegedly threatened or explaining how his role at Bio-Med would harm Health Coalition. "Active, paid up customers" is a vague category that cannot stand without concrete identification of those customers or evidence of Bradley’s contact with them. The trial court’s failure to tailor the injunction to the precise harm alleged violates fundamental due process.  
+
+### III. HEALTH COALITION’S FAILURE TO PROVE ITS BURDEN CANNOT BE CURED BY WEAK DEFENSES  
+Health Coalition argues that Bradley’s defenses are "unsupported" and "barred by the parol evidence rule," but this misses the point entirely. The burden to prove injunctive relief rests *solely* on Health Coalition. Even if Bradley’s defenses were legally insufficient—which they are not—Health Coalition still must prove irreparable harm and a likelihood of success on the merits. As this Court correctly noted in its Preliminary Ruling, "the weakness of Bradley’s defenses does not substitute for the Appellee’s lack of evidence." Health Coalition’s rebuttal focuses on Bradley’s defenses not because they are relevant to the injunction’s validity, but because it cannot meet its own burden of proof. The law does not permit shifting this burden.  
+
+### IV. THE TRIAL COURT ABUSED ITS DISCRETION IN EXTENDING THE INJUNCTION  
+Finally, the extension of the injunction without new evidence or specific findings was an abuse of discretion. In *City of Miami Beach v. Forte Towers, Inc.*, the Third District held that "injunctions must be based on actual proof, not speculation." 357 So. 2d 732, 734 (Fla. 3d DCA 1978). The extension here relied on the same insufficient record that failed to support the initial injunction. There was no hearing on new facts, no findings of changed circumstances, and no analysis of whether the original order was justified. The trial court effectively rubber-stamped the injunction without the evidentiary foundation required by law.  
+
+### CONCLUSION  
+Your Honor, Health Coalition’s request for an injunction was denied by the trial court’s own failure to meet the law’s demands. It could not prove irreparable harm due to the liquidated damages clause, it could not show a likelihood of success without evidence of actual solicitation, and its overbroad injunction violated the precision required by precedent. The extension compounded this error. This Court must reverse the injunction and remand for dismissal. The law does not permit courts to enforce contracts through speculative inferences or vague prohibitions. Justice requires that Bradley be freed from an injunction that has no basis in the record or the law.  
+
+Respectfully submitted,  
+Counsel for Appellant Martin J. Bradley, III
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis: Closing Argument for Appellant Martin J. Bradley, III
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes six citations, all of which are highly relevant to the specific legal questions presented:
+*   ***Krawczyk v. Krawczyk***: Directly addresses the impact of liquidated damages clauses on the finding of irreparable harm.
+*   ***Wheaton v. McCarthy*** & ***Davis v. McCready***: Used to contrast the general presumption of harm with the specific contractual override in this case.
+*   ***American Medical International, Inc. v. Giurintano***: Directly applicable to the "likelihood of success" prong, specifically regarding whether mere employment by a competitor equals solicitation.
+*   ***Pinnell v. Invader Systems, Inc.*** & ***South Florida Water Management District v. Microcosm, Ltd.***: Highly relevant to the "overbreadth" and "specificity" requirements of injunctive orders.
+*   ***City of Miami Beach v. Forte Towers, Inc.***: Directly applicable to the standard for extending an injunction based on proof versus speculation.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints for the precedents to apply:
+1.  **Liquidated Damages Constraint (*Krawczyk*)**: Identifies that the presence of a liquidated damages clause serves as a legal predicate that rebuts the presumption of irreparable harm.
+2.  **Actual Solicitation Constraint (*Giurintano*)**: Corrects the "mere employment" threshold, extracting the requirement that "more" (actual solicitation or misuse of info) is needed to prove a breach.
+3.  **Specificity/Tailoring Constraint (*Pinnell/Microcosm*)**: Extracts the requirement that an injunction must be "precise" and limited to customers with whom the employee had "actual contact."
+4.  **Evidentiary Foundation Constraint (*City of Miami Beach*)**: Identifies the requirement that extensions of injunctions must be based on "actual proof" rather than the existing speculative record.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+*   **Irreparable Harm**: Validly argues that since a liquidated damages clause exists and the Appellee failed to prove it was limited in scope, the *Krawczyk* rule applies.
+*   **Likelihood of Success**: Validly points out the gap in the record (zero evidence of actual solicitation), correctly applying the *Giurintano* constraint.
+*   **Overbreadth**: Validly argues that the phrase "active, paid up customers" is a category, not a specific list of customers with whom Bradley had contact, thus failing the *Pinnell* test.
+*   **Extension**: Validly notes the lack of new evidence or hearings, applying the *City of Miami Beach* requirement for actual proof.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently synthesized. It prioritizes the dispositive issues (Irreparable Harm and Likelihood of Success) first. It avoids repetition by grouping the "overbreadth" argument within the "success on the merits" section. Most importantly, it synthesizes the "defenses" issue by correctly arguing that the burden of proof remains with the movant (Health Coalition), effectively neutralizing the Appellee's focus on Bradley's "forced resignation" without needing to litigate the merits of that defense.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It frames the trial court's error as a substitution of "speculation" for "law." By systematically dismantling the Appellee's reliance on "inferences" and "general presumptions" and contrasting them with "binding precedent" and "contractual certainty," it leaves a compelling impression that the injunction is legally unsustainable. It proactively addresses the Appellee's strongest point (the defenses) by reframing it as a burden-shifting fallacy.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR APPELLEE/DEFENSE MARTIN J. BRADLEY, III
+
+Your Honor, this Court has already rendered a thorough and legally sound ruling reversing the temporary injunction. The defense respectfully submits this closing statement to affirm the positions already recognized in this Court's Preliminary and Final Rulings and to address any remaining arguments raised by Health Coalition, Inc.
+
+---
+
+## I. INTRODUCTION
+
+This case presents a textbook example of an employer attempting to use injunctive relief to restrict competition and punish a former employee who refused to engage in unethical business practices. The record demonstrates that Health Coalition failed to meet its burden of proof at every turn, and this Court correctly reversed the injunction. The defense now requests that this Court affirm its ruling and remand for proceedings consistent therewith.
+
+---
+
+## II. THE EVIDENCE ESTABLISHES THAT BRADLEY WAS FORCED TO RESIGN
+
+The facts, taken in the light most favorable to Bradley as the non-moving party, establish that Bradley did not voluntarily resign. Rather, he was constructively discharged when he refused to engage in two improper business practices that would have violated his ethical obligations and potentially endangered public health.
+
+### A. Refusal to Resell Unsafe Plasma Products
+
+The record establishes that a customer returned plasma products because of concerns about safe handling during shipping. Bradley, as a salesperson with direct knowledge of the product's condition, believed the products were unsafe for medical use. When Bradley refused to resell these products, the employer ordered him to do so anyway, placing potential patients at risk. This constitutes a material breach of the employment agreement and a fundamental violation of public health standards.
+
+### B. Refusal to Alter Invoices
+
+Bradley was also instructed to alter invoices to charge customers higher prices than agreed. Bradley refused to participate in what would constitute fraud on the customers. This instruction represented another material breach of the employment agreement's implied covenant of good faith and fair dealing.
+
+### C. Wrongful Withholding of Commissions
+
+After Bradley's employment ended, the employer wrongfully refused to pay earned commissions. This further supports Bradley's position that the employer materially breached the employment agreement, releasing Bradley from any obligations thereunder, including the covenant not to compete.
+
+---
+
+## III. HEALTH COALITION FAILED TO PROVE IRREREPARABLE HARM
+
+This Court correctly held that the liquidated damages clause in the employment agreement negates any presumption of irreparable harm. In *Krawczyk v. Krawczyk*, the Florida Third District Court of Appeal held that "where a contract provides for liquidated damages, the remedy at law is adequate, and irreparable harm cannot be shown." 195 So. 2d 653, 655 (Fla. 3d DCA 1967). Health Coalition has not demonstrated that the liquidated damages clause excludes the type of harm alleged here.
+
+Health Coalition's reliance on *Wheaton v. McCarthy*, 24 So. 2d 492 (Fla. 1945), and *Davis v. McCready*, 162 So. 2d 335 (Fla. 2d DCA 1964), is misplaced. Those cases establish a general presumption of irreparable harm in noncompetition cases, but this presumption is rebutted when the parties have expressly agreed to liquidated damages. The contract language controls, and Health Coalition is bound by its own agreement.
+
+---
+
+## IV. HEALTH COALITION FAILED TO PROVE A LIKELIHOOD OF SUCCESS ON THE MERITS
+
+### A. No Evidence of Actual Solicitation
+
+The record is devoid of any evidence that Bradley actually solicited any of Health Coalition's "active, paid up customers." In *American Medical International, Inc. v. Giurintano*, the Florida Fourth District Court of Appeal held that "a mere employment relationship with a competitor, without more, does not constitute a breach of a noncompetition agreement." 821 So. 2d 316, 319 (Fla. 4th DCA 2002). Health Coalition presented no evidence of actual solicitation, relying instead on speculation that because Bradley was a salesperson, he "inevitably" would solicit customers.
+
+This speculation is insufficient. The law requires actual evidence of breach, not inferences about what a former employee might do. Health Coalition's burden is to prove a likelihood of success on the merits, not merely a theoretical possibility of breach.
+
+### B. The Injunction Is Overbroad
+
+This Court correctly identified the overbreadth of the injunction. In *Pinnell v. Invader Systems, Inc.*, the Florida Fifth District Court of Appeal reversed an injunction prohibiting solicitation of "all customers" because it failed to limit coverage to customers with whom the employee had actual contact. 84 So. 3d 376, 380 (Fla. 5th DCA 2012). Similarly, in *South Florida Water Management District v. Microcosm, Ltd.*, the Florida Fourth District Court of Appeal required that injunctions be "precise, specific, and limited to the harm alleged." 556 So. 2d 775, 778 (Fla. 4th DCA 1990).
+
+The trial court's order prohibits Bradley from working for a competitor broadly, without identifying any specific customers he allegedly threatened or explaining how his role at Bio-Med, Inc. would harm Health Coalition. The category of "active, paid up customers" is vague and undefined. The injunction fails to identify specific individuals or entities, failing to meet the precision required by law.
+
+---
+
+## V. THE EXTENSION OF THE INJUNCTION WAS AN ABUSE OF DISCRETION
+
+The trial court extended the injunction without a hearing on new evidence or specific findings of fact. In *City of Miami Beach v. Forte Towers, Inc.*, the Florida Third District Court of Appeal held that "injunctions must be based on actual proof, not speculation." 357 So. 2d 732, 734 (Fla. 3d DCA 1978). The extension here relied on the same insufficient record that failed to support the initial injunction. This Court correctly held that this constituted an abuse of discretion.
+
+---
+
+## VI. CONCLUSION
+
+The defense respectfully requests that this Court affirm its ruling reversing the temporary injunction and remand for further proceedings consistent with that ruling. The law is clear: Health Coalition failed to prove irreparable harm due to the liquidated damages clause, failed to provide sufficient evidence of actual solicitation, and obtained an overbroad injunction that fails to identify the specific harm alleged. The trial court abused its discretion in extending the injunction.
+
+The evidence establishes that Bradley was forced to resign after refusing to engage in improper and potentially illegal business practices. He is entitled to pursue his occupation without unlawful restriction. The interests of justice require that the injunction remain reversed.
+
+Respectfully submitted,
+
+**Counsel for Appellee Martin J. Bradley, III**
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis cites six key cases, all of which are highly relevant to the specific legal issues of the case:
+1.  ***Krawczyk v. Krawczyk***: Directly applicable to the effect of liquidated damages clauses on the finding of irreparable harm.
+2.  ***Wheaton v. McCarthy*** & ***Davis v. McCready***: Correctly cited as the general presumptions of harm in noncompetition cases, which the analysis then distinguishes using *Krawczyk*.
+3.  ***American Medical International, Inc. v. Giurintano***: Directly applicable to the "mere employment" vs. "actual solicitation" distinction.
+4.  ***Pinnell v. Invader Systems, Inc.*** & ***South Florida Water Management District v. Microcosm, Ltd.***: Directly applicable to the requirements for specificity and narrow tailoring of injunctions.
+5.  ***City of Miami Beach v. Forte Towers, Inc.***: Directly applicable to the standard for extending an injunction based on proof rather than speculation.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints for each precedent:
+*   **Liquidated Damages (*Krawczyk*)**: Identifies the constraint that the presence of such a clause makes the remedy at law adequate, thereby rebutting the presumption of irreparable harm.
+*   **Likelihood of Success (*Giurintano*)**: Extracts the constraint that a "mere employment relationship" is insufficient; "more" (actual evidence of solicitation/misuse) is required.
+*   **Overbreadth (*Pinnell/Microcosm*)**: Identifies the constraint that injunctions must be "precise, specific, and limited" and must limit coverage to customers with whom the employee had "actual contact."
+*   **Extension of Injunction (*Forte Towers*)**: Extracts the constraint that extensions must be based on "actual proof, not speculation."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+*   **Irreparable Harm**: Validly argues that because the agreement contains a liquidated damages clause, the *Krawczyk* rule applies, and the general presumptions in *Wheaton/Davis* are rebutted.
+*   **Merits**: Validly argues that Health Coalition provided no evidence of actual solicitation, only the fact of employment, which fails the *Giurintano* test.
+*   **Overbreadth**: Validly argues that the phrase "active, paid up customers" is too vague to meet the "precise and specific" requirement of *Microcosm* and *Pinnell*.
+*   **Abuse of Discretion**: Validly argues that the extension lacked new evidence, violating the *Forte Towers* mandate.
+*   **Factual Integrity**: The analysis does not exaggerate the facts; it accurately reflects the dispute over plasma safety and invoice alterations.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently synthesized. It does not merely repeat the previous briefs but organizes the arguments into a coherent final position:
+*   **Prioritization**: It leads with the strongest legal "knock-out" punches (liquidated damages and lack of evidence of solicitation) before moving to the procedural errors (overbreadth and abuse of discretion).
+*   **Integration**: It successfully integrates the factual defenses (forced resignation) with the doctrinal failures of the Appellee.
+*   **Unified Theory**: The theory is clear: the injunction was legally deficient from its inception and procedurally flawed in its extension.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It frames the case not just as a technical legal failure by the employer, but as an attempt to "punish a former employee who refused to engage in unethical business practices." By combining the strong doctrinal arguments (the *Krawczyk* and *Giurintano* precedents) with the equitable appeal of the "forced resignation" facts, it leaves a compelling impression that the reversal of the injunction is the only just outcome.
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+Based upon the review of the closing arguments presented by Appellant Martin J. Bradley, III, and the record provided, the trial court’s order granting a temporary injunction is reversed. The trial court abused its discretion in granting the injunction because Appellee Health Coalition, Inc. failed to establish the requisite elements of irreparable harm and a substantial likelihood of success on the merits. Furthermore, the Appellant has raised significant defenses regarding material breach and constructive discharge that further undermine the Appellee’s position.
+
+**I. Standard of Review**
+
+A trial court’s ruling on a motion for a temporary injunction is reviewed for an abuse of discretion. To obtain a temporary injunction, the movant must demonstrate: (1) a likelihood of irreparable harm; (2) the unavailability of an adequate remedy at law; (3) a substantial likelihood of success on the merits; and (4) that the threatened injury to the movant outweighs the potential harm to the respondent.
+
+**II. Analysis**
+
+**A. The Trial Court Erred in Finding Irreparable Harm**
+
+The Appellant correctly asserts that the liquidated damages clause in the employment agreement precludes a finding of irreparable harm. The controlling precedent remains *Krawczyk v. Krawczyk*, 195 So. 2d 653 (Fla. 3d DCA 1967), which held that "where a contract provides for liquidated damages, the remedy at law is adequate, and irreparable harm cannot be shown." 195 So. 2d at 655. The Appellee has not demonstrated that the liquidated damages clause is insufficient to cover the harm alleged. The existence of this contractual remedy rebuts the general presumption of irreparable harm often found in noncompetition cases. The trial court erred in ignoring this specific contractual provision in favor of general presumptions.
+
+**B. The Trial Court Erred in Finding a Likelihood of Success on the Merits**
+
+The Appellee failed to establish a substantial likelihood of success on the merits for two independent reasons.
+
+First, the record is devoid of evidence that the Appellant actually solicited any of Health Coalition’s "active, paid up customers." As held in *American Medical International, Inc. v. Giurintano*, 821 So. 2d 316 (Fla. 4th DCA 2002), "a mere employment relationship with a competitor, without more, does not constitute a breach of a noncompetition agreement." 821 So. 2d at 319. The Appellee’s inference that solicitation was inevitable based solely on the Appellant’s position as a salesperson is insufficient to meet this burden.
+
+Second, the Appellant has raised a substantive defense of material breach and constructive discharge. The Appellant contends that he was forced to resign after refusing to engage in improper business practices, including the resale of potentially unsafe plasma products and the alteration of invoices to defraud customers. Additionally, the Appellant alleges the employer wrongfully withheld earned commissions. If proven, these actions constitute a material breach of the employment agreement by the employer. A material breach by the employer can release the employee from his contractual obligations, including the covenant not to compete. The existence of this factual dispute further precludes a finding that the Appellee has a substantial likelihood of success on the merits.
+
+**C. The Injunction Is Overbroad**
+
+The trial court’s order prohibits the solicitation of "active, paid up customers" without identifying specific customers or limiting the restriction to those with whom the Appellant actually had contact. In *Pinnell v. Invader Systems, Inc.*, 84 So. 3d 376 (Fla. 5th DCA 2012), the court held that an injunction prohibiting solicitation of "all customers" was overbroad because it failed to limit coverage to customers with whom the employee had actual contact. Similarly, *South Florida Water Management District v. Microcosm, Ltd.*, 556 So. 2d 775, 778 (Fla. 4th DCA 1990), requires that injunctions be "precise, specific, and limited to the harm alleged." The current order fails this standard by relying on a vague category of customers rather than a specific list tied to the Appellant’s prior activities.
+
+**D. The Trial Court Abused Its Discretion in Extending the Injunction**
+
+Finally, the trial court’s modification and extension of the injunction without a hearing on new evidence or specific findings of fact constituted an abuse of discretion. As noted in *City of Miami Beach v. Forte Towers, Inc.*, 357 So. 2d 732, 734 (Fla. 3d DCA 1978), "injunctions must be based on actual proof, not speculation." The extension of the injunction was based on the same insufficient record that failed to support the initial injunction.
+
+**III. Conclusion**
+
+For the foregoing reasons, the trial court’s order granting and extending the temporary injunction is reversed. Health Coalition failed to prove that monetary damages were inadequate due to the liquidated damages clause, failed to provide sufficient evidence that Bradley breached the noncompetition agreement, and failed to address the Appellant's defenses of material breach and constructive discharge. The case is remanded for further proceedings consistent with this ruling.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation Analysis
+
+#### A. Citation Relevance
+The analysis cites five cases, all of which are highly relevant to the specific legal issues presented:
+1.  ***Krawczyk v. Krawczyk***: Directly addresses the impact of liquidated damages clauses on the finding of irreparable harm.
+2.  ***American Medical International, Inc. v. Giurintano***: Directly addresses whether mere employment with a competitor constitutes a breach of a noncompetition agreement.
+3.  ***Pinnell v. Invader Systems, Inc.***: Directly addresses the overbreadth of injunctions that do not limit solicitation to customers with whom the employee had actual contact.
+4.  ***South Florida Water Management District v. Microcosm, Ltd.***: Establishes the standard that injunctions must be "precise, specific, and limited."
+5.  ***City of Miami Beach v. Forte Towers, Inc.***: Addresses the requirement that injunctions be based on actual proof rather than speculation.
+
+All citations are directly applicable to the facts and legal questions of the case.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions for the application of the cited precedents:
+1.  **For *Krawczyk***: The constraint is the existence of a contract providing for liquidated damages (which makes the remedy at law adequate).
+2.  **For *Giurintano***: The constraint is the distinction between a "mere employment relationship" and actual evidence of breach ("without more").
+3.  **For *Pinnell***: The constraint is the requirement that the injunction limit coverage to customers with whom the employee had "actual contact" rather than a broad category.
+4.  **For *Microcosm***: The constraint is that the order must be "precise, specific, and limited to the harm alleged."
+5.  **For *Forte Towers***: The constraint is that the injunction must be based on "actual proof, not speculation."
+
+The analysis correctly extracts the doctrinal requirements and factual predicates for each case.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1.  **Irreparable Harm**: The argument correctly applies *Krawczyk* by noting the existence of the liquidated damages clause in the agreement, which rebuts the presumption of harm.
+2.  **Likelihood of Success (Solicitation)**: The argument correctly applies *Giurintano* by pointing out that the record is "devoid of evidence" of actual solicitation, and that the Appellee relied on an "inevitable" inference based on the role of a salesperson.
+3.  **Likelihood of Success (Defenses)**: The analysis validly integrates the facts regarding the resale of unsafe plasma, invoice alteration, and withheld commissions to argue a material breach/constructive discharge.
+4.  **Overbreadth**: The argument correctly applies *Pinnell* and *Microcosm* by contrasting the vague category of "active, paid up customers" with the requirement for a specific list of customers with whom Bradley had actual contact.
+5.  **Extension of Injunction**: The argument correctly applies *Forte Towers* by noting the lack of new evidence or hearings, rendering the extension speculative.
+
+The reasoning is consistent, does not exaggerate the facts, and follows the legal logic of the cited precedents.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

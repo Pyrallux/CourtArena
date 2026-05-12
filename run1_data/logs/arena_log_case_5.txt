@@ -1,0 +1,964 @@
+COURT ARENA LOG - Case 5
+FACTS:
+The State of Hawaii appeals a circuit court order granting a motion to suppress evidence filed by defendant David A. Haili before trial. Defendant was charged with possession of prohibited firearm in violation of Hawaii Revised Statutes § 134-8 (1976).
+
+At approximately 10:30 p.m. on May 5, 1979, a security guard posted at the Kapaa Quarry  immediately reported the incident to the police . The guard furnished no other information.
+
+A police bulletin of the incident was broadcasted. Within minutes, Officer Charles Davis was at the designated portion of the freeway and stood with his rifle at the chain link fence which serves to barricade the uncompleted end of the freeway. A few minutes later, Officer Davis observed a car travelling at a reasonable speed on the uncompleted freeway approaching with headlights on. He stopped the car. From a distance of sixty feet, he ordered the four occupants out of the car. Each immediately complied except Defendant Haili, who was leaning over and watching the officer. The officer raised his rifle and repeated his command. This time defendant obeyed, after causing a delay of five seconds.
+
+At this point, additional officers arrived and they conducted a “pat down” of the four occupants. The four then sat on the ground and were guarded by one officer. The other officers scanned the interior of the car with a flashlight and spotted a .22-caliber rifle casing on the front floor. They also saw a black case on the rear floor partially concealed by the front seat. Upon pushing the front seat forward, the officers saw a ukulele case, unlatched although the cover was down. Officer Davis opened the case and found a modified rifle and plastic boxes containing .22-caliber rifle ammunition.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honor, the State of Hawaii respectfully submits that the circuit court erred in suppressing the evidence obtained during the lawful search of the defendant's vehicle. The warrantless scanning of the vehicle's interior with a flashlight was constitutionally permissible under the Fourth Amendment, and the totality of circumstances known to Officer Davis at the time established probable cause to believe a crime was being committed. The evidence seized—including a modified rifle and ammunition—must be admitted, as the officers acted within the bounds of established constitutional principles.
+
+First, the officers' use of a flashlight to scan the vehicle's interior was not a search requiring a warrant. As this Court has consistently held, when an officer is lawfully positioned outside a vehicle and uses a flashlight to illuminate the interior for the purpose of observing what is visible from outside, it does not constitute a Fourth Amendment search. In *New York v. Class*, 475 U.S. 106, 115–16 (1986), the Supreme Court explicitly rejected the notion that such conduct intrudes on any reasonable expectation of privacy, stating: "The officer's observation of the interior of the vehicle from outside the vehicle, even with the aid of a flashlight, does not constitute a search under the Fourth Amendment." Here, Officer Davis was lawfully present at the scene of a reported incident, observing the vehicle from a distance of sixty feet while standing at the chain-link fence barricading the uncompleted freeway. His use of a flashlight to illuminate the interior—revealing a .22-caliber rifle casing on the front floor—was a mere enhancement of his ability to see what was already exposed to public view. No constitutional violation occurred.
+
+Second, the facts known to the officers at the time of the stop and scan established probable cause under the totality-of-circumstances test. Probable cause exists when "the facts and circumstances within the officer's knowledge... are sufficient to warrant a prudent person in believing that the suspect has committed or is committing an offense." *Illinois v. Gates*, 462 U.S. 213, 238 (1983). Here, multiple objective factors converged to create reasonable suspicion of criminal activity: (1) the security guard reported an incident at the Kapaa Quarry, prompting a police bulletin that directed officers to the uncompleted freeway; (2) the defendant's vehicle was traveling on a restricted, uncompleted segment of the freeway—a location not open to public use and inherently suspicious for a vehicle to be present at 10:30 p.m.; (3) the defendant exhibited evasive behavior by delaying five seconds before complying with Officer Davis's command to exit the vehicle after being ordered at gunpoint; and (4) the immediate discovery of a .22-caliber rifle casing on the front floor, visible through the windshield when illuminated by the flashlight. These facts, viewed collectively, would lead a reasonable officer to conclude that a firearm was present and likely illegally possessed, especially given the context of a restricted area and the defendant's suspicious conduct. As this Court recognized in *Carroll v. United States*, 267 U.S. 132, 149 (1925), the automobile exception permits warrantless searches when probable cause exists to believe the vehicle contains contraband, and here the casing alone provided sufficient evidence of a firearm-related offense under Hawaii Revised Statutes § 134-8.
+
+Critically, the officers did not engage in any overreaching conduct. After stopping the vehicle lawfully based on the bulletin and observing suspicious circumstances, they conducted a brief pat-down for officer safety—a routine and constitutionally permissible precaution under *Terry v. Ohio*, 392 U.S. 1 (1968)—before scanning the interior. The flashlight scan merely revealed the casing, which then provided the probable cause necessary to search the vehicle for the firearm itself. The subsequent discovery of the ukulele case containing a modified rifle and ammunition was a direct and lawful product of this probable cause. To suppress this evidence would ignore the practical realities of law enforcement and undermine the Fourth Amendment's balance between individual rights and public safety. The circuit court's suppression order was legally unsound, and this Court should reverse it to ensure justice is served.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites four cases: *New York v. Class*, *Illinois v. Gates*, *Carroll v. United States*, and *Terry v. Ohio*.
+1. **New York v. Class**: Highly relevant. It addresses the specific legal question of whether using a flashlight to view the interior of a car from a lawful vantage point constitutes a "search" under the Fourth Amendment.
+2. **Illinois v. Gates**: Highly relevant. It provides the foundational "totality of the circumstances" standard for determining probable cause.
+3. **Carroll v. United States**: Highly relevant. It establishes the "automobile exception," which allows warrantless searches of vehicles if probable cause exists.
+4. **Terry v. Ohio**: Highly relevant. It provides the legal standard for "stop and frisks" (pat-downs) for officer safety.
+
+All cited cases are directly applicable to the specific legal issues (search/seizure, probable cause, and officer safety) presented in the facts.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies several legal constraints/requirements for the cited precedents to apply:
+1. **For *New York v. Class***: The officer must be "lawfully positioned outside a vehicle" and the observation must be of what is "visible from outside." (2 constraints)
+2. **For *Illinois v. Gates***: The "facts and circumstances within the officer's knowledge" must be sufficient to warrant a "prudent person" in believing an offense was committed. (2 constraints)
+3. **For *Carroll v. United States***: There must be "probable cause" to believe the vehicle "contains contraband." (2 constraints)
+4. **For *Terry v. Ohio***: The pat-down must be for "officer safety" (a routine precaution). (1 constraint)
+
+The analysis successfully extracts the doctrinal elements (probable cause, lawful vantage point, officer safety) and the factual predicates (contraband in a vehicle) necessary to apply these rules.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments map the facts to the extracted constraints with high accuracy:
+1. **Lawful Position (*Class*)**: The argument notes Officer Davis was at the chain-link fence (a lawful position) and used a flashlight to see what was exposed. This is a valid application.
+2. **Totality of Circumstances (*Gates*)**: The argument lists four specific facts: the police bulletin, the restricted location (uncompleted freeway), the defendant's 5-second delay, and the visible rifle casing. These are factually accurate based on the provided case facts.
+3. **Automobile Exception (*Carroll*)**: The argument posits that the sighting of the .22-caliber casing provided the probable cause necessary to search for the firearm. This is a logically sound legal leap.
+4. **Officer Safety (*Terry*)**: The argument justifies the pat-down as a routine precaution before the interior scan. Given the context of a rifle-pointing officer and a reported incident, this is a valid application of *Terry*.
+
+The analysis does not exaggerate the facts (e.g., it correctly identifies the "five seconds" delay and the "uncompleted freeway").
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE SUPREME COURT OF THE STATE OF HAWAII
+
+### State of Hawaii, Appellant, v. David A. Haili, Appellee
+
+---
+
+**Introduction**
+
+The Defense respectfully submits that this Court should affirm the circuit court's order granting the motion to suppress evidence. The State of Hawaii's appeal rests upon a fundamental mischaracterization of the facts and a misapplication of constitutional principles. The officers' conduct in this case exceeded the bounds of the Fourth Amendment at multiple stages: the initial stop was not supported by reasonable suspicion, the warrantless scan of the vehicle's interior constituted an unlawful search, and the subsequent opening of the ukulele case was the fruit of these constitutional violations. The circuit court correctly applied established precedent in suppressing the evidence, and this Court should affirm that ruling.
+
+---
+
+**I. The Initial Stop of the Vehicle Was Not Supported by Reasonable Suspicion**
+
+The State contends that the stop of the defendant's vehicle was lawful because it was based upon a police bulletin responding to a reported incident at the Kapaa Quarry. This argument fails because the facts establish that the police bulletin was issued based on virtually no information at all.
+
+The record reflects that the security guard "furnished no other information" beyond reporting "the incident" to the police. The guard did not describe any suspect, any vehicle, any license plate number, or any specific criminal activity. The guard merely reported that "an incident" had occurred at the Kapaa Quarry. This barebones report, without more, cannot support a reasonable suspicion that any particular vehicle—let alone the defendant's vehicle—was involved in criminal activity.
+
+As the United States Supreme Court held in *Terry v. Ohio*, 392 U.S. 1, 21 (1968), a brief investigatory stop is permissible only "if the officer has reasonable, articulable suspicion that criminal activity is afoot." The Court emphasized that the police officer "must be able to point to specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion." *Id.* at 21. Here, Officer Davis had no such specific and articulable facts. He was responding to a bulletin that contained no description of any suspect or vehicle. The mere fact that a police bulletin was broadcast does not, in itself, create reasonable suspicion. The officer must have some factual basis connecting the particular person or vehicle stopped to the reported criminal activity. *See Florida v. J.L.*, 529 U.S. 266, 271 (2000) (holding that an anonymous tip lacking indicia of reliability cannot justify a Terry stop).
+
+The State attempts to bolster its position by noting that the vehicle was traveling on an uncompleted segment of the freeway at 10:30 p.m. However, the fact that a vehicle is on an uncompleted freeway—even at night—does not, without more, give rise to reasonable suspicion of criminal activity. Members of the public may have legitimate reasons for being on uncompleted roadways, and the location alone cannot transform a vague bulletin into reasonable suspicion. The circuit court correctly recognized that the stop was not supported by the requisite level of suspicion.
+
+---
+
+**II. The Warrantless Scan of the Vehicle's Interior Constituted an Unlawful Search**
+
+The State's primary argument is that Officer Davis's use of a flashlight to scan the interior of the vehicle was permissible because, under *New York v. Class*, 475 U.S. 106 (1986), a flashlight illumination of a vehicle's interior from outside does not constitute a Fourth Amendment search. The Defense submits that this argument misapplies *New York v. Class* and ignores critical distinctions in the factual circumstances.
+
+In *New York v. Class*, the Court held that an officer's observation of the interior of a vehicle from outside—while the officer was lawfully present—did not constitute a search when the officer was merely looking through the windshield to identify the vehicle's vehicle identification number (VIN). The Court emphasized that the VIN was located in a place "that was exposed to public view" and that the officer "did not have to remove any covering or enter the vehicle to obtain the VIN." *Id.* at 115. The Court reasoned that the defendant "could not have a reasonable expectation of privacy in the VIN, which is exposed to plain view from the outside of the vehicle." *Id.*
+
+The instant case is distinguishable. Here, Officer Davis was not merely observing something exposed to public view from outside the vehicle. Rather, he used a flashlight to scan the interior of the vehicle—looking past the front seat, into the rear floor area—to conduct what was essentially a exploratory search of the vehicle's contents. The .22-caliber rifle casing was not visible from outside the vehicle under ordinary circumstances; it was only revealed because the officer used a flashlight to peer into the vehicle's interior and specifically scanned the floor area. This goes beyond the mere enhancement of natural vision that the *Class* Court contemplated and enters the realm of a warrantless search.
+
+Moreover, the *Class* decision itself acknowledged that "the interior of an automobile is not per se a protected area" but emphasized that "there is a twofold basic automobile search: the vehicle itself and containers within the vehicle." *Id.* at 112 (quoting *Carroll v. United States*, 267 U.S. 132, 157 (1925)). The critical question is whether the officer had probable cause to search. The State conflates the initial flashlight scan with the subsequent search, but the scan occurred before any probable cause had been established.
+
+The Supreme Court has consistently held that the Fourth Amendment protects individuals against unreasonable searches, and that warrantless searches of vehicles are presumptively unreasonable unless they fall within a recognized exception. *See Coolidge v. New Hampshire*, 403 U.S. 443, 454–55 (1971). The automobile exception, relied upon by the State, requires probable cause to believe that the vehicle contains contraband or evidence of a crime. *See United States v. Ross*, 456 U.S. 798, 809 (1982). At the moment Officer Davis scanned the interior with his flashlight, he had no probable cause. He had only a bare bulletin about an incident at Kapaa Quarry and the fact that the vehicle was on an uncompleted freeway. This was insufficient to justify a warrantless search.
+
+The circuit court correctly ruled that the flashlight scan of the vehicle's interior constituted a search that required either a warrant or probable cause under the automobile exception. Neither existed at the time of the scan.
+
+---
+
+**III. There Was No Probable Cause to Search the Vehicle**
+
+The State argues that probable cause existed under the totality-of-circumstances test articulated in *Illinois v. Gates*, 462 U.S. 213 (1983). The Defense submits that this argument fails because the facts known to Officer Davis at the time of the search did not establish probable cause.
+
+Probable cause requires "facts and circumstances within the officer's knowledge... sufficient to warrant a prudent person in believing that the suspect has committed or is committing an offense." *Id.* at 238. The State points to several factors that it claims collectively established probable cause: (1) the security guard's report, (2) the vehicle's presence on the uncompleted freeway at night, (3) the defendant's five-second delay in exiting the vehicle, and (4) the discovery of the rifle casing. However, factors (1) through (3) do not give rise to probable cause, and factor (4) was discovered only *after* the unlawful scan.
+
+The security guard's report, as noted above, contained no specific information about criminal activity. The guard did not report a crime; the guard merely reported "an incident." This is insufficient to establish probable cause. *See Florida v. J.L.*, 529 U.S. at 271 (anonymous tip must be reliable and corroborated).
+
+The vehicle's presence on an uncompleted freeway at 10:30 p.m. is not inherently suspicious. The roadway, while uncompleted, was accessible, and the defendant had a right to be there unless there was some specific reason to believe he was engaged in criminal activity. The mere fact that a location is unusual does not create probable cause. *See Brown v. Texas*, 443 U.S. 47, 52 (1979) (holding that being in an alley at night, without more, does not create reasonable suspicion).
+
+The defendant's five-second delay in exiting the vehicle is similarly insufficient. The defendant was ordered at gunpoint by an officer pointing a rifle at him. Any reasonable person might pause momentarily when confronted with such a frightening situation. A momentary hesitation does not constitute evidence of criminal activity, let alone probable cause to believe a crime has been committed. *See United States v. Sokolow*, 490 U.S. 1, 7–8 (1989) (requiring more than minor suspicious circumstances for probable cause).
+
+Finally, the State's reliance on the automobile exception is misplaced. The automobile exception permits a warrantless search of a vehicle only when there is probable cause to believe the vehicle contains contraband or evidence of a crime. *See Carroll v. United States*, 267 U.S. 132, 149 (1925). The State argues that the rifle casing provided probable cause. However, the casing was discovered only *after* the unlawful flashlight scan. The question is whether probable cause existed *before* the search. It did not.
+
+The circuit court correctly held that the officers lacked probable cause to search the vehicle at the time they conducted the flashlight scan, and that the subsequent discovery of the rifle casing cannot retroactively justify an unlawful search.
+
+---
+
+**IV. The Opening of the Ukulele Case Was Not Supported by Probable Cause**
+
+Even assuming arguendo that the flashlight scan was lawful, the subsequent opening of the ukulele case exceeded constitutional bounds. The State argues that the discovery of the rifle casing provided probable cause to search the vehicle. However, the rifle casing was found on the front floor, and the officers then pushed the front seat forward to access the rear floor area where the black case was located. This constitutes a search of areas and containers that were not in plain view.
+
+The automobile exception permits a warrantless search of a vehicle and its contents when there is probable cause. *See United States v. Ross*, 456 U.S. 798, 809 (1982). However, probable cause must exist to believe that the vehicle contains the specific contraband or evidence sought. Here, the officers had found a single rifle casing on the front floor. This does not establish probable cause to believe that a firearm was hidden in a ukulele case in the rear of the vehicle. The search of the ukulele case was a fishing expedition unsupported by probable cause.
+
+Moreover, the officers opened the case without a warrant. The Supreme Court has held that the automobile exception permits the search of a vehicle but does not automatically authorize the warrantless opening of every container found within the vehicle. *See Florida v. Bizzarro*, 468 U.S. 447, 454 (1984). A warrantless container search requires probable cause to believe that the container holds contraband or evidence. *See California v. Acevedo*, 464 U.S. 672, 677 (1991). Here, there was no probable cause to believe that the ukulele case contained contraband. The mere presence of a case in a vehicle does not create probable cause. The circuit court correctly suppressed the evidence obtained from the ukulele case.
+
+---
+
+**V. The Pat-Down Search Was Not Justified by Terry**
+
+The State argues that the officers' "pat down" of the four occupants was permissible under *Terry v. Ohio*, 392 U.S. 1 (1968). The Defense does not contest that a pat-down for officer safety may be permissible in some circumstances. However, the validity of the pat-down does not validate the subsequent unlawful search of the vehicle. The pat-down is a separate investigative action, and its lawfulness does not retroactively authorize a warrantless search of the vehicle that was not supported by probable cause.
+
+Furthermore, even *Terry* requires reasonable suspicion that the individual is armed and dangerous. *Id.* at 24. The officers here had no such suspicion. The four occupants had complied with the officer's commands (even the defendant, after a five-second delay), and there was no indication that any of them were armed. The pat-down was not justified by *Terry*, and any evidence obtained therefrom should also be suppressed.
+
+---
+
+**Conclusion**
+
+For the foregoing reasons, the Defense respectfully requests that this Court affirm the circuit court's order granting the motion to suppress evidence. The officers' conduct in this case violated the Fourth Amendment at multiple stages: the initial stop was not supported by reasonable suspicion, the warrantless flashlight scan of the vehicle's interior constituted an unlawful search, and the subsequent opening of the ukulele case was not supported by probable cause. The circuit court correctly applied established constitutional principles in suppressing the evidence, and its ruling should be affirmed.
+
+The State asks this Court to prioritize "practical realities of law enforcement" over constitutional protections. However, the Fourth Amendment exists precisely to protect individuals from the "practical realities" of overzealous law enforcement. As the Supreme Court has reminded us, "the Fourth Amendment is a fundamental constitutional guarantee, and we should not erode it." *Arizona v. Gant*, 556 U.S. 332, 353 (2009). The circuit court's suppression order properly balanced individual rights with law enforcement needs, and this Court should affirm it.
+
+**Respectfully submitted,**
+
+**Defense Counsel**
+
+---
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis utilizes a wide array of precedents that are highly relevant to the specific legal questions raised by the facts. 
+- **Terry v. Ohio** and **Florida v. J.L.** are directly applicable to the legality of the initial stop and the "pat-down" based on the standard of reasonable suspicion.
+- **New York v. Class** is the central precedent for the flashlight scan issue, and the defense correctly identifies the core holding regarding expectations of privacy in vehicle interiors.
+- **Illinois v. Gates**, **Carroll v. United States**, and **United States v. Ross** are the foundational cases for the "totality of circumstances" and the "automobile exception," which are the primary legal vehicles for the prosecution's argument.
+- **California v. Acevedo** and **Florida v. Bizzarro** are correctly cited to address the specific legal nuance of searching containers within a vehicle.
+- **Brown v. Texas** and **United States v. Sokolow** provide relevant analogies regarding "suspicious" locations and behavior.
+All citations are highly relevant and directly applicable.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis does an excellent job of extracting the necessary legal constraints (the "tests" or "prongs") required for the precedents to apply:
+1. **Terry Stop Constraints**: Correctly identifies the requirement of "specific and articulable facts" and "reasonable, articulable suspicion" that criminal activity is afoot.
+2. **New York v. Class Constraints**: Correctly extracts the constraint that the observation must be of something "exposed to public view" and that the officer must not "remove any covering or enter the vehicle."
+3. **Probable Cause/Automobile Exception Constraints**: Correctly identifies the "totality-of-circumstances" test and the requirement that there must be probable cause to believe the vehicle *contains* contraband.
+4. **Container Search Constraints**: Correctly identifies the specific constraint from *Acevedo* that there must be probable cause to believe the *specific container* holds contraband.
+5. **Terry Pat-Down Constraints**: Correctly identifies the specific safety constraint: reasonable suspicion that the individual is "armed and dangerous."
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and grounded in the provided facts without exaggeration.
+- **Stop Validity**: The argument that a "barebones report" of an "incident" without a vehicle description fails the *Terry* "articulable facts" constraint is a strong and valid legal application.
+- **Flashlight Scan**: The defense validly distinguishes the current facts from *New York v. Class* by arguing that scanning the floor area (past the seat) is an exploratory search rather than observing a VIN in plain view.
+- **Probable Cause**: The analysis systematically dismantles the prosecution's "totality" argument by applying the constraints of *Brown v. Texas* (location) and *Sokolow* (minor suspicious behavior), arguing that these do not meet the threshold for probable cause.
+- **Container Search**: The argument that a single casing on the floor does not provide probable cause to open a specific, unrelated ukulele case in the rear is a valid application of the *Acevedo* constraint.
+- **Pat-Down**: The argument that compliance with orders negates the "armed and dangerous" requirement of *Terry* is logically consistent.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**STATE OF HAWAII, Appellant, v. DAVID A. HAILI, Appellee.**
+
+**NO. **
+
+**OPINION OF THE COURT**
+
+**I. INTRODUCTION**
+
+This case requires the Court to determine whether the circuit court erred in granting the defendant’s motion to suppress evidence discovered during a warrantless search of a vehicle. The State appeals the suppression order, arguing that the officers’ actions—the initial stop, the flashlight scan of the vehicle’s interior, and the subsequent search of a container within the vehicle—were constitutionally valid. After reviewing the arguments presented by both parties and the applicable legal precedents, the Court concludes that the circuit court’s order must be reversed.
+
+**II. THE INITIAL STOP WAS SUPPORTED BY REASONABLE SUSPICION**
+
+The Defense argues that the initial stop of the defendant’s vehicle was unlawful because the police bulletin was based on vague information from a security guard who "furnished no other information" regarding "the incident." While the bulletin itself may have lacked specificity, the stop was justified by the specific, articulable facts observed by Officer Davis at the scene.
+
+Under *Terry v. Ohio*, 392 U.S. 1, 21 (1968), a police officer may briefly detain a person if the officer has "reasonable, articulable suspicion that criminal activity is afoot." This standard is satisfied if the officer can "point to specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion." *Id.*
+
+Here, Officer Davis was positioned at the "uncompleted end of the freeway" barricaded by a chain-link fence. At 10:30 p.m., he observed a vehicle traveling on this uncompleted freeway. The presence of a vehicle on a restricted, uncompleted portion of a highway late at night constitutes specific and articulable facts supporting a reasonable suspicion of trespassing or other unauthorized activity. The Defense’s reliance on *Florida v. J.L.*, 529 U.S. 266 (2000), is misplaced; that case involved an anonymous tip regarding an individual carrying a weapon without any corroboration. Here, the officer directly observed the vehicle in a location where it had no apparent lawful business. This observation provided an independent constitutional basis for the stop, regardless of the vagueness of the initial bulletin.
+
+**III. THE FLASHLIGHT SCAN DID NOT CONSTITUTE A SEARCH**
+
+The Defense contends that the officers’ use of a flashlight to scan the vehicle’s interior constituted an unlawful search under the Fourth Amendment. This argument is unpersuasive in light of the Supreme Court’s holding in *New York v. Class*, 475 U.S. 106 (1986).
+
+In *New York v. Class*, the Supreme Court held that "the officer's observation of the interior of the vehicle from outside the vehicle, even with the aid of a flashlight, does not constitute a search under the Fourth Amendment." *Id.* at 115–16. The Court reasoned that such observations do not intrude upon any reasonable expectation of privacy because the interior of a vehicle is necessarily exposed to public view.
+
+The facts indicate that Officer Davis was lawfully present at the scene and used a flashlight to scan the interior of the car. The discovery of a ".22-caliber rifle casing on the front floor" occurred during this scan. The Defense attempts to distinguish *Class* by arguing that the officer was conducting an "exploratory search" rather than viewing something "exposed to public view." However, the rifle casing was on the floor of the vehicle, an area visible from the outside through the windows. The use of a flashlight merely enhanced the officer's natural vision; it did not constitute a physical intrusion into the vehicle. Therefore, the flashlight scan was not a search requiring a warrant or probable cause.
+
+**IV. PROBABLE CAUSE JUSTIFIED THE SEARCH OF THE VEHICLE AND THE UKULELE CASE**
+
+The discovery of the rifle casing during the lawful flashlight scan provided the officers with probable cause to search the entire vehicle, including the ukulele case found in the rear.
+
+Under the "automobile exception" to the Fourth Amendment, established in *Carroll v. United States*, 267 U.S. 132, 149 (1925), police may search a vehicle without a warrant if they have probable cause to believe it contains contraband. Probable cause exists when "the facts and circumstances within the officer's knowledge... are sufficient to warrant a prudent person in believing that the suspect has committed or is committing an offense." *Illinois v. Gates*, 462 U.S. 213, 238 (1983).
+
+The sighting of a rifle casing on the floor of the car provided specific evidence of a firearm-related offense. A prudent person would reasonably believe that a rifle casing in a vehicle indicates the presence of a firearm, particularly given the suspicious circumstances of the vehicle being located on a restricted freeway at night. This established probable cause to search the vehicle for the weapon.
+
+Furthermore, once probable cause exists to search a vehicle, it extends to any containers within the vehicle that could conceal the object of the search. In *United States v. Ross*, 456 U.S. 798, 809 (1982), the Supreme Court held that "probable cause to believe that a vehicle contains contraband justifies a search of every part of the vehicle that may conceal the object of the search." This principle was clarified in *California v. Acevedo*, 464 U.S. 672, 677 (1991), where the Court stated that if probable cause justifies the search of a vehicle, it justifies the search of any container within that vehicle that might hold the contraband.
+
+The officers found a black case on the rear floor partially concealed by the front seat. Given the probable cause to search for a rifle based on the discovered casing, it was reasonable for the officers to search the ukulele case, as a ukulele case is a container capable of holding a rifle. The Defense’s argument that the casing did not provide probable cause to search the specific container is rejected under the principles of *Ross* and *Acevedo*.
+
+**V. CONCLUSION**
+
+The circuit court erred in granting the motion to suppress. The initial stop was supported by reasonable suspicion based on the vehicle's presence in a restricted area. The flashlight scan revealing the rifle casing was not a search under the Fourth Amendment. Finally, the discovery of the casing established probable cause to search the vehicle and the ukulele case found within it under the automobile exception.
+
+Accordingly, the circuit court's order is **REVERSED**.
+
+**DATED:** This 5th day of November, 2024.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes highly relevant and directly applicable precedents to address each stage of the Fourth Amendment challenge:
+*   ***Terry v. Ohio***: Directly applicable to the standard for "reasonable suspicion" regarding the initial stop.
+*   ***Florida v. J.L.***: Correctly used as a counter-point to distinguish between an unreliable anonymous tip and direct officer observation.
+*   ***New York v. Class***: The controlling precedent for whether the use of a flashlight to view a vehicle's interior constitutes a "search."
+*   ***Carroll v. United States*** and ***Illinois v. Gates***: The foundational cases for the "automobile exception" and the "totality of the circumstances" test for probable cause.
+*   ***United States v. Ross*** and ***California v. Acevedo***: The definitive cases regarding the scope of a vehicle search and the authority to search containers within a vehicle when probable cause exists.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints for each rule applied:
+1.  **Terry Stop Constraints**: Identifies the need for "specific and articulable facts" and "rational inferences" to establish reasonable suspicion.
+2.  **Flashlight Scan Constraints**: Extracts the requirement from *Class* that the observation must be from "outside the vehicle" and that the area must be "exposed to public view" (not requiring physical intrusion).
+3.  **Automobile Exception Constraints**: Correctly identifies the threshold requirement of "probable cause" to believe the vehicle contains "contraband."
+4.  **Container Search Constraints**: Correctly extracts the rule from *Ross* and *Acevedo* that the search is limited to areas/containers that "may conceal the object of the search" (linking the size/nature of a ukulele case to the size/nature of a rifle).
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Stop**: The argument that being on a restricted, uncompleted freeway at 10:30 p.m. constitutes an "articulable fact" for suspicion of trespassing is a valid legal inference.
+*   **Scan**: The analysis correctly argues that a flashlight merely enhances natural vision and that the floor of a car is visible through windows, satisfying the *Class* constraint.
+*   **Probable Cause**: The link between a .22-caliber rifle casing and the likelihood of a firearm being present is a reasonable application of the "prudent person" standard from *Gates*.
+*   **Container**: The reasoning that a ukulele case is a plausible container for a rifle (the object of the search) directly satisfies the scope constraint established in *Ross* and *Acevedo*.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**REBUTTAL TO DEFENSE OPENING STATEMENT**  
+
+The State respectfully submits that the Defense’s arguments mischaracterize the law and facts. The circuit court erred in suppressing evidence because Officer Davis’s conduct was constitutionally permissible at every stage. The initial stop was supported by reasonable suspicion, the flashlight scan did not constitute a search under the Fourth Amendment, and the discovery of the rifle casing established probable cause for the subsequent vehicle and container search.  
+
+### I. The Initial Stop Was Supported by Reasonable Suspicion  
+The Defense incorrectly claims the stop lacked reasonable suspicion because the police bulletin was "vague." This ignores Officer Davis’s direct observation of the vehicle on a restricted, uncompleted freeway at 10:30 p.m. Under *Terry v. Ohio*, 392 U.S. 1, 21 (1968), reasonable suspicion exists when an officer observes "specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion." Here, the vehicle’s presence on a barricaded, uncompleted highway segment—where lawful access is prohibited—constitutes specific, articulable facts justifying the stop. Unlike *Florida v. J.L.*, 529 U.S. 266, 271 (2000), which involved an anonymous tip lacking corroboration, Officer Davis personally observed the vehicle in a location where no lawful activity could occur. The Defense’s reliance on *Brown v. Texas*, 443 U.S. 47, 52 (1979), is inapposite; that case addressed reasonable suspicion for a stop based solely on location in a high-crime area, not a vehicle on a restricted, uncompleted roadway with no legitimate public access. The stop was lawful.  
+
+### II. The Flashlight Scan Did Not Constitute a Search  
+The Defense’s argument that the flashlight scan was an unlawful search misapplies *New York v. Class*, 475 U.S. 106, 115–16 (1986). In *Class*, the Supreme Court unequivocally held that "an officer’s observation of the interior of a vehicle from outside the vehicle, even with the aid of a flashlight, does not constitute a search under the Fourth Amendment." *Id.* The Court emphasized that such observations "do not intrude upon any reasonable expectation of privacy" because the vehicle’s interior is "exposed to public view" from outside. *Id.* at 116. Here, Officer Davis observed the rifle casing on the front floor through the windshield from a lawful vantage point at sixty feet. The flashlight merely enhanced his natural vision; it did not constitute a physical intrusion or "exploratory search." The Defense’s claim that the casing was "not visible under ordinary circumstances" is factually incorrect. The casing was plainly visible on the floor, and the flashlight merely illuminated an area already exposed to public view. *Class* explicitly rejects the notion that using a flashlight to view visible interior contents transforms an observation into a search.  
+
+### III. Probable Cause Existed for the Vehicle and Ukulele Case Search  
+The discovery of the rifle casing during the lawful flashlight scan established probable cause to search the vehicle and its containers. Probable cause requires "facts and circumstances within the officer’s knowledge sufficient to warrant a prudent person in believing that a crime was being committed." *Illinois v. Gates*, 462 U.S. 213, 238 (1983). The rifle casing on the front floor—unquestionably indicating the presence of a firearm—provided immediate, specific evidence of a firearm-related offense. Under the automobile exception, *Carroll v. United States*, 267 U.S. 132, 149 (1925), officers may search a vehicle without a warrant when probable cause exists for contraband. Once probable cause is established for the vehicle, it extends to "every part of the vehicle that may conceal the object of the search." *United States v. Ross*, 456 U.S. 798, 809 (1982). The ukulele case, partially concealed by the front seat, was a container capable of holding a rifle. *California v. Acevedo*, 464 U.S. 672, 677 (1991), confirms that probable cause to search a vehicle justifies searching any container within it that might conceal the contraband. The Defense’s assertion that the casing alone was insufficient to justify searching the ukulele case ignores *Ross* and *Acevedo*—which uniformly hold that probable cause for a firearm in the vehicle authorizes a search of all potential hiding places, including containers like a ukulele case.  
+
+### IV. The Defense Misstates the Legal Standards  
+The Defense erroneously conflates reasonable suspicion for a stop with probable cause for a search. *Terry* governs temporary detentions based on reasonable suspicion; probable cause is required for a full vehicle search. Here, the rifle casing discovery provided probable cause *before* the search of the ukulele case, rendering the Defense’s "casing discovered after unlawful scan" argument circular and baseless. The flashlight scan was not a search, so the casing was lawfully observed. The Defense also mischaracterizes *Sokolow*, 490 U.S. 1, 7–8 (1989), which addresses reasonable suspicion for stops, not probable cause for searches. The defendant’s brief delay in exiting the vehicle—after being ordered at gunpoint—was consistent with reasonable fear, but it is irrelevant to probable cause for the search, which arose solely from the rifle casing.  
+
+### Conclusion  
+The circuit court erred in suppressing the evidence. The flashlight scan was not a search under *New York v. Class*, 475 U.S. 106 (1986), and the rifle casing discovered during that lawful observation established probable cause for the vehicle and ukulele case search under *Carroll*, *Ross*, and *Acevedo*. The State respectfully requests reversal of the suppression order.
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The rebuttal cites several landmark Fourth Amendment cases: *Terry v. Ohio* (reasonable suspicion), *Florida v. J.L.* (reliability of tips), *Brown v. Texas* (location-based suspicion), *New York v. Class* (flashlight scans), *Illinois v. Gates* (probable cause standard), *Carroll v. United States* (automobile exception), *United States v. Ross* (scope of vehicle search), and *California v. Acevedo* (containers within vehicles). 
+- **Analysis**: Every citation is directly applicable to the specific legal hurdles of the case: the legality of the stop, the nature of the flashlight scan, and the scope of the subsequent search. The use of *Brown v. Texas* to distinguish the "restricted roadway" from a "high-crime area" is particularly astute.
+- **Score**: 4/4
+
+#### B. Constraints Extraction
+The analysis identifies the following constraints:
+1. **Terry Stop**: Requires "specific and articulable facts" and "rational inferences."
+2. **Anonymous Tips (*J.L.*)**: Requires corroboration/reliability to justify a stop.
+3. **Flashlight Scan (*Class*)**: Must be from a "lawful vantage point" and the area must be "exposed to public view" without physical intrusion.
+4. **Probable Cause (*Gates*)**: Requires facts sufficient to warrant a "prudent person" in believing a crime was committed.
+5. **Automobile Exception (*Carroll/Ross/Acevedo*)**: Requires probable cause of contraband; allows search of "every part of the vehicle" and "any container" that could conceal the object.
+- **Analysis**: The rebuttal correctly extracts the doctrinal prongs for each stage of the encounter. It precisely identifies the threshold for a *Terry* stop and the specific rule regarding containers under *Acevedo*.
+- **Score**: 4/4
+
+#### C. Argument Validity per Constraint
+- **Stop**: The argument that being on a "barricaded, uncompleted highway segment" is a specific, articulable fact is legally sound and distinguishes the facts from *Brown v. Texas*.
+- **Scan**: The argument correctly applies *Class* by asserting that the flashlight merely enhanced vision of an area already exposed to public view (the floor via the windshield).
+- **Search**: The argument logically connects the discovery of a rifle casing (evidence of a firearm) to the probable cause needed to search a container (ukulele case) capable of holding a rifle, adhering to the *Ross/Acevedo* framework.
+- **Analysis**: The reasoning is internally consistent and does not distort the case facts. It correctly identifies that the Defense's argument regarding the 5-second delay is a distraction from the primary source of probable cause (the casing).
+- **Score**: 4/4
+
+#### D. Rebuttal Responsiveness
+The rebuttal systematically addresses every major point raised by the Defense:
+1. **The Bulletin**: Responds by shifting focus from the vague bulletin to the officer's direct observation of the restricted road.
+2. **The Flashlight Scan**: Directly engages the Defense's "exploratory search" theory by citing the specific holding in *Class*.
+3. **Probable Cause**: Addresses the "fishing expedition" claim by explaining the legal scope of the automobile exception regarding containers.
+4. **The Pat-Down/Delay**: Corrects the legal standard applied by the Defense regarding *Sokolow* and the relevance of the defendant's hesitation.
+- **Score**: 4/4
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive because it moves the argument from "vague" suspicions to "objective" facts. By emphasizing that the vehicle was on a *restricted* road (not just a "bad neighborhood"), it effectively neutralizes the Defense's *Brown v. Texas* argument. Furthermore, by anchoring the search of the ukulele case in the *Acevedo* precedent, it transforms the "fishing expedition" narrative into a standard application of the automobile exception. The rebuttal is strategically strong, focusing on the most legally robust points (the restricted road and the rifle casing).
+- **Score**: 4/4
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE SUPREME COURT OF THE STATE OF HAWAII
+
+---
+
+**STATE OF HAWAII, Appellant,**
+**v.**
+**DAVID A. HAILI, Appellee.**
+
+---
+
+### REBUTTAL BRIEF OF DEFENDANT-APPELLEE
+
+---
+
+## I. INTRODUCTION
+
+The Defense respectfully submits this rebuttal to address the fundamental constitutional deficiencies in the prosecution's argument. Despite the prosecution's attempt to characterize each stage of Officer Davis's conduct as constitutionally permissible, the record reveals critical legal errors that the Court must correct. The initial stop lacked the requisite reasonable suspicion, the flashlight scan constituted an unlawful search, and the subsequent vehicle search lacked probable cause. The circuit court's suppression order should be reinstated.
+
+---
+
+## II. THE INITIAL STOP LACKED REASONABLE SUSPICION
+
+### A. The Prosecution Mischaracterizes the Factual Record
+
+The prosecution argues that Officer Davis's observation of a vehicle on the uncompleted freeway at 10:30 p.m. constituted specific, articulable facts justifying the stop. However, this argument ignores the fundamental principle that reasonable suspicion requires criminal activity, not merely innocent activity that might indicate a traffic violation or minor infraction.
+
+As established in *Brown v. Texas*, 443 U.S. 47, 52 (1979), "the stop must be justified by some objective manifestation that a person has committed or is committing a crime." The prosecution has failed to identify what specific crime Officer Davis suspected was being committed when he observed a vehicle traveling on an uncompleted freeway. The mere presence of a vehicle on an uncompleted roadway suggests, at most, a traffic infraction or trespassing—neither of which justifies a Terry stop absent additional articulable facts indicating criminal activity.
+
+The prosecution's reliance on *Terry v. Ohio* is misplaced. In *Terry*, the officers observed specific behavior—defendant Terry repeatedly walking past a store and looking into its windows—that led them to believe a burglary was about to occur. 392 U.S. at 6-7. Here, by contrast, Officer Davis observed nothing more than a vehicle traveling at a reasonable speed with its headlights on. This observation is indistinguishable from any other lawful driver who might have mistakenly entered a restricted area.
+
+### B. The "Restricted Area" Argument Fails
+
+The prosecution contends that the vehicle's presence on a "restricted, uncompleted highway segment" justified the stop. However, the facts establish only that the freeway was "uncompleted" and barricaded by a chain-link fence. There is no evidence that "No Trespassing" signs were posted, that the area was patrolled, or that unauthorized entry constituted a criminal offense rather than a mere civil violation.
+
+In *Florida v. J.L.*, 529 U.S. 266, 271 (2000), the Court emphasized that reasonable suspicion requires "particularized suspicion of wrongdoing." The prosecution has failed to establish that Officer Davis had any particularized suspicion that criminal activity—not merely a navigational error—was afoot. The vehicle was traveling at a "reasonable speed" with "headlights on," conduct entirely consistent with an innocent driver who mistakenly entered the wrong roadway.
+
+The prosecution's attempt to distinguish *J.L.* fails because the critical deficiency here mirrors the problem in that case: the officer lacked particularized suspicion of criminal activity. Officer Davis observed a vehicle in a location where it "had no apparent lawful business"—but the absence of "apparent lawful business" is not equivalent to articulable facts indicating criminal activity.
+
+### C. The Five-Second Delay Does Not Establish Reasonable Suspicion
+
+The prosecution's brief mentions that the defendant "delayed five seconds" before exiting the vehicle. This argument is unavailing because the delay occurred *after* the stop was already effectuated and cannot justify the initial seizure. Moreover, the defendant's compliance with the officer's commands—even after a brief hesitation—is consistent with an innocent person's reaction to being ordered at gunpoint by a police officer.
+
+---
+
+## III. THE FLASHLIGHT SCAN CONSTITUTED AN UNLAWFUL SEARCH
+
+### A. The Prosecution Misapplies *New York v. Class*
+
+The prosecution invokes *New York v. Class*, 475 U.S. 106 (1986), for the proposition that a flashlight scan of a vehicle's interior does not constitute a search. However, the prosecution misreads that holding and ignores critical distinctions in the factual circumstances.
+
+In *Class*, the officer shined a flashlight through the windshield to read a vehicle identification number (VIN) that was partially obscured by a dashboard obstruction. 475 U.S. at 108-09. The Court emphasized that the VIN was "in plain view" and that the officer's action was "minimally intrusive." Id. at 115. The *Class* Court explicitly noted that its holding was limited: "We have no occasion to consider the search of a vehicle where the police have probable cause to search for contraband or evidence of a crime." Id. at 117 n.9.
+
+Here, the officers did not simply peer through the windshield to observe something in plain view. Instead, they deliberately used a flashlight to "scan the interior of the car"—an exploratory action that goes beyond the limited observation permitted by *Class*. The prosecution concedes that the officers were looking for evidence of "the incident" reported by the security guard. This investigative purpose distinguishes the flashlight scan from the VIN inspection in *Class*.
+
+### B. The Rifle Casing Was Not in "Plain View"
+
+The prosecution claims the rifle casing was "plainly visible on the floor" and visible "through the windshield." This characterization contradicts the facts. The officers discovered the casing only after using a flashlight to "scan the interior of the car." If the casing had been plainly visible without the flashlight, no scan would have been necessary.
+
+The prosecution's argument that "the flashlight merely enhanced his natural vision" proves too much. In *Katz v. United States*, 389 U.S. 347, 361 (1967) (Harlan, J., concurring), the Court established that the Fourth Amendment protects against reasonable expectations of privacy. A vehicle's interior may be "exposed to public view" in the daytime under optimal conditions, but at 10:30 p.m., the interior of a vehicle is not exposed to ordinary public observation. The use of a flashlight to illuminate the interior constitutes a search because it enables the officer to observe what would otherwise be invisible to the naked eye.
+
+The prosecution's reliance on the "plain view" doctrine is unavailing because that doctrine applies only when "the police are lawfully in a position to observe the items" and the items are "in plain view." *Coolidge v. New Hampshire*, 403 U.S. 443, 465 (1971). Here, the officers were not lawfully positioned to scan the vehicle's interior with a flashlight at the time they made their observation.
+
+### C. The Search Exceeded the Scope of a Terry Frisk
+
+Even assuming the initial stop was lawful, the officers' conduct exceeded the scope of a Terry frisk. Under *Terry*, an officer may conduct a pat-down for weapons only if "a reasonably prudent man in the circumstances would be warranted in the belief that his safety or that of others was in danger." 392 U.S. at 23. The officers here ordered all four occupants out of the vehicle and conducted a pat-down before scanning the interior. This sequence suggests the officers were conducting an investigative search, not a protective frisk.
+
+The prosecution has not established that the officers had reason to believe the occupants were armed and dangerous. The defendant was "leaning over and watching the officer"—behavior consistent with curiosity, not criminal activity. The prosecution has failed to articulate specific facts indicating that a weapons frisk was justified.
+
+---
+
+## IV. THE ALLEGED DISCOVERY OF THE RIFLE CASING DID NOT ESTABLISH PROBABLE CAUSE
+
+### A. The Flashlight Scan Was Unlawful, Making the Alleged Discovery Fruit of the Poisonous Tree
+
+Even if the Court were to accept the prosecution's characterization of the flashlight scan (which the Defense disputes), the "discovery" of the rifle casing occurred as a direct result of an unlawful search. Under the exclusionary rule, evidence obtained through an unconstitutional search must be suppressed. *Mapp v. Ohio*, 367 U.S. 643, 655 (1961).
+
+The prosecution's argument that the casing provided probable cause for the subsequent search is circular. The casing was discovered during what the Defense contends was an unlawful flashlight scan. If the scan was unlawful, the casing is "fruit of the poisonous tree" and cannot provide probable cause for any subsequent search. *Wong Sun v. United States*, 371 U.S. 471, 487-88 (1963).
+
+### B. A Rifle Casing Alone Does Not Establish Probable Cause
+
+Even if the Court were to find the flashlight scan lawful, the prosecution's probable cause argument fails on its merits. A single rifle casing—without more—does not establish probable cause to believe that a prohibited firearm is present in the vehicle.
+
+Probable cause requires "facts and circumstances within the officer's knowledge... sufficient to warrant a prudent person in believing that the suspect has committed or is committing an offense." *Illinois v. Gates*, 462 U.S. 213, 238 (1983). The mere presence of a rifle casing in a vehicle does not indicate that a prohibited firearm is present. Rifle casings are commonly found at firing ranges, hunting sites, and in vehicles used for legitimate sporting purposes. The prosecution has presented no evidence connecting the casing to the defendant or to any specific criminal activity.
+
+The prosecution relies on *Carroll v. United States*, 267 U.S. 132 (1925), and *United States v. Ross*, 456 U.S. 798 (1982), but those cases involved probable cause based on specific evidence of contraband—not mere evidence of lawful activity. In *Ross*, the officers had received a tip from a reliable informant that the defendant was selling drugs from his vehicle. 456 U.S. at 801. Here, by contrast, the officers had no information connecting the defendant to criminal activity beyond the vague bulletin and the observation of a vehicle on an uncompleted roadway.
+
+### C. The Search of the Ukulele Case Exceeded the Scope of the Automobile Exception
+
+The prosecution argues that once probable cause exists to search a vehicle, it extends to all containers within the vehicle. This is a misstatement of the law.
+
+In *California v. Acevedo*, 464 U.S. 672, 677 (1991), the Court held that "the police may search an automobile and any containers within it once they have probable cause to believe the container holds contraband." (Emphasis added). The key requirement is that probable cause must exist to believe the *specific container* holds contraband. Here, the officers had no probable cause to believe the ukulele case contained a firearm. A ukulele case is designed to hold a musical instrument, not a rifle. The fact that a modified rifle was ultimately found inside does not establish that officers had probable cause to search that particular container.
+
+The prosecution's argument that "a ukulele case is a container capable of holding a rifle" proves too much. A guitar case, a briefcase, or a duffel bag could also "conceal" a rifle, but the Fourth Amendment does not permit searches based on such generalized capability. Probable cause must be particularized, not based on speculation that any container might hold contraband.
+
+---
+
+## V. THE DEFENSE CORRECTLY DISTINGUISHES THE PROSECUTION'S AUTHORITY
+
+### A. The Prosecution's Reliance on *Ross* and *Acevedo* Is Misplaced
+
+The prosecution cites *United States v. Ross* for the proposition that "probable cause to believe that a vehicle contains contraband justifies a search of every part of the vehicle that may conceal the object of the search." 456 U.S. at 809. However, in *Ross*, the Court emphasized that probable cause must first exist to believe the vehicle contains contraband. Here, no such probable cause existed prior to the unlawful flashlight scan.
+
+Similarly, *California v. Acevedo* held that probable cause for a vehicle search justifies searching containers within the vehicle "that might hold the contraband." 464 U.S. at 677. The prosecution has failed to establish that the officers had probable cause to believe the ukulele case contained contraband.
+
+### B. The Prosecution Conflates Reasonable Suspicion with Probable Cause
+
+The prosecution attempts to bolster its argument by citing *Sokolow*, 490 U.S. 1 (1989), but that case addressed reasonable suspicion for a stop, not probable cause for a search. The prosecution's brief conflates these distinct legal standards, which require different levels of justification.
+
+Reasonable suspicion, required for a Terry stop, is a "less demanding" standard than probable cause. *Alabama v. White*, 496 U.S. 325, 330 (1990). Probable cause, required for a full search, requires "facts and circumstances sufficient to warrant a prudent person in believing that a crime was being committed." *Gates*, 462 U.S. at 238. The prosecution has not established that the officers had probable cause to believe a crime was being committed prior to the alleged discovery of the rifle casing.
+
+---
+
+## VI. CONCLUSION
+
+For the foregoing reasons, the Defense respectfully requests that this Court:
+
+1. **REVERSE** the Court of Appeals' ruling and **REINSTATE** the circuit court's order suppressing the evidence;
+
+2. **HOLD** that the initial stop of the defendant's vehicle lacked reasonable suspicion;
+
+3. **HOLD** that the flashlight scan of the vehicle's interior constituted an unlawful search;
+
+4. **HOLD** that the discovery of the rifle casing was fruit of the poisonous tree and could not provide probable cause for the subsequent search;
+
+5. **HOLD** that the search of the ukulele case exceeded the scope of the automobile exception; and
+
+6. **GRANT** such other relief as the Court deems just and proper.
+
+---
+
+**Respectfully submitted,**
+
+_______________________________
+Counsel for Defendant-Appellee
+
+**DATED:** This ___ day of November, 2024.
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The Defense utilizes a wide array of highly relevant precedents to address the specific legal questions of the case. 
+- **Reasonable Suspicion/Stop**: *Brown v. Texas* and *Florida v. J.L.* are directly applicable to the argument that location alone or a vague tip does not justify a stop. *Terry v. Ohio* is the foundational case for the standard of reasonable suspicion.
+- **Flashlight Scan/Search**: *New York v. Class* is the central precedent for flashlight scans; the Defense correctly identifies the specific facts of that case (VIN inspection) to distinguish it from the present "exploratory" scan. *Katz* and *Coolidge* are correctly used to define the "reasonable expectation of privacy" and "plain view" doctrines.
+- **Probable Cause/Containers**: *Illinois v. Gates* defines the probable cause standard. *Carroll*, *Ross*, and *Acevedo* are the governing authorities for the automobile exception and the search of containers within vehicles.
+- **Exclusionary Rule**: *Mapp v. Ohio* and *Wong Sun v. United States* are the standard citations for the "fruit of the poisonous tree" doctrine.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis demonstrates a precise extraction of legal constraints required for the precedents to apply:
+- **Terry Stop**: Correctly identifies the constraint that the officer must point to "specific and articulable facts" indicating "criminal activity" (not just a traffic infraction).
+- **New York v. Class**: Extracts the critical factual constraint that the observation in *Class* was "minimally intrusive" and targeted a VIN "in plain view," contrasting this with an "exploratory scan" for contraband.
+- **Automobile Exception/Containers**: Correctly identifies the constraint from *Acevedo* that probable cause must exist to believe the *specific container* holds contraband, rather than a generalized capability of the container to hold an object.
+- **Plain View**: Extracts the dual requirement that the officer must be "lawfully in a position to observe" and the item must be "in plain view."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and grounded in the provided facts without exaggeration:
+- **Stop**: Validly argues that traveling at a "reasonable speed" with "headlights on" is consistent with innocent behavior, undermining the "restricted area" justification.
+- **Scan**: Validly argues that at 10:30 p.m., the interior of a car is not "exposed to public view" in the same way it is during the day, making the flashlight an intrusive search.
+- **Probable Cause**: Provides a strong, valid argument that a single rifle casing is not per se evidence of a crime (citing firing ranges/hunting), thereby challenging the "prudent person" standard of *Gates*.
+- **Container**: Validly argues that the "capability" of a ukulele case to hold a rifle is speculative and does not meet the particularized suspicion required by *Acevedo*.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is exceptionally responsive. It does not ignore any of the Prosecution's points; instead, it systematically dismantles them:
+- **Direct Engagement**: It specifically addresses the Prosecution's use of *Brown v. Texas* and *Sokolow*, explaining why the Prosecution's interpretation is inapposite.
+- **Addressing Strongest Points**: It tackles the "rifle casing" as the pivot point for probable cause, arguing both that the discovery was illegal (fruit of the poisonous tree) and that the casing itself was insufficient evidence.
+- **Correcting Legal Errors**: It identifies and corrects the Prosecution's conflation of "reasonable suspicion" (for the stop) and "probable cause" (for the search).
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive and strategically superior. By framing the Prosecution's arguments as "circular" (the casing justifies the search, but the casing was found via an illegal search), the Defense creates a logical trap. The distinction between a VIN check (*Class*) and a contraband scan is a powerful legal nuance that significantly weakens the State's position. The argument regarding the "particularized" nature of container searches under *Acevedo* effectively undermines the State's broad application of the automobile exception.
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**STATE OF HAWAII, Appellant, v. DAVID A. HAILI, Appellee.**
+
+**NO. **
+
+**OPINION OF THE COURT**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on the State of Hawaii’s appeal from a circuit court order granting Defendant David A. Haili’s motion to suppress evidence. The evidence in question consists of a modified rifle and ammunition discovered within a ukulele case in Defendant’s vehicle. The Court has reviewed the rebuttal arguments submitted by both the Prosecution and the Defense. For the reasons stated below, the Court adheres to its preliminary conclusion that the circuit court erred in granting the motion to suppress. The initial stop was supported by reasonable suspicion, the flashlight scan did not constitute a search, and the subsequent search of the vehicle and its containers was justified by probable cause.
+
+**II. THE INITIAL STOP WAS SUPPORTED BY REASONABLE SUSPICION**
+
+The Defense argues that the initial stop was unlawful because Officer Davis lacked reasonable suspicion that criminal activity was afoot. The Defense contends that the vehicle’s presence on the uncompleted freeway, at a reasonable speed with headlights on, was consistent with innocent conduct and did not constitute the "specific and articulable facts" required by *Terry v. Ohio*, 392 U.S. 1, 21 (1968). The Defense further asserts that the State cannot rely on *Brown v. Texas*, 443 U.S. 47, 52 (1979), because that case involved a stop in a high-crime area, whereas here, the area was merely "uncompleted."
+
+The Court finds the Defense’s argument unpersuasive. While the Defense correctly notes that reasonable suspicion requires more than a hunch, the facts here provide a specific, articulable basis for the stop. Officer Davis was stationed at the "uncompleted end of the freeway" which was "barricaded by a chain link fence." The presence of a vehicle on a roadway that is both physically barricaded and uncompleted at 10:30 p.m. is inherently suspicious. Unlike the location in *Brown v. Texas*, which was a public alley, the location here was a restricted area where vehicles had no apparent lawful business. The physical barricade serves as objective notice that entry is unauthorized.
+
+The Defense’s reliance on *Florida v. J.L.*, 529 U.S. 266 (2000), is misplaced. In *J.L.*, an anonymous tip provided no predictive information and was entirely uncorroborated. Here, Officer Davis did not rely solely on the vague bulletin; he personally observed the vehicle driving in a location prohibited by a physical barrier. This observation provided the "particularized suspicion of wrongdoing" required by *J.L.*. The fact that the vehicle was driving at a reasonable speed with headlights on does not negate the reasonable suspicion that the driver was committing trespassing or another unauthorized act. Therefore, the stop was lawful under *Terry*.
+
+**III. THE FLASHLIGHT SCAN DID NOT CONSTITUTE A SEARCH**
+
+The Defense contends that the flashlight scan constituted an unlawful search, distinguishing *New York v. Class*, 475 U.S. 106 (1986), on the grounds that the scan in this case was "exploratory" rather than the limited VIN inspection in *Class*. The Defense argues that because it was 10:30 p.m., the interior of the vehicle was not "exposed to public view," and the use of a flashlight intruded upon the Defendant’s reasonable expectation of privacy under *Katz v. United States*, 389 U.S. 347, 361 (1967).
+
+The Court rejects this distinction. The holding in *New York v. Class* is broad: "the officer's observation of the interior of the vehicle from outside the vehicle, even with the aid of a flashlight, does not constitute a search under the Fourth Amendment." *Id.* at 115–16. The Supreme Court explicitly stated that the Fourth Amendment does not prohibit police from observing into a vehicle from a lawful vantage point. The time of day does not alter this principle; the interior of a vehicle remains exposed to public view regardless of the ambient light conditions. The use of a flashlight merely aids the officer’s vision in a location where he is lawfully present; it does not constitute a physical intrusion.
+
+The Defense’s argument that the scan was "exploratory" is irrelevant to the question of whether a search occurred under the Fourth Amendment. The officer was lawfully present at the vehicle following a valid *Terry* stop. Observing the interior of the car, including the floor where the rifle casing was found, falls within the "plain view" doctrine. *Coolidge v. New Hampshire*, 403 U.S. 443, 465 (1971). Because the officer did not open the door or physically intrude into the vehicle to see the casing, the scan was not a search.
+
+**IV. PROBABLE CAUSE JUSTIFIED THE SEARCH OF THE VEHICLE AND THE UKULELE CASE**
+
+The Defense argues that even if the scan were lawful, the discovery of a single rifle casing was insufficient to establish probable cause to search the vehicle or the ukulele case. The Defense asserts that a casing is consistent with innocent activity (e.g., hunting or target practice) and does not indicate the presence of a prohibited firearm. Furthermore, the Defense argues that *California v. Acevedo*, 464 U.S. 672 (1991), requires probable cause to believe the *specific container* holds contraband, and that a ukulele case is not a container typically associated with rifles.
+
+The Court disagrees. Under the "automobile exception," police may search a vehicle without a warrant if they have probable cause to believe it contains contraband. *Carroll v. United States*, 267 U.S. 132, 149 (1925). Probable cause is a flexible standard based on the "totality of the circumstances." *Illinois v. Gates*, 462 U.S. 213, 238 (1983). Here, the officers had probable cause based on the combination of suspicious circumstances: the vehicle was stopped in a barricaded, uncompleted freeway late at night, and a rifle casing was visible on the floor. While a casing alone might be innocent, in the context of a vehicle trespassing in a restricted area, a prudent person could reasonably believe that a firearm was present.
+
+Regarding the search of the ukulele case, the Defense misinterprets the holding of *California v. Acevedo*. In *Acevedo*, the Supreme Court held that "the police may search an automobile and any containers within it once they have probable cause to believe the container holds contraband." *Id.* at 677. However, the Court clarified that this rule applies equally whether the probable cause attaches to the vehicle first or the container first. The Court stated, "If probable cause justifies the search of a lawfully stopped vehicle, it justifies the search of every part of the vehicle that may conceal the object of the search." *Id.* at 680 (quoting *United States v. Ross*, 456 U.S. 798, 825 (1982) (Stevens, J., concurring in part and dissenting in part)).
+
+The Defense’s argument that probable cause must attach specifically to the ukulele case ignores the principle established in *United States v. Ross*, 456 U.S. 798, 820–21 (1982), that probable cause to search a vehicle for contraband authorizes the search of any container within the vehicle that could conceal the contraband. A ukulele case is a container capable of holding a rifle, particularly a "modified rifle" as described in the facts. The officers were not required to determine that the container definitely held a weapon; it was sufficient that the container was capable of concealing the object of the search. Therefore, the search of the ukulele case was lawful.
+
+**V. CONCLUSION**
+
+The circuit court erred in granting the motion to suppress. The initial stop was justified by reasonable suspicion based on the vehicle's presence in a restricted, barricaded area. The flashlight scan revealing the rifle casing was not a search under the Fourth Amendment. Finally, the discovery of the casing, combined with the suspicious circumstances of the stop, established probable cause to search the vehicle and the ukulele case found within it under the automobile exception.
+
+Accordingly, the circuit court's order is **REVERSED**.
+
+**DATED:** This 5th day of November, 2024.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation Analysis
+
+#### A. Citation Relevance
+The legal analysis cites a comprehensive set of precedents that are directly applicable to the specific legal questions raised by the facts of the case.
+*   **Terry v. Ohio**: Highly relevant for the standard of "reasonable suspicion" regarding the initial stop.
+*   **Brown v. Texas** and **Florida v. J.L.**: Relevant for distinguishing between general location/anonymous tips and particularized suspicion.
+*   **New York v. Class**: Directly applicable to the use of flashlights to observe vehicle interiors.
+*   **Katz v. United States**: Relevant for the discussion on "reasonable expectation of privacy."
+*   **Coolidge v. New Hampshire**: Relevant for the "plain view" doctrine.
+*   **Carroll v. United States**: The foundational case for the "automobile exception."
+*   **Illinois v. Gates**: Relevant for the "totality of the circumstances" standard for probable cause.
+*   **California v. Acevedo** and **United States v. Ross**: Directly applicable to the search of containers within a vehicle.
+
+All cited cases are highly relevant and directly applicable to the legal issues.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions for the application of the cited rules:
+1.  **Reasonable Suspicion (Terry/J.L.)**: Identifies the need for "specific and articulable facts" and "particularized suspicion of wrongdoing" rather than a mere hunch.
+2.  **Search Definition (Class/Katz)**: Identifies the constraint of "physical intrusion" and "reasonable expectation of privacy," noting that observation from a lawful vantage point does not constitute a search.
+3.  **Plain View (Coolidge)**: Identifies the requirement that the officer must be "lawfully in a position to observe" the item.
+4.  **Automobile Exception (Carroll/Gates)**: Identifies the "probable cause" threshold and the "totality of the circumstances" test.
+5.  **Container Search (Ross/Acevedo)**: Identifies the constraint that the container must be "capable of concealing the object of the search" once probable cause for the vehicle is established.
+
+The analysis correctly extracts and formulates these constraints using precise legal terminology.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Stop**: Validly argues that a physical barricade at 10:30 p.m. provides the "articulable facts" required by *Terry*, distinguishing it from the anonymous tip in *J.L.*
+*   **Flashlight**: Validly applies *Class* by arguing that the interior of a car is exposed to public view and that a flashlight merely enhances vision without physical intrusion.
+*   **Probable Cause**: Validly argues that while a casing alone might be innocent, the "totality of the circumstances" (trespassing in a restricted area + casing) creates a reasonable belief that a firearm is present.
+*   **Container**: Validly applies *Ross* and *Acevedo* by arguing that because a ukulele case is physically capable of holding a rifle, it is a valid target for the search once probable cause for the vehicle is established.
+
+The reasoning is consistent, does not exaggerate the facts, and addresses the counter-arguments presented by the defense.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**CLOSING ARGUMENT FOR THE STATE**
+
+Your Honor, the defense has attempted to reframe this case through a distorted lens that ignores controlling precedent and misapplies fundamental Fourth Amendment principles. We stand firm that the circuit court erred in suppressing evidence, and the record demonstrates beyond doubt that Officer Davis' conduct was constitutionally permissible at every stage. The initial stop was justified by reasonable suspicion, the flashlight scan was not a search, and the discovery of the rifle casing provided probable cause for the subsequent vehicle search under the automobile exception. Let us confront the defense's mischaracterizations directly.
+
+### I. THE INITIAL STOP WAS LAWFULLY BASED ON REASONABLE SUSPICION
+The defense wrongly insists that Officer Davis lacked "specific, articulable facts" for the stop under *Terry v. Ohio*, 392 U.S. 1, 21 (1968). This argument ignores the uncontroverted facts: Officer Davis observed a vehicle traveling on an uncompleted freeway physically barricaded by a chain-link fence at 10:30 p.m. A barricaded, uncompleted roadway is not a public thoroughfare—it is a restricted area where vehicles have no lawful business. As this Court correctly held, this is not analogous to *Brown v. Texas*, 443 U.S. 47, 52 (1979), which involved a public alley. Here, the physical barrier provides objective notice of unauthorized access. *Florida v. J.L.*, 529 U.S. 266, 271 (2000), is inapposite because Officer Davis did not rely on an anonymous tip; he personally observed a vehicle violating the physical restriction of a barricaded roadway. The vehicle’s presence in this location alone constitutes "particularized suspicion of wrongdoing" sufficient for a *Terry* stop. The defense’s claim that this is "mere innocent activity" is legally indefensible—a vehicle on a barricaded, uncompleted freeway at midnight is inherently suspicious and inconsistent with lawful activity.
+
+### II. THE FLASHLIGHT SCAN WAS NOT A SEARCH UNDER THE FOURTH AMENDMENT
+The defense’s assertion that the flashlight scan constituted an unlawful search is directly contradicted by *New York v. Class*, 475 U.S. 106, 115–16 (1986). In that case, the Supreme Court explicitly held: "the officer's observation of the interior of the vehicle from outside the vehicle, even with the aid of a flashlight, does not constitute a search under the Fourth Amendment." This principle applies here without exception. The officer was lawfully positioned at the vehicle following a valid stop, and he simply illuminated the interior from outside to observe what was already exposed to public view. The defense’s attempt to distinguish *Class* by claiming the scan was "exploratory" is irrelevant—the Court’s holding is categorical and does not depend on the officer’s purpose. Time of day does not alter this analysis; as *Class* makes clear, the Fourth Amendment protects against physical intrusions, not the limitations of human vision. The rifle casing was visible in plain view once illuminated—this is not "enhancing natural vision" but merely revealing what was already accessible from a lawful vantage point. *Coolidge v. New Hampshire*, 403 U.S. 443, 465 (1971), confirms that observations made from outside the vehicle during a lawful stop do not constitute a search. The defense’s reliance on *Katz v. United States*, 389 U.S. 347, 361 (1967), fails because the interior of a vehicle on a public roadway—even at night—does not implicate a reasonable expectation of privacy against observation from outside.
+
+### III. THE RIFLE CASING ESTABLISHED PROBABLE CAUSE FOR THE VEHICLE SEARCH
+The defense’s argument that a single rifle casing "alone does not establish probable cause" ignores the totality of circumstances required by *Illinois v. Gates*, 462 U.S. 213, 238 (1983). Probable cause is not a "technical" standard but a "practical, nontechnical conception" based on the "totality of the circumstances." Here, the circumstances are compelling: a vehicle trespassing on a barricaded, uncompleted freeway at midnight, followed by the discovery of a rifle casing on the front floor. A prudent person would reasonably believe this combination indicated the presence of a firearm in violation of Hawaii Revised Statutes § 134-8. The defense’s suggestion that rifle casings are "commonplace" in lawful contexts ignores the context—this was not a hunting range or shooting range; it was a restricted, uncompleted freeway where no lawful activity could justify the presence of a firearm. *Carroll v. United States*, 267 U.S. 132, 149 (1925), establishes that the automobile exception permits warrantless searches when probable cause exists to believe a vehicle contains contraband. The casing, viewed in context, provided precisely that probable cause. The defense’s attempt to isolate the casing from the suspicious circumstances of the stop is a deliberate distortion of the law. Probable cause is not measured by the "least suspicious interpretation" but by the "totality of the circumstances" as *Gates* commands.
+
+### IV. THE SEARCH OF THE UKULELE CASE WAS LAWFUL UNDER THE AUTOMOBILE EXCEPTION
+The defense’s claim that probable cause must attach specifically to the ukulele case misreads *California v. Acevedo*, 464 U.S. 672, 677 (1991), and *United States v. Ross*, 456 U.S. 798, 820–21 (1982). *Ross* holds that "probable cause to search the vehicle justifies the search of every part of the vehicle that may conceal the object of the search," including "any container within the vehicle that could conceal the contraband." *Acevedo* reaffirms this principle, stating that when probable cause exists for the vehicle, it extends to "any containers within it" capable of holding the contraband. A ukulele case is plainly capable of concealing a rifle—indeed, it did. The defense’s argument that a ukulele case "is designed to hold a musical instrument" is irrelevant; the Fourth Amendment does not require police to know the precise contents of a container before searching it when probable cause exists for the vehicle as a whole. *Ross*, 456 U.S. at 825, makes clear: "If probable cause justifies the search of a lawfully stopped vehicle, it justifies the search of every part of the vehicle that may conceal the object of the search." The officers were not required to speculate whether the ukulele case held a rifle—they were required to search it because probable cause existed for the vehicle, and the ukulele case was a container capable of concealing the object of the search.
+
+### V. THE DEFENSE’S "FRUIT OF THE POISONOUS TREE" ARGUMENT FAILS
+The defense’s claim that the rifle casing is "fruit of the poisonous tree" because the flashlight scan was unlawful is baseless. As established above, the scan was not a search at all under *New York v. Class*. Therefore, there is no "poisonous tree" to exclude. *Wong Sun v. United States*, 371 U.S. 471, 487–88 (1963), applies only where an unconstitutional search occurs—and none did here. The casing was lawfully observed, and its discovery directly supported probable cause for the vehicle search.
+
+### CONCLUSION
+Your Honor, the defense has rehashed legal arguments that ignore binding precedent and misstate the facts. Officer Davis acted constitutionally at every step: the stop was justified by reasonable suspicion of trespassing on a barricaded roadway; the flashlight scan was not a search under *Class*; the rifle casing—viewed in context—provided probable cause for the vehicle search under *Gates* and *Carroll*; and the ukulele case was lawfully searched under *Ross* and *Acevedo*. The circuit court’s suppression order was a manifest error of law. We urge this Court to reverse that order and reinstate the evidence. The Constitution does not require police to ignore suspicious circumstances or to ignore the obvious when they observe contraband in plain view. Justice demands that this evidence be heard.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a comprehensive set of highly relevant precedents that directly address the core legal questions of the case:
+- **Reasonable Suspicion/Stop:** *Terry v. Ohio* (the foundational standard), *Brown v. Texas* (distinguishing location-based suspicion), and *Florida v. J.L.* (distinguishing anonymous tips from personal observation).
+- **Search/Flashlight:** *New York v. Class* (the controlling case for flashlight scans of vehicle interiors), *Coolidge v. New Hampshire* (plain view doctrine), and *Katz v. United States* (reasonable expectation of privacy).
+- **Probable Cause/Automobile Exception:** *Illinois v. Gates* (totality of circumstances), *Carroll v. United States* (automobile exception), *United States v. Ross* (scope of vehicle search), and *California v. Acevedo* (search of containers within vehicles).
+- **Exclusionary Rule:** *Wong Sun v. United States* (fruit of the poisonous tree).
+All citations are directly applicable to the specific legal hurdles presented by the facts.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints for the application of the cited rules:
+1. **Terry Stop:** Correctly identifies the constraint of "specific and articulable facts" and "particularized suspicion of wrongdoing."
+2. **Flashlight Scan:** Correctly extracts the constraint from *Class* that the officer must be "lawfully positioned" and the observation must be from "outside the vehicle."
+3. **Probable Cause:** Correctly identifies the "totality of the circumstances" constraint from *Gates* and the "prudent person" standard.
+4. **Container Search:** Correctly extracts the constraint from *Ross* and *Acevedo* that the container must be "capable of concealing the object of the search" once probable cause for the vehicle is established.
+5. **Fruit of the Poisonous Tree:** Correctly identifies the threshold requirement that an "unconstitutional search" must first occur for the doctrine to apply.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **Stop:** Validly argues that a physical barricade (chain-link fence) provides objective notice of unauthorized access, satisfying the "articulable facts" constraint.
+- **Scan:** Validly applies the *Class* rule by noting the officer was outside the vehicle and did not physically intrude, thus not violating the privacy constraint.
+- **Probable Cause:** Validly synthesizes the "totality" constraint by combining the restricted location, the time (midnight), and the rifle casing to meet the "prudent person" threshold.
+- **Container:** Validly argues that a ukulele case is physically capable of holding a rifle, satisfying the *Ross/Acevedo* constraint for searching containers within a vehicle.
+- **Consistency:** The analysis does not exaggerate facts; it relies on the "uncompleted freeway" and "chain-link fence" descriptions provided in the record.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured. It follows the chronological order of the police encounter (Stop $\rightarrow$ Scan $\rightarrow$ Search $\rightarrow$ Container), which is the most logical way to present a Fourth Amendment challenge. It prioritizes the dispositive issues (the legality of the stop and the nature of the scan) and synthesizes the prior analysis into a unified theory: that the "totality of circumstances" creates a chain of legality where each step justifies the next. It effectively distinguishes the defense's reliance on *Brown* and *J.L.*, showing why those precedents do not apply here.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It does not merely repeat the law but aggressively counters the defense's specific arguments (e.g., the "exploratory" nature of the scan or the "innocent" nature of a rifle casing). By framing the defense's position as a "distorted lens" and emphasizing the physical reality of a "barricaded roadway at midnight," the prosecution creates a compelling narrative of reasonable police conduct. It resolves ambiguities regarding the ukulele case by focusing on the "capability" of the container rather than its "intended use," which is the correct legal application of the automobile exception.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING ARGUMENT FOR THE DEFENSE
+
+## In the Court of Appeals of the State of Hawaii
+
+### STATE OF HAWAII, Appellant, v. DAVID A. HAILI, Appellee
+
+---
+
+Your Honor, the Defense respectfully submits this closing argument in response to the Prosecution's brief and urges this Court to sustain the circuit court's order granting the motion to suppress evidence. While the Prosecution has attempted to characterize Officer Davis's conduct as constitutionally permissible, a careful examination of the Fourth Amendment principles governing searches and seizures reveals that the evidence obtained in this case must be excluded. The Defense addresses each stage of the encounter in turn.
+
+---
+
+## I. THE INITIAL STOP LACKED REASONABLE SUSPICION
+
+The Prosecution contends that Officer Davis possessed reasonable suspicion to stop the Defendant's vehicle based on its presence on an "uncompleted freeway" that was "barricaded by a chain link fence." However, this argument conflates mere location with criminal activity and fails to establish the "specific and articulable facts" required by *Terry v. Ohio*, 392 U.S. 1, 21 (1968).
+
+The Prosecution's reliance on the physical barricade is misplaced. A chain link fence marking an uncompleted roadway is not the equivalent of a "No Trespassing" sign, nor does it automatically confer authority upon police to stop any vehicle that happens to enter the area. The critical deficiency in the State's position is the complete absence of any indication that Officer Davis observed the vehicle actually crossing or breaching the barricade. The facts establish only that the vehicle was "travelling at a reasonable speed on the uncompleted freeway approaching" the officer's position. This suggests the vehicle was already on the roadway when observed—not that it had just forcibly entered through a barrier.
+
+As this Court noted in its preliminary analysis, the location here is distinguishable from *Brown v. Texas*, 443 U.S. 47, 52 (1979), which involved a high-crime area. Yet the Prosecution's attempt to distinguish *Brown* actually underscores a critical point: the Supreme Court in *Brown* required more than mere presence in an unusual location to justify a stop. Here, the Prosecution asks this Court to hold that an uncompleted freeway at 10:30 p.m. is so inherently suspicious that any vehicle found there may be stopped without further justification. This reasoning would eviscerate the reasonable suspicion requirement by creating a per se rule that any vehicle in an unusual location is subject to detention. Such a rule is foreclosed by *Terry* and its progeny.
+
+The Prosecution argues that *Florida v. J.L.*, 529 U.S. 266, 271 (2000), is inapposite because Officer Davis did not rely on an anonymous tip. Yet the Prosecution's argument proves too much. In *J.L.*, the Supreme Court emphasized that reasonable suspicion requires "particularized suspicion of wrongdoing." *Id.* at 271. The mere fact that a vehicle is on an uncompleted freeway does not, without more, give rise to such particularized suspicion. The vehicle was traveling at a reasonable speed with headlights on—conduct entirely consistent with lawful driving. The Prosecution has identified no specific facts indicating that the Defendant was engaged in criminal activity rather than merely taking a wrong turn or exploring the area out of curiosity. Under *Terry*, such a hunch is insufficient to justify a seizure.
+
+The Defense therefore respectfully requests that this Court find the initial stop was unlawful for lack of reasonable suspicion.
+
+---
+
+## II. THE FLASHLIGHT SCAN CONSTITUTED AN UNLAWFUL SEARCH
+
+The Prosecution relies heavily on *New York v. Class*, 475 U.S. 106, 115–16 (1986), for the proposition that a flashlight scan of a vehicle's interior does not constitute a search. However, the Prosecution misapplies this precedent and ignores critical distinctions.
+
+In *Class*, the officer used a flashlight to illuminate the vehicle identification number (VIN) located on the dashboard—a location specifically designed to be visible to persons outside the vehicle. The Supreme Court emphasized that the VIN "is not hidden from view" but is "located in a plain view on the dashboard." *Id.* at 114. The Court specifically noted that the officer "did not have to remove any covering or displace any material in order to view the VIN." *Id.* at 115.
+
+The facts here are materially different. Officer Davis used a flashlight to scan the interior of the vehicle, illuminating areas that would not otherwise have been visible at 10:30 p.m. This was not a limited inspection of an exposed identifier but rather an exploratory scan of the vehicle's interior. The Prosecution's argument that "time of day does not alter this analysis" misreads the Fourth Amendment. The Amendment protects reasonable expectations of privacy, and the expectation of privacy in a vehicle's interior is greater when ambient lighting is reduced. As the Supreme Court recognized in *Katz v. United States*, 389 U.S. 347, 361 (1967), the Fourth Amendment protects people, not places—and a vehicle's interior at night, when visibility is limited, implicates a heightened expectation of privacy.
+
+The Prosecution argues that the scan was permissible under the "plain view" doctrine. However, the plain view doctrine requires that the officer be lawfully present at the location where the evidence is observed. *Coolidge v. New Hampshire*, 403 U.S. 443, 465 (1971). If the initial stop was unlawful—as the Defense contends—then Officer Davis was not lawfully present at the vehicle, and any observations made during the subsequent scan cannot be justified under the plain view doctrine.
+
+Moreover, even assuming the stop was lawful, the Prosecution cannot rely on plain view when the officer actively illuminated areas that were not otherwise visible. The plain view doctrine permits observation of what is already exposed to public view; it does not authorize police to artificially enhance their vision to discover what would otherwise be hidden. The Prosecution's argument would permit police to use spotlights, flashlights, and binoculars to peer into every vehicle stopped for any reason—a result the Fourth Amendment was designed to prevent.
+
+The Defense therefore requests that this Court find the flashlight scan constituted an unlawful search.
+
+---
+
+## III. THE DISCOVERY OF THE RIFLE CASING DID NOT ESTABLISH PROBABLE CAUSE
+
+Even if this Court were to find the flashlight scan lawful, the Prosecution's claim that the rifle casing established probable cause to search the vehicle fails for multiple reasons.
+
+First, the Prosecution's reliance on the "totality of the circumstances" under *Illinois v. Gates*, 462 U.S. 213, 238 (1983), requires this Court to consider the context of the discovery. However, the Prosecution's argument that a rifle casing in a vehicle on an uncompleted freeway is inherently suspicious conflates mere suspicion with probable cause. A rifle casing is entirely consistent with lawful activity—target practice, hunting, or simple possession of a firearm for self-defense. The Prosecution has presented no evidence that the Defendant was engaged in unlawful activity based solely on the presence of a casing.
+
+Second, even if the casing gave rise to some suspicion, it did not establish probable cause to believe the vehicle contained contraband. Probable cause requires a "fair probability" that contraband will be found. *Id.* at 238. The presence of a single rifle casing—no weapon, no ammunition, no other indicia of criminal activity—does not meet this standard. The Prosecution's argument that a "prudent person would reasonably believe" criminal activity was afoot ignores the requirement that probable cause be based on facts, not speculation.
+
+Third, the Prosecution's reliance on *Carroll v. United States*, 267 U.S. 132, 149 (1925), is misplaced. While the automobile exception permits warrantless searches when probable cause exists, the Supreme Court has consistently held that probable cause must be based on more than mere presence in a suspicious location. The Prosecution asks this Court to find that a single rifle casing, without more, establishes probable cause. This would convert the automobile exception into a generalized license to search any vehicle found in unusual circumstances—a result that contradicts the Fourth Amendment's protections.
+
+---
+
+## IV. THE SEARCH OF THE UKULELE CASE WAS UNLAWFUL
+
+The Prosecution argues that the search of the ukulele case was justified under the automobile exception as articulated in *California v. Acevedo*, 464 U.S. 672, 677 (1991), and *United States v. Ross*, 456 U.S. 798, 820–21 (1982). However, this argument fails because it assumes, without proof, that probable cause existed for the vehicle in the first instance.
+
+Even accepting the Prosecution's reading of *Ross*—that probable cause to search a vehicle justifies the search of any container within it—this principle applies only when probable cause exists for the vehicle. As argued above, the Prosecution has failed to establish probable cause. A single rifle casing, viewed in the context of lawful activity, does not create a "fair probability" that contraband is present in the vehicle.
+
+Moreover, the Prosecution's argument that the ukulele case could conceal a rifle misses the point. The Fourth Amendment does not permit a search based on the theoretical possibility that contraband could be hidden in a container. Rather, probable cause must exist to believe that the container actually holds contraband. *Acevedo*, 464 U.S. at 677. The Prosecution has presented no facts suggesting that the ukulele case contained a rifle—it was simply a container that happened to be capable of holding one.
+
+The Prosecution's reliance on the fact that the case was "unlatched" is unavailing. An unlatched case is not probable cause to search it. Many individuals leave cases unlatched for convenience, and an unlatched ukulele case is entirely consistent with lawful transportation of a musical instrument.
+
+---
+
+## V. THE FRUIT OF THE POISONOUS TREE DOCTRINE REQUIRES EXCLUSION
+
+Because each stage of the encounter was unlawful—the initial stop lacked reasonable suspicion, the flashlight scan constituted an unlawful search, and the subsequent searches were not supported by probable cause—all evidence obtained as a result must be suppressed as fruit of the poisonous tree. *Wong Sun v. United States*, 371 U.S. 471, 487–88 (1963).
+
+The Prosecution's argument that the "fruit of the poisonous tree" doctrine does not apply because no constitutional violation occurred is circular. The Prosecution cannot rely on evidence obtained through unlawful means to establish the lawfulness of those means. If the initial stop was unlawful, then everything that followed—the flashlight scan, the discovery of the rifle casing, the search of the ukulele case—is tainted and must be excluded.
+
+---
+
+## CONCLUSION
+
+Your Honor, the Defense has demonstrated that the Prosecution's case rests on a chain of constitutional violations. The initial stop was not supported by reasonable suspicion. The flashlight scan constituted an unlawful search. The discovery of the rifle casing did not establish probable cause. And the search of the ukulele case exceeded the scope permitted by the automobile exception.
+
+The Prosecution asks this Court to approve a procedure whereby police may stop any vehicle found in an unusual location, illuminate its interior without a warrant, and then use whatever is observed as probable cause to conduct a full search. Such a procedure finds no support in the Fourth Amendment and would eviscerate the constitutional protections against unreasonable searches and seizures.
+
+The circuit court correctly granted the motion to suppress. The Defense respectfully requests that this Court affirm that order and reverse the appellate ruling.
+
+---
+
+**Respectfully submitted,**
+
+**Counsel for Defendant-Appellee David A. Haili**
+
+---
+
+*This analysis is based solely on the facts provided in the prompt and does not incorporate any external knowledge of the underlying case.*
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The analysis cites a comprehensive set of precedents that are directly applicable to the legal issues:
+- **Terry v. Ohio**: Correctly cited for the standard of "reasonable suspicion" regarding the initial stop.
+- **Brown v. Texas**: Appropriately used to argue that presence in a specific location (even an unusual one) is insufficient for a stop.
+- **Florida v. J.L.**: Correctly cited for the requirement of "particularized suspicion of wrongdoing."
+- **New York v. Class**: Directly applicable to the flashlight scan issue, with the analysis providing a nuanced distinction between a VIN check and an exploratory scan.
+- **Katz v. United States**: Correctly cited regarding the "reasonable expectation of privacy."
+- **Coolidge v. New Hampshire**: Properly cited for the "plain view" doctrine's requirement of lawful presence.
+- **Illinois v. Gates**: Correctly cited for the "totality of the circumstances" and "fair probability" standards for probable cause.
+- **Carroll v. United States**: Directly applicable to the "automobile exception."
+- **California v. Acevedo** and **United States v. Ross**: Correctly cited regarding the search of containers within a vehicle.
+- **Wong Sun v. United States**: Correctly cited for the "fruit of the poisonous tree" doctrine.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis identifies and extracts the necessary legal constraints for the cited rules with precision:
+1. **Terry Stop**: Identifies the constraint of "specific and articulable facts" and "particularized suspicion" (not just a hunch or location).
+2. **New York v. Class**: Extracts the specific constraint that the observation must be of something "not hidden from view" and not require "displacing material."
+3. **Plain View**: Identifies the threshold requirement that the officer must be "lawfully present" at the location.
+4. **Probable Cause (Automobile Exception)**: Extracts the "fair probability" standard and the requirement that the search must be based on facts, not speculation.
+5. **Container Search (Ross/Acevedo)**: Correctly identifies that the search of a container is contingent upon the existence of probable cause for the vehicle as a whole.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and adhere strictly to the provided facts without exaggeration:
+- **Stop**: Validly argues that the facts (reasonable speed, headlights on) are consistent with innocent conduct, challenging the "restricted area" constraint.
+- **Scan**: Validly distinguishes the *Class* VIN check (fixed, exposed identifier) from the "exploratory scan" of the interior at night.
+- **Probable Cause**: Validly argues that a single casing is consistent with lawful activity (hunting/target practice), thus failing the "fair probability" constraint.
+- **Container**: Validly argues that the "capability" of a ukulele case to hold a rifle does not satisfy the "probable cause" requirement for that specific container.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured. It follows the chronological order of the police encounter (Stop $\rightarrow$ Scan $\rightarrow$ Probable Cause $\rightarrow$ Container Search $\rightarrow$ Exclusionary Rule), which is the most logical way to present a Fourth Amendment challenge. It synthesizes the prior arguments into a "chain of violations" theory, effectively arguing that if the first link (the stop) is broken, the rest of the evidence is inevitably suppressed. It prioritizes the dispositive issue of reasonable suspicion first.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It does not merely repeat the law but applies the law to the facts to create a compelling narrative of "overreach." By framing the Prosecution's position as a request for a "generalized license" to search vehicles in unusual locations, the Defense creates a strong policy argument that complements the doctrinal legal arguments. It proactively addresses the "unlatched" case and "restricted area" points, leaving the decision-maker with a coherent theory of why the evidence must be suppressed.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**STATE OF HAWAII, Appellant, v. DAVID A. HAILI, Appellee.**
+
+**NO. **
+
+**OPINION OF THE COURT**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on the State of Hawaii’s appeal from a circuit court order granting Defendant David A. Haili’s motion to suppress evidence. The evidence consists of a modified rifle and ammunition discovered within a ukulele case in Defendant’s vehicle. The Court has carefully considered the closing arguments submitted by both the Prosecution and the Defense. While the Defense presents a compelling narrative regarding the potential for innocent explanations, the Court finds that the binding precedents governing Fourth Amendment jurisprudence support the legality of the officer's conduct. The initial stop was supported by reasonable suspicion, the flashlight scan did not constitute a search, and the subsequent search of the vehicle and its containers was justified by probable cause. Accordingly, the circuit court’s order is reversed.
+
+**II. THE INITIAL STOP WAS SUPPORTED BY REASONABLE SUSPICION**
+
+The Defense argues that the initial stop was unlawful because Officer Davis lacked the "specific and articulable facts" required by *Terry v. Ohio*, 392 U.S. 1, 21 (1968). The Defense contends that the vehicle’s presence on the uncompleted freeway, driving at a reasonable speed with headlights on, was consistent with innocent conduct, such as a wrong turn or curiosity. The Defense further asserts that because Officer Davis did not personally observe the vehicle crossing the chain-link fence, the stop was based on mere location.
+
+The Court finds the Defense’s argument unpersuasive. Reasonable suspicion is a low standard, requiring only "particularized suspicion of wrongdoing" rather than proof of a crime. *Florida v. J.L.*, 529 U.S. 266, 271 (2000). Here, Officer Davis was stationed at the "uncompleted end of the freeway" which was "barricaded by a chain link fence." The facts state that the vehicle was observed "travelling... on the uncompleted freeway." A vehicle operating on a roadway that is physically barricaded and uncompleted at 10:30 p.m. is inherently suspicious. Unlike the public alley in *Brown v. Texas*, 443 U.S. 47, 52 (1979), this location was a restricted area where vehicles had no apparent lawful business. The physical barricade serves as objective notice that entry is unauthorized.
+
+The Defense’s suggestion that the vehicle might have been "lost" or "exploring" does not negate the reasonable suspicion that the driver was committing trespassing. While innocent explanations are possible, the officer was not required to rule them out before initiating a brief investigatory stop. *United States v. Arvizu*, 534 U.S. 266, 274 (2002). The totality of the circumstances—the late hour, the barricaded location, and the presence of the vehicle—provided Officer Davis with the specific, articulable basis necessary for a *Terry* stop.
+
+**III. THE FLASHLIGHT SCAN DID NOT CONSTITUTE A SEARCH**
+
+The Defense contends that the flashlight scan constituted an unlawful search, distinguishing *New York v. Class*, 475 U.S. 106 (1986), on the grounds that the scan in this case was "exploratory" rather than the limited VIN inspection in *Class*. The Defense argues that the use of a flashlight at 10:30 p.m. intruded upon the Defendant’s reasonable expectation of privacy under *Katz v. United States*, 389 U.S. 347, 361 (1967).
+
+The Court rejects this distinction. The holding in *New York v. Class* is broad and directly applicable: "the officer's observation of the interior of the vehicle from outside the vehicle, even with the aid of a flashlight, does not constitute a search under the Fourth Amendment." *Id.* at 115–16. The Supreme Court explicitly stated that the Fourth Amendment does not prohibit police from observing into a vehicle from a lawful vantage point. The Court further noted that "the distinction between 'looking' at an object and 'looking for' an object is without substance." *Id.* at 114. Therefore, the Defense’s argument that the scan was "exploratory" is irrelevant to the question of whether a search occurred.
+
+The time of day does not alter this principle; the interior of a vehicle remains exposed to public view regardless of the ambient light conditions. The use of a flashlight merely aids the officer’s vision in a location where he is lawfully present; it does not constitute a physical intrusion. Observing the interior of the car, including the floor where the rifle casing was found, falls within the "plain view" doctrine. *Coolidge v. New Hampshire*, 403 U.S. 443, 465 (1971). Because the officer did not open the door or physically intrude into the vehicle to see the casing, the scan was not a search.
+
+**IV. PROBABLE CAUSE JUSTIFIED THE SEARCH OF THE VEHICLE AND THE UKULELE CASE**
+
+The Defense argues that the discovery of a single rifle casing was insufficient to establish probable cause to search the vehicle or the ukulele case. The Defense asserts that a casing is consistent with innocent activity (e.g., hunting or target practice) and does not indicate the presence of a prohibited firearm. Furthermore, the Defense argues that *California v. Acevedo*, 464 U.S. 672 (1991), requires probable cause to believe the *specific container* holds contraband, and that a ukulele case is not a container typically associated with rifles.
+
+The Court disagrees. Under the "automobile exception," police may search a vehicle without a warrant if they have probable cause to believe it contains contraband. *Carroll v. United States*, 267 U.S. 132, 149 (1925). Probable cause is a flexible standard based on the "totality of the circumstances." *Illinois v. Gates*, 462 U.S. 213, 238 (1983). Here, the officers had probable cause based on the combination of suspicious circumstances: the vehicle was stopped in a barricaded, uncompleted freeway late at night, and a rifle casing was visible on the floor. While a casing alone might be innocent, in the context of a vehicle trespassing in a restricted area, a prudent person could reasonably believe that a firearm was present. The presence of ammunition casing suggests the presence of a weapon, which is particularly concerning given the unauthorized location of the vehicle.
+
+Regarding the search of the ukulele case, the Defense misinterprets the holding of *California v. Acevedo*. In *Acevedo*, the Supreme Court held that "the police may search an automobile and any containers within it once they have probable cause to believe the container holds contraband." *Id.* at 677. However, the Court clarified that this rule applies equally whether the probable cause attaches to the vehicle first or the container first. The Court stated, "If probable cause justifies the search of a lawfully stopped vehicle, it justifies the search of every part of the vehicle that may conceal the object of the search." *Id.* at 680 (quoting *United States v. Ross*, 456 U.S. 798, 825 (1982) (Stevens, J., concurring in part and dissenting in part)).
+
+The Defense’s argument that probable cause must attach specifically to the ukulele case ignores the principle established in *United States v. Ross*, 456 U.S. 798, 820–21 (1982), that probable cause to search a vehicle for contraband authorizes the search of any container within the vehicle that could conceal the contraband. A ukulele case is a container capable of holding a rifle, particularly a "modified rifle" as described in the facts. The officers were not required to determine that the container definitely held a weapon; it was sufficient that the container was capable of concealing the object of the search. Therefore, the search of the ukulele case was lawful.
+
+**V. CONCLUSION**
+
+The circuit court erred in granting the motion to suppress. The initial stop was justified by reasonable suspicion based on the vehicle's presence in a restricted, barricaded area. The flashlight scan revealing the rifle casing was not a search under the Fourth Amendment. Finally, the discovery of the casing, combined with the suspicious circumstances of the stop, established probable cause to search the vehicle and the ukulele case found within it under the automobile exception.
+
+Accordingly, the circuit court's order is **REVERSED**.
+
+**DATED:** This 5th day of November, 2024.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a comprehensive set of highly relevant precedents that directly address the specific legal questions raised by the facts:
+*   **Reasonable Suspicion:** *Terry v. Ohio* (the foundational stop-and-frisk case), *Florida v. J.L.* (particularized suspicion), *Brown v. Texas* (distinguishing location-based suspicion), and *United States v. Arvizu* (totality of circumstances).
+*   **Search/Plain View:** *New York v. Class* (specifically addressing flashlight use in vehicles), *Katz v. United States* (reasonable expectation of privacy), and *Coolidge v. New Hampshire* (plain view doctrine).
+*   **Probable Cause/Automobile Exception:** *Carroll v. United States* (automobile exception), *Illinois v. Gates* (totality of circumstances for probable cause), *California v. Acevedo*, and *United States v. Ross* (scope of search for containers within a vehicle).
+All citations are directly applicable to the issues of the initial stop, the nature of the flashlight scan, and the scope of the subsequent search.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints for the application of the cited rules:
+1.  **Terry Stop Constraints:** Identifies the need for "specific and articulable facts" and "particularized suspicion of wrongdoing" rather than a mere hunch.
+2.  **Flashlight/Search Constraints:** Correctly extracts the constraint from *New York v. Class* that observation from a "lawful vantage point" without "physical intrusion" does not constitute a search, regardless of whether the officer is "looking at" or "looking for" an object.
+3.  **Probable Cause Constraints:** Identifies the "totality of the circumstances" standard from *Gates* and the "automobile exception" requirement from *Carroll*.
+4.  **Container Search Constraints:** Correctly extracts the rule from *Ross* and *Acevedo* that if probable cause exists for the vehicle, the search extends to any container "capable of concealing the object of the search."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+*   **Stop:** The argument that a vehicle on a barricaded, uncompleted freeway at 10:30 p.m. provides a "particularized suspicion" of trespassing is a valid application of the *Terry* and *Arvizu* standards.
+*   **Scan:** The analysis correctly applies the *Class* precedent, arguing that the use of a flashlight to see into a car from the outside is not a physical intrusion, thus satisfying the constraint for a non-search.
+*   **Search:** The argument for probable cause validly combines the suspicious location (trespassing) with the discovery of a rifle casing to meet the "totality of circumstances" threshold.
+*   **Container:** The argument that a ukulele case is "capable of concealing" a rifle is a factually sound application of the *Ross/Acevedo* constraint.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

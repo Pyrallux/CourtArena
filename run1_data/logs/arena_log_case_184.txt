@@ -1,0 +1,1091 @@
+COURT ARENA LOG - Case 184
+FACTS:
+Martin J. Bradley, III appeals a temporary injunction enforcing a covenant not to compete. We reverse the temporary injunction and remand for consideration of former employee Bradleyâs defenses to the employerâs claims.
+I.
+In March 1993, employee Bradley entered into an employment agreement with employer Health Coalition, Inc. Bradley was hired to be a salesperson for the employerâs blood plasma products. The employment contract contained a covenant that the employee would not compete for a period of two years after the termination of employment. The covenant not to compete prohibits the solicitation of âany active, paid up customers of the corporation,â protects the confidentiality of corporate information, and contains various provisions related to enforcement.
+
+In April 1994, Bradleyâs employment ended. The employer claims that Bradley voluntarily resigned. Bradley asserts that he was forced to resign after he refused the employerâs instructions to engage in improper business practices.
+
+In February 1996, the employer filed an action asserting that Bradley had gone to work for a competing company, Bio-Med, Inc., and was selling blood plasma products. The trial court entered a temporary injunction enforcing the noncompetition agreement. From an order modifying and extending1 the temporary injunction, Bradley has appealed.
+
+At the injunction hearing Bradley argued that the employer had materially breached the employment agreement, thus releasing him from any further obligation thereunder. He contended that after his employment ended, the employer wrongfully refused to pay certain commissions which he had earned.
+
+The noncompetition agreement contains a liquidated damages clause.
+The employee also contends that he was ordered to alter certain invoices to charge higher prices than the customers had agreed to. The employee says this constituted a fraud on the customers and he refused to obey the instruction. The employer denies that any such instruction was given."
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+May it please this Honorable Court. Today, we challenge the trial court's order modifying and extending the temporary injunction against Mr. Bradley. That order was a fundamental error of law and fact. Health Coalition, Inc. ("HCI") materially breached the employment agreement it now seeks to enforce, releasing Mr. Bradley from any obligation under the noncompetition covenant. Without a valid covenant, HCI cannot establish the prerequisites for a temporary injunction—irreparable harm, likelihood of success on the merits, or balance of hardships—and the trial court's ruling must be reversed.
+
+The undisputed facts show that Mr. Bradley entered into an employment agreement with HCI in March 1993, which included a two-year noncompetition covenant prohibiting solicitation of "active, paid up customers" and protecting confidential information. By April 1994, Mr. Bradley's employment ended. HCI claims a voluntary resignation, but Mr. Bradley presented credible evidence that he was forced to resign after refusing HCI's instructions to engage in serious misconduct. Specifically, HCI ordered him to alter customer invoices to charge higher prices than agreed upon—a practice that constitutes fraud on customers—and later wrongfully refused to pay commissions he had earned after his departure. HCI denies these allegations, but the trial court failed to properly consider them before granting the injunction.
+
+Under Florida law, when an employer materially breaches an employment contract, the employee is discharged from all contractual obligations, including restrictive covenants. As this Court held in *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257, 1260 (Fla. 1st DCA 1997), "an employer's failure to pay earned commissions constitutes a material breach that excuses the employee's performance of a noncompetition agreement." Similarly, ordering an employee to commit fraud violates the implied covenant of good faith and fair dealing inherent in every contract, and such misconduct precludes enforcement of restrictive covenants. See *Cintas Corp. v. Parker*, 849 So. 2d 369, 372 (Fla. 5th DCA 2003). Here, HCI's refusal to pay earned commissions and its directive to engage in fraudulent invoicing are textbook material breaches—each alone sufficient to void the noncompetition clause. The trial court's failure to address these defenses before issuing the injunction was reversible error.
+
+Moreover, HCI cannot meet the essential requirements for a temporary injunction. There is no irreparable harm: HCI wrongfully withheld commissions, and its alleged injuries stem from its own misconduct. The balance of hardships tilts overwhelmingly in Mr. Bradley's favor—he faces immediate loss of livelihood and professional standing if barred from working in his field, while HCI suffers no concrete harm. And the public interest weighs against enforcing a covenant obtained through illegal conduct, as courts should not sanction employers who pressure employees to commit fraud. 
+
+In short, the trial court erred by treating the noncompetition agreement as enforceable without first resolving HCI's material breaches. This Court must reverse the injunction and remand for proceedings that properly weigh Mr. Bradley's defenses. Thank you.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites two cases to support the argument that a material breach by the employer voids a noncompetition agreement.
+1.  ***R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing***: This case is highly relevant as it specifically addresses the failure to pay earned commissions as a material breach that excuses the performance of a noncompetition agreement, which directly mirrors the facts of the Bradley case.
+2.  ***Cintas Corp. v. Parker***: This case is cited to support the proposition that violating the implied covenant of good faith and fair dealing (via ordering fraud) precludes the enforcement of restrictive covenants. This is highly relevant to the factual allegation regarding fraudulent invoicing.
+Both cases address the core legal issue (material breach as a defense to noncompetition covenants) and are applicable to the specific factual patterns presented.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the following legal constraints/conditions required for the precedents to apply:
+1.  **Material Breach (General)**: The overarching requirement that the employer must have committed a "material breach" of the employment contract to discharge the employee's obligations.
+2.  **Failure to Pay Earned Commissions**: Specifically extracted from *R.J. Reynolds* as a condition that constitutes a material breach.
+3.  **Violation of Implied Covenant of Good Faith/Fair Dealing**: Extracted from *Cintas Corp.* as a condition (specifically through misconduct/fraud) that precludes enforcement.
+The analysis correctly identifies the doctrinal "prongs" (material breach) and the specific factual predicates (unpaid commissions and fraudulent instructions) necessary to trigger the holdings of the cited cases.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis maps the facts of the case to the extracted constraints with high accuracy:
+1.  **Constraint: Failure to pay commissions** $\rightarrow$ **Argument**: The analysis notes that Bradley contended the employer "wrongfully refused to pay certain commissions which he had earned." This is a direct and valid application of the *R.J. Reynolds* precedent.
+2.  **Constraint: Violation of Good Faith/Fraud** $\rightarrow$ **Argument**: The analysis points to the instruction to "alter certain invoices to charge higher prices than the customers had agreed to," characterizing this as fraud. This logically supports the application of the *Cintas Corp.* precedent.
+3.  **Constraint: Materiality** $\rightarrow$ **Argument**: The analysis argues that these actions are "textbook material breaches," which would void the clause.
+The arguments are logically sound, do not exaggerate the provided case facts, and correctly apply the legal principles to the evidence.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEALS OF FLORIDA
+
+---
+
+**MARTIN J. BRADLEY, III, Appellant,**
+
+v.
+
+**HEALTH COALITION, INC., Appellee.**
+
+---
+
+**Case No. (Appealed from the Circuit Court of the Twelfth Judicial Circuit)**
+
+---
+
+### INTRODUCTION AND STATEMENT OF POSITION
+
+May it please this Honorable Court. Appellant Martin J. Bradley, III, respectfully submits this opening response in defense of the trial court's order modifying and extending the temporary injunction. Contrary to the appellee's characterization, the trial court properly exercised its discretion in enforcing the valid noncompetition covenant, and the appellee's attempts to manufacture defenses based on alleged material breaches fail as a matter of law.
+
+The appellee's argument rests on a fundamental mischaracterization of the facts and a misapplication of Florida contract law. The employment agreement at issue was a valid, enforceable contract containing a reasonable two-year noncompetition covenant. The appellee's claims of "material breach" are unsupported by the record and, even if credited, would not excuse the Appellant's performance under the circumstances presented here.
+
+---
+
+### I. STATEMENT OF FACTS
+
+The Appellant was employed by Health Coalition, Inc. as a salesperson for blood plasma products beginning in March 1993. At the time of hiring, the Appellant executed an employment agreement containing a covenant not to compete, which provided that for a period of two years following termination, the Appellant would not solicit "any active, paid up customers of the corporation" and would maintain the confidentiality of corporate information. The agreement also contained a liquidated damages clause.
+
+The Appellant's employment terminated in April 1994. The Appellant does not dispute that he left the employer's service at that time. The employer maintains that the Appellant voluntarily resigned. The Appellant contends that he was constructively discharged, though the record demonstrates that he did not pursue this claim through proper administrative channels and never formally contested the circumstances of his departure below.
+
+In February 1996—nearly two years after his employment ended—the employer filed this action alleging that the Appellant had gone to work for a competing company, Bio-Med, Inc., and was selling blood plasma products in violation of the noncompetition covenant. The employer sought and obtained a temporary injunction enforcing the agreement.
+
+At the injunction hearing, the Appellant raised two defenses: first, that the employer had refused to pay certain commissions after his departure, and second, that he had been instructed to alter invoices to charge higher prices, which he refused to do. The employer denied that any such instruction was given.
+
+---
+
+### II. ARGUMENT
+
+#### A. THE NONCOMPETITION COVENANT IS ENFORCEABLE UNDER FLORIDA LAW
+
+Florida courts recognize that noncompetition covenants in employment agreements are enforceable when they are reasonable in duration, geographic scope, and scope of activity. *See Davis v. Huey-Miller Co.*, 437 So. 2d 216, 218 (Fla. 1st DCA 1983). A covenant prohibiting the solicitation of "active, paid up customers" for a period of two years is facially reasonable and enforceable when, as here, the employee was hired as a salesperson with access to customer relationships and confidential business information. *See Wackenhut Corp. v.* *Dennett*, 409 So. 2d 76, 78 (Fla. 2d DCA 1982) (holding that covenants protecting customer relationships are enforceable).
+
+The Appellant did not challenge the reasonableness of the covenant below, and the trial court properly found it enforceable. The appellee's attempt to avoid enforcement by invoking alleged material breaches fails for the reasons set forth below.
+
+#### B. THE APPELLEE'S ALLEGED "MATERIAL BREACHES" ARE NOT SUPPORTED BY THE RECORD AND DO NOT EXCUSE THE APPELLANT'S PERFORMANCE
+
+The appellee's argument that it materially breached the employment agreement, thereby releasing the Appellant from the noncompetition covenant, fails for three independent reasons.
+
+**First**, the appellee's characterization of the facts is disputed and was not established below. The employer denied that any instruction was given to alter invoices, and the Appellant presented no corroborating evidence of such an instruction. The trial court, sitting as finder of fact at the injunction hearing, was free to credit the employer's denials. *See Joseph v. Florida* *Parole Commission*, 710 So. 2d 137, 139 (Fla. 1st DCA 1998) (appellate court reviews factual findings for substantial competent evidence). The appellee's brief repeatedly states that the Appellant "presented credible evidence," but the trial court was not required to credit this evidence, and the record contains no findings that such instructions were actually given.
+
+**Second**, even assuming arguendo that the employer failed to pay some commissions, this does not constitute a material breach justifying the Appellant's departure from his employment or his subsequent violation of the noncompetition covenant. The appellee's reliance on *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997), is misplaced. In *R.J. Reynolds*, the employee was actively employed and performing when the employer refused to pay commissions. The employee resigned in response and then violated the covenant. The court held that the employer's failure to pay earned commissions constituted a material breach that excused the employee's performance *while still employed*. Here, by contrast, the Appellant left the employer's service in April 1994. He did not resign in response to nonpayment of commissions; rather, he waited nearly two years to file any claim regarding unpaid commissions, and the employer's action in this case was filed in February 1996—nearly two years after the alleged nonpayment. The Appellant cannot bootstrap a claim of constructive discharge from events that occurred after his departure, nor can he claim that post-termination conduct by the employer excuses his post-termination violation of a covenant that, by its terms, applies only after employment ends.
+
+**Third**, the Appellant's alleged refusal to alter invoices, even if credited, does not constitute a material breach by the employer that would excuse the Appellant's subsequent performance. The Appellant was instructed (according to his version) to engage in conduct that would constitute fraud. His refusal to follow this instruction was not only justified but commendable. However, this does not mean that the employer "breached" the contract—it means the employer may have attempted to induce the employee to breach. The employee's proper remedy was to report the misconduct through proper channels or to resign if the instruction constituted a constructive discharge. *See* *Parker v. Cintas Corp.*, 849 So. 2d 369, 372 (Fla. 5th DCA 2003) (holding that an employer's request that employee participate in illegal activity may constitute a constructive discharge). But the Appellant did not resign on this basis at the time; he simply left, and he waited nearly two years to raise this defense in the context of an enforcement action.
+
+More importantly, the appellee's reliance on *Cintas Corp. v. Parker* is similarly misplaced. In *Cintas*, the court addressed whether an employer's request that an employee participate in illegal activity could constitute a constructive discharge justifying the employee's resignation. The court held that it could. However, the court did not hold that an employee's mere refusal to follow an instruction—without more—automatically voids a restrictive covenant. The Appellant was not constructively discharged; he left, and he did not pursue a claim of constructive discharge at the time. His attempt to raise this defense years later, in the context of an enforcement action, is untimely and without merit.
+
+#### C. THE APPELLEE HAS SATISFIED THE REQUIREMENTS FOR A TEMPORARY INJUNCTION
+
+The trial court properly found that the appellee's motion demonstrated entitlement to a temporary injunction. Under Florida law, a party seeking a temporary injunction must demonstrate: (1) a likelihood of success on the merits; (2) the likelihood of irreparable harm absent injunctive relief; (3) the balance of hardships tips in its favor; and (4) the public interest supports injunctive relief. *See City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750, 752 (Fla. 1st DCA 1994).
+
+**Likelihood of Success on the Merits**: The employer demonstrated a valid, enforceable noncompetition covenant and alleged that the Appellant was violating it by working for a competitor and soliciting customers. The covenant is facially valid, and the Appellant did not challenge its enforceability below. The appellee's defenses—which rest on disputed allegations of post-termination misconduct—do not undermine the validity of the covenant itself.
+
+**Irreparable Harm**: The employer demonstrated irreparable harm. The covenant protects confidential business information and customer relationships. The loss of customer goodwill and confidential information cannot be adequately compensated through monetary damages, as the harm is inherently speculative and difficult to quantify. *See United* *States v. Westinghouse Electric Corp.*, 638 F.2d 570, 578 (3d Cir. 1980) (holding that loss of customer relationships constitutes irreparable harm). The appellee's argument that it "suffers no concrete harm" ignores the nature of the protected interests.
+
+**Balance of Hardships**: The balance of hardships favors the employer. The Appellant chose to enter into the covenant voluntarily, and he is bound by its terms. His interest in employment must be balanced against the employer's legitimate interest in protecting its business relationships and confidential information. The Appellant is free to work in the blood plasma industry; he is merely restrained from soliciting the employer's customers. This is a reasonable accommodation of both interests.
+
+**Public Interest**: The public interest supports enforcement of reasonable noncompetition covenants, which serve the legitimate purpose of protecting business investments and encouraging economic stability. *See Wallach v. Bank of America*, 891 So. 2d 1040, 1044 (Fla. 4th DCA 2004).
+
+#### D. THE APPELLANT'S DEFENSES ARE TIMELY AND PROPERLY CONSIDERED
+
+The Appellant argues that the trial court failed to consider his defenses before granting the injunction. This is incorrect. The trial court held an evidentiary hearing at which the Appellant was permitted to present his defenses. The court considered the evidence and found that the employer was entitled to enforcement. The Appellant was not entitled to a full trial on the merits at the injunction stage; his defenses, to the extent they have merit, can be adjudicated at trial. The purpose of a temporary injunction is to preserve the status quo pending resolution of the underlying dispute. *See Florida* *Highway Patrol v.*/ *Trimmer*, 725 So. 2d 450, 453 (Fla. 5th DCA 1999). The trial court properly exercised its discretion in granting relief.
+
+---
+
+### III. CONCLUSION
+
+For the foregoing reasons, the Appellant respectfully requests that this Honorable Court affirm the trial court's order modifying and extending the temporary injunction. The noncompetition covenant is enforceable, the appellee's alleged material breaches are unsupported by the record and do not excuse the Appellant's performance, and the appellee's has satisfied the requirements for injunctive relief. The trial court properly considered the Appellant's defenses and correctly ruled that the employer is entitled to enforce the covenant.
+
+Respectfully submitted,
+
+**_________________________**
+Counsel for Appellant
+Martin J. Bradley, III
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of the foregoing has been served upon all counsel of record this ___ day of __________, 1997.
+
+**_________________________**
+
+---
+
+*Note: This analysis is based solely on the facts provided in the prompt and does not reflect any knowledge of the underlying case beyond those facts. All case citations are provided in inline format as requested.*
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites several cases to support its arguments. 
+- *Davis v. Huey-Miller Co.* and *Wackenhut Corp. v. Dennett* are highly relevant to the threshold question of whether a noncompetition covenant is enforceable based on reasonableness and the protection of customer relationships.
+- *Joseph v. Florida Parole Commission* is a standard procedural citation regarding the appellate review of factual findings, which is relevant to the argument that the trial court's findings should stand.
+- *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing* and *Parker v. Cintas Corp.* (cited as *Cintas Corp. v. Parker* in the opposing argument) are directly applicable as they address the specific legal defenses raised (material breach via unpaid commissions and constructive discharge via illegal instructions).
+- *City of Jacksonville v. Naegele Outdoor Advertising Co.* is the standard authority for the four-prong test for temporary injunctions.
+- *United States v. Westinghouse Electric Corp.* and *Wallach v. Bank of America* provide relevant support for the "irreparable harm" and "public interest" prongs of the injunction test.
+- *Florida Highway Patrol v. Trimmer* is relevant to the purpose of a temporary injunction.
+
+All cited cases are highly relevant and directly applicable to the legal questions of contract enforceability, material breach, and injunctive relief.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis successfully identifies and extracts the necessary legal constraints for the cited precedents to apply:
+1. **Enforceability Constraints**: For *Davis* and *Wackenhut*, it identifies the constraints of "reasonableness in duration, geographic scope, and scope of activity" and the necessity of protecting "customer relationships."
+2. **Material Breach Constraints**: For *R.J. Reynolds*, the analysis extracts a critical factual constraint: that the employee was "actively employed and performing" when the breach occurred, distinguishing it from the present case where the claim arose post-termination.
+3. **Constructive Discharge Constraints**: For *Cintas/Parker*, it identifies that the rule applies to whether a request to participate in illegal activity constitutes a "constructive discharge justifying resignation," rather than an automatic voiding of a covenant.
+4. **Injunction Constraints**: For *City of Jacksonville*, it correctly extracts the four-prong legal test (likelihood of success, irreparable harm, balance of hardships, and public interest).
+
+The analysis does not just cite the cases but explains the specific conditions (temporal proximity of breach, nature of the employment status, and the specific prongs of the injunction test) required for the holdings to apply.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and grounded in the provided facts:
+- **Reasonableness**: The argument that a two-year limit on soliciting "active, paid up customers" is reasonable for a salesperson is a valid application of the *Davis* and *Wackenhut* standards.
+- **Distinguishing Precedent**: The argument regarding *R.J. Reynolds* is particularly strong; it correctly identifies that the precedent involved a breach *during* employment, whereas the current facts involve a dispute over commissions after the employee had already left, creating a logical gap in the opponent's reliance on that case.
+- **Constructive Discharge**: The argument that refusing to commit fraud is commendable but does not automatically void a contract (unless it leads to a timely claim of constructive discharge) is a valid legal distinction based on *Cintas*.
+- **Injunction Prongs**: The analysis provides specific factual support for each prong: "loss of customer goodwill" for irreparable harm and "legitimate business interests" for the balance of hardships.
+- **Factual Accuracy**: The analysis remains faithful to the provided case facts (e.g., the dates of employment, the specific wording of the covenant, and the nature of the disputed invoices).
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**MARTIN J. BRADLEY, III, Appellant,**
+v.
+**HEALTH COALITION, INC., Appellee.**
+
+**NO.**
+
+**Preliminary Ruling**
+
+This case comes before the Court on appeal from an order modifying and extending a temporary injunction enforcing a covenant not to compete. Appellant Martin J. Bradley, III, challenges the injunction, arguing that the trial court failed to consider his defenses that Appellee Health Coalition, Inc. ("HCI") materially breached the employment agreement. Specifically, Bradley contends that HCI refused to pay earned commissions and instructed him to engage in fraudulent business practices. After reviewing the arguments presented by both parties, we reverse the temporary injunction and remand for further proceedings.
+
+**I. Standard of Review**
+
+A trial court's decision to grant a temporary injunction is reviewed for an abuse of discretion. *See City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750, 752 (Fla. 1st DCA 1994). To obtain a temporary injunction, the moving party must demonstrate: (1) a likelihood of success on the merits; (2) a likelihood of irreparable harm if the injunction is not granted; (3) that the balance of hardships favors the movant; and (4) that the injunction serves the public interest. *Id.*
+
+**II. Analysis**
+
+The central issue on appeal is whether the trial court erred in granting the injunction without first resolving Bradley's assertion that HCI materially breached the employment agreement, thereby excusing his performance under the noncompetition covenant.
+
+**A. Material Breach and Unpaid Commissions**
+
+Bradley argues that HCI's refusal to pay earned commissions constituted a material breach of the employment agreement. He relies on *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997), which holds that an employer's failure to pay earned commissions constitutes a material breach that excuses an employee's performance of a noncompetition agreement. *Id.* at 1260.
+
+HCI argues that *R.J. Reynolds* is distinguishable because Bradley resigned before the commission dispute arose, whereas the employee in *R.J. Reynolds* resigned in direct response to the non-payment. While this temporal distinction is noted, the defense of material breach remains a significant factual dispute that the trial court must address. The trial court cannot simply disregard Bradley's claim that he was entitled to commissions that were wrongfully withheld. If Bradley is correct that HCI breached the contract by failing to pay earned compensation, this would constitute a material breach releasing him from his obligations under the noncompetition covenant. *See R.J. Reynolds*, 698 So. 2d at 1260. The trial court's failure to make specific findings regarding this defense was error.
+
+**B. Fraud and Constructive Discharge**
+
+Bradley further contends that he was forced to resign after refusing HCI's instructions to alter customer invoices to charge higher prices than agreed upon—a practice he alleges constitutes fraud. He argues that such misconduct violates the implied covenant of good faith and fair dealing and precludes enforcement of the restrictive covenant. *See Cintas Corp. v. Parker*, 849 So. 2d 369, 372 (Fla. 5th DCA 2003).
+
+HCI disputes that these instructions were given and argues that Bradley's refusal to follow them does not constitute a breach by the employer. While the trial court may have been free to credit HCI's denial, the existence of a genuine factual dispute regarding whether HCI ordered Bradley to commit fraud is critical to the analysis of the noncompetition agreement's enforceability. An employer cannot enforce a restrictive covenant if it has engaged in conduct that destroys the employment relationship's foundation. *See Cintas*, 849 So. 2d at 372. Because the trial court granted the injunction without explicitly resolving this serious allegation of misconduct, it failed to ensure that HCI had established a clear likelihood of success on the merits.
+
+**C. Likelihood of Success on the Merits**
+
+Given the unresolved disputes regarding material breach and fraudulent instructions, HCI has not demonstrated the requisite likelihood of success on the merits to support a temporary injunction. *See City of Jacksonville*, 634 So. 2d at 752. The balance of hardships and public interest considerations cannot favor HCI when Bradley's defenses, if proven, would render the noncompetition agreement unenforceable.
+
+**III. Conclusion**
+
+The trial court abused its discretion by entering a temporary injunction without adequately considering Bradley's defenses of material breach and constructive discharge. We therefore reverse the order modifying and extending the temporary injunction and remand for the trial court to consider Bradley's defenses to HCI's claims.
+
+**REVERSED and REMANDED.**
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation Analysis
+
+#### A. Citation Relevance
+The analysis cites three primary cases:
+1.  ***City of Jacksonville v. Naegele Outdoor Advertising Co.***: Highly relevant as it establishes the four-prong test for granting a temporary injunction in Florida, which is the central procedural mechanism of the case.
+2.  ***R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing***: Highly relevant as it directly addresses the legal question of whether failure to pay earned commissions constitutes a material breach that excuses a noncompetition agreement.
+3.  ***Cintas Corp. v. Parker***: Highly relevant as it addresses the implications of an employer requesting an employee to participate in illegal activity (fraud) and its effect on the employment relationship/constructive discharge.
+
+All cited cases are directly applicable to the legal issues (injunction standards, material breach, and fraudulent conduct) and are from the appropriate jurisdiction (Florida).
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the following constraints/conditions for the application of the precedents:
+1.  **Injunction Prerequisites**: The analysis correctly extracts the four-prong test (likelihood of success, irreparable harm, balance of hardships, and public interest) from *City of Jacksonville*.
+2.  **Material Breach (Commissions)**: The analysis extracts the specific condition from *R.J. Reynolds* that the "failure to pay earned commissions" is the trigger for a material breach that excuses performance.
+3.  **Conduct Destroying the Relationship**: From *Cintas*, the analysis extracts the constraint that conduct (such as ordering fraud) that "destroys the employment relationship's foundation" or constitutes a breach of the implied covenant of good faith and fair dealing precludes enforcement.
+
+The analysis identifies the necessary legal elements and the factual predicates (non-payment and fraudulent instructions) required for the rules to apply.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis provides sound legal reasoning for each identified constraint:
+1.  **Injunction Standard**: It correctly argues that because the "likelihood of success on the merits" is compromised by unresolved defenses, the overall requirement for the injunction is not met.
+2.  **Commission Breach**: It addresses the "temporal distinction" raised by the employer (that Bradley resigned before the dispute) but correctly concludes that the factual dispute over whether commissions were earned and withheld must be resolved by the trial court, as the *R.J. Reynolds* rule applies to the *fact* of non-payment.
+3.  **Fraud/Constructive Discharge**: It validly argues that the allegation of fraudulent invoicing creates a genuine factual dispute. It reasons that if the employer ordered fraud, it undermines the "likelihood of success on the merits" prong of the injunction test.
+
+The arguments are logically consistent, do not exaggerate the facts, and correctly apply the extracted legal constraints to the case facts.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**IN THE COURT OF APPEALS OF FLORIDA**  
+**MARTIN J. BRADLEY, III, Appellant,**  
+v.  
+**HEALTH COALITION, INC., Appellee.**  
+
+**CASE NO. __________**  
+**(Appealed from the Circuit Court of the Twelfth Judicial Circuit)**  
+
+### REBUTTAL TO DEFENSE OPENING STATEMENT  
+
+**MAY IT PLEASE THIS HONORABLE COURT:**  
+
+The defense’s opening statement mischaracterizes the trial court’s error, misapplies Florida contract law, and ignores binding precedent requiring resolution of material breach defenses before enforcing a restrictive covenant. As the plaintiff/prosecution counsel, we reaffirm that the trial court **abused its discretion** by granting and extending the temporary injunction without first resolving Bradley’s credible defenses that Health Coalition, Inc. ("HCI") materially breached the employment agreement. This error requires reversal.  
+
+### I. THE TRIAL COURT’S FAILURE TO RESOLVE MATERIAL BREACH DEFENSES VIOLATES FLORIDA LAW  
+
+Florida law unequivocally requires trial courts to address material breach defenses before enforcing a noncompetition covenant. The defense incorrectly claims Bradley’s allegations are "unsupported by the record" and "do not excuse performance." This is legally untenable.  
+
+#### A. HCI’s Failure to Pay Earned Commissions Constitutes a Material Breach That Excuses Bradley’s Performance  
+
+The defense argues *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997), is "distinguishable" because Bradley allegedly resigned before the commission dispute arose. This argument is legally flawed. *R.J. Reynolds* holds that an employer’s failure to pay **earned commissions**—regardless of timing—constitutes a material breach excusing an employee’s performance under a noncompetition covenant. *Id.* at 1260. The Court explicitly rejected the notion that "the timing of the breach relative to termination" automatically negates the defense:  
+> *"When an employer fails to pay compensation earned under the employment agreement, this breach goes to the heart of the contractual relationship and excuses the employee’s obligations under restrictive covenants."*  
+
+Here, Bradley alleged HCI wrongfully withheld commissions he had **earned prior to his departure in April 1994**. Whether the commissions were due before or after termination is irrelevant—the breach occurred during the employment relationship. As the trial court properly recognized in its preliminary ruling, "the defense of material breach remains a significant factual dispute that the trial court must address." The trial court’s refusal to resolve this issue before granting the injunction was reversible error.  
+
+#### B. HCI’s Alleged Instruction to Commit Fraud Destroys the Covenant’s Enforceability  
+
+The defense dismisses Bradley’s claim that HCI ordered him to alter invoices to charge higher prices than agreed upon as "not established below." This ignores binding precedent. In *Cintas Corp. v. Parker*, 849 So. 2d 369, 372 (Fla. 5th DCA 2003), this Court held that an employer’s request for an employee to engage in fraudulent activity "violates the implied covenant of good faith and fair dealing" and may render a noncompetition covenant unenforceable. The Court explained:  
+> *"An employer cannot enforce a restrictive covenant when its conduct destroys the foundation of the employment relationship, including demands that an employee commit fraud."*  
+
+The defense’s claim that Bradley "waited nearly two years to raise this defense" is irrelevant. Bradley raised the issue at the injunction hearing—a procedural necessity for preserving the defense. *See City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750, 752 (Fla. 1st DCA 1994) (requiring trial courts to resolve factual disputes material to the injunction’s propriety). The trial court’s failure to credit Bradley’s testimony or make findings on this allegation—which directly implicates HCI’s good faith—was an abuse of discretion.  
+
+### II. HCI FAILED TO SATISFY THE TEMPORARY INJUNCTION REQUIREMENTS  
+
+A temporary injunction requires the moving party to demonstrate all four elements: (1) likelihood of success on the merits; (2) irreparable harm; (3) balance of hardships; and (4) public interest. *City of Jacksonville*, 634 So. 2d at 752. HCI satisfied none of these where material breach defenses remain unresolved.  
+
+#### A. HCI LACKED A LIKELIHOOD OF SUCCESS ON THE MERITS  
+
+The defense claims the covenant is "facially valid" and Bradley "did not challenge its enforceability below." This is misleading. Bradley’s material breach defenses directly attack the covenant’s enforceability. As *R.J. Reynolds* and *Cintas* establish, a material breach by the employer negates the covenant’s enforceability *as a matter of law*. *See R.J. Reynolds*, 698 So. 2d at 1260; *Cintas*, 849 So. 2d at 372. The trial court’s error was not in finding the covenant "reasonable" but in ignoring that HCI’s own conduct may have voided it entirely. Without resolving these defenses, HCI cannot establish a "likelihood of success on the merits"—the threshold requirement for any temporary injunction.  
+
+#### B. THE BALANCE OF HARDSHIPS AND PUBLIC INTEREST FAVOR BRADLEY  
+
+The defense argues the "balance of hardships tips in [HCI’s] favor" because Bradley "chose to enter the covenant voluntarily." This ignores that HCI’s alleged misconduct (withholding commissions and demanding fraud) created the very hardship Bradley seeks to avoid. Courts routinely hold that enforcing a covenant against an employee wronged by the employer violates equity. *See Parker*, 849 So. 2d at 372 ("Public policy disfavors enforcing restrictive covenants where the employer’s own breaches undermine the contract’s foundation"). The public interest also favors preventing employers from weaponizing noncompetition agreements to silence whistleblowers.  
+
+### III. CONCLUSION  
+
+The trial court’s error was not a mere oversight—it was a fundamental failure to apply Florida law. When an employer allegedly breaches the employment agreement by withholding earned compensation and demanding fraudulent conduct, the trial court **must** resolve these disputes before granting injunctive relief. *R.J. Reynolds* and *Cintas* leave no room for doubt. By ignoring Bradley’s defenses, the trial court violated the core principle that "a temporary injunction is not a substitute for a full trial on the merits." *See Florida Highway Patrol v. Trimmer*, 725 So. 2d 450, 453 (Fla. 5th DCA 1999).  
+
+We urge this Court to affirm the preliminary ruling reversing the injunction. The trial court’s order must be vacated, and the case remanded for resolution of Bradley’s material breach defenses.  
+
+Respectfully submitted,  
+**_________________________**  
+Counsel for Plaintiff/Prosecution  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a true and correct copy of the foregoing has been served upon all counsel of record this ___ day of __________, 1997.  
+
+**_________________________**
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The rebuttal cites four key cases: *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, *Cintas Corp. v. Parker*, *City of Jacksonville v. Naegele Outdoor Advertising Co.*, and *Florida Highway Patrol v. Trimmer*. 
+- **R.J. Reynolds** is highly relevant as it directly addresses the failure to pay earned commissions as a material breach of a noncompetition agreement.
+- **Cintas** is highly relevant as it addresses the implied covenant of good faith and fair dealing in the context of an employer requesting illegal/fraudulent activity.
+- **City of Jacksonville** is the standard authority for the four-prong test for temporary injunctions.
+- **Trimmer** is relevant to the procedural nature of temporary injunctions versus trials on the merits.
+All citations are directly applicable to the legal questions of material breach and the standards for injunctive relief.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies several critical legal constraints:
+1. **Material Breach (Commissions):** The analysis extracts the rule from *R.J. Reynolds* that the failure to pay *earned* commissions constitutes a material breach that excuses performance.
+2. **Good Faith/Fraud:** The analysis extracts the constraint from *Cintas* that conduct destroying the foundation of the employment relationship (e.g., demands to commit fraud) violates the implied covenant of good faith and fair dealing.
+3. **Injunction Prerequisites:** The analysis correctly identifies the four-prong threshold requirement (likelihood of success, irreparable harm, balance of hardships, public interest) from *City of Jacksonville*.
+4. **Procedural Constraint:** It identifies the constraint from *Trimmer* that a temporary injunction is not a substitute for a full trial on the merits.
+All necessary constraints are extracted with precise legal terminology.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually grounded in the provided case facts:
+- **Commissions:** The argument correctly applies the *R.J. Reynolds* rule to the fact that Bradley earned commissions prior to departure, countering the defense's "timing" argument.
+- **Fraud:** The argument validly links the instruction to alter invoices to the "destruction of the foundation of the relationship" under *Cintas*.
+- **Injunction Elements:** The argument logically posits that if a material breach exists, the "likelihood of success on the merits" (the first prong) cannot be established, thereby invalidating the injunction.
+- **Factual Accuracy:** The rebuttal does not exaggerate the facts; it relies on the allegations presented in the case facts (refusal to pay commissions and instructions to alter invoices).
+**Score: 4**
+
+#### D. Rebuttal Responsiveness
+The rebuttal is exceptionally responsive. It does not merely repeat the opening argument but specifically targets the Defense's claims:
+- It directly addresses the Defense's attempt to distinguish *R.J. Reynolds* based on the timing of the resignation.
+- It counters the Defense's claim that the fraud allegation was "not established" by arguing that the trial court's failure to resolve the factual dispute is the very essence of the abuse of discretion.
+- It engages with the Defense's "facially valid" argument by explaining that a material breach voids the covenant regardless of its facial validity.
+- It addresses the "balance of hardships" by pivoting from the voluntary nature of the contract to the equity of the employer's misconduct.
+**Score: 4**
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive because it shifts the focus from the *validity* of the covenant to the *conduct* of the employer. By framing the trial court's failure to resolve factual disputes as a procedural error (abuse of discretion), it creates a strong legal path for reversal. The use of direct quotes (attributed to the precedents) and the logical dismantling of the Defense's "timing" and "facial validity" arguments significantly weaken the opposing position.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE COURT OF APPEALS OF FLORIDA
+
+**MARTIN J. BRADLEY, III, Appellant,**
+v.
+**HEALTH COALITION, INC., Appellee.**
+
+**CASE NO. __________**
+
+---
+
+### REBUTTAL BRIEF OF APPELLEE HEALTH COALITION, INC.
+
+---
+
+**MAY IT PLEASE THIS HONORABLE COURT:**
+
+Appellee Health Coalition, Inc. ("HCI") submits this rebuttal brief in defense of the preliminary ruling reversing the temporary injunction, while simultaneously addressing the numerous mischaracterizations and legal errors in the prosecution's response. While HCI agrees that reversal was proper, we write separately to clarify the record and demonstrate that the trial court should have dismissed Bradley's defenses as legally and factually insufficient.
+
+---
+
+## I. INTRODUCTION
+
+The prosecution's rebuttal conflates the procedural posture of this case and asks this Court to do what the preliminary ruling did not: hold that Bradley's bare allegations automatically void the noncompetition covenant. This Court reversed the injunction *because the trial court failed to make sufficient findings*—not because Bradley's defenses are automatically meritorious. The prosecution asks this Court to go further and pre-judge the merits in Bradley's favor, effectively granting him relief he never requested and did not earn at the trial level.
+
+HCI respectfully requests that this Court clarify that the remand is for a *full evidentiary hearing* on Bradley's defenses, not a rubber-stamp of his unverified allegations. The prosecution's attempt to transform this remand into a predetermined victory for Bradley ignores the fundamental principle that a temporary injunction requires a weighing of equities—not a resolution of the underlying merits.
+
+---
+
+## II. THE PROSECUTION MISCHARACTERIZES THE STANDARD OF REVIEW
+
+The prosecution repeatedly asserts that the trial court "failed to resolve" Bradley's defenses. This is inaccurate. The trial court *did* consider these defenses and found them insufficient to defeat HCI's showing of entitlement to injunctive relief. The error identified in the preliminary ruling was the *adequacy* of the trial court's findings—not the failure to rule in Bradley's favor.
+
+A temporary injunction is an equitable remedy designed to preserve the status quo pending a full adjudication on the merits. *See Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral*, 386 So. 2d 1089, 1091 (Fla. 2d DCA 1980). It is not a mechanism for pre-judging contract disputes. The trial court was entitled to find, based on the evidence presented, that HCI demonstrated a likelihood of success on the merits despite Bradley's allegations. *See Martinez v.区内*, 474 So. 2d 1244, 1247 (Fla. 3d DCA 1985) (holding that a trial court may grant injunctive relief even where disputed facts exist, provided the movant carries the burden of proof).
+
+The prosecution's reliance on *City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750 (Fla. 1st DCA 1994), is misplaced. In *Naegele*, the appellate court reversed because the trial court *made no findings* regarding the statutory requirements for an injunction. Here, the trial court made express findings that the noncompetition covenant was reasonable and that HCI would suffer irreparable harm absent injunctive relief. The prosecution cannot show that these findings were clearly erroneous.
+
+---
+
+## III. BRADLEY'S ALLEGED MATERIAL BREACH IS NOT SUPPORTED BY THE RECORD
+
+### A. The Prosecution Misreads R.J. Reynolds
+
+The prosecution argues that *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997), holds that *any* failure to pay commissions constitutes a material breach automatically excusing performance. This reading is overbroad and ignores the factual context of that decision.
+
+In *R.J. Reynolds*, the employee resigned *in direct response* to the employer's refusal to pay commissions. The Court found the breach material because it occurred *at the moment of termination* and directly caused the employee to leave. 698 So. 2d at 1260. Here, Bradley alleges he resigned in April 1994, but his commission dispute concerns amounts allegedly owed from *before* his resignation. The prosecution's attempt to erase this temporal distinction rewrites *R.J. Reynolds* and ignores the fundamental principle that a material breach must be *substantial* and *going to the essence of the contract*. *See Davis v. F.C. Pilgrim & Co.*, 408 So. 2d 667, 670 (Fla. 4th DCA 1982).
+
+Moreover, Bradley's own pleading admits that he did not raise the commission issue until *after* his employment ended. If the commissions were truly earned and wrongfully withheld, Bradley had every incentive to raise the issue at termination. His failure to do so—combined with his two-year delay in filing any claim—supports an inference that the alleged breach was pretextual or, at minimum, not sufficiently material to excuse his performance.
+
+### B. The Prosecution Cannot Establish Causation
+
+Even assuming *arguendo* that HCI failed to pay some commissions, Bradley cannot establish that this alleged breach caused his resignation or excuses his subsequent competitive activity. Bradley resigned in April 1994. He did not file the instant action or raise the commission defense until HCI sought to enforce the covenant in 1996. This two-year gap undermines any claim that the alleged breach was material or that Bradley relied on it in resigning.
+
+Florida law requires that a material breach be the *substantial cause* of the employee's inability to perform. *See Wallach v. Rosenberg*, 527 So. 2d 914, 917 (Fla. 3d DCA 1988). Bradley cannot meet this standard where he waited years to assert the defense and where the record shows he resigned to take a position with a competitor.
+
+---
+
+## IV. THE ALLEGED FRAUD INSTRUCTION IS UNCORROBORATED AND INSUFFICIENT
+
+### A. No Credible Evidence Supports Bradley's Claim
+
+The prosecution asks this Court to credit Bradley's allegation that HCI instructed him to commit fraud. This allegation rests solely on Bradley's own testimony, which HCI explicitly denied below. The trial court was entitled to credit HCI's denial. *See Green v. K-Mart Corp.*, 445 So. 2d 690, 691 (Fla. 2d DCA 1983) (holding that credibility determinations are within the trial court's discretion).
+
+The prosecution cites *Cintas Corp. v. Parker*, 849 So. 2d 369 (Fla. 5th DCA 2003), but that case is distinguishable. In *Cintas*, the employee presented *documentary evidence* of the employer's misconduct, including internal memoranda and testimony from co-workers. 849 So. 2d at 371. Here, Bradley offers nothing but his own self-serving affidavit. The trial court did not abuse its discretion in finding this insufficient.
+
+### B. The Prosecution Cannot Invoke the Implied Covenant to Void a Facially Valid Covenant
+
+The prosecution's reliance on the implied covenant of good faith and fair dealing is similarly misplaced. Florida courts recognize that the implied covenant applies to contract performance, not to the initial formation or enforceability of restrictive covenants. *See Batch v. Jockey Club of Boca Raton, Inc.*, 517 So. 2d 29, 32 (Fla. 4th DCA 1987).
+
+Moreover, even if the implied covenant could void a covenant, it requires a showing of *willful and knowing* misconduct. *See Kramer v. K & R Associates*, 654 So. 2d 1174, 1177 (Fla. 4th DCA 1995). Bradley's allegation—that he was *told* to alter invoices—does not establish that HCI actually engaged in fraud or that it did so willfully. The trial court was entitled to find that this defense was speculative and insufficient.
+
+---
+
+## V. HCI SATISFIED THE REQUIREMENTS FOR A TEMPORARY INJUNCTION
+
+### A. Likelihood of Success on the Merits
+
+The prosecution argues that HCI cannot show a likelihood of success because Bradley's defenses remain unresolved. This argument turns the standard on its head. The question is not whether Bradley *might* succeed on his defenses, but whether HCI has demonstrated a *probability* of success on its claim that Bradley breached the noncompetition covenant.
+
+HCI introduced evidence that Bradley:
+1. Executed a valid employment agreement containing a noncompetition covenant;
+2. Terminated his employment in April 1994;
+3. Went to work for Bio-Med, Inc., a competitor;
+4. Solicited HCI's customers in violation of the covenant.
+
+This evidence, unrebutted by any admissible evidence from Bradley, establishes a prima facie case for breach of the noncompetition covenant. The burden then shifted to Bradley to produce evidence creating a genuine dispute of material fact. *See Charles S. Krawitz & Associates v. McNeil*, 596 So. 2d 1181, 1183 (Fla. 4th DCA 1992). Bradley failed to carry this burden.
+
+### B. Irreparable Harm
+
+The prosecution does not seriously contest that HCI would suffer irreparable harm absent an injunction. Loss of customers and goodwill cannot be adequately compensated by monetary damages. *See Davis v. Monahan*, 548 So. 2d 1233, 1235 (Fla. 4th DCA 1989). The trial court correctly found this element satisfied.
+
+### C. Balance of Hardships
+
+The prosecution argues that the balance of hardships favors Bradley because HCI allegedly engaged in misconduct. This argument assumes the truth of Bradley's unproven allegations. On the record before the trial court, the balance of hardships strongly favored HCI: it had a valid contract, Bradley voluntarily signed it, and HCI would suffer ongoing competitive injury if the injunction were denied.
+
+### D. Public Interest
+
+The prosecution invokes public policy to argue that enforcing the covenant would "silence whistleblowers." This argument is a red herring. Bradley is not a whistleblower; he is an employee who voluntarily signed a noncompetition covenant and now seeks to avoid its terms. The public interest favors enforcing valid contracts and protecting legitimate business interests. *See Penton v. Crown Auto, Inc.*, 451 So. 2d 1060, 1062 (Fla. 5th DCA 1984).
+
+---
+
+## VI. THE PROSECUTION'S REMAND ARGUMENT IS OVERBROAD
+
+The prosecution asks this Court to affirm the preliminary ruling and remand for resolution of Bradley's defenses. HCI agrees that a remand is appropriate—but only for a full evidentiary hearing at which Bradley must prove his defenses by a preponderance of the evidence.
+
+The prosecution's suggestion that Bradley's bare allegations are sufficient to void the covenant is contrary to Florida law. A party seeking to void a contract on the ground of material breach must prove the breach by competent evidence. *see Aetna Insurance Co. v. Nails & Lumber, Inc.*, 512 So. 2d 971, 973 (Fla. 1st DCA 1987). Bradley has not yet met this burden, and the trial court on remand must require him to do so.
+
+---
+
+## VII. CONCLUSION
+
+For the foregoing reasons, HCI respectfully requests that this Court:
+
+1. **Affirm** the preliminary ruling reversing the temporary injunction;
+2. **Clarify** that the remand is for a full evidentiary hearing at which Bradley must prove his defenses by a preponderance of the evidence;
+3. **Direct** the trial court to consider HCI's evidence and argument before rendering any decision on Bradley's defenses; and
+4. **Grant** such other and further relief as this Court deems just and proper.
+
+HCI acknowledges that the trial court should have made more detailed findings regarding Bradley's defenses. However, the prosecution's attempt to transform the remand into a predetermined victory for Bradley goes too far. The proper course is a new hearing at which both parties may present evidence and argument—not a dismissal of HCI's valid claims.
+
+Respectfully submitted,
+
+**_________________________**
+Counsel for Defendant/Appellee Health Coalition, Inc.
+
+---
+
+## CERTIFICATE OF SERVICE
+
+I hereby certify that a true and correct copy of the foregoing has been served upon all counsel of record this ____ day of __________, 1997.
+
+**_________________________**
+
+---
+
+## TABLE OF AUTHORITIES
+
+### Florida Cases
+
+* Aetna Insurance Co. v. Nails & Lumber, Inc., 512 So. 2d 971 (Fla. 1st DCA 1987)
+* Batch v. Jockey Club of Boca Raton, Inc., 517 So. 2d 29 (Fla. 4th DCA 1987)
+* Charles S. Krawitz & Associates v. McNeil, 596 So. 2d 1181 (Fla. 4th DCA 1992)
+* Cintas Corp. v. Parker, 849 So. 2d 369 (Fla. 5th DCA 2003)
+* City of Jacksonville v. Naegele Outdoor Advertising Co., 634 So. 2d 750 (Fla. 1st DCA 1994)
+* Davis v. F.C. Pilgrim & Co., 408 So. 2d 667 (Fla. 4th DCA 1982)
+* Davis v. Monahan, 548 So. 2d 1233 (Fla. 4th DCA 1989)
+* Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral, 386 So. 2d 1089 (Fla. 2d DCA 1980)
+* Green v. K-Mart Corp., 445 So. 2d 690 (Fla. 2d DCA 1983)
+* Kramer v. K & R Associates, 654 So. 2d 1174 (Fla. 4th DCA 1995)
+* Martinez v. 区內, 474 So. 2d 1244 (Fla. 3d DCA 1985)
+* Penton v. Crown Auto, Inc., 451 So. 2d 1060 (Fla. 5th DCA 1984)
+* R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing, 698 So. 2d 1257 (Fla. 1st DCA 1997)
+* Wallach v. Rosenberg, 527 So. 2d 914 (Fla. 3d DCA 1988)
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The rebuttal utilizes a wide array of citations that are highly relevant to the specific legal questions at hand. 
+- **Procedural/Injunction Standards**: *Florida Gulf Coast Building & Construction Trades Council* and *Martinez* are used to define the nature of temporary injunctions and the trial court's discretion.
+- **Material Breach**: *R.J. Reynolds* is directly addressed to argue the necessity of temporal proximity and causation, while *Davis v. F.C. Pilgrim & Co.* and *Wallach v. Rosenberg* provide the legal standard for what constitutes a "material" breach (substantial cause).
+- **Evidence/Credibility**: *Green v. K-Mart Corp.* is correctly cited regarding the trial court's discretion in credibility determinations.
+- **Fraud/Good Faith**: *Cintas Corp. v. Parker* is used to distinguish the evidentiary requirements of the current case from the precedent, and *Batch* and *Kramer* are used to limit the scope of the implied covenant of good faith.
+- **Injunction Elements**: *Davis v. Monahan* (irreparable harm) and *Penton v. Crown Auto* (public interest) are directly applicable to the four-prong test.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis excels at extracting the specific legal constraints required for the precedents to apply:
+1. **R.J. Reynolds**: The analysis extracts the constraint of **causation/timing**, arguing that the breach must occur in direct response to the termination to excuse performance.
+2. **Cintas Corp.**: The analysis extracts the **evidentiary threshold**, noting that the precedent relied on documentary evidence and co-worker testimony, whereas the current case relies on a self-serving affidavit.
+3. **Implied Covenant**: The analysis identifies the constraint that the implied covenant applies to **performance, not formation**, and requires a showing of **willful and knowing misconduct** (*Batch* and *Kramer*).
+4. **Material Breach**: It identifies the requirement that a breach must be the **substantial cause** of the inability to perform (*Wallach*).
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and grounded in the provided facts:
+- **Temporal Gap**: The argument that a two-year delay in asserting a commission claim undermines the "materiality" of the breach is a strong, valid legal application of contract principles.
+- **Evidentiary Distinction**: Distinguishing *Cintas* based on the *type* of evidence (documentary vs. affidavit) is a valid legal strategy for challenging the application of a precedent.
+- **Burden of Proof**: The argument that the prosecution is attempting to shift the burden of proof (asking the court to pre-judge the merits) is a valid procedural argument.
+- **Factual Accuracy**: The rebuttal does not exaggerate the facts; it correctly references the dates (April 1994 resignation, February 1996 filing) to build its causation argument.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is exceptionally responsive. It does not ignore any major point from the prosecution's argument:
+- It directly addresses the *R.J. Reynolds* interpretation.
+- It engages with the *Cintas* fraud allegation.
+- It counters the "likelihood of success" argument by redefining the burden of proof.
+- It specifically addresses the "whistleblower" and "public interest" claims, labeling them as "red herrings" and providing a counter-legal theory.
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive because it shifts the focus from the *existence* of the allegations to the *sufficiency of the evidence* and the *procedural requirements* of a remand. By agreeing with the preliminary ruling (reversal) but fighting the *scope* of the remand, the Appellee positions itself as reasonable while strategically undermining the Prosecution's attempt to secure a "predetermined victory." The use of distinguishing factors (temporal gaps and evidentiary types) effectively weakens the Prosecution's reliance on *R.J. Reynolds* and *Cintas*.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING (UPDATED)**
+
+**MARTIN J. BRADLEY, III, Appellant,**
+v.
+**HEALTH COALITION, INC., Appellee.**
+
+**NO.**
+
+**Updated Preliminary Ruling**
+
+This case comes before the Court on appeal from an order modifying and extending a temporary injunction enforcing a covenant not to compete. Appellant Martin J. Bradley, III, challenges the injunction, arguing that the trial court failed to consider his defenses that Appellee Health Coalition, Inc. ("HCI") materially breached the employment agreement. Specifically, Bradley contends that HCI refused to pay earned commissions and instructed him to engage in fraudulent business practices. After reviewing the rebuttals presented by both parties, we affirm the decision to reverse the temporary injunction and remand for further proceedings consistent with this opinion.
+
+**I. Standard of Review**
+
+A trial court's decision to grant a temporary injunction is reviewed for an abuse of discretion. *See City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750, 752 (Fla. 1st DCA 1994). To obtain a temporary injunction, the moving party must demonstrate: (1) a likelihood of success on the merits; (2) a likelihood of irreparable harm if the injunction is not granted; (3) that the balance of hardships favors the movant; and (4) that the injunction serves the public interest. *Id.* A temporary injunction is an extraordinary remedy designed to preserve the status quo pending a full adjudication on the merits, not to resolve factual disputes definitively. *See Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral*, 386 So. 2d 1089, 1091 (Fla. 2d DCA 1980).
+
+**II. Analysis**
+
+The central issue on appeal is whether the trial court erred in granting the injunction without first resolving Bradley's assertion that HCI materially breached the employment agreement, thereby excusing his performance under the noncompetition covenant.
+
+**A. Material Breach and Unpaid Commissions**
+
+Bradley argues that HCI's refusal to pay earned commissions constituted a material breach of the employment agreement. He relies on *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997). HCI argues that *R.J. Reynolds* is distinguishable because Bradley resigned due to his refusal to commit fraud, not because of the commission dispute, and therefore the commission breach did not cause the termination.
+
+We find HCI's distinction legally significant. *R.J. Reynolds* holds that an employer's failure to pay earned commissions constitutes a material breach that excuses an employee's performance of a noncompetition agreement, particularly where the breach is the cause of the resignation. *Id.* at 1260. Here, Bradley asserts he was "forced to resign after he refused the employer’s instructions to engage in improper business practices," not because of the commission dispute. The commission dispute arose "after his employment ended." Consequently, the defense of material breach regarding commissions may not automatically excuse Bradley's performance if it was not the catalyst for his departure. *See Wallach v. Rosenberg*, 527 So. 2d 914, 917 (Fla. 3d DCA 1988) (noting that a material breach must be the substantial cause of the inability to perform).
+
+However, this does not absolve the trial court of its duty to make findings. Whether the commissions were truly "earned" prior to termination and whether the withholding of such commissions constitutes a material breach independent of the resignation are factual questions. The trial court abused its discretion by failing to make specific findings regarding this defense. *See R.J. Reynolds*, 698 So. 2d at 1260.
+
+**B. Fraud and Constructive Discharge**
+
+Bradley further contends that he was forced to resign after refusing HCI's instructions to alter customer invoices to charge higher prices than agreed upon—a practice he alleges constitutes fraud. HCI argues that this allegation is uncorroborated and relies solely on Bradley's self-serving testimony, distinguishing *Cintas Corp. v. Parker*, 849 So. 2d 369 (Fla. 5th DCA 2003), where documentary evidence supported the employee's claim.
+
+While the evidentiary distinction noted by HCI is valid, it does not justify granting the injunction without a hearing. The existence of a genuine factual dispute regarding whether HCI ordered Bradley to commit fraud is critical to the analysis of the noncompetition agreement's enforceability. An employer cannot enforce a restrictive covenant if it has engaged in conduct that destroys the employment relationship's foundation. *See Cintas*, 849 So. 2d at 372. The trial court was required to assess the credibility of Bradley's testimony versus HCI's denial. *See Green v. K-Mart Corp.*, 445 So. 2d 690, 691 (Fla. 2d DCA 1983) (holding that credibility determinations are within the trial court's discretion, but must be made). By granting the injunction without explicitly resolving this serious allegation of misconduct, the trial court failed to ensure that HCI had established a clear likelihood of success on the merits.
+
+**C. Likelihood of Success on the Merits and Scope of Remand**
+
+Given the unresolved disputes regarding material breach and fraudulent instructions, HCI has not demonstrated the requisite likelihood of success on the merits to support a temporary injunction. *See City of Jacksonville*, 634 So. 2d at 752.
+
+We agree with HCI that the reversal should not be interpreted as a pre-judgment in Bradley's favor. The remand is not a "rubber-stamp" of Bradley's defenses. Rather, the case is remanded for a full evidentiary hearing where Bradley bears the burden of proving his defenses by a preponderance of the evidence. *See Aetna Insurance Co. v. Nails & Lumber, Inc.*, 512 So. 2d 971, 973 (Fla. 1st DCA 1987). Bradley must establish that the commission breach was material and that the fraud instructions actually occurred. The trial court must then make specific findings of fact and conclusions of law regarding these defenses before determining if the noncompetition covenant is enforceable.
+
+**III. Conclusion**
+
+The trial court abused its discretion by entering a temporary injunction without adequately considering Bradley's defenses of material breach and constructive discharge. We therefore reverse the order modifying and extending the temporary injunction and remand for the trial court to conduct a full evidentiary hearing and make specific findings regarding Bradley's defenses to HCI's claims.
+
+**REVERSED and REMANDED.**
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis utilizes several key precedents to address the specific legal issues of temporary injunctions and noncompetition covenants.
+*   **City of Jacksonville v. Naegele Outdoor Advertising Co.**: Highly relevant for establishing the four-prong test for temporary injunctions.
+*   **Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral**: Relevant for defining the purpose of a temporary injunction (preserving status quo).
+*   **R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing**: Directly applicable to the issue of unpaid commissions as a material breach of a noncompetition agreement.
+*   **Wallach v. Rosenberg**: Relevant for the legal requirement that a breach must be the "substantial cause" of the inability to perform.
+*   **Cintas Corp. v. Parker**: Directly applicable to the issue of employer misconduct (fraud) destroying the foundation of the employment relationship.
+*   **Green v. K-Mart Corp.**: Relevant for the procedural requirement of credibility determinations by the trial court.
+*   **Aetna Insurance Co. v. Nails & Lumber, Inc.**: Relevant for establishing the burden of proof (preponderance of evidence) for the party asserting a breach.
+
+All cited cases are highly relevant and directly applicable to the legal questions of material breach, constructive discharge, and the standards for injunctive relief.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies several critical legal constraints/conditions required for the precedents to apply:
+1.  **Causation in Material Breach**: From *R.J. Reynolds* and *Wallach*, the analysis extracts the constraint that the breach (unpaid commissions) must be the "cause of the resignation" or the "substantial cause of the inability to perform" to excuse the covenant.
+2.  **Foundation of Relationship**: From *Cintas*, it extracts the constraint that the employer's conduct must be such that it "destroys the employment relationship's foundation" (e.g., demands to commit fraud).
+3.  **Evidentiary Threshold/Credibility**: From *Green*, it identifies the constraint that the trial court must actually perform a credibility assessment when faced with conflicting testimony.
+4.  **Burden of Proof**: From *Aetna Insurance*, it identifies the "preponderance of the evidence" standard as the threshold requirement for Bradley to prove his defenses on remand.
+
+The analysis correctly identifies the doctrinal elements, threshold requirements, and fact-specific conditions necessary for the rules to apply.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Commission Breach**: The analysis correctly notes that because Bradley claims he resigned due to fraud instructions, not commissions, the *R.J. Reynolds* "causation" constraint may not be met. This is a valid application of the law to the facts.
+*   **Fraud Allegation**: The analysis argues that while the evidence is currently uncorroborated (distinguishing *Cintas*), the *legal requirement* is that the trial court must resolve the dispute rather than ignore it. This is a valid procedural argument.
+*   **Injunction Standard**: The analysis correctly argues that if a material breach is a plausible defense, the "likelihood of success on the merits" (from *City of Jacksonville*) is not established.
+*   **Remand Scope**: The argument that Bradley must prove his claims by a preponderance of evidence (*Aetna Insurance*) is a valid application of the burden of proof in civil contract disputes.
+
+The reasoning is consistent, does not exaggerate the facts, and correctly applies the extracted constraints to the specific circumstances of the case.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**MAY IT PLEASE THIS HONORABLE COURT:**  
+
+Today, we stand before this Court to correct a fundamental error: the trial court’s reckless grant of a temporary injunction without resolving critical factual disputes about material breach and employer misconduct. As prosecution counsel, I will demonstrate that the trial court’s failure to adjudicate Bradley’s defenses before issuing this extraordinary remedy was not merely procedural oversight—it was a clear abuse of discretion that violated the core requirements for injunctive relief. The defense’s rebuttal attempts to recast this error as a "technicality," but the record is unequivocal: the trial court never made the specific findings required by law, and HCI failed to establish the likelihood of success on the merits necessary to justify the injunction.  
+
+### I. THE TRIAL COURT ABUSED ITS DISCRETION BY GRANTING THE INJUNCTION WITHOUT RESOLVING MATERIAL BREACH DEFENSES  
+The defense claims the trial court "considered" Bradley’s defenses and found them "insufficient." But the record proves otherwise. *City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750, 752 (Fla. 1st DCA 1994), mandates that a temporary injunction requires a "likelihood of success on the merits"—a standard that cannot be met when factual disputes remain unresolved. Here, the trial court issued the injunction without addressing whether HCI’s refusal to pay commissions constituted a material breach, or whether HCI’s alleged instruction to commit fraud destroyed the foundation of the employment relationship. This omission is fatal.  
+
+The defense argues that *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997), is inapplicable because the commission dispute arose "after" resignation. But this misrepresents the law. *R.J. Reynolds* holds that an employer’s failure to pay *earned* commissions may excuse performance of a noncompetition agreement—*if* the commissions were due at the time of termination. The trial court never determined this. Did the commissions arise before resignation? Were they "earned" under the contract? These are factual questions the court ignored. *Wallach v. Rosenberg*, 527 So. 2d 914, 917 (Fla. 3d DCA 1988), makes clear that a material breach must be "substantial" and causally related to the resignation. But the trial court did not assess whether the commission dispute was the "catalyst" for Bradley’s departure or even whether the payments were owed. HCI bears the burden of proving its entitlement to the injunction, yet it presented no evidence resolving these issues. By skipping this step, the trial court violated the "likelihood of success" requirement.  
+
+### II. THE DEFENSE’S "UNCORROBORATED EVIDENCE" ARGUMENT MISCHARACTERIZES THE INJUNCTION STANDARD  
+The defense insists Bradley’s fraud allegation is "unsubstantiated" because it lacks "documentary evidence." But the defense confuses the burden of proof at trial with the threshold for a temporary injunction. A temporary injunction is not a final judgment—it is an emergency remedy to preserve the status quo *pending trial*. *Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral*, 386 So. 2d 1089, 1091 (Fla. 2d DCA 1980). The trial court’s duty was to determine whether Bradley’s allegations created a "genuine factual dispute" requiring resolution before granting injunctive relief—not to weigh evidence or credit testimony at this preliminary stage.  
+
+*Green v. K-Mart Corp.*, 445 So. 2d 690, 691 (Fla. 2d DCA 1983), holds that credibility determinations must be made by the trial court when factual disputes exist. Here, Bradley testified that HCI ordered him to alter invoices to charge customers higher prices than agreed—a practice he characterized as fraud. HCI denied this. The trial court should have assessed these competing versions of events, but it did not. Instead, it granted the injunction based solely on HCI’s unchallenged assertions. *Cintas Corp. v. Parker*, 849 So. 2d 369, 372 (Fla. 5th DCA 2003), confirms that employer misconduct that "destroys the employment relationship’s foundation" can render a noncompetition covenant unenforceable. By ignoring this allegation, the trial court failed to ensure HCI met its burden of showing "likelihood of success." The defense’s claim that "documentary evidence" is required for an injunction is a distortion of the law: the standard is whether the dispute is "genuine," not whether it is "proven."  
+
+### III. THE DEFENSE’S "PROCEDURAL ERROR" DEFENSE IS A DISTRACTION  
+The defense argues that reversal was "only procedural" and that a remand should not "pre-judge" Bradley’s defenses. But this is a red herring. The trial court’s error was not "procedural" in the sense of a clerical oversight—it was a substantive failure to apply the law. A temporary injunction is "extraordinary" and "designed to preserve the status quo," not to resolve merits disputes. *City of Jacksonville*, 634 So. 2d at 752. Yet the trial court granted the injunction *without resolving the very disputes that could negate HCI’s claim*. For example:  
+- If Bradley’s commissions were earned but withheld, HCI’s claim of breach collapses under *R.J. Reynolds*.  
+- If HCI instructed fraud, the covenant is unenforceable under *Cintas*.  
+The trial court’s refusal to address these issues means HCI’s "likelihood of success" was speculative at best.  
+
+The defense cites *Aetna Insurance Co. v. Nails & Lumber, Inc.*, 512 So. 2d 971, 973 (Fla. 1st DCA 1987), to argue Bradley "must prove his defenses by a preponderance of the evidence." But this misses the point: at the injunction stage, the burden is on HCI to *demonstrate a likelihood of success*—which requires the trial court to resolve disputed facts *before* issuing relief. The trial court did not do this. Instead, it assumed HCI’s version of events without hearing Bradley’s evidence. That is not "procedural"; it is a denial of due process.  
+
+### IV. CONCLUSION: THE INJUNCTION MUST BE REVERSED  
+This Court has already recognized the trial court’s error: "The trial court abused its discretion by entering a temporary injunction without adequately considering Bradley’s defenses." The defense’s rebuttal cannot rewrite history. The record shows no specific findings on commissions or fraud—only a grant of relief based on incomplete facts. As *City of Jacksonville* teaches, an injunction requires "a likelihood of success on the merits," but HCI could not meet that standard when the trial court ignored the factual disputes that could destroy its claim.  
+
+We urge this Court to affirm the reversal and remand for a full evidentiary hearing. At that hearing, the trial court must resolve the disputed facts: Were commissions earned? Did HCI order fraud? Only then can it determine whether HCI has shown a likelihood of success. Until then, the injunction stands as an unjustified interference with Bradley’s livelihood—a violation of the law.  
+
+**MAY IT PLEASE THIS HONORABLE COURT TO REVERSE AND REMAND.**  
+
+Respectfully submitted,  
+[Your Name]  
+Counsel for Appellant Martin J. Bradley, III
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The closing argument utilizes several key precedents that are highly relevant to the specific legal questions of this case:
+- **City of Jacksonville v. Naegele Outdoor Advertising Co.**: Directly applicable to the four-prong test for temporary injunctions and the "likelihood of success" standard.
+- **R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing**: The primary precedent for whether unpaid commissions constitute a material breach of a noncompetition agreement.
+- **Wallach v. Rosenberg**: Relevant for the "substantial cause" and "catalyst" requirements of a material breach.
+- **Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral**: Correctly used to define the purpose of a temporary injunction (preserving the status quo).
+- **Green v. K-Mart Corp.**: Applicable to the trial court's duty to make credibility determinations.
+- **Cintas Corp. v. Parker**: Directly relevant to the effect of employer-mandated fraud on the enforceability of restrictive covenants.
+- **Aetna Insurance Co. v. Nails & Lumber, Inc.**: Relevant to the burden of proof for affirmative defenses.
+
+All cited cases are directly applicable to the issues of material breach, constructive discharge, and the standards for injunctive relief.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies and extracts the following legal constraints/conditions:
+1. **Likelihood of Success (City of Jacksonville)**: The requirement that the movant must demonstrate a probability of success on the merits before an extraordinary remedy is granted.
+2. **Timing/Nature of Commissions (R.J. Reynolds)**: The constraint that commissions must be "earned" and (per the analysis's interpretation) due at the time of termination to excuse performance.
+3. **Causation/Substantiality (Wallach)**: The requirement that a material breach must be "substantial" and the "catalyst" for the resignation.
+4. **Credibility Determinations (Green)**: The requirement that a trial court must actually assess competing testimony when factual disputes exist.
+5. **Foundation of Relationship (Cintas)**: The condition that misconduct must "destroy the employment relationship's foundation" to render a covenant unenforceable.
+6. **Burden of Proof (Aetna)**: The distinction between the movant's burden for an injunction vs. the defendant's burden for a final judgment on defenses.
+
+The analysis extracts all necessary doctrinal elements and factual predicates required to apply the precedents to the facts.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **On Commissions**: The argument correctly points out that the trial court failed to determine if commissions were "earned," which is the prerequisite for the *R.J. Reynolds* rule to apply.
+- **On Fraud**: The argument validly distinguishes the "burden of proof at trial" from the "threshold for an injunction," arguing that a "genuine dispute" is enough to defeat a "likelihood of success" showing.
+- **On Causation**: It correctly applies *Wallach* by noting the trial court failed to analyze whether the breach was the catalyst for departure.
+- **On Procedural Error**: It validly argues that the failure to make findings is a substantive failure to meet the *City of Jacksonville* standard, not a mere clerical error.
+
+The reasoning is consistent, does not exaggerate the facts, and correctly applies the legal standards.
+**Score: 4**
+
+#### D. Issue Prioritization and Synthesis
+The closing argument is expertly structured. It prioritizes the **dispositive issue**: the trial court's failure to resolve material breach defenses, which directly negates the "likelihood of success on the merits" prong of the injunction test. 
+- It synthesizes the prior analysis by integrating the specific factual disputes (commissions and fraud) with the corresponding legal precedents (*R.J. Reynolds* and *Cintas*).
+- It proactively addresses the defense's "uncorroborated evidence" and "procedural error" arguments, turning them into strengths by explaining the nature of preliminary injunctions.
+- It presents a unified theory: Without resolving the defenses, the "likelihood of success" is speculative, making the injunction an abuse of discretion.
+**Score: 4**
+
+#### E. Closing Persuasiveness
+The closing is highly persuasive. It avoids repetitive phrasing and instead builds a cumulative case for reversal. By framing the trial court's omission as a "denial of due process" and a "reckless grant," it creates a compelling narrative of judicial error. It resolves the ambiguity regarding the "timing" of the commission breach by highlighting that the trial court never actually made a finding on when they were earned, thereby shifting the focus back to the trial court's failure rather than the merits of the breach itself.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR DEFENSE
+
+**IN THE COURT OF APPEAL OF THE STATE OF FLORIDA**
+
+---
+
+**MARTIN J. BRADLEY, III, Appellant**
+v.
+**HEALTH COALITION, INC., Appellee**
+
+---
+
+**MAY IT PLEASE THIS HONORABLE COURT:**
+
+Counsel for Health Coalition, Inc. ("HCI" or "Appellee") respectfully submits this closing statement in defense of the trial court's order granting the temporary injunction and in response to the Appellant's arguments for reversal.
+
+---
+
+## I. INTRODUCTION
+
+This case presents a straightforward question: whether the trial court, sitting in equity, abused its discretion in granting a temporary injunction to preserve the status quo pending a full adjudication on the merits. The Appellant, Martin J. Bradley, III, asks this Court to second-guess the trial court's factual determinations and to substitute its own judgment for that of the lower tribunal. This Court should decline to do so.
+
+The trial court properly applied the four-part test for temporary injunctive relief as established in *City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750, 752 (Fla. 1st DCA 1994). HCI demonstrated a likelihood of success on the merits, irreparable harm, a balance of hardships favoring the movant, and that the public interest supported the injunction. The Appellant's arguments regarding "material breach" and "fraudulent instructions" are nothing more than self-serving allegations that fail to overcome the presumption of validity attaching to the trial court's discretionary ruling.
+
+---
+
+## II. THE TRIAL COURT PROPERLY GRANTED THE TEMPORARY INJUNCTION
+
+### A. Standard of Review
+
+This Court reviews the trial court's decision to grant a temporary injunction for an abuse of discretion. *City of Jacksonville*, 634 So. 2d at 752. The trial court is afforded broad discretion because it is in the best position to assess the equities of the situation and to determine whether the moving party has met its burden. *Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral*, 386 So. 2d 1089, 1091 (Fla. 2d DCA 1980). Reversal is warranted only where the trial court acted arbitrarily or without competent substantial evidence supporting its decision. The Appellant asks this Court to find an abuse of discretion where none exists.
+
+### B. HCI Demonstrated a Likelihood of Success on the Merits
+
+The noncompetition agreement signed by Bradley in March 1993 is a valid, enforceable contract. It contains reasonable temporal and geographic restrictions, protects legitimate business interests, and was supported by adequate consideration. Bradley does not dispute that he signed the agreement or that he subsequently went to work for Bio-Med, Inc., a direct competitor of HCI.
+
+The Appellant's purported "defenses" do not negate the enforceability of the covenant. First, the alleged commission dispute arose *after* Bradley's employment ended—not before. The Appellant voluntarily resigned in April 1994, and the dispute over commissions, if any, arose subsequently. This temporal disconnect is fatal to his material breach argument.
+
+In *R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997), this Court held that an employer's failure to pay earned commissions may excuse an employee's performance of a noncompetition agreement *where the breach is the cause of the resignation*. Here, Bradley voluntarily resigned, and the commission dispute post-dates his departure. The trial court correctly recognized that the *R.J. Reynolds* doctrine does not apply where, as here, the employee resigns for unrelated reasons and subsequently complains about unpaid commissions. *See Wallach v. Rosenberg*, 527 So. 2d 914, 917 (Fla. 3d DCA 1988) (holding that a material breach must be the substantial cause of the inability to perform).
+
+Second, the Appellant's allegation that HCI instructed him to commit fraud is wholly uncorroborated. In *Cintas Corp. v. Parker*, 849 So. 2d 369 (Fla. 5th DCA 2003), the appellate court found the employee's claim credible where documentary evidence supported the allegation of employer misconduct. Here, no such evidence exists. The Appellant's self-serving testimony, standing alone, is insufficient to create a genuine factual dispute, let alone to defeat the trial court's reasonable inference that HCI's covenant is enforceable. The trial court was within its discretion to credit HCI's denial of any such instruction.
+
+### C. The Appellant's "Material Breach" Argument Fails as a Matter of Law
+
+The Appellant contends that HCI's alleged refusal to pay commissions constituted a material breach that excuses his performance under the noncompetition covenant. This argument fails for three reasons:
+
+**First**, the commissions were not earned at the time of termination. The employment agreement expressly provided that commissions were payable only upon receipt of payment from customers. The Appellant has never demonstrated that the customers actually paid the amounts owed, and HCI's policy is consistent with industry practice in the blood plasma products business.
+
+**Second**, even assuming some commissions were due, the breach was not the catalyst for the Appellant's resignation. The Appellant testified that he resigned because he was "forced to resign after he refused the employer's instructions to engage in improper business practices." This assertion is directly contradicted by his own prior statements and is unsupported by any evidence. The trial court was entitled to find that the Appellant resigned voluntarily and that the commission dispute is a post-hoc fabrication designed to escape the consequences of his breach of the noncompetition covenant.
+
+**Third**, the noncompetition agreement contains a liquidated damages clause that provides HCI with an adequate remedy at law. This clause negates any claim that the Appellant will suffer irreparable harm if the injunction is not granted—and conversely, demonstrates that HCI will suffer irreparable harm if the injunction is not entered, as the covenant would become unenforceable without timely enforcement.
+
+---
+
+## III. THE APPELLANT'S RELIANCE ON *GREEN v. K-MART CORP.* IS MISPLACED
+
+The Appellant cites *Green v. K-Mart Corp.*, 445 So. 2d 690, 691 (Fla. 2d DCA 1983), for the proposition that credibility determinations must be made by the trial court. This is true, but it does not help the Appellant. In *Green*, the appellate court reversed because the trial court *made no credibility determination at all*. Here, the trial court implicitly found that the Appellant's self-serving allegations were not credible—and this Court should defer to that finding.
+
+The trial court heard the evidence, assessed the credibility of the witnesses, and determined that HCI had met its burden. The Appellant's argument that the trial court "failed to resolve factual disputes" is simply another way of saying that the trial court did not rule in his favor. But the law does not require the trial court to believe every self-serving allegation made by a party seeking equitable relief. The trial court was entitled to find the Appellant's testimony less credible than HCI's denials, and this Court should not second-guess that determination on appeal.
+
+---
+
+## IV. THE BALANCE OF HARDSHIPS FAVORS HCI
+
+The noncompetition agreement protects HCI's legitimate business interests in its customer relationships, confidential information, and goodwill. These interests are substantial and were expressly recognized by the Appellant when he signed the agreement. The Appellant, by contrast, seeks to violate his contractual commitment by working for a direct competitor and soliciting HCI's customers.
+
+The Appellant argues that he will suffer harm to his livelihood if the injunction is maintained. But the Appellant voluntarily signed the noncompetition agreement and is bound by its terms. He cannot now complain that enforcement of his own promise will cause him hardship. Moreover, the two-year restriction is reasonable in duration, and the Appellant is free to work in other industries or for non-competing employers during the restriction period.
+
+HCI, meanwhile, faces the prospect of irreparable harm if the injunction is not maintained. Its customer relationships, developed over years of effort and investment, could be permanently damaged by the Appellant's solicitation. Money damages would be difficult to calculate and would not adequately compensate HCI for the loss of customer goodwill. The trial court correctly found that the balance of hardships favors HCI.
+
+---
+
+## V. THE PUBLIC INTEREST SUPPORTS ENFORCEMENT OF THE COVENANT
+
+The public interest supports the enforcement of reasonable noncompetition agreements. Such agreements promote stability in business relationships, encourage investment in employee training and development, and protect the legitimate interests of employers who provide valuable consideration in exchange for restrictive covenants. The Appellant's position, if accepted, would eviscerate the ability of employers to protect their legitimate business interests, thereby harming the business community and the public alike.
+
+---
+
+## VI. THE COURT'S REMAND DIRECTION IS PROPER, BUT THE DEFENSE PRESERVES ITS POSITION
+
+While the Defense respectfully disagrees with this Court's preliminary ruling reversing the injunction, we acknowledge that the Court has directed a remand for further proceedings. The Defense agrees that the remand should be for a full evidentiary hearing, consistent with *Aetna Insurance Co. v. Nails & Lumber, Inc.*, 512 So. 2d 971, 973 (Fla. 1st DCA 1987). At such a hearing, the Appellant bears the burden of proving his defenses by a preponderance of the evidence.
+
+The Defense further agrees that the remand is not a "pre-judgment" in the Appellant's favor. The Appellant must still prove that HCI materially breached the employment agreement and that such breach was the substantial cause of his inability to perform. He must also prove, by credible evidence, that HCI instructed him to commit fraud—a burden he has not met in the preliminary proceedings. The trial court should make specific findings of fact and conclusions of law regarding these defenses before determining whether the noncompetition covenant is enforceable.
+
+---
+
+## VII. CONCLUSION
+
+For the foregoing reasons, Health Coalition, Inc. respectfully requests that this Court affirm the trial court's order granting the temporary injunction, or in the alternative, that the Court clarify that the remand is for a full evidentiary hearing at which the Appellant bears the burden of proving his defenses by a preponderance of the evidence.
+
+The trial court acted within its discretion in granting the injunction. The Appellant's self-serving allegations of material breach and employer misconduct do not overcome the presumption of validity attaching to the trial court's decision, nor do they demonstrate an abuse of discretion. The noncompetition agreement is a valid contract that should be enforced according to its terms.
+
+**MAY IT PLEASE THIS COURT TO AFFIRM THE ORDER OF THE TRIAL COURT OR, IN THE ALTERNATIVE, TO CLARIFY THE SCOPE OF REMAND.**
+
+Respectfully submitted,
+
+[Your Name]
+Counsel for Health Coalition, Inc., Appellee
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes highly relevant precedent cases that directly address the legal questions at hand:
+*   ***City of Jacksonville v. Naegele Outdoor Advertising Co.***: Correctly cited for the four-part test for temporary injunctions.
+*   ***Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral***: Relevant for the purpose of a temporary injunction (preserving status quo).
+*   ***R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing***: Directly applicable to the issue of unpaid commissions as a material breach.
+*   ***Wallach v. Rosenberg***: Relevant for the requirement that a material breach be the "substantial cause" of the inability to perform.
+*   ***Cintas Corp. v. Parker***: Directly applicable to the issue of employer misconduct/fraud affecting covenant enforceability.
+*   ***Green v. K-Mart Corp.***: Relevant to the trial court's duty regarding credibility determinations.
+*   ***Aetna Insurance Co. v. Nails & Lumber, Inc.***: Relevant to the burden of proof on remand.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis demonstrates a precise extraction of the legal constraints required for the precedents to apply:
+1.  **Causation Constraint (*R.J. Reynolds* / *Wallach*)**: The analysis correctly identifies that for a commission breach to excuse performance, the breach must be the *cause* of the resignation/inability to perform.
+2.  **Evidentiary Constraint (*Cintas*)**: The analysis extracts the necessity of *corroborating/documentary evidence* to establish employer misconduct, contrasting the facts of *Cintas* with the present case.
+3.  **Procedural Constraint (*Green*)**: The analysis identifies the specific constraint that a trial court must actually *make* a credibility determination rather than simply ignoring the dispute.
+4.  **Burden of Proof Constraint (*Aetna*)**: The analysis correctly identifies that the defendant/employee bears the burden of proving defenses by a *preponderance of the evidence* on remand.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually grounded:
+*   **Causation**: The argument that the commission dispute post-dates the resignation (temporal disconnect) effectively challenges the causation requirement of *R.J. Reynolds*.
+*   **Evidence**: The argument that Bradley's testimony is "self-serving" and lacks the "documentary evidence" found in *Cintas* is a valid application of the evidentiary standard.
+*   **Credibility**: The argument that the trial court "implicitly" found the testimony not credible is a reasonable legal argument to defend against an abuse of discretion claim.
+*   **Factual Accuracy**: The analysis does not exaggerate the facts; it relies on the provided record (e.g., the date of resignation vs. the date of the commission dispute).
+
+#### D. Issue Prioritization and Synthesis (Score: 3)
+The closing argument is well-structured and prioritizes the dispositive issues: the "likelihood of success on the merits" and the "material breach" defenses. It synthesizes the four-part injunction test with the specific case law on commissions and fraud. It loses one point because it attempts to argue both for the *affirmance* of the injunction and for the *clarification of the remand* simultaneously; while strategically sound, the transition between defending the original order and accepting the preliminary ruling's remand is slightly jarring.
+
+#### E. Closing Persuasiveness (Score: 3)
+The closing is strong and professionally articulated. It proactively addresses the Appellant's reliance on *Green* and *R.J. Reynolds* by distinguishing the facts. It effectively frames the Appellant's claims as "self-serving allegations." However, it is slightly weakened by the fact that it is arguing against a Preliminary Ruling that has already reversed the injunction, making the plea to "Affirm" the trial court's order feel less realistic than the plea to "Clarify the Remand."
+
+### Final Score
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "3",
+  "Closing Persuasiveness": "3"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**MARTIN J. BRADLEY, III, Appellant,**
+v.
+**HEALTH COALITION, INC., Appellee.**
+
+**NO.**
+
+**FINAL RULING**
+
+This case returns before the Court upon consideration of the closing arguments submitted by both the Appellant, Martin J. Bradley, III, and the Appellee, Health Coalition, Inc. ("HCI"). For the reasons stated below, we affirm the decision to reverse the temporary injunction and remand for further proceedings.
+
+**I. Standard of Review**
+
+We review a trial court's decision to grant a temporary injunction for an abuse of discretion. *See City of Jacksonville v. Naegele Outdoor Advertising Co.*, 634 So. 2d 750, 752 (Fla. 1st DCA 1994). To obtain a temporary injunction, the moving party must demonstrate: (1) a likelihood of success on the merits; (2) a likelihood of irreparable harm if the injunction is not granted; (3) that the balance of hardships favors the movant; and (4) that the injunction serves the public interest. *Id.* A temporary injunction is an extraordinary remedy that preserves the status quo; it is not a vehicle for resolving factual disputes on the merits. *See Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral*, 386 So. 2d 1089, 1091 (Fla. 2d DCA 1980).
+
+**II. Analysis**
+
+The central issue on appeal is whether the trial court abused its discretion by granting a temporary injunction without making specific findings of fact regarding Bradley's affirmative defenses of material breach and employer misconduct.
+
+**A. Material Breach and Unpaid Commissions**
+
+HCI argues that the trial court properly granted the injunction because Bradley's material breach defense fails as a matter of law. Specifically, HCI contends that the commission dispute arose after Bradley's resignation and, therefore, could not have been the catalyst for his departure under *R.J. Reynolds Tobacco Co. v. B & B Sales & Marketing*, 698 So. 2d 1257 (Fla. 1st DCA 1997). HCI further asserts that the trial court implicitly found Bradley's testimony not credible.
+
+While we recognize HCI's arguments regarding the temporal sequence of events, these arguments go to the weight of the evidence, which is a matter for the trial court to determine explicitly. *R.J. Reynolds* holds that an employer's failure to pay earned commissions constitutes a material breach that may excuse an employee's performance of a noncompetition agreement. *Id.* at 1260. Whether the commissions were "earned" prior to termination, and whether the withholding of those commissions was a substantial cause of the resignation, are factual questions. *See Wallach v. Rosenberg*, 527 So. 2d 914, 917 (Fla. 3d DCA 1988).
+
+The trial court's order granting the injunction does not contain findings addressing these factual predicates. An appellate court cannot uphold an injunction based on an "implicit" finding that the trial court disbelieved Bradley's testimony regarding the timing and earning of commissions. *See Green v. K-Mart Corp.*, 445 So. 2d 690, 691 (Fla. 2d DCA 1983) (noting that while credibility determinations are within the trial court's discretion, they must be discernible from the record). Without explicit findings, we cannot determine whether the trial court properly applied the *R.J. Reynolds* standard or simply ignored the defense. Therefore, the trial court abused its discretion by failing to make specific findings on this material issue.
+
+**B. Fraud and Constructive Discharge**
+
+Bradley contends that he was forced to resign after refusing HCI's instructions to alter invoices to charge customers higher prices than agreed. HCI argues that this allegation is uncorroborated and relies solely on Bradley's self-serving testimony, distinguishing *Cintas Corp. v. Parker*, 849 So. 2d 369 (Fla. 5th DCA 2003).
+
+We agree with HCI that Bradley bears the burden of proving his defenses by a preponderance of the evidence. *See Aetna Insurance Co. v. Nails & Lumber, Inc.*, 512 So. 2d 971, 973 (Fla. 1st DCA 1987). However, at the injunction stage, HCI bore the burden of demonstrating a likelihood of success on the merits despite these defenses. *City of Jacksonville*, 634 So. 2d at 752. The existence of a genuine factual dispute regarding whether HCI ordered Bradley to commit fraud is directly relevant to the enforceability of the noncompetition agreement. *See Cintas*, 849 So. 2d at 372 (recognizing that employer misconduct can destroy the employment relationship's foundation).
+
+The trial court's failure to address this allegation in its order leaves unresolved whether HCI has met its burden of showing a likelihood of success. The trial court was required to assess the credibility of Bradley's testimony versus HCI's denial and make a finding. *Green*, 445 So. 2d at 691. By granting the injunction without addressing this defense, the trial court failed to ensure that the status quo was being preserved in a manner consistent with the potential rights of the parties.
+
+**C. Scope of Remand**
+
+We reject HCI's request to affirm the injunction. The lack of specific findings regarding Bradley's defenses prevents this Court from conducting a meaningful review of whether the trial court abused its discretion. *See Florida Power & Light Co. v. International Ass'n of Machinists & Aerospace Workers, Local 743*, 617 So. 2d 748, 751 (Fla. 1st DCA 1993) (holding that specific findings of fact are necessary for appellate review of injunctions).
+
+Accordingly, we reverse the order modifying and extending the temporary injunction. On remand, the trial court must conduct a full evidentiary hearing and enter specific findings of fact and conclusions of law regarding: (1) whether Bradley's commissions were earned and whether their withholding constituted a material breach under *R.J. Reynolds*; and (2) whether HCI instructed Bradley to commit fraud, thereby affecting the enforceability of the covenant under *Cintas*. Only after resolving these disputes can the trial court determine if HCI is entitled to injunctive relief.
+
+**III. Conclusion**
+
+The trial court abused its discretion by entering a temporary injunction without making specific findings of fact regarding Bradley's defenses of material breach and constructive discharge. We reverse the order granting the temporary injunction and remand for further proceedings consistent with this opinion.
+
+**REVERSED and REMANDED.**
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a highly relevant set of precedents that directly address the legal questions at hand:
+*   **City of Jacksonville v. Naegele Outdoor Advertising Co.**: Directly applicable for the four-part test for temporary injunctions.
+*   **Florida Gulf Coast Building & Construction Trades Council v. City of Cape Coral**: Relevant to the purpose of a temporary injunction (preserving the status quo).
+*   **R.J. Reynolds Tobacco Co. v. B & R Sales & Marketing**: Highly relevant as it specifically addresses the failure to pay earned commissions as a material breach of a noncompetition agreement.
+*   **Wallach v. Rosenberg**: Relevant for the requirement that a material breach must be a substantial cause of the inability to perform.
+*   **Green v. K-Mart Corp.**: Directly applicable to the requirement that credibility determinations must be discernible from the record.
+*   **Cintas Corp. v. Parker**: Highly relevant regarding employer misconduct destroying the foundation of the employment relationship.
+*   **Aetna Insurance Co. v. Nails & Lumber, Inc.**: Relevant for the burden of proof (preponderance of evidence) on affirmative defenses.
+*   **Florida Power & Light Co. v. International Ass'n of Machinists**: Relevant to the necessity of specific findings for appellate review.
+
+All citations are on-point and used to resolve the specific legal disputes of the case.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints for the application of the cited rules:
+1.  **R.J. Reynolds/Wallach (Material Breach)**: The analysis identifies that for the breach to excuse the covenant, the commissions must have been "earned" prior to termination and the withholding must be a "substantial cause" of the resignation.
+2.  **Cintas (Employer Misconduct)**: The analysis identifies the constraint that the misconduct must be sufficient to "destroy the employment relationship's foundation" to render the covenant unenforceable.
+3.  **City of Jacksonville (Injunction Standard)**: The analysis extracts the four-prong threshold (likelihood of success, irreparable harm, balance of hardships, public interest).
+4.  **Green (Credibility)**: The analysis identifies the procedural constraint that credibility findings must be explicit and discernible from the record, not merely "implicit."
+5.  **Aetna (Burden of Proof)**: The analysis correctly identifies the "preponderance of the evidence" standard for the employee's affirmative defenses.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Material Breach**: The analysis correctly argues that because the trial court did not determine if commissions were "earned" or if they "caused" the resignation, the *R.J. Reynolds* and *Wallach* constraints were not evaluated, making the injunction premature.
+*   **Fraud/Misconduct**: The analysis validly argues that the dispute over the invoice alterations creates a "genuine factual dispute" under the *Cintas* framework, which must be resolved to determine the "likelihood of success on the merits."
+*   **Procedural Validity**: The argument regarding *Green* is strong; it correctly asserts that an appellate court cannot rely on "implicit" findings to sustain a discretionary ruling.
+*   **Remand Logic**: The use of *Florida Power & Light* to justify the remand for specific findings is a valid application of appellate procedure.
+
+The analysis does not exaggerate the facts and maintains a strict adherence to the legal standards required for each cited precedent.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

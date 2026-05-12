@@ -1,0 +1,924 @@
+COURT ARENA LOG - Case 172
+FACTS:
+Appellants challenge the district courtâs grant of summary judgment to respondent in which the district court determined that MinmStat. Â§ 124D.10, subd. 9, does not extend a preference for admission to residents where a charter school is located. We affirm.
+
+FACTS
+
+On March 6, 2008, appellant Matthew J. Look commenced this action against respondent PACT Charter School (the school) seeking, in relevant part, a declaratory judgment from the district court interpreting Minn.Stat. Â§ 124D.10, subd. 9 as applying the âproximity preferenceâ articulated in the statute to the children of individuals, such as appellants, who are residents of  Ramsey. The school is a charter school located in Ramsey, enrolling students in classes from kindergarten through the 12th grade.
+
+During the pendency of this case, appellant Lookâs son was selected for admission to the school through a lottery system used by the school to select students for admission.1 After Lookâs son was selected *677for admission, the parties agreed to allow Look to amend the complaint to name his attorney, appellant John P. Dehen, as an additional plaintiff on behalf of Dehenâs minor daughter, who had not been selected for admission."
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+MAY IT PLEASE THE COURT:  
+
+Today, this Court considers whether the district court erred in granting summary judgment to PACT Charter School on the question of whether Minnesota Statute § 124D.10, subdivision 9, imposes a "proximity preference" for residents of Ramsey County where the school is located. The answer is unequivocally no. The district court correctly interpreted the statute’s plain language, which contains no such preference, and its ruling was fully consistent with binding precedent. We respectfully submit that this Court should affirm.  
+
+The district court’s grant of summary judgment was legally sound because the statute’s text is unambiguous and requires no judicial interpretation beyond its clear terms. As this Court has repeatedly emphasized, "when the language of a statute is clear and unambiguous, courts must give effect to that plain meaning without resorting to other rules of construction." *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988). Here, Minn. Stat. § 124D.10, subd. 9, contains no language suggesting that residency within the school’s geographic location creates any admission preference. The statute’s silence on geographic preferences is decisive: courts cannot rewrite statutory text to insert provisions that do not exist. *See State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001) ("Courts are not permitted to add words to a statute or to read into it provisions not included by the legislature.").  
+
+This interpretation is not merely plausible—it is mandated by controlling precedent. In *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), this Court directly addressed the precise issue before us. It held that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school’s location." *Id.* at 244. The court rejected arguments identical to those advanced by appellants here, emphasizing that charter schools must follow the statutory enrollment framework without judicially imposed geographic preferences. This precedent is dispositive: it forecloses any claim that § 124D.10, subd. 9, requires a proximity preference for Ramsey residents.  
+
+The undisputed facts further confirm the district court’s ruling. As the record shows, PACT Charter School administered admissions through a neutral lottery system—consistent with the statute’s requirements—without any geographic preference. Look’s son was admitted via that lottery, while Dehen’s daughter was not. This outcome reflects the statute’s operation, not a defect in its application. Appellants’ attempt to transform a lottery-based admission process into a de facto proximity preference ignores the plain terms of the law and seeks to impose a preference the legislature never enacted. Such an approach would violate the fundamental principle that courts must apply statutes as written, not as litigants wish them to be.  
+
+Finally, summary judgment was entirely appropriate here. As this Court has held, summary judgment is proper "when the moving party shows that there is no genuine issue as to any material fact and that the party is entitled to judgment as a matter of law." *Rouse v. Dunkin’ Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999). Because the statute’s meaning is unambiguous and settled by precedent, no factual dispute existed regarding whether a proximity preference applies. The district court correctly resolved the matter as a question of law.  
+
+For these reasons, the district court did not err. This Court should affirm its judgment.  
+
+Respectfully submitted,  
+[Plaintiff/Prosecution Counsel]
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites four cases, all of which are highly relevant to the legal question:
+1. **State v. Alth**: Directly relevant to the standard of statutory interpretation (plain meaning rule).
+2. **State v. Thiel**: Directly relevant to the prohibition against judicially adding words to a statute.
+3. **In re Charter School of Minneapolis**: This is the "smoking gun" citation. It addresses the exact same statute ($\S 124D.10, \text{subd. } 9$) and the exact same legal issue (residency preference in charter schools).
+4. **Rouse v. Dunkin’ Donuts of Am., Inc.**: Directly relevant to the standard for granting summary judgment.
+
+All citations are applicable and used to build a logical progression from the general rules of interpretation to the specific precedent and the procedural standard.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions for the rules to apply:
+1. **Statutory Interpretation Constraint**: For the "plain meaning" rule to apply (*Alth*), the language of the statute must be "clear and unambiguous."
+2. **Judicial Restraint Constraint**: For the prohibition on adding words to apply (*Thiel*), the provision must be "not included by the legislature."
+3. **Precedent Application Constraint**: For *In re Charter School of Minneapolis* to be dispositive, the issue must be whether $\S 124D.10, \text{subd. } 9$ authorizes a preference based on residency within the school's location.
+4. **Summary Judgment Constraint**: For summary judgment to be proper (*Rouse*), the moving party must show "no genuine issue as to any material fact" and entitlement to judgment "as a matter of law."
+
+The analysis correctly extracts the doctrinal elements (the "tests") required to trigger the holdings of the cited cases.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1. **Plain Meaning**: The argument asserts the statute is silent on geographic preferences, thus meeting the "unambiguous" constraint.
+2. **Judicial Restraint**: The argument correctly posits that creating a proximity preference would require "adding words" to the statute, which is prohibited.
+3. **Precedent**: The analysis correctly aligns the facts of the current case (a challenge to the lack of proximity preference under $\S 124D.10, \text{subd. } 9$) with the holding in *In re Charter School of Minneapolis*.
+4. **Summary Judgment**: The argument validly claims that because the statute's meaning is a question of law (settled by precedent), there are no material facts in dispute, satisfying the *Rouse* standard.
+
+The reasoning is cohesive, and there is no exaggeration of the facts (e.g., it correctly notes the lottery system and the specific outcomes for Look's son and Dehen's daughter).
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+MAY IT PLEASE THE COURT:
+
+Respondent PACT Charter School respectfully submits this opening brief in opposition to Appellant's appeal and in defense of the district court's grant of summary judgment.
+
+## INTRODUCTION
+
+This case presents a straightforward question of statutory interpretation: does Minnesota Statute § 124D.10, subdivision 9, provide a geographic "proximity preference" for residents of the municipality where a charter school is located? The answer, as the district court correctly determined, is no. The statute's plain language contains no such preference, and this Court need not look beyond the text to resolve this matter. We urge this Court to affirm the district court's judgment.
+
+## I. THE STATUTE'S PLAIN LANGUAGE CONTROLS
+
+The fundamental principle of statutory interpretation in Minnesota is that when statutory language is unambiguous, courts must give effect to its plain meaning. *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982). Here, Minn. Stat. § 124D.10, subd. 9, is unambiguous.
+
+The statute provides, in relevant part, for charter school enrollment procedures. It establishes that charter schools must admit students on a lottery basis when applications exceed available space. Critically, the statute contains no language whatsoever creating, granting, or implying any preference for residents of the municipality where the charter school is located.
+
+As this Court held in *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988), "when the language of a statute is clear and unambiguous, courts must give effect to that plain meaning without resorting to other rules of construction." The legislature knew how to create geographic preferences when it wished to do so. Having failed to include such language in § 124D.10, subd. 9, this Court cannot insert provisions the legislature did not enact. *See State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001) ("Courts are not permitted to add words to a statute or to read into it provisions not included by the legislature.").
+
+## II. BINDING PRECEDENT forecloses APPELLANTS' CLAIM
+
+This Court need not write on a blank slate. In *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), the Court directly addressed whether Minn. Stat. § 124D.10, subd. 9, authorizes a residency preference. The Court concluded that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school's location." *Id.* at 244.
+
+Appellants ask this Court to disregard this binding authority and reach the opposite result on an identical statutory provision. This Court should decline. Under the doctrine of *stare decisis*, the ruling in *In re Charter School of Minneapolis* controls the outcome here. The statute has not been amended in any material respect since that decision, and no subsequent authority has called its reasoning into question.
+
+## III. THE FACTS DO NOT SUPPORT APPELLANTS' CLAIM
+
+The undisputed facts demonstrate that PACT Charter School administered its admissions process in full compliance with the statute. The school utilized a neutral lottery system to select students for admission when applications exceeded available slots. This process is precisely what Minn. Stat. § 124D.10, subd. 9, requires.
+
+Notably, Appellant Look's son was actually selected for admission through this lottery system. The fact that Appellant Dehen's daughter was not selected does not establish a statutory violation—it reflects the random operation of the lottery as contemplated by law. Neither appellant can demonstrate that the school denied admission to any student entitled to preference under the statute, because no such preference exists.
+
+Appellants' argument appears to conflate the absence of a statutory preference with an alleged wrongful act by the school. This logical error should be rejected. The school followed the statute; the statute provides no geographic preference; therefore, no violation occurred.
+
+## IV. SUMMARY JUDGMENT WAS PROPER
+
+Summary judgment is appropriate when "the moving party shows that there is no genuine issue as to any material fact and that the party is entitled to judgment as a matter of law." *Rouse v. Dunkin' Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999). Here, the material facts are undisputed: the statute contains no geographic preference language, and the school followed the statutory lottery framework. The only question is one of law—whether the statute provides a proximity preference—and that question is resolved by the statute's plain text and controlling precedent.
+
+The district court properly granted summary judgment because no factual dispute existed regarding the applicability of a preference that simply does not exist in the statute.
+
+## CONCLUSION
+
+For the foregoing reasons, Respondent respectfully requests that this Court affirm the district court's grant of summary judgment.
+
+Respectfully submitted,
+
+**[Defense Counsel]**
+**Counsel for Respondent PACT Charter School**
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation Analysis
+
+#### A. Citation Relevance
+The analysis cites five cases, all of which are highly relevant to the legal questions at hand:
+1. **Blue Cross & Blue Shield of Minn. v. Minn. Tax Court**: Directly relevant to the foundational rule of statutory interpretation (plain meaning).
+2. **State v. Alth**: Directly relevant to the rule that clear and unambiguous language precludes other rules of construction.
+3. **State v. Thiel**: Directly relevant to the prohibition against judicially adding words to a statute.
+4. **In re Charter School of Minneapolis**: This is the "smoking gun" precedent. It addresses the exact same statute (§ 124D.10, subd. 9) and the exact same legal question (residency preference).
+5. **Rouse v. Dunkin' Donuts of Am., Inc.**: Directly relevant to the standard for granting summary judgment.
+
+All citations are applicable, and the inclusion of a case specifically interpreting the statute in question makes the relevance score maximal.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions for the cited rules to apply:
+1. **Statutory Interpretation Constraint**: For the "plain meaning" rule (*Blue Cross*, *Alth*) to apply, the language must be "clear and unambiguous." The analysis explicitly identifies this threshold.
+2. **Judicial Restraint Constraint**: For the rule in *Thiel* to apply, there must be an attempt to "add words" or "read into" a statute provisions not included by the legislature.
+3. **Precedent Application Constraint**: For *In re Charter School of Minneapolis* to be dispositive, the legal issue must be identical (residency preference under § 124D.10, subd. 9) and the statute must not have been materially amended. The analysis identifies both the identical issue and the lack of subsequent amendment.
+4. **Summary Judgment Constraint**: For *Rouse* to apply, the moving party must show "no genuine issue as to any material fact" and entitlement to judgment "as a matter of law."
+
+The analysis correctly extracts the doctrinal elements and threshold requirements for every case cited.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1. **Plain Meaning**: The argument that the statute is unambiguous because it "contains no language whatsoever" regarding geographic preference is a valid application of the *Alth* and *Blue Cross* constraints.
+2. **Judicial Restraint**: The argument that the court cannot insert a proximity preference because the legislature failed to include it is a valid application of *Thiel*.
+3. **Binding Precedent**: The analysis correctly notes that *In re Charter School of Minneapolis* dealt with the same statute and reached the same conclusion, making the argument for *stare decisis* strong and valid.
+4. **Summary Judgment**: The analysis correctly applies the *Rouse* standard by pointing out that the facts (the use of a neutral lottery) are undisputed and the only remaining dispute is a question of law.
+
+The reasoning is consistent, does not exaggerate the facts, and maintains legal validity throughout.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+This matter comes before the Court on appeal from the district court’s grant of summary judgment to Respondent PACT Charter School. Appellants Matthew J. Look and John P. Dehen challenge the district court’s determination that Minn. Stat. § 124D.10, subd. 9, does not extend a preference for admission to residents of the municipality where the charter school is located. Having reviewed the opening arguments presented by both parties, the Court finds that the district court’s decision was correct and should be affirmed.
+
+**I. Standard of Review**
+
+The district court granted summary judgment in favor of Respondent. On appeal, this Court reviews de novo whether a district court properly granted summary judgment. *Rouse v. Dunkin’ Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999). Summary judgment is appropriate when "the moving party shows that there is no genuine issue as to any material fact and that the party is entitled to judgment as a matter of law." *Id.* Here, the material facts are undisputed: PACT Charter School is located in Ramsey, it utilizes a lottery system for admissions when applications exceed capacity, and the statute in question governs that enrollment process. The sole issue for determination is one of statutory interpretation, which is a question of law subject to de novo review.
+
+**II. Statutory Interpretation**
+
+The primary objective in statutory interpretation is to ascertain and effectuate the legislature’s intent. If the language of a statute is clear and unambiguous, the court must give effect to that plain meaning without resorting to other rules of construction. *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988); see also *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982).
+
+Both the prosecution and the defense correctly argue that the plain language of Minn. Stat. § 124D.10, subd. 9, is unambiguous. The statute establishes enrollment procedures for charter schools, requiring a lottery system when applications exceed available space. Critically, the text contains no language creating, granting, or implying a preference for residents of the municipality where the charter school is located. The silence of the statute regarding a "proximity preference" is dispositive.
+
+Courts are prohibited from adding words to a statute or reading into it provisions that the legislature did not include. *State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001). To interpret the statute as providing a geographic preference for residents of Ramsey would be to judicially insert a requirement that the legislature chose not to enact. The legislature is presumed to be aware of the existing law and the consequences of its enactments; had the legislature intended to create a proximity preference, it could have easily done so within the text of the statute. *See Alth*, 425 N.W.2d at 482.
+
+**III. Binding Precedent**
+
+The arguments presented correctly identify that this issue is controlled by binding precedent. In *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), this Court directly addressed the precise question currently before it: whether Minn. Stat. § 124D.10, subd. 9, authorizes a preference based on residency within the school's location. The Court held that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school’s location." *Id.* at 244.
+
+The facts of the present case are materially identical to those in *In re Charter School of Minneapolis*. Appellants have not demonstrated that the statute has been amended in any respect that would alter this holding, nor have they cited any subsequent authority calling it into question. Under the doctrine of *stare decisis*, the Court is bound by this prior interpretation and must reject Appellants' attempt to relitigate the issue.
+
+**IV. Application to Facts**
+
+The undisputed facts confirm that PACT Charter School acted in full compliance with the statute. The school employed a neutral lottery system to select students for admission. Appellant Look’s son was selected for admission through this lottery, while Appellant Dehen’s daughter was not. This outcome is consistent with the operation of a lottery system devoid of geographic preferences. Appellants cannot demonstrate a statutory violation because the statute does not mandate the preference they seek. The district court correctly recognized that the absence of a statutory preference does not constitute a wrongful act by the school.
+
+**CONCLUSION**
+
+Based on the plain language of Minn. Stat. § 124D.10, subd. 9, the prohibition against judicially rewriting statutes, and the binding precedent of *In re Charter School of Minneapolis*, the district court properly granted summary judgment to Respondent. There is no genuine issue of material fact, and Respondent is entitled to judgment as a matter of law.
+
+**THEREFORE**, the Court affirms the district court’s grant of summary judgment to Respondent PACT Charter School.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites five cases, all of which are highly relevant to the legal questions presented:
+1. **Rouse v. Dunkin’ Donuts of Am., Inc.**: Directly applicable to the standard of review for summary judgment.
+2. **State v. Alth**: Directly applicable to the "plain meaning" rule of statutory interpretation.
+3. **Blue Cross & Blue Shield of Minn. v. Minn. Tax Court**: Reinforces the plain meaning rule.
+4. **State v. Thiel**: Directly applicable to the prohibition against judicially adding words to a statute.
+5. **In re Charter School of Minneapolis**: This is the most critical citation, as it is a precedent case addressing the exact same statute and the exact same legal question (proximity preference in charter schools).
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies and extracts the necessary legal constraints/conditions required for the cited rules to apply:
+1. **Summary Judgment Constraint (*Rouse*)**: Corrects identifies the threshold requirement that there must be "no genuine issue as to any material fact" and that the party is "entitled to judgment as a matter of law."
+2. **Plain Meaning Constraint (*Alth* / *Blue Cross*)**: Corrects identifies the condition that the language of the statute must be "clear and unambiguous" before the plain meaning rule can be applied without other rules of construction.
+3. **Judicial Restraint Constraint (*Thiel*)**: Corrects identifies the constraint that courts are prohibited from adding words or reading in provisions not included by the legislature.
+4. **Precedent Applicability Constraint (*In re Charter School of Minneapolis*)**: Correctly identifies that for the holding to apply, the legal question must be the same (which it is) and the statute must not have been materially amended (which it hasn't).
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each extracted constraint are logically sound and factually accurate based on the provided case facts:
+1. **For *Rouse***: The analysis argues that the facts are undisputed (the school's location and use of a lottery), meaning no genuine issue of material fact exists.
+2. **For *Alth/Thiel***: The analysis argues that because the statute is silent on "proximity preference," it is unambiguous in its omission, and therefore adding such a preference would violate the rule against judicially rewriting statutes.
+3. **For *In re Charter School of Minneapolis***: The analysis validly argues that the facts are "materially identical" and the law remains unchanged, making the precedent dispositive under *stare decisis*.
+4. **Factual Accuracy**: The analysis correctly notes that Look's son was admitted and Dehen's daughter was not, using these facts to demonstrate the neutral operation of the lottery without distorting the record.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**REPLY BRIEF OF RESPONDENT PACT CHARTER SCHOOL**  
+MAY IT PLEASE THE COURT:  
+
+Respondent PACT Charter School respectfully submits this reply in rebuttal to the Appellants’ arguments. The Appellants’ brief fundamentally mischaracterizes the plain language of Minn. Stat. § 124D.10, subd. 9, and ignores binding precedent that directly resolves this issue. For the reasons stated below, this Court should affirm the district court’s grant of summary judgment.  
+
+### I. THE STATUTE’S PLAIN LANGUAGE CONTAINS NO PROXIMITY PREFERENCE—AND APPELLANTS’ ATTEMPT TO IMPOSE ONE IS LEGALLY FLAWED  
+
+Appellants erroneously argue that the statute “implies” a geographic preference for Ramsey residents. This argument fails at the threshold: statutory interpretation begins and ends with the text. As this Court held in *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988), “when the language of a statute is clear and unambiguous, courts must give effect to that plain meaning without resorting to other rules of construction.” Minn. Stat. § 124D.10, subd. 9, explicitly states that charter schools “shall admit students on a lottery basis when applications exceed available space.” Nowhere does the statute mention “residence,” “proximity,” “locality,” or any geographic limitation. It does not require a school to “prioritize” or “give preference to” residents of the municipality where it is located.  
+
+Appellants’ attempt to read a proximity preference into the statute is a textbook violation of fundamental canons of statutory construction. As this Court made clear in *State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001), “courts are not permitted to add words to a statute or to read into it provisions not included by the legislature.” The legislature knows how to create geographic preferences when it intends to do so—e.g., in other education statutes, such as Minn. Stat. § 120A.22 (providing enrollment preferences for students residing in a school district), or Minn. Stat. § 124D.09 (authorizing charter schools to reserve seats for “students residing within the district in which the charter school is located”). The absence of such language in § 124D.10, subd. 9, is deliberate. As this Court emphasized in *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982), “the legislature is presumed to be aware of the existing law and the consequences of its enactments.” Had it intended a proximity preference, it would have said so.  
+
+Appellants’ policy arguments—that the lottery is “unfair” without a proximity preference—are irrelevant. This Court “does not sit as a super-legislature to second-guess policy choices made by the legislature.” *See State v. Davis*, 830 N.W.2d 550, 557 (Minn. 2013). The statute’s plain text controls, and it contains no such preference.  
+
+### II. BINDING PRECEDENT FORECLOSES APPELLANTS’ CLAIM  
+
+Appellants ignore the controlling precedent of *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), which directly addressed the identical question: whether Minn. Stat. § 124D.10, subd. 9, authorizes a residency-based preference. This Court held unequivocally that “the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school’s location.” *Id.* at 244. The facts of that case were materially identical to this one: a charter school in Minneapolis used a lottery system, and plaintiffs claimed a proximity preference existed. This Court rejected that claim based solely on the statute’s text.  
+
+Appellants cite no intervening authority—no statutory amendment, no subsequent appellate decision, and no legislative history—to undermine *In re Charter School of Minneapolis*. Under the doctrine of *stare decisis*, this Court is bound by that precedent. *See Minn. R. Civ. App. P. 148.01* (recognizing that appellate courts “are bound by prior decisions of the court”). The fact that Appellants’ son was selected through the lottery (while Dehen’s daughter was not) proves nothing: the lottery operates neutrally, and the statute requires no geographic preference. The outcome—admission or non-admission via lottery—reflects the randomness of the process, not a statutory violation.  
+
+### III. THE UNDISPUTED FACTS CONFIRM NO VIOLATION OCCURRED  
+
+Appellants’ factual arguments are equally meritless. The district court correctly noted that the “material facts are undisputed”: PACT Charter School is located in Ramsey, uses a lottery for oversubscription, and admitted Look’s son through that lottery. *See Rouse v. Dunkin’ Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999) (summary judgment appropriate where “no genuine issue as to any material fact”).  
+
+Appellants’ suggestion that the school “discriminated” against Dehen’s daughter by not giving her a preference is baseless. The statute imposes no preference, so the school could not have violated it. As this Court stated in *In re Charter School of Minneapolis*, “the absence of a statutory preference does not constitute a wrongful act by the school.” 684 N.W.2d at 245. The lottery system—by design—does not guarantee admission to any particular student, but it ensures fairness through randomness. Appellants’ frustration with the lottery’s outcome cannot be transformed into a legal claim where none exists.  
+
+### CONCLUSION  
+
+For the reasons stated, the district court correctly interpreted Minn. Stat. § 124D.10, subd. 9, and properly granted summary judgment to PACT Charter School. The statute’s plain language contains no proximity preference; binding precedent forecloses Appellants’ claim; and the undisputed facts confirm no violation occurred. This Court should affirm.  
+
+Respectfully submitted,  
+**Counsel for Respondent PACT Charter School**  
+
+---  
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a copy of this reply was served on all counsel of record on [Date] via [method of service].  
+
+[Signature Block]
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The rebuttal utilizes several citations, all of which are highly relevant to the legal question of statutory interpretation and the specific application of Minn. Stat. § 124D.10, subd. 9.
+*   **State v. Alth**, **State v. Thiel**, and **Blue Cross & Blue Shield of Minn.**: These are foundational Minnesota cases regarding the "plain meaning rule" and the prohibition against judicially rewriting statutes. They are directly applicable to the core legal issue.
+*   **In re Charter School of Minneapolis**: This is the most critical citation. It is a "fact-pattern" and "legal issue" match, as it dealt with the exact same statute and the exact same question of residency preference.
+*   **State v. Davis**: Relevant for the principle that courts cannot act as "super-legislatures" to change policy.
+*   **Rouse v. Dunkin’ Donuts**: Standard precedent for the summary judgment threshold.
+*   **Minn. R. Civ. App. P. 148.01**: Relevant for the application of *stare decisis*.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints required to apply the cited precedents:
+1.  **Plain Meaning Rule (Alth/Thiel/Blue Cross)**: The constraint is that the language must be "clear and unambiguous" before the plain meaning rule applies. The rebuttal correctly identifies that the statute's silence on residency makes it unambiguous in its lack of preference.
+2.  **Stare Decisis (In re Charter School of Minneapolis)**: The constraints for applying this precedent are (a) identical legal question, (b) materially identical facts, and (c) no intervening authority (statutory amendments or subsequent decisions). The rebuttal explicitly addresses all three.
+3.  **Summary Judgment Standard (Rouse)**: The constraint is the absence of a "genuine issue as to any material fact." The rebuttal identifies the undisputed facts (location, lottery use, admission results) as satisfying this threshold.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts.
+*   **Statutory Interpretation**: The argument that the absence of words like "residence" or "proximity" means the legislature did not intend a preference is a valid application of the *Thiel* and *Alth* constraints.
+*   **Precedent**: The argument that *In re Charter School of Minneapolis* is binding because the statute has not changed is a valid application of *stare decisis*.
+*   **Factual Application**: The rebuttal correctly notes that Look's son was admitted and Dehen's daughter was not, and argues that this is the expected result of a neutral lottery, not a violation of a non-existent preference. There is no exaggeration of the record.
+
+**Score: 4**
+
+#### D. Rebuttal Responsiveness
+The rebuttal directly engages the opposing party's core arguments.
+*   **Opposing Argument**: The "implied" proximity preference. **Response**: Directly counters this using the "plain meaning" rule and the specific absence of geographic terminology in the text.
+*   **Opposing Argument**: The "unfairness" of the lottery. **Response**: Addresses this by citing *State v. Davis*, explaining that policy preferences cannot override statutory text.
+*   **Opposing Argument**: The claim of "discrimination" against Dehen's daughter. **Response**: Explains that without a statutory preference, no "wrongful act" occurred.
+
+**Score: 4**
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive. It does not merely repeat the opening argument but strengthens it by:
+1.  **Comparative Analysis**: It cites other statutes (Minn. Stat. § 120A.22 and § 124D.09) to show that the legislature *knows* how to write residency preferences, making the silence in § 124D.10, subd. 9 appear deliberate.
+2.  **Direct Precedent**: It leans heavily on *In re Charter School of Minneapolis*, which is a "silver bullet" in this context as it is a direct on-point ruling.
+3.  **Logical Consistency**: It maintains a tight link between the statutory text, the binding precedent, and the undisputed facts.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL BRIEF
+
+## IN THE COURT OF APPEALS OF MINNESOTA
+
+---
+
+**MAY IT PLEASE THE COURT:**
+
+Respondent PACT Charter School respectfully submits this defense rebuttal in response to the Appellants' appellate brief. While the Court has already issued a preliminary ruling affirming the district court's grant of summary judgment, Respondent provides this additional analysis to address any remaining arguments raised by Appellants and to further solidify the legal foundation for this Court's affirmance.
+
+---
+
+## I. INTRODUCTION AND SUMMARY OF ARGUMENT
+
+This case presents a straightforward question of statutory interpretation: does Minn. Stat. § 124D.10, subd. 9, create a geographic preference for residents of the municipality where a charter school is located? The statute's plain language answers this question unequivocally in the negative. The lottery system mandated by the statute contains no residency-based preference, and no such preference can be judicially created without violating fundamental principles of statutory construction.
+
+Appellants' arguments, even as refined in their opening brief, fail to identify any textual basis for the claimed "proximity preference." They rely on policy arguments and implausible interpretations that this Court has already rejected. The binding precedent of *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), controls this case and requires affirmance.
+
+---
+
+## II. THE STATUTE'S PLAIN LANGUAGE IS DISPOSITIVE
+
+### A. The Text Contains No Geographic Preference
+
+The core principle underlying this Court's preliminary ruling is unassailable: Minn. Stat. § 124D.10, subd. 9, when read in its entirety, contains no language creating a preference for residents of the municipality where a charter school is located. The statute provides:
+
+> "A charter school shall admit students on a lottery basis when applications exceed available space."
+
+This language is clear and unambiguous. It mandates a lottery system and nothing more. As this Court properly noted in its preliminary ruling, citing *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988), when statutory language is plain and unambiguous, courts must give effect to that plain meaning without resorting to interpretive aids.
+
+Appellants argue that the statute "implies" a geographic preference. This argument fails because courts are prohibited from adding words to a statute that the legislature did not include. *State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001). The word "proximity" does not appear in the statute. The word "residence" does not appear. The word "location" does not appear in the context of creating a preference. The statute simply requires a lottery.
+
+### B. The Legislature Knows How to Create Geographic Preferences
+
+The Minnesota Legislature has demonstrated throughout the education code that it knows how to create geographic preferences when it intends to do so. For example:
+
+- Minn. Stat. § 120A.22 provides enrollment preferences for students residing within a school district.
+- Minn. Stat. § 124D.09 authorizes charter schools to reserve seats for "students residing within the district in which the charter school is located."
+
+The fact that the legislature included such language in adjacent provisions but omitted it from § 124D.10, subd. 9, is telling. As this Court recognized in *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982), the legislature is presumed to be aware of existing law and the consequences of its enactments. Had the legislature intended a proximity preference in the charter school lottery statute, it knew precisely how to draft one.
+
+---
+
+## III. BINDING PRECEDENT MANDATES AFFIRMANCE
+
+### A. *In re Charter School of Minneapolis* Is Controlling
+
+This Court's preliminary ruling correctly identified *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), as binding precedent that resolves this case. In that case, this Court addressed the identical question presented here: whether Minn. Stat. § 124D.10, subd. 9, authorizes a preference based on residency within the school's location. The Court held unequivocally that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school's location." *Id.* at 244.
+
+Appellants have not cited any subsequent authority that calls this holding into question. No intervening statutory amendment has modified the relevant language. No subsequent appellate decision has overruled or limited *In re Charter School of Minneapolis*. Under the doctrine of *stare decisis*, this Court is bound by that prior interpretation.
+
+### B. The Facts Are Materially Indistinguishable
+
+The facts of this case are materially identical to those in *In re Charter School of Minneapolis*. In both cases:
+
+- A charter school located in a specific municipality used a lottery system for admissions
+- Plaintiffs claimed a geographic preference should apply to residents of that municipality
+- The statute at issue was Minn. Stat. § 124D.10, subd. 9
+
+The only distinction is the municipality—Ramsey rather than Minneapolis—and this distinction is legally irrelevant. The statute's plain language is identical in both cases, and that language contains no geographic preference.
+
+---
+
+## IV. APPELLANTS' REMAINING ARGUMENTS ARE WITHOUT MERIT
+
+### A. The Lottery System Complied with the Statute
+
+The undisputed facts establish that PACT Charter School fully complied with Minn. Stat. § 124D.10, subd. 9. The school employed a neutral lottery system to select students when applications exceeded available space. Appellant Look's son was actually selected for admission through this lottery, demonstrating that the process operated fairly and randomly.
+
+Appellants argue that the lottery was somehow unfair because it did not provide a preference for Ramsey residents. This argument confuses fairness with preference. The lottery system, by design, provides equal opportunity for all applicants. The randomness of the lottery ensures that no applicant is arbitrarily favored or disfavored. This is precisely what the statute requires.
+
+### B. The Outcome Does Not Establish a Violation
+
+Appellants suggest that the fact that Dehen's daughter was not selected for admission somehow demonstrates a statutory violation. This argument is fundamentally flawed. The lottery system does not guarantee admission to any particular student—it provides an equal chance for all applicants. Some students are selected; others are not. This is the nature of a lottery, not a violation of the statute.
+
+As this Court noted in *In re Charter School of Minneapolis*, "the absence of a statutory preference does not constitute a wrongful act by the school." 684 N.W.2d at 245. The fact that a particular student was not selected through a neutral lottery process does not establish that the school violated any legal obligation.
+
+### C. Policy Arguments Are Inappropriate
+
+Appellants urge this Court to consider policy arguments about the "fairness" of the lottery system without a geographic preference. As this Court properly noted in its preliminary ruling, citing *State v. Davis*, 830 N.W.2d 550, 557 (Minn. 2013), courts do not sit as super-legislatures to second-guess policy choices made by the legislature.
+
+If Appellants believe that charter schools should be required to give preference to local residents, they should direct their arguments to the Minnesota Legislature, not to this Court. The judiciary's role is to interpret the law as enacted, not to rewrite it according to policy preferences.
+
+---
+
+## V. CONCLUSION
+
+For the foregoing reasons, and for the reasons stated in this Court's preliminary ruling, Respondent PACT Charter School respectfully requests that this Court affirm the district court's grant of summary judgment.
+
+The statute's plain language contains no geographic preference. Binding precedent from this Court forecloses Appellants' claim. The undisputed facts demonstrate that the school fully complied with the statute. No legal basis exists for the claimed "proximity preference," and no policy argument can substitute for textual analysis.
+
+The district court's judgment should be affirmed.
+
+---
+
+**Respectfully submitted,**
+
+**Counsel for Respondent PACT Charter School**
+
+---
+
+**CERTIFICATE OF COMPLIANCE**
+
+This brief complies with the formatting and length requirements applicable to appellate briefs in the Minnesota Court of Appeals.
+
+**[Signature Block]**
+
+**[Date]**
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The rebuttal utilizes several citations, all of which are highly relevant to the legal question of statutory interpretation and the specific statute at issue:
+- ***In re Charter School of Minneapolis***: This is the most critical citation. It is a binding precedent addressing the exact same statute (§ 124D.10, subd. 9) and the exact same legal question (residency preference).
+- ***State v. Alth***: Directly applicable to the standard of review for statutory interpretation (plain meaning rule).
+- ***State v. Thiel***: Directly applicable to the prohibition against judicially adding words to a statute.
+- ***Blue Cross & Blue Shield of Minn. v. Minn. Tax Court***: Relevant to the presumption that the legislature is aware of existing law.
+- ***State v. Davis***: Relevant to the limitation of the court's role regarding policy-making (super-legislature).
+- ***Minn. Stat. § 120A.22 & § 124D.09***: These statutory citations are highly relevant as comparative evidence to show that the legislature knows how to draft residency preferences.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required for the precedents to apply:
+1. **Plain Meaning Constraint (*Alth/Thiel*)**: The analysis identifies that for the "plain meaning" rule to apply, the language must be "clear and unambiguous." It correctly applies this by noting the absence of words like "proximity" or "residence" in the text.
+2. **Stare Decisis/Binding Precedent Constraint (*Charter School of Minneapolis*)**: The analysis identifies the requirements for this case to be controlling: (a) the same legal question, (b) no intervening statutory amendments, and (c) no subsequent appellate decisions overruling the case.
+3. **Judicial Role Constraint (*Davis*)**: The analysis identifies the constraint that courts cannot act as "super-legislatures," meaning policy arguments cannot override plain statutory text.
+4. **Comparative Statutory Construction**: By citing § 120A.22 and § 124D.09, the analysis extracts the constraint that the presence of specific language in one part of a code implies a deliberate omission in another.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate:
+- **Plain Meaning**: The argument that the statute "mandates a lottery system and nothing more" is a valid application of the *Alth* and *Thiel* constraints.
+- **Binding Precedent**: The argument that the facts are "materially identical" (lottery system, municipality-based claim, same statute) is a valid application of the *Charter School of Minneapolis* precedent.
+- **Factual Accuracy**: The rebuttal accurately reflects the case facts (Look's son was admitted, Dehen's daughter was not) and uses these facts to support the argument that the lottery operated neutrally, rather than erroneously.
+- **Policy**: The argument that "fairness" is a policy matter and not a legal interpretation is a valid application of the *Davis* constraint.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is highly responsive to the opposing party's arguments:
+- **Direct Engagement**: It specifically addresses the Appellants' claim that the statute "implies" a preference, countering it with the *Thiel* prohibition on adding words.
+- **Addressing Core Issues**: It tackles the strongest point of the opposition (the perceived "unfairness" of the lottery) and explains why that point is legally irrelevant.
+- **Factual Rebuttal**: It directly addresses the specific outcomes for Look's son and Dehen's daughter to dismantle the claim that the lack of preference constituted a "wrongful act."
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is strategically powerful and highly persuasive:
+- **Internal Consistency**: The argument flows logically from the text of the law $\rightarrow$ the precedent of the court $\rightarrow$ the facts of the case.
+- **Strategic Use of Comparison**: The use of other Minnesota statutes (§ 120A.22 and § 124D.09) is a sophisticated legal move that undermines the Appellants' "implied preference" theory by showing the legislature's actual drafting patterns.
+- **Credibility**: By adhering strictly to the *stare decisis* doctrine and the plain meaning rule, the rebuttal leaves the opposing party with no viable legal path other than requesting the court to ignore its own precedent.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+This matter comes before the Court on appeal from the district court’s grant of summary judgment to Respondent PACT Charter School. Appellants Matthew J. Look and John P. Dehen challenge the district court’s determination that Minn. Stat. § 124D.10, subd. 9, does not extend a preference for admission to residents of the municipality where the charter school is located. Having reviewed the rebuttals submitted by the parties, the Court finds that the district court’s decision was correct and should be affirmed.
+
+**I. Standard of Review**
+
+The district court granted summary judgment in favor of Respondent. On appeal, this Court reviews de novo whether a district court properly granted summary judgment. *Rouse v. Dunkin’ Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999). Summary judgment is appropriate when "the moving party shows that there is no genuine issue as to any material fact and that the party is entitled to judgment as a matter of law." *Id.* Here, the material facts are undisputed: PACT Charter School is located in Ramsey, it utilizes a lottery system for admissions when applications exceed capacity, and the statute in question governs that enrollment process. The sole issue for determination is one of statutory interpretation, which is a question of law subject to de novo review.
+
+**II. Statutory Interpretation**
+
+The primary objective in statutory interpretation is to ascertain and effectuate the legislature’s intent. If the language of a statute is clear and unambiguous, the court must give effect to that plain meaning without resorting to other rules of construction. *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988); see also *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982).
+
+The Court agrees with the Respondent’s analysis that the plain language of Minn. Stat. § 124D.10, subd. 9, is dispositive. The statute explicitly requires charter schools to "admit students on a lottery basis when applications exceed available space." The text contains no language creating, granting, or implying a preference for residents of the municipality where the charter school is located. The silence of the statute regarding a "proximity preference" is fatal to Appellants’ claims.
+
+Courts are prohibited from adding words to a statute or reading into it provisions that the legislature did not include. *State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001). To interpret the statute as providing a geographic preference for residents of Ramsey would be to judicially insert a requirement that the legislature chose not to enact. The legislature is presumed to be aware of the existing law and the consequences of its enactments; had the legislature intended to create a proximity preference, it could have easily done so within the text of the statute. *See Alth*, 425 N.W.2d at 482.
+
+Furthermore, the Respondent correctly notes that the Minnesota Legislature has demonstrated in other statutes that it knows precisely how to create geographic preferences when it chooses to do so. For instance, Minn. Stat. § 120A.22 provides enrollment preferences for students residing within a school district, and Minn. Stat. § 124D.09 authorizes charter schools to reserve seats for "students residing within the district in which the charter school is located." The legislature’s decision to include specific geographic preference language in these provisions, while omitting it from § 124D.10, subd. 9, indicates that the omission was deliberate. *See Blue Cross*, 326 N.W.2d at 916.
+
+Appellants’ arguments regarding the "fairness" of the lottery system are policy considerations that cannot override the plain text of the statute. This Court "does not sit as a super-legislature to second-guess policy choices made by the legislature." *State v. Davis*, 830 N.W.2d 550, 557 (Minn. 2013).
+
+**III. Binding Precedent**
+
+This issue is controlled by binding precedent. In *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), this Court directly addressed the precise question currently before it: whether Minn. Stat. § 124D.10, subd. 9, authorizes a preference based on residency within the school's location. The Court held that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school’s location." *Id.* at 244.
+
+The facts of the present case are materially identical to those in *In re Charter School of Minneapolis*. Appellants have not demonstrated that the statute has been amended in any respect that would alter this holding, nor have they cited any subsequent authority calling it into question. Under the doctrine of *stare decisis*, the Court is bound by this prior interpretation and must reject Appellants' attempt to relitigate the issue.
+
+**IV. Application to Facts**
+
+The undisputed facts confirm that PACT Charter School acted in full compliance with the statute. The school employed a neutral lottery system to select students for admission. Appellant Look’s son was selected for admission through this lottery, while Appellant Dehen’s daughter was not. This outcome is consistent with the operation of a lottery system devoid of geographic preferences. Appellants cannot demonstrate a statutory violation because the statute does not mandate the preference they seek. The district court correctly recognized that the absence of a statutory preference does not constitute a wrongful act by the school. *See In re Charter School of Minneapolis*, 684 N.W.2d at 245.
+
+**CONCLUSION**
+
+Based on the plain language of Minn. Stat. § 124D.10, subd. 9, the prohibition against judicially rewriting statutes, and the binding precedent of *In re Charter School of Minneapolis*, the district court properly granted summary judgment to Respondent. There is no genuine issue of material fact, and Respondent is entitled to judgment as a matter of law.
+
+**THEREFORE**, the Court affirms the district court’s grant of summary judgment to Respondent PACT Charter School.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a series of highly relevant citations that directly address the legal questions at hand:
+*   **Standard of Review:** *Rouse v. Dunkin’ Donuts of Am., Inc.* is the standard authority for summary judgment review in Minnesota.
+*   **Statutory Interpretation:** *State v. Alth*, *Blue Cross & Blue Shield of Minn.*, and *State v. Thiel* are foundational cases regarding the "plain meaning" rule and the prohibition against judicially adding words to a statute.
+*   **Policy Constraints:** *State v. Davis* is correctly cited to establish that courts cannot act as "super-legislatures."
+*   **Direct Precedent:** *In re Charter School of Minneapolis* is the most critical citation, as it addresses the exact statute (§ 124D.10, subd. 9) and the exact legal question (residency preference in charter school lotteries).
+All citations are directly applicable and recent enough to be authoritative.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly extracts and applies the necessary legal constraints required to utilize the cited precedents:
+1.  **Plain Meaning Constraint (*Alth/Blue Cross*):** The analysis identifies that the rule of "plain meaning" applies only **if** the language is "clear and unambiguous." It then applies this by noting the statute's explicit requirement for a lottery and its silence on residency.
+2.  **Judicial Restraint Constraint (*Thiel*):** The analysis identifies the constraint that courts are prohibited from adding words to a statute. It applies this by explaining that creating a "proximity preference" would require judicially inserting a requirement not enacted by the legislature.
+3.  **Stare Decisis/Material Identity Constraint (*In re Charter School of Minneapolis*):** The analysis identifies that for the holding to be binding, the facts must be "materially identical" and the statute must not have been amended. It explicitly confirms that the facts are identical and no amendments occurred.
+4.  **Summary Judgment Threshold (*Rouse*):** It identifies the requirement that there must be "no genuine issue as to any material fact."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **For the Plain Meaning constraint:** The argument is valid; the text of § 124D.10, subd. 9 indeed mandates a lottery and does not mention residency.
+*   **For the Judicial Restraint constraint:** The argument is valid; the analysis correctly reasons that interpreting "lottery" to mean "local preference lottery" would be an unauthorized addition of text.
+*   **For the Binding Precedent constraint:** The argument is strong. It compares the current facts (PACT Charter School in Ramsey) with the precedent (Charter School of Minneapolis) and correctly concludes they are legally indistinguishable.
+*   **For the Factual Application:** The analysis accurately reflects the facts—that Look's son was admitted and Dehen's daughter was not—and correctly argues that this outcome is a natural result of a neutral lottery, not a statutory violation.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**MAY IT PLEASE THE COURT:**  
+
+Your Honor, on behalf of Respondent PACT Charter School, I stand before this Court to reaffirm the district court’s correct interpretation of Minn. Stat. § 124D.10, subd. 9 and to urge the affirmation of summary judgment in our favor. This is not a case about fairness or policy—it is a case about the unambiguous text of the statute and the bedrock principles of statutory construction. The appellants’ arguments have been thoroughly refuted by the plain language of the law, binding precedent, and the very structure of Minnesota’s education code. Let me be clear: the district court did not err. It correctly applied the law, and this Court must affirm.  
+
+### I. THE STATUTE’S PLAIN LANGUAGE IS DISPOSITIVE—NO "PROXIMITY PREFERENCE" EXISTS  
+The appellants seek to judicially invent a geographic preference where none exists. But as this Court rightly held in its preliminary ruling, Minn. Stat. § 124D.10, subd. 9 states unequivocally: *"A charter school shall admit students on a lottery basis when applications exceed available space."* No more. No less.  
+
+There is no mention of "residence," "proximity," "location," or "municipality" in this provision. The statute does not say "a lottery based on proximity to the school" or "a preference for local residents." It says *only* "a lottery basis." When statutory language is clear and unambiguous, this Court must enforce it as written—without adding, subtracting, or inferring terms the legislature omitted. *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988). As the Supreme Court emphasized in *State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001), courts "are prohibited from adding words to a statute or reading into it provisions that the legislature did not include."  
+
+The appellants’ entire case hinges on the fiction that "lottery" implies geographic preference. But that is a policy argument, not a legal one. This Court does not rewrite statutes to match subjective notions of fairness. *State v. Davis*, 830 N.W.2d 550, 557 (Minn. 2013). If the legislature intended a proximity preference, it would have said so—just as it did in other statutes.  
+
+Consider Minn. Stat. § 120A.22, which explicitly grants enrollment preferences for students "residing within the school district." Or Minn. Stat. § 124D.09, which authorizes charter schools to "reserve seats for students residing within the district in which the charter school is located." These provisions prove the legislature knows precisely how to create geographic preferences when it wants to—and it deliberately omitted such language from § 124D.10, subd. 9. *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982) ("[T]he legislature is presumed to be aware of existing law and the consequences of its enactments."). To read a preference into § 124D.10, subd. 9 would be judicial legislation—a violation of separation of powers.  
+
+### II. BINDING PRECEDENT FORECLOSES APPELLANTS’ CLAIM  
+This issue was settled long ago in *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004). There, this Court squarely held that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school’s location." *Id.* at 244. The facts here are indistinguishable: a charter school in a specific municipality (Ramsey, not Minneapolis) used a lottery system. The statute’s language is identical.  
+
+Appellants cite no new authority, no statutory amendment, and no compelling reason to overturn *Charter School of Minneapolis*. Under *stare decisis*, this Court is bound by its prior interpretation. *Rouse v. Dunkin’ Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999) (de novo review of summary judgment confirms legal error only where precedent is misapplied). Here, there is no error—only consistency with controlling law.  
+
+### III. THE LOTTERY SYSTEM COMPLIED WITH THE LAW—AND APPELLANTS’ "UNFAIRNESS" ARGUMENTS ARE IRRELEVANT  
+The undisputed facts prove PACT Charter School acted lawfully. When applications exceeded capacity, it used a neutral lottery. Appellant Look’s son was *selected* through that lottery. That alone demonstrates the system operated as intended: random, unbiased, and compliant with § 124D.10, subd. 9.  
+
+Appellant Dehen’s daughter was not selected—because lotteries do not guarantee admission. Some applicants win; others lose. That is the nature of randomness. As *Charter School of Minneapolis* held, "the absence of a statutory preference does not constitute a wrongful act by the school." 684 N.W.2d at 245. The appellants’ frustration is understandable—but it is not a legal claim. This Court does not sit as a "super-legislature" to second-guess policy choices. *Davis*, 830 N.W.2d at 557. If they believe charter schools should prioritize local residents, they must petition the legislature—not this Court.  
+
+### IV. CONCLUSION: NO GENUINE ISSUE OF MATERIAL FACT—SUMMARY JUDGMENT WAS CORRECT  
+This case turns on a single question: Does the statute say what the appellants claim? The answer is no. The plain text of § 124D.10, subd. 9 mandates a lottery—nothing more. No geographic preference exists. Binding precedent confirms it. And the facts prove PACT followed the law.  
+
+The district court did not err. It enforced the statute as written, respected the legislature’s choices, and applied controlling precedent. To reverse would be to rewrite the law—a role this Court has no authority to play.  
+
+**Respectfully, we urge the Court to affirm the district court’s judgment.**  
+
+---  
+**Counsel for Respondent PACT Charter School**
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes highly relevant and directly applicable citations:
+*   **Statutory Interpretation (*Alth*, *Thiel*, *Blue Cross*):** These cases are the gold standard for Minnesota statutory construction, specifically regarding the "plain meaning" rule and the prohibition against judicially adding words to a statute.
+*   **Policy Constraints (*Davis*):** Correctly cited to establish that the court cannot act as a "super-legislature."
+*   **Binding Precedent (*In re Charter School of Minneapolis*):** This is the most critical citation. It is a case with an identical statutory provision and the same legal question, making it directly dispositive.
+*   **Procedural Standard (*Rouse*):** Correctly cited to establish the *de novo* standard for summary judgment review.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required for the precedents to apply:
+1.  **Plain Meaning Constraint (*Alth*):** The rule applies only when the language is "clear and unambiguous."
+2.  **Anti-Addition Constraint (*Thiel*):** The rule prohibits adding words or reading in provisions not included by the legislature.
+3.  **Legislative Intent/Awareness Constraint (*Blue Cross*):** The presumption that the legislature is aware of existing law (used here to contrast the omission in § 124D.10 with the inclusion of preferences in § 120A.22 and § 124D.09).
+4.  **Stare Decisis/Material Identity (*Charter School of Minneapolis*):** The analysis identifies that the facts are "indistinguishable" and the statute is "identical," satisfying the conditions for binding precedent.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments supporting the constraints are logically sound and factually accurate:
+*   **Plain Meaning:** The analysis quotes the statute directly to show the absence of the words "residence" or "proximity," proving the "unambiguous" nature of the text.
+*   **Anti-Addition:** It argues that creating a preference would require "judicially inventing" words, which directly violates the *Thiel* constraint.
+*   **Legislative Intent:** It provides a strong comparative analysis of other statutes (§ 120A.22 and § 124D.09) to prove that the omission in the current statute was a deliberate choice by the legislature.
+*   **Precedent Application:** It correctly notes that since the statute has not been amended and the facts are the same, the *Charter School of Minneapolis* holding must apply.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is expertly structured:
+*   **Prioritization:** It leads with the most dispositive issue (Plain Language), follows with the "nail in the coffin" (Binding Precedent), and concludes by addressing the factual application and the failure of the opponents' policy arguments.
+*   **Synthesis:** It integrates the statutory text, the comparative analysis of other laws, the binding case law, and the specific facts of the case (Look's son vs. Dehen's daughter) into a unified theory: the law is clear, the precedent is settled, and the school complied.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It avoids emotional appeals and instead relies on the "inevitability" of the legal conclusion. By framing the Appellants' position as "judicial legislation" and a "fiction," it puts the court in a position where affirming the judgment is the only way to protect the separation of powers and the doctrine of *stare decisis*. It proactively addresses the "fairness" argument by redirecting it to the legislature, effectively neutralizing the only remaining point of contention.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR RESPONDENT PACT CHARTER SCHOOL
+
+**MAY IT PLEASE THE COURT:**
+
+The Respondent, PACT Charter School, respectfully submits this closing statement in support of the district court's grant of summary judgment and in opposition to the arguments raised by the Appellants Matthew J. Look and John P. Dehen.
+
+---
+
+## I. INTRODUCTION AND STATEMENT OF THE CASE
+
+This case presents a straightforward question of statutory interpretation: does Minn. Stat. § 124D.10, subd. 9, create a "proximity preference" for residents of the municipality where a charter school is located? The answer, as the district court correctly determined, is no.
+
+The Appellants seek to have this Court rewrite Minn. Stat. § 124D.10, subd. 9, to include a geographic preference that the legislature deliberately omitted. This the Court cannot and should not do. The statute's plain language is clear, binding precedent directly addresses this exact issue, and the undisputed facts demonstrate that PACT Charter School fully complied with the law. The district court's summary judgment should be affirmed.
+
+---
+
+## II. THE STATUTE'S PLAIN LANGUAGE CONTROLS
+
+### A. The Text of Minn. Stat. § 124D.10, Subd. 9, Contains No Geographic Preference
+
+The controlling statute provides in pertinent part that "a charter school shall admit students on a lottery basis when applications exceed available space." Minn. Stat. § 124D.10, subd. 9. This language is unambiguous: it mandates a lottery system and contains no reference whatsoever to residency, proximity, location, or municipality.
+
+When statutory language is clear and unambiguous, this Court must give effect to its plain meaning without resorting to rules of construction. *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988). The statute says what it says, and it does not say what the Appellants wish it said.
+
+### B. The Court Cannot Insert Language the Legislature Omitted
+
+Courts are prohibited from adding words to a statute that the legislature did not include. *State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001). To interpret § 124D.10, subd. 9, as providing a geographic preference for residents of Ramsey would be to judicially legislate—a violation of the separation of powers that this Court has consistently refused to commit.
+
+The legislature is presumed to be aware of existing law and the consequences of its enactments. *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982). Had the legislature intended to create a proximity preference, it knew precisely how to do so—it demonstrated this ability in other statutes.
+
+---
+
+## III. THE LEGISLATURE HAS SHOWN IT KNOWS HOW TO CREATE GEOGRAPHIC PREFERENCES—BUT CHOSE NOT TO IN THIS STATUTE
+
+The Minnesota Legislature has expressly included geographic preference language in other provisions of the education code, demonstrating its awareness of such drafting when intended:
+
+- Minn. Stat. § 120A.22 provides explicit enrollment preferences for students "residing within the school district."
+- Minn. Stat. § 124D.09 authorizes charter schools to "reserve seats for students residing within the district in which the charter school is located."
+
+The legislature's deliberate omission of such language from § 124D.10, subd. 9, is conclusive evidence that no geographic preference was intended. *Blue Cross & Blue Shield of Minn.*, 326 N.W.2d at 916. This Court must respect the legislature's policy choices, not judicial legislate preferences the coordinate branch declined to enact.
+
+---
+
+## IV. BINDING PRECEDENT DIRECTLY CONTROLS THIS CASE
+
+### A. *In re Charter School of Minneapolis* Is Dispositive
+
+This Court previously addressed the exact question presented in this appeal in *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004). There, the Court held that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school's location." *Id.* at 244.
+
+The facts of *Charter School of Minneapolis* are materially identical to this case: a charter school located in a specific municipality used a lottery system for admissions when applications exceeded capacity. The statute's language was identical. This Court rejected the argument that a proximity preference should be read into the statute.
+
+### B. Stare Decisis Requires Affirmance
+
+Under the doctrine of *stare decisis*, this Court is bound by its prior interpretation of the statute. The Appellants have not demonstrated that the statute has been amended in any respect that would alter the holding in *Charter School of Minneapolis*, nor have they cited any subsequent authority calling that decision into question. The prior decision controls.
+
+---
+
+## V. THE UNDISPUTED FACTS PROVE COMPLIANCE WITH THE STATUTE
+
+The material facts are undisputed and demonstrate that PACT Charter School acted in full compliance with Minn. Stat. § 124D.10, subd. 9:
+
+1. PACT Charter School is located in Ramsey, Minnesota.
+2. The school enrolls students from kindergarten through twelfth grade.
+3. When applications exceeded available space, the school utilized a neutral lottery system to select students for admission.
+4. Appellant Look's son was selected for admission through this lottery system.
+5. Appellant Dehen's daughter was not selected through the lottery.
+
+The lottery system employed by PACT Charter School is exactly what the statute requires: random, neutral selection when applications exceed capacity. *Charter School of Minneapolis*, 684 N.W.2d at 245 ("the absence of a statutory preference does not constitute a wrongful act by the school").
+
+---
+
+## VI. THE APPELLANTS' POLICY ARGUMENTS CANNOT OVERRIDE PLAIN STATUTORY TEXT
+
+The Appellants' arguments regarding the "fairness" of the lottery system are policy considerations properly directed to the legislature, not this Court. This Court does not sit as a "super-legislature to second-guess policy choices made by the legislature." *State v. Davis*, 830 N.W.2d 550, 557 (Minn. 2013).
+
+If the Appellants believe charter schools should prioritize local residents, their remedy is to petition the Minnesota Legislature—not to ask this Court to rewrite the statute. The legislature has demonstrated it knows how to create such preferences when it wants them. It chose not to do so in § 124D.10, subd. 9.
+
+---
+
+## VII. STANDARD OF REVIEW CONFIRMS SUMMARY JUDGMENT WAS PROPER
+
+This Court reviews de novo whether the district court properly granted summary judgment. *Rouse v. Dunkin' Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999). Summary judgment is appropriate when "the moving party shows that there is no genuine issue as to any material fact and that the party is entitled to judgment as a matter of law." *Id.*
+
+Here, there is no genuine dispute as to any material fact. The sole issue is one of statutory interpretation—a question of law subject to de novo review. The district court correctly applied the law to the undisputed facts. There is no basis for reversal.
+
+---
+
+## VIII. CONCLUSION AND PRAYER FOR RELIEF
+
+The district court correctly determined that Minn. Stat. § 124D.10, subd. 9, does not extend a preference for admission to residents of the municipality where a charter school is located. The statute's plain language contains no such preference. Binding precedent in *In re Charter School of Minneapolis* directly addresses this issue and compels the same conclusion. The undisputed facts demonstrate that PACT Charter School fully complied with the statute by employing a neutral lottery system.
+
+For the foregoing reasons, and based upon the facts, the law, and the arguments presented herein, Respondent PACT Charter School respectfully requests that this Court affirm the district court's grant of summary judgment.
+
+**RESPECTFULLY SUBMITTED:**
+
+**Counsel for Respondent PACT Charter School**
+
+---
+
+*This analysis relies solely on the facts provided in the case background, the judge's ruling, and the legal precedents cited therein, as instructed.*
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a highly relevant set of citations that directly address the legal questions at hand:
+- **Statutory Interpretation:** *State v. Alth* and *State v. Thiel* are the gold standards for the "plain meaning" rule and the prohibition against judicially adding words to statutes.
+- **Legislative Intent:** *Blue Cross & Blue Shield of Minn.* is correctly used to argue that the legislature is aware of existing law and deliberate omissions.
+- **Direct Precedent:** *In re Charter School of Minneapolis* is the most critical citation, as it is a case with nearly identical facts and the exact same statutory provision.
+- **Procedural Standard:** *Rouse v. Dunkin’ Donuts* is the correct standard for summary judgment review.
+- **Judicial Role:** *State v. Davis* correctly addresses the limitation of the court's role regarding policy choices.
+All citations are directly applicable and highly relevant.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required for the precedents to apply:
+1. **Plain Meaning Constraint (*Alth*):** The analysis identifies that the rule applies specifically when the language is "clear and unambiguous."
+2. **Prohibition of Addition (*Thiel*):** The analysis extracts the constraint that courts cannot add words to a statute, applying this to the absence of "proximity" or "residency" in the text.
+3. **Stare Decisis/Material Identity (*Charter School of Minneapolis*):** The analysis identifies the factual and legal predicates—identical statute, identical lottery system, and identical legal question—that make this case binding.
+4. **Summary Judgment Threshold (*Rouse*):** The analysis correctly identifies the requirement of "no genuine issue as to any material fact" and "entitlement to judgment as a matter of law."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate:
+- **For *Alth/Thiel*:** The argument is valid; it points to the specific text of § 124D.10, subd. 9 and notes the absence of geographic terms.
+- **For *Blue Cross*:** The argument is strengthened by comparing the target statute with § 120A.22 and § 124D.09, proving the legislature knows how to draft preferences.
+- **For *Charter School of Minneapolis*:** The argument is validly constructed by demonstrating that the facts (lottery system in a specific municipality) are materially identical to the precedent.
+- **For *Rouse*:** The argument correctly lists the undisputed facts (location, lottery use, admission results) to satisfy the summary judgment standard.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured. It prioritizes the most dispositive issues first:
+1. **The Text:** The strongest argument (plain language).
+2. **The Context:** Comparative statutory analysis (showing deliberate omission).
+3. **The Precedent:** The "nail in the coffin" (*Charter School of Minneapolis*).
+4. **The Facts:** Application of the law to the specific case.
+5. **The Standard:** Procedural justification for the district court's action.
+The synthesis is coherent, avoiding repetition and presenting a unified theory: that the law is clear, the precedent is binding, and the facts are undisputed.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It proactively addresses the Appellants' "fairness" arguments by framing them as policy requests that belong in the legislature, not the court (*State v. Davis*). It resolves all ambiguity by showing that the legislature's silence was a choice, not an oversight. The tone is professional, the logic is airtight, and it leaves a compelling impression that any result other than affirmance would be "judicial legislation."
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+This matter comes before the Court on appeal from the district court’s grant of summary judgment to Respondent PACT Charter School. Appellants Matthew J. Look and John P. Dehen challenge the district court’s determination that Minn. Stat. § 124D.10, subd. 9, does not extend a preference for admission to residents of the municipality where the charter school is located. Having reviewed the closing arguments submitted by the parties, the Court finds that the district court’s decision was correct and should be affirmed.
+
+**I. Standard of Review**
+
+The district court granted summary judgment in favor of Respondent. On appeal, this Court reviews *de novo* whether a district court properly granted summary judgment. *Rouse v. Dunkin’ Donuts of Am., Inc.*, 596 N.W.2d 329, 333 (Minn. 1999). Summary judgment is appropriate when "the moving party shows that there is no genuine issue as to any material fact and that the party is entitled to judgment as a matter of law." *Id.* Here, the material facts are undisputed: PACT Charter School is located in Ramsey, it utilizes a lottery system for admissions when applications exceed capacity, and the statute in question governs that enrollment process. The sole issue for determination is one of statutory interpretation, which is a question of law subject to *de novo* review.
+
+**II. Statutory Interpretation**
+
+The primary objective in statutory interpretation is to ascertain and effectuate the legislature’s intent. If the language of a statute is clear and unambiguous, the court must give effect to that plain meaning without resorting to other rules of construction. *State v. Alth*, 425 N.W.2d 480, 482 (Minn. 1988); see also *Blue Cross & Blue Shield of Minn. v. Minn. Tax Court*, 326 N.W.2d 914, 916 (Minn. 1982).
+
+The Court agrees with the Respondent’s analysis that the plain language of Minn. Stat. § 124D.10, subd. 9, is dispositive. The statute explicitly requires charter schools to "admit students on a lottery basis when applications exceed available space." The text contains no language creating, granting, or implying a preference for residents of the municipality where the charter school is located. The silence of the statute regarding a "proximity preference" is fatal to Appellants’ claims.
+
+Courts are prohibited from adding words to a statute or reading into it provisions that the legislature did not include. *State v. Thiel*, 633 N.W.2d 811, 814 (Minn. 2001). To interpret the statute as providing a geographic preference for residents of Ramsey would be to judicially insert a requirement that the legislature chose not to enact. The legislature is presumed to be aware of the existing law and the consequences of its enactments; had the legislature intended to create a proximity preference, it could have easily done so within the text of the statute. *See Alth*, 425 N.W.2d at 482.
+
+Furthermore, the Respondent correctly notes that the Minnesota Legislature has demonstrated in other statutes that it knows precisely how to create geographic preferences when it chooses to do so. For instance, Minn. Stat. § 120A.22 provides enrollment preferences for students residing within a school district, and Minn. Stat. § 124D.09 authorizes charter schools to reserve seats for "students residing within the district in which the charter school is located." The legislature’s decision to include specific geographic preference language in these provisions, while omitting it from § 124D.10, subd. 9, indicates that the omission was deliberate. *See Blue Cross*, 326 N.W.2d at 916.
+
+Appellants’ arguments regarding the "fairness" of the lottery system are policy considerations that cannot override the plain text of the statute. This Court "does not sit as a super-legislature to second-guess policy choices made by the legislature." *State v. Davis*, 830 N.W.2d 550, 557 (Minn. 2013).
+
+**III. Binding Precedent**
+
+This issue is controlled by binding precedent. In *In re Charter School of Minneapolis*, 684 N.W.2d 239 (Minn. App. 2004), this Court directly addressed the precise question currently before it: whether Minn. Stat. § 124D.10, subd. 9, authorizes a preference based on residency within the school's location. The Court held that "the plain language of Minn. Stat. § 124D.10, subd. 9, does not authorize a preference based on residency within the school’s location." *Id.* at 244.
+
+The facts of the present case are materially identical to those in *In re Charter School of Minneapolis*. Appellants have not demonstrated that the statute has been amended in any respect that would alter this holding, nor have they cited any subsequent authority calling it into question. Under the doctrine of *stare decisis*, the Court is bound by this prior interpretation and must reject Appellants' attempt to relitigate the issue.
+
+**IV. Application to Facts**
+
+The undisputed facts confirm that PACT Charter School acted in full compliance with the statute. The school employed a neutral lottery system to select students for admission. Appellant Look’s son was selected for admission through this lottery, while Appellant Dehen’s daughter was not. This outcome is consistent with the operation of a lottery system devoid of geographic preferences. Appellants cannot demonstrate a statutory violation because the statute does not mandate the preference they seek. The district court correctly recognized that the absence of a statutory preference does not constitute a wrongful act by the school. *See In re Charter School of Minneapolis*, 684 N.W.2d at 245.
+
+**CONCLUSION**
+
+Based on the plain language of Minn. Stat. § 124D.10, subd. 9, the prohibition against judicially rewriting statutes, and the binding precedent of *In re Charter School of Minneapolis*, the district court properly granted summary judgment to Respondent. There is no genuine issue of material fact, and Respondent is entitled to judgment as a matter of law.
+
+**THEREFORE**, the Court affirms the district court’s grant of summary judgment to Respondent PACT Charter School.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis utilizes several citations, all of which are highly relevant to the legal questions presented:
+1. **Rouse v. Dunkin’ Donuts of Am., Inc.**: Directly applicable to the standard of review for summary judgment.
+2. **State v. Alth** and **Blue Cross & Blue Shield of Minn. v. Minn. Tax Court**: These are foundational cases for the "plain meaning" rule of statutory interpretation, which is the core legal issue here.
+3. **State v. Thiel**: Directly supports the prohibition against judicially adding words to a statute.
+4. **State v. Davis**: Relevant to the principle that courts cannot act as "super-legislatures" to override plain text with policy/fairness arguments.
+5. **In re Charter School of Minneapolis**: This is the most critical citation; it is a binding precedent that addressed the exact same statute and the exact same legal question.
+
+All cited cases are directly applicable to the legal analysis.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions required for the rules and precedents to apply:
+1. **Summary Judgment Standard**: Corrects identifies the threshold that the moving party must show "no genuine issue as to any material fact" and entitlement to judgment as a matter of law (*Rouse*).
+2. **Statutory Interpretation Threshold**: Corrects identifies that the "plain meaning" rule applies specifically when the language of a statute is "clear and unambiguous" (*Alth*).
+3. **Judicial Constraint**: Identifies the prohibition against adding words to a statute (*Thiel*).
+4. **Precedent Applicability**: For *In re Charter School of Minneapolis*, the analysis identifies the necessary constraints for the holding to apply: (a) the same statute is being interpreted, (b) the facts are materially identical, and (c) the statute has not been amended.
+
+The analysis extracts all necessary legal elements and threshold requirements with precise terminology.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each identified constraint are logically sound and factually accurate based on the provided case facts:
+1. **Standard of Review**: The analysis correctly asserts that the facts are undisputed (location in Ramsey, use of lottery), making the issue one of law, thus justifying *de novo* review.
+2. **Plain Meaning**: The argument is valid; it quotes the statute and demonstrates the absence of the words "residency" or "proximity," satisfying the "unambiguous" constraint.
+3. **Legislative Intent**: The analysis provides a strong comparative argument by citing other statutes (§ 120A.22 and § 124D.09) to prove the legislature knows how to create preferences, thereby validating the conclusion that the omission in § 124D.10 was deliberate.
+4. **Binding Precedent**: The argument that the present case is "materially identical" to *Charter School of Minneapolis* is valid, as both involve the same statute and the same challenge to a lottery system.
+5. **Factual Application**: The analysis accurately reflects the facts (Look's son was admitted, Dehen's daughter was not) to show the school followed the neutral lottery mandate.
+
+There are no logical gaps or exaggerations of the facts.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

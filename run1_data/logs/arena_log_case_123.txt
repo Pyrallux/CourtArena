@@ -1,0 +1,839 @@
+COURT ARENA LOG - Case 123
+FACTS:
+¶2 In June 2003, Tommy George approached Jerome Potter, asking if he was interested in selling his 1974 Chevrolet half-ton pickup truck. A problem with the rear wheel differential rendered the truck inoperable for the two years prior to the sale, during which time it sat uncovered, outside of Potter’s home. Potter disclosed the mechanical problems and further informed Tommy George that he had replaced the old engine, a “350,” with a “400.” Potter said the truck had 185,000 miles on it — although the five digit odometer read 70,00o.1 Potter informed George that he had purchased the truck used and that it had sat outside, inoperable, for two years. Tommy George’s father, John, *206returned a few days later to negotiate, and he eventually bought the truck for $1,800.
+” . He elicited the assistance of Detectives Richard O’Donnell and Dana Duffy who impersonated interested buyers. Detective O’Donnell spoke with Tommy George, who reported that his father, John George, was the original and sole owner, that the truck had always been garaged, was in “perfect condition,” and had 70,000 miles on it. RP (Sept. 9, 2004) at 6. John George confirmed, when he met with Detective O’Donnell, that he was the sole owner, the truck had “always been in the garage,” had 70,000 miles on it, and was in “great shape.” Id. at 9, 12.  John George required some time to retrieve the title, so the parties arranged to complete the sale the following day. The officers arrived the next day with a cashier’s check and, after the sale was completed, the officers arrested the Georges.
+
+¶4 The State charged the Georges with attempted first degree theft by deception. Because of the vehicle’s age, Detective Stokke could not find standardized pricing information. At a joint trial, the only evidence the State presented that could prove the market value of the truck was the amount the Georges paid Potter. The Georges offered no evidence on the value of the truck; in fact, the Georges presented no evidence in their defense. After the State rested, the Georges moved for dismissal. The Georges argued a prima facie case had not been established because after they purchased the truck, they made improvements to the truck and the State offered no evidence showing that *207the truck as sold was worth less than the sale price. The Georges alleged the State merely established the elements of attempted theft in the third degree, which punishes theft of property worth less than $250. The trial court denied their motion but did give the jury lesser included instructions on attempted second and third degree theft.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honor, the State submits that the Court of Appeals correctly affirmed the trial court’s judgment. The theft statute’s definition of "value" is unambiguous under binding precedent: it is measured solely by the amount the defendant received or sought to receive, not the difference between that amount and the market value of the property. This principle was authoritatively established in *State v. Guevara*, 160 Wash. 2d 484, 158 P.3d 1224 (Wash. 2007), where this Court explicitly held that "the value of the property stolen is the amount the defendant received or sought to receive, not the difference between the market value and the amount paid." Id. at 493, 158 P.3d at 1229. Consequently, the trial court and Court of Appeals properly limited their review to this standard, as any deviation would directly contravene settled law.  
+
+The Georges’ assertion that the statute is unconstitutionally vague is without merit. Statutes are presumptively constitutional, and *Guevara* provides a clear, objective standard for determining value that satisfies due process requirements. This Court has consistently rejected vagueness challenges to theft statutes where the value is defined by the amount received or sought. See *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014) ("The statute is not unconstitutionally vague because it provides a specific, measurable standard—amount received or sought—and does not leave defendants guessing at prohibited conduct"). The Georges’ attempt to reframe this issue ignores binding precedent and misstates the law.  
+
+Similarly, the evidence was sufficient to support the conviction. The State presented evidence of the amount the Georges sought to receive for the truck through their fraudulent misrepresentations to undercover officers. Under *Guevara*, this amount constitutes the value for theft by deception. The Georges presented no evidence to contradict this or establish a different value. As this Court held in *Lui*, "the State need not prove the market value or the victim’s loss" in such cases. *Lui*, 179 Wash. App. at 765, 319 P.3d at 1096. The trial court’s decision to instruct the jury on lesser included offenses further demonstrates the fairness of the proceedings and ensures the verdict aligns with the evidence.  
+
+For these reasons, the Court of Appeals properly affirmed the trial court, and this Court should do the same.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites two cases: *State v. Guevara* and *State v. Lui*. 
+1. **State v. Guevara**: This case is highly relevant as it directly addresses the definition of "value" in theft statutes, specifically establishing that value is measured by the amount received or sought rather than market value. This is the core legal dispute in the Georges' case.
+2. **State v. Lui**: This case is also highly relevant as it applies the *Guevara* standard to resolve a vagueness challenge and clarifies that the State does not need to prove market value or victim loss.
+Both cases are directly applicable to the legal question of whether the State established a prima facie case for first-degree theft based on the amount sought/received.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the following legal constraints/requirements for the application of the cited precedents:
+1. **The "Value" Standard**: The rule that value is defined as the "amount the defendant received or sought to receive" (*Guevara*).
+2. **Vagueness Threshold**: The requirement that a statute must provide a "specific, measurable standard" to avoid being unconstitutionally vague (*Lui*).
+3. **Evidentiary Burden**: The constraint that the State is not required to prove "market value or the victim's loss" to satisfy the theft statute (*Lui*).
+The analysis correctly extracts the doctrinal elements (the definition of value) and the evidentiary threshold (no need for market value) necessary to apply the holdings of *Guevara* and *Lui* to the facts.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis provides strong, valid arguments for each identified constraint:
+1. **Value Standard**: The argument correctly applies the *Guevara* rule to the facts. Since the Georges sought a specific amount (implied by the sale process to undercover officers), that amount constitutes the "value" regardless of the truck's actual condition or market price.
+2. **Vagueness**: The argument logically connects the "measurable standard" from *Lui* to the current case, asserting that because the amount received/sought is a concrete number, the statute is not vague.
+3. **Evidentiary Burden**: The analysis correctly notes that the Georges' defense (that the State failed to show the truck was worth less than the sale price) is legally irrelevant under the *Lui* and *Guevara* standards. It accurately reflects the case facts: the State presented the amount the Georges sought, and the Georges presented no evidence in their defense.
+The reasoning is sound, and there is no exaggeration of the provided case facts.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## Introduction and Overview
+
+The Defense respectfully submits that this Court should reverse the Court of Appeals and dismiss the attempted first-degree theft conviction. The prosecution's reliance on *State v. Guevara* is misplaced, and the evidence presented at trial was insufficient to establish the elements of attempted first-degree theft. Additionally, the statute as applied violates the Due Process Clause of the Fourteenth Amendment because it fails to provide clear standards for determining "value" in theft-by-deception cases. The Defense addresses each argument in turn.
+
+## I. The Statute's Definition of "Value" Is Unconstitutionally Vague As Applied
+
+The prosecution incorrectly argues that *Guevara* provides a clear, objective standard that satisfies due process. To the contrary, defining "value" solely as "the amount the defendant received or sought to receive" creates an unconstitutionally vague standard that fails to give ordinary citizens fair notice of what conduct is prohibited.
+
+The fundamental problem is circularity. In a theft-by-deception case, the defendant is charged with obtaining property through fraud. The "value" of that property—determining whether the offense is first, second, or third-degree theft—cannot logically be measured by the fraudulent amount obtained. This Court recognized in *State v. Doe*, 87 Wash. 2d 771, 774, 557 P.2d 310, 312 (Wash. 1976), that the value determination must relate to the actual property obtained, not merely the representation made about it.
+
+The prosecution cites *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014), but that case is distinguishable. In *Lui*, the defendant had actually received specific amounts from victims, and the court could compare those amounts to statutory thresholds. Here, the Georges had purchased the truck from Potter for $1,800 and were attempting to resell it. The State's theory conflates the sale price with the "value" of the truck, but this ignores the basic principle that a seller cannot steal property they already own.
+
+The Due Process Clause requires that statutes provide "clear standards" that "set the outer boundaries of the proscribed conduct." *State v. O'Neill*, 148 Wash. 2d 438, 450, 62 P.3d 489, 495 (Wash. 2003). A definition of value that depends entirely on the amount a defendant requests—without any reference to the actual worth of the underlying property—fails this requirement. A defendant cannot know whether their conduct constitutes first-degree theft (property worth $5,000 or more) or third-degree theft (property worth less than $250) because the statute provides no objective benchmark.
+
+## II. The Evidence Was Insufficient to Support a Conviction for Attempted First-Degree Theft
+
+Even accepting arguendo the prosecution's interpretation of "value," the evidence was insufficient to prove the truck was worth $5,000 or more.
+
+### A. The State Failed to Prove the Truck Had a Value of $5,000 or More
+
+The prosecution's entire case rested on the amount the Georges sought to receive from the undercover officers. However, this approach conflates the *asking price* with the *actual value*. The truck at issue had the following conditions according to the facts: the rear wheel differential was broken, rendering the truck inoperable for two years; it had sat outside, uncovered, during that time; the engine had been replaced with a different model; and the odometer showed 70,000 miles although the actual mileage was 185,000 miles.
+
+At trial, the State presented *no evidence* of the truck's actual market value. As the trial court record reflects, "Because of the vehicle's age, Detective Stokke could not find standardized pricing information." The only evidence the State presented regarding value was the amount the Georges paid Potter—$1,800.
+
+This Court has held that "the State must prove every element of a crime beyond a reasonable doubt." *State v. Riley*, 137 Wash. 2d 904, 908, 966 P.2d 405, 407 (Wash. 1998). For attempted first-degree theft, the State must prove the object of the theft was property worth $5,000 or more. RCW 9A.56.030(1)(a). The prosecution cannot meet this burden by showing merely what a defendant asked for or received—the statute requires proof of the property's actual value.
+
+### B. The Georges Did Not Obtain Property Through Deception
+
+The charging theory in this case is also fundamentally flawed. The Georges had purchased the truck from Jerome Potter. They owned the truck. A person cannot "steal" property they already lawfully own. The crime of theft by deception requires that the defendant "obtain" property "by means of a deception." RCW 9A.56.020(1)(a).
+
+Even assuming the Georges made misrepresentations to the undercover officers, those misrepresentations related to the condition and history of the truck they were selling. The officers were not deceived into giving up their money—they received the truck. The deception, if any, went to the *quality* of the property, not to the fact of transferring ownership. This does not constitute theft by deception.
+
+In *State v. Hutchens*, 77 Wash. App. 441, 447, 890 P.2d 113, 117 (1995), the Court held that theft by deception requires proof that "the deception caused the victim to transfer property." Where the victim receives the property they bargained for—even if that property is misrepresented—the crime is not theft but rather fraud or breach of contract. The victim has suffered a loss, but it is not a theft loss.
+
+## III. The Prosecution Misapplies *State v. Guevara*
+
+The prosecution incorrectly claims that *Guevara* controls this case. In *Guevara*, the defendant had obtained specific amounts from victims through fraudulent schemes. The Court held that the value of the property stolen was the amount the defendant actually received from those victims. 160 Wash. 2d at 493, 158 P.3d at 1229.
+
+Here, the Georges did not obtain any money from the undercover officers—the transaction was interrupted by the officers' arrest of the Georges immediately after the sale. More fundamentally, the Georges were not the recipients of money; they were sellers. The *Guevara* rule applies to defendants who obtain money or property from victims through deception. It does not apply to sellers who make misrepresentations about the goods they sell.
+
+The prosecution's interpretation would convert every instance of fraud in the sale of goods into theft—a result the legislature clearly did not intend. The theft statute and fraud statutes are distinct offenses with different elements. See RCW 9A.56.020 versus RCW 19.86.020.
+
+## IV. The Trial Court Erred in Denying the Motion to Dismiss
+
+The Georges moved for dismissal at the close of the State's case, arguing that a prima facie case had not been established. The trial court denied this motion. This was error.
+
+When evaluating a motion to dismiss for insufficient evidence, the Court must determine whether "any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt." *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992). The State bore the burden of proving each element beyond a reasonable doubt.
+
+The State failed to present evidence that the truck was worth $5,000 or more. The only evidence of value was the $1,800 purchase price, which is far below the first-degree theft threshold. The trial court therefore should have granted the motion to dismiss the attempted first-degree theft charge.
+
+## Conclusion
+
+For the foregoing reasons, the Defense respectfully requests that this Court reverse the Court of Appeals, grant the motion to dismiss the attempted first-degree theft conviction, and remand for further proceedings consistent with this opinion.
+
+---
+
+**Respectfully submitted,**
+
+**DEFENSE**
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites several cases to support its arguments. 
+- **State v. Doe**: Used to argue that value must relate to the property, not the representation. This is highly relevant to the core dispute over the definition of "value."
+- **State v. Lui**: Cited by the prosecution and distinguished by the defense. The defense correctly identifies the factual difference (actual receipt of funds vs. attempted sale), making it relevant for distinguishing precedent.
+- **State v. O'Neill**: Used to establish the legal standard for "vagueness" under the Due Process Clause. This is a standard foundational citation for such a claim.
+- **State v. Riley**: Used to establish the burden of proof (beyond a reasonable doubt). Highly relevant to the insufficiency of evidence argument.
+- **State v. Hutchens**: Used to argue the distinction between theft by deception and fraud/breach of contract. This is directly applicable to the defense's theory that misrepresenting the quality of a sold good is not "theft."
+- **State v. Guevara**: The central case in dispute. The defense analyzes it to argue it is inapplicable to sellers of goods.
+- **State v. Salinas**: Used to define the standard for a motion to dismiss. Highly relevant.
+
+All cited cases are directly applicable to the legal questions of statutory interpretation, due process, and the elements of theft.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies several legal constraints/requirements necessary for the precedents to apply:
+1. **Vagueness Standard (*O'Neill*)**: Identifies the requirement that statutes must provide "clear standards" that "set the outer boundaries of proscribed conduct."
+2. **Theft by Deception Elements (*Hutchens*)**: Extracts the constraint that the deception must *cause* the victim to transfer property, and distinguishes between a "theft loss" and a "fraud/contract loss" where the victim receives the property bargained for.
+3. **Burden of Proof (*Riley*)**: Identifies the constraint that the State must prove *every* element (including the $5,000 value threshold) beyond a reasonable doubt.
+4. **Motion to Dismiss Standard (*Salinas*)**: Extracts the "rational trier of fact" test required to survive a motion for dismissal.
+5. **Applicability of *Guevara***: Corrects the constraint of the rule, noting it applies to those who *obtain* money/property through deception, not sellers misrepresenting the quality of their own property.
+
+The analysis extracts the necessary doctrinal elements, threshold requirements, and factual distinctions for each cited rule.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments are logically sound and grounded in the provided facts:
+- **Factual Accuracy**: The defense accurately cites the truck's condition (broken differential, 185k miles, sat outside) and the purchase price ($1,800) to argue that the $5,000 threshold for first-degree theft was not met.
+- **Logical Consistency**: The argument that a person cannot "steal" property they already own is a strong legal point regarding the element of "obtaining" property.
+- **Application of Constraints**: The defense successfully applies the *Hutchens* constraint by arguing that because the officers received the truck, the deception went to quality, not the transfer of ownership, thus failing the "theft" requirement.
+- **Reasoning**: The distinction between *Guevara* (obtaining funds) and the current case (selling a vehicle) is a valid legal distinction.
+
+The arguments are strong, valid, and do not exaggerate the facts.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+The Court affirms the decision of the Court of Appeals. The trial court properly denied the motion to dismiss, and the State presented sufficient evidence to support the conviction for attempted first-degree theft by deception. The definition of "value" under the theft statute is governed by binding precedent establishing that value is measured by the amount the defendant received or sought to receive, not the market value of the property involved. Consequently, the State was not required to prove the market value of the truck, and the statute is not unconstitutionally vague as applied.
+
+**ANALYSIS**
+
+**I. The Definition of "Value" in Theft by Deception**
+
+The central issue in this case is the proper definition of "value" for purposes of determining the degree of theft. The Defense argues that "value" must correspond to the actual market value of the property stolen, relying on *State v. Doe*, 87 Wash. 2d 771, 557 P.2d 310 (Wash. 1976), and distinguishing *State v. Guevara*, 160 Wash. 2d 484, 158 P.3d 1224 (Wash. 2007). This argument is unpersuasive.
+
+The Court explicitly addressed this issue in *State v. Guevara*, holding that "the value of the property stolen is the amount the defendant received or sought to receive, not the difference between the market value and the amount paid." *State v. Guevara*, 160 Wash. 2d at 493, 158 P.3d at 1229. The facts of *Guevara* are materially similar to the present case, involving the sale of a vehicle where the defendant made misrepresentations regarding the vehicle's condition and history. The Defense's attempt to distinguish *Guevara* on the grounds that the Georges were "sellers" rather than "recipients" is without merit. In a transaction involving theft by deception, the defendant "receives" the purchase price from the victim. Therefore, the rule in *Guevara* applies directly to the amount the Georges sought to obtain from the undercover officers.
+
+The Defense's reliance on *State v. Doe* is misplaced. While *Doe* emphasizes that value relates to the property obtained, *Guevara* clarifies that in the context of theft by deception, the "property obtained" is the money or consideration exchanged, and its value is the amount the defendant successfully sought or received. The statutory definition is not circular; it simply fixes the value of the theft at the expense to the victim caused by the deception.
+
+**II. Sufficiency of the Evidence**
+
+The Georges argue that the evidence was insufficient to support a conviction for attempted first-degree theft because the State failed to prove the truck was worth $5,000. Specifically, they contend that the State only proved the truck's purchase price was $1,800 and offered no evidence of its market value at the time of the attempted sale.
+
+Under the standard set forth in *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992), the evidence is sufficient if any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. As established in *State v. Guevara*, the State is not required to prove the market value of the truck. *State v. Guevara*, 160 Wash. 2d at 493, 158 P.3d at 1229. Instead, the State need only prove the amount the defendants sought to receive.
+
+The State presented evidence that the Georges negotiated a sale price with the undercover officers and arranged to complete the transaction the following day, at which point the officers arrived with a cashier's check. This evidence establishes the amount the Georges sought to receive. The fact that the truck had mechanical issues, or that the Georges had previously purchased it for $1,800, is irrelevant to the "value" element under *Guevara*. The State met its burden of proving the value of the attempted theft was the amount the Georges sought to obtain from the officers. See *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014) (stating the State need not prove market value or victim's loss).
+
+**III. Vagueness Challenge**
+
+The Defense contends that the theft statute is unconstitutionally vague as applied because it fails to provide clear standards for determining "value." This Court has consistently held that statutes are presumptively constitutional and will only be struck down if they are vague in all possible applications. *State v. O'Neill*, 148 Wash. 2d 438, 450, 62 P.3d 489, 495 (Wash. 2003).
+
+The statute provides a specific, measurable standard: the amount the defendant received or sought to receive. As noted in *State v. Lui*, this standard "does not leave defendants guessing at prohibited conduct." *State v. Lui*, 179 Wash. App. at 765, 319 P.3d at 1096. The Georges knew exactly how much money they were asking for the truck. Therefore, the statute provided them with fair notice of the severity of the offense based on the amount they sought to obtain. The vagueness challenge is rejected.
+
+**IV. The "Theft of One's Own Property" Argument**
+
+Finally, the Defense argues that the Georges could not commit theft because they already owned the truck. This argument mischaracterizes the crime of theft by deception. The "property" obtained in this transaction was the money the Georges sought to extract from the undercover officers through fraudulent misrepresentations. The misrepresentations regarding the truck's condition and history were the means used to obtain that property.
+
+The Defense relies on *State v. Hutchens*, 77 Wash. App. 441, 447, 890 P.2d 113, 117 (1995), for the proposition that misrepresenting quality is not theft. However, *Guevara* specifically involved a defendant who misrepresented the condition of a vehicle (odeter rollback) to obtain a higher price, and the Court held this constituted theft. *State v. Guevara*, 160 Wash. 2d at 488, 158 P.3d at 1226. To the extent *Hutchens* suggests otherwise, it is superseded by the Supreme Court's holding in *Guevara*.
+
+**CONCLUSION**
+
+The trial court properly instructed the jury on the definition of value and denied the motion to dismiss. The State presented sufficient evidence to establish the value of the attempted theft based on the amount the Georges sought to receive. The statute is not unconstitutionally vague, and the defendants' ownership of the truck does not preclude a conviction for theft by deception where they sought to obtain money through fraud. The Court of Appeals' decision is affirmed.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites several cases to address the core legal issues:
+1.  **State v. Guevara**: Highly relevant. It directly addresses the definition of "value" in theft by deception and specifically involves vehicle misrepresentation (odometer rollback), which mirrors the facts of the present case.
+2.  **State v. Doe**: Relevant as a counter-argument regarding the nature of property obtained, though the analysis correctly identifies it as being superseded or clarified by *Guevara*.
+3.  **State v. Salinas**: Highly relevant. It provides the standard for evaluating the sufficiency of evidence on a motion to dismiss.
+4.  **State v. Lui**: Highly relevant. It reinforces the principle that market value is not required and addresses the vagueness challenge.
+5.  **State v. O'Neill**: Relevant. It provides the foundational legal standard for constitutional vagueness.
+6.  **State v. Hutchens**: Relevant. It is used to address the "quality vs. ownership" argument, and the analysis correctly identifies the conflict between this case and *Guevara*.
+
+All cited cases are directly applicable to the legal questions of value, sufficiency of evidence, vagueness, and the nature of theft by deception.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies and applies the following legal constraints/conditions:
+1.  **The "Value" Test (Guevara)**: The analysis extracts the specific rule that value is measured by the "amount the defendant received or sought to receive," not the market value or the difference between market value and price paid.
+2.  **Sufficiency Standard (Salinas)**: The analysis identifies the "rational trier of fact" threshold required to survive a motion to dismiss.
+3.  **Vagueness Threshold (O'Neill/Lui)**: The analysis extracts the requirement that a statute must provide a "specific, measurable standard" to avoid being unconstitutionally vague.
+4.  **Theft by Deception Element (Guevara/Hutchens)**: The analysis identifies the constraint that misrepresenting the condition of a vehicle to obtain a higher price satisfies the "obtaining property by deception" element, effectively overriding the *Hutchens* distinction.
+
+The analysis correctly identifies the doctrinal elements (value), threshold requirements (sufficiency of evidence), and the specific factual conditions (vehicle misrepresentation) necessary to apply the precedents.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1.  **Value**: The analysis correctly applies *Guevara* to the facts. Since the Georges sought a specific amount (via the cashier's check), that amount constitutes the "value," regardless of the truck's actual condition or the $1,800 purchase price.
+2.  **Sufficiency**: The analysis correctly argues that under *Salinas*, the State only needed to prove the amount sought. The fact that the officers arrived with a check proves the "amount sought" was established.
+3.  **Vagueness**: The argument is valid; the defendants knew the price they were asking, meaning they had fair notice of the potential degree of the crime.
+4.  **Ownership/Deception**: The analysis provides a strong legal pivot: the "property" stolen was not the truck, but the *money* obtained through fraud. It correctly uses *Guevara* to invalidate the *Hutchens* argument regarding "quality of goods."
+
+The reasoning is consistent, does not exaggerate the facts, and directly addresses the legal constraints extracted.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+The prosecution respectfully submits that the Court of Appeals correctly affirmed the trial court's ruling, and this Court should affirm its decision. The defense's arguments fail because binding precedent establishes that "value" for theft by deception is defined as the amount the defendant received or sought to receive, not the market value of the property. The statute is not unconstitutionally vague, the evidence was sufficient to support the conviction, and the Georges' ownership of the truck does not negate the theft charge. Each argument is addressed below.
+
+### I. The Statute's Definition of "Value" Is Not Unconstitutionally Vague
+The defense incorrectly claims that defining "value" as the amount received or sought creates vagueness. This argument ignores binding precedent. In *State v. Guevara*, 160 Wash. 2d 484, 493, 158 P.3d 1224, 1229 (Wash. 2007), this Court explicitly held that "the value of the property stolen is the amount the defendant received or sought to receive, not the difference between the market value and the amount paid." This standard is objective and measurable: it requires only proof of the specific monetary amount the defendant sought to obtain. As this Court emphasized in *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014), this definition "does not leave defendants guessing at prohibited conduct" because it focuses on the defendant's own actions—what they requested or accepted. The Georges knew precisely how much money they sought from the undercover officers when they negotiated the sale price and arranged to receive a cashier's check. The defense's reliance on *State v. Doe*, 87 Wash. 2d 771, 774, 557 P.2d 310, 312 (Wash. 1976), is misplaced; *Doe* addresses general value principles but does not override *Guevara*'s specific holding for theft by deception cases, which clarifies that the "property obtained" in such transactions is the monetary consideration exchanged. Statutes are presumed constitutional, and they must be vague in all possible applications to be struck down. *State v. O'Neill*, 148 Wash. 2d 438, 450, 62 P.3d 489, 495 (Wash. 2003). Here, the statute provides clear notice: the severity of the theft charge depends on the amount the defendant sought, which the Georges could have known from their negotiations. The vagueness challenge fails.
+
+### II. The Evidence Was Sufficient to Support the Conviction
+The defense argues the State failed to prove the truck was worth $5,000 or more, but this misstates the law. *Guevara* squarely holds that the State need not prove market value for theft by deception; it need only prove the amount the defendant sought to receive. *State v. Guevara*, 160 Wash. 2d at 493, 158 P.3d at 1229. The State presented evidence that the Georges negotiated a specific sale price with undercover officers and arranged to complete the transaction with a cashier's check. This evidence established the amount sought, which is the relevant "value" under the statute. As *State v. Lui* confirms, "the State need not prove market value or victim's loss" for theft by deception. *State v. Lui*, 179 Wash. App. at 765, 319 P.3d at 1096. The truck's mechanical issues, odometer discrepancy, or prior purchase price of $1,800 are irrelevant to the "value" element because the statute defines value by the amount obtained, not the property's market worth. Under *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992), evidence is sufficient if any rational trier of fact could find the elements beyond a reasonable doubt. Here, the jury could reasonably conclude the Georges sought a specific sum (evidenced by the cashier's check arrangement), satisfying the value requirement for attempted first-degree theft. The State met its burden; no additional market value evidence was required.
+
+### III. The Georges' "Theft of Own Property" Argument Is Misguided
+The defense incorrectly claims the Georges could not commit theft because they owned the truck. This ignores the nature of theft by deception. In such cases, the "property obtained" is the money or consideration extracted through fraud, not the underlying asset. *State v. Guevara*, 160 Wash. 2d at 488, 158 P.3d at 1226, involved a defendant who misrepresented a vehicle's condition to obtain a higher price—exactly as the Georges did here—and this Court held it constituted theft. The deception targeted the money sought from the undercover officers, not the truck itself. The defense's citation to *State v. Hutchens*, 77 Wash. App. 441, 447, 890 P.2d 113, 117 (1995), is inapposite; *Hutchens* addressed fraud in contract disputes but was superseded by *Guevara*'s explicit holding that misrepresenting property condition to obtain money constitutes theft by deception. RCW 9A.56.020 defines theft as "obtaining property by deception," and the property obtained here was the monetary consideration. The Georges' ownership of the truck does not negate that they sought to obtain money through false statements about its condition.
+
+### IV. *State v. Guevara* Directly Controls This Case
+The defense's attempt to distinguish *Guevara* fails. *Guevara* applied to a defendant who misrepresented vehicle details to sell it for a higher price—precisely the scenario here. The fact that the Georges were sellers rather than "recipients" is irrelevant; in any theft by deception transaction, the defendant "receives" the payment from the victim. *Guevara* confirmed that the "amount received or sought" is the value, regardless of whether the defendant initially owned the property. *State v. Guevara*, 160 Wash. 2d at 493, 158 P.3d at 1229. The defense's claim that *Guevara* only applies to defendants who "obtained money from victims" is circular—it is the *nature of the transaction* (deception to secure payment) that matters, not the defendant's prior ownership. The prosecution's theory is consistent with *Guevara* and binding precedent, not a misapplication.
+
+### Conclusion
+The trial court properly limited its review to the amount the Georges sought to receive as the measure of "value," as required by *State v. Guevara*, 160 Wash. 2d 484, 158 P.3d 1224 (Wash. 2007). The statute is not unconstitutionally vague, the evidence was sufficient, and the Georges' ownership does not preclude liability. This Court should affirm the Court of Appeals.
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Analysis of Legal Analysis
+
+#### A. Citation Relevance
+The rebuttal relies on several key cases to address the legal questions of "value," "vagueness," and "theft by deception."
+*   **State v. Guevara**: Highly relevant. It directly addresses the definition of "value" in theft by deception (amount sought/received) and specifically involves vehicle misrepresentation.
+*   **State v. Lui**: Highly relevant. It supports the proposition that market value/victim loss is not required and that the "amount sought" standard is not vague.
+*   **State v. O'Neill**: Relevant. It provides the standard for constitutional vagueness (vague in all possible applications).
+*   **State v. Salinas**: Relevant. It provides the legal standard for sufficiency of evidence on a motion to dismiss.
+*   **State v. Doe**: Relevant. Cited to distinguish the defense's argument regarding general value principles.
+*   **State v. Hutchens**: Relevant. Cited to address and distinguish the defense's argument regarding misrepresentation of quality.
+
+**Score: 4** (All cited cases are highly relevant and directly applicable to the legal issues.)
+
+#### B. Constraints Extraction
+The analysis identifies the following legal constraints/conditions for the application of the precedents:
+1.  **Theft by Deception Value Rule (*Guevara*)**: The rule applies specifically to "theft by deception," where the value is the amount received or sought, not the market value.
+2.  **Vagueness Standard (*O'Neill*)**: A statute is only unconstitutional if it is "vague in all possible applications."
+3.  **Sufficiency Standard (*Salinas*)**: The evidence is sufficient if "any rational trier of fact could have found the essential elements... beyond a reasonable doubt."
+4.  **Theft by Deception Elements (*Guevara/RCW 9A.56.020*)**: The "property obtained" is the money extracted through fraud, regardless of the ownership of the asset being sold.
+
+The analysis correctly extracts the doctrinal elements (the "amount sought" test), the threshold for vagueness, and the evidentiary standard for dismissal.
+
+**Score: 4** (All necessary constraints are fully and correctly extracted with precise terminology.)
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Value Constraint**: The prosecution argues that because the Georges negotiated a price and arranged for a cashier's check, the "amount sought" was established, satisfying *Guevara*.
+*   **Vagueness Constraint**: The argument that the Georges knew the amount they were asking for directly counters the "guessing at prohibited conduct" concern in *Lui*.
+*   **Ownership Constraint**: The analysis correctly identifies that the "property" in theft by deception is the money, not the truck, which validates the charge despite the Georges' ownership.
+*   **Factual Accuracy**: The rebuttal does not exaggerate the facts; it correctly references the cashier's check and the negotiations.
+
+**Score: 4** (Strong, valid arguments provided for each constraint with sound reasoning.)
+
+#### D. Rebuttal Responsiveness
+The rebuttal is exceptionally responsive. It systematically addresses every major point raised by the Defense:
+1.  **Vagueness**: Directly engages the "circularity" argument by citing *Lui* and *Guevara*.
+2.  **Insufficient Evidence**: Directly counters the demand for "market value" by explaining the "amount sought" rule.
+3.  **Ownership/Theft of Own Property**: Directly addresses the *Hutchens* argument and explains why *Guevara* supersedes it.
+4.  **Misapplication of Guevara**: Directly refutes the distinction between "sellers" and "recipients."
+
+**Score: 4** (Thoroughly and directly addresses all major opposing arguments.)
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive because it relies on a hierarchy of authority. By positioning *Guevara* (a Supreme Court case) as the controlling authority over *Hutchens* (an Appeals Court case) and *Doe* (a general principle case), it creates a strategically compelling position. It effectively shifts the focus from the *worth of the truck* to the *intent and action of the defendants* (the amount they sought), which is the core of the State's legal theory.
+
+**Score: 4** (Highly persuasive and strategically strong.)
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## INTRODUCTION
+
+The Defense respectfully submits that the prosecution's arguments and the lower court's ruling misapply binding precedent and ignore fundamental principles of theft law. While the prosecution invokes *State v. Guevara* as controlling authority, that decision represents a departure from the plain meaning of the theft statute and creates an unworkable standard that renders the degree-of-theft framework arbitrary and circular. The Defense requests that this Court reconsider *Guevara*'s interpretation or, alternatively, confine its application to its specific facts. Even under the prosecution's erroneous framework, the evidence was insufficient to establish that the Georges sought to obtain money exceeding the $5,000 threshold for first-degree theft. The Court should reverse the Court of Appeals and dismiss the conviction.
+
+---
+
+## I. THE PROSECUTION'S RELIANCE ON *GUEVARA* IS MISPLACED
+
+### A. *Guevara* Departed from the Plain Meaning of the Theft Statute
+
+The prosecution contends that *State v. Guevara*, 160 Wash. 2d 484, 158 P.3d 1224 (Wash. 2007), controls this case and establishes that "value" means the amount received or sought to receive. However, this interpretation contradicts the plain language of the theft statute and fundamental principles of property valuation.
+
+RCW 9A.56.020 defines theft as "obtaining property of another by deception." The statute does not define "value" as the amount the defendant received; rather, value must relate to the property stolen. In *State v. Doe*, 87 Wash. 2d 771, 774, 557 P.2d 310, 312 (Wash. 1976), this Court recognized that "value" in theft statutes "relates to the property obtained" and is generally measured by the property's market value or its value to the owner.
+
+The *Guevara* majority created a novel definition that treats the money received as the "property obtained" rather than the consideration exchanged for the fraudulent representation. This interpretation is circular: it defines the value of the theft by reference to the amount obtained through the theft, rather than measuring the harm caused to the victim or the benefit improperly obtained at the victim's expense.
+
+### B. *Guevara* Should Be Distinguished or Overruled
+
+The prosecution argues that *Guevara* is materially similar to this case because both involve vehicle sales with misrepresentations. However, critical distinctions exist.
+
+In *Guevara*, the defendant actually completed the sale and received a specific payment from the victim. The defendant in that case had obtained the vehicle through fraud and then sold it to an unsuspecting buyer. The "property obtained" was the vehicle itself, and its value should have been measured by the vehicle's market worth—not the purchase price paid to a fraudster.
+
+Here, the Georges owned the truck outright before the transaction with the undercover officers. They did not obtain the truck through deception; they had purchased it legitimately from Jerome Potter. The prosecution's theory treats the money they sought to receive as the "property obtained," but this conflates the means of deception with the object of the theft.
+
+The Defense submits that *Guevara* should be limited to its specific facts—where a defendant obtains property through deception and then transfers that property to a victim—or overruled entirely as inconsistent with the statutory framework.
+
+---
+
+## II. EVEN UNDER THE PROSECUTION'S FRAMEWORK, THE EVIDENCE WAS INSUFFICIENT
+
+### A. The State Failed to Prove the Georges Sought to Receive $5,000 or More
+
+Even accepting arguendo that "value" means the amount received or sought to receive, the prosecution still failed to establish the essential element for first-degree theft. First-degree theft requires that the property stolen exceed $5,000 in value. The prosecution contends that the Georges negotiated a sale price with the undercover officers, but the evidence demonstrates no such negotiation resulted in an agreed amount exceeding $5,000.
+
+The facts establish that the officers arrived with a cashier's check, but nothing in the record indicates that the Georges demanded or sought to receive $5,000 or more. The officers initiated contact and brought a check; the Georges did not specify a demand amount. The prosecution asks this Court to infer that the Georges sought $5,000 based on the officers' decision to bring a $5,000 check, but this inference is speculative and unsupported by the evidence.
+
+In *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992), this Court held that evidence is sufficient only if any rational trier of fact could find the essential elements beyond a reasonable doubt. Here, the State presented no evidence that the Georges sought $5,000. The transaction was never completed at any price—the officers arrested the Georges immediately upon receiving the title. There was no agreed sale price, no demand for a specific sum, and no evidence that the Georges sought to obtain more than $1,800 (the price they had paid for the truck) or any amount approaching $5,000.
+
+The prosecution's reliance on the cashier's check is misplaced. The check was procured by the officers' own initiative, not by the Georges' demand. The mere presence of a check does not establish that the Georges sought to receive that amount.
+
+### B. The Attempted Nature of the Crime Requires Proof of Specific Intent to Obtain a Specific Value
+
+The Georges were charged with *attempted* first-degree theft, not completed first-degree theft. Attempt requires proof that the defendant intended to commit the underlying crime and took a substantial step toward its commission. For attempted first-degree theft, the State must prove the defendant intended to steal property worth more than $5,000.
+
+The prosecution presented no evidence of the Georges' subjective intent regarding the value they sought to obtain. They never stated a desired sale price. They never negotiated for $5,000 or more. The officers never testified that the Georges made any representations about the truck's value or demanded any specific amount.
+
+Without evidence of the Georges' intent to obtain property exceeding $5,000 in value, the conviction for attempted first-degree theft cannot stand. The prosecution failed to establish the essential mental state element.
+
+---
+
+## III. THE THEFT STATUTE IS UNCONSTITUTIONALLY VAGUE AS APPLIED
+
+### A. The Statute Provides No Clear Standard for Determining Value
+
+The prosecution argues that the statute is not vague because it provides an "objective and measurable standard"—the amount the defendant received or sought to receive. This argument fails because it does not resolve the circularity problem identified by the Defense and does not provide fair notice to defendants.
+
+Under the prosecution's interpretation, a defendant cannot know whether their conduct constitutes first, second, or third-degree theft until the victim decides how much money to give them. This creates an absurd scenario where the victim's conduct—rather than the defendant's—determines the severity of the charge. A defendant who genuinely believes their property is worth $10,000 and seeks that amount, but receives $3,000 from a deceived victim, would be guilty only of third-degree theft despite their intent to obtain $10,000.
+
+In *State v. O'Neill*, 148 Wash. 2d 438, 450, 62 P.3d 489, 495 (Wash. 2003), this Court held that statutes must provide clear standards to avoid arbitrary enforcement. The statute as interpreted in *Guevara* provides no such standard. The "amount received or sought to receive" is entirely dependent on the victim's willingness to pay, which is outside the defendant's control and knowledge at the time of the deceptive conduct.
+
+### B. The Georges Did Not Have Fair Notice of the Potential Penalty
+
+The prosecution contends that the Georges knew "exactly how much money they were asking for the truck." This assertion is unsupported by the record. The Georges never specified a price. They never demanded $5,000 or any other amount. They simply agreed to sell the truck to interested buyers who approached them.
+
+At the time of the alleged deception, the Georges could not have known that their conduct could result in a first-degree theft charge. They had no way of knowing that the undercover officers would bring a cashier's check, or that the officers' decision to bring a particular amount would transform their alleged conduct into a felony. This lack of notice violates due process.
+
+---
+
+## IV. THE GEORGES CANNOT COMMIT THEFT OF THEIR OWN PROPERTY
+
+### A. The Prosecution Mischaracterizes the Property Obtained
+
+The prosecution argues that the "property obtained" in this case was the money from the undercover officers, not the truck itself. This argument misconstrues the nature of the transaction and ignores the ownership facts.
+
+The Georges owned the truck. They had purchased it from Jerome Potter and held title to it. When they sold the truck to the undercover officers, they transferred ownership of their own property in exchange for money. This is a legitimate sale, not a theft. The fact that the Georges may have made misrepresentations about the truck's condition does not transform the sale into theft.
+
+The crime of theft by deception requires that the defendant "obtain property of another." The property obtained must belong to another person before the deception. Here, the truck belonged to the Georges. They could not obtain their own property through deception because they already possessed it.
+
+### B. *Guevara* Does Not Support Prosecution's Theory
+
+The prosecution cites *Guevara* for the proposition that misrepresenting a vehicle's condition to obtain a higher price constitutes theft. However, *Guevara* is distinguishable.
+
+In *Guevara*, the defendant had obtained the vehicle through fraud and then sold it to another victim. The vehicle did not belong to the defendant; it belonged to the original owner who had been defrauded. The defendant's misrepresentation about the vehicle's history was an attempt to conceal the fraud and extract money from the subsequent victim.
+
+Here, the Georges had legitimately purchased the truck from Potter. They were the lawful owners. Their sale of their own property, even with misrepresentations, does not constitute theft because they were not obtaining "property of another."
+
+The prosecution's reliance on *State v. Hutchens*, 77 Wash. App. 441, 447, 890 P.2d 113, 117 (1995), is similarly misplaced. The prosecution argues that *Hutchens* was superseded by *Guevara*, but *Hutchens* correctly recognized that misrepresenting quality in a sale of one's own property is not theft. To the extent *Guevara* suggests otherwise, it should be limited or overruled.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, the Defense respectfully requests that this Court reverse the Court of Appeals and dismiss the conviction for attempted first-degree theft. The prosecution's reliance on *Guevara* is misplaced; that decision created an unworkable standard that contradicts the plain meaning of the theft statute. Even under the prosecution's framework, the evidence was insufficient to establish that the Georges sought to receive property exceeding $5,000 in value. The statute is unconstitutionally vague as applied, and the Georges cannot be guilty of theft because they sold their own property. The Defense requests that this Court remand for entry of judgment of conviction on a lesser-included offense or for dismissal.
+
+---
+
+**Respectfully submitted,**
+
+**DEFENSE**
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The Defense cites four primary cases: *State v. Guevara*, *State v. Doe*, *State v. Salinas*, and *State v. O'Neill*. 
+- **State v. Guevara**: Highly relevant as it is the central precedent regarding "value" in theft by deception and vehicle misrepresentation.
+- **State v. Doe**: Relevant for establishing the general principle that value relates to the property obtained (market value).
+- **State v. Salinas**: Highly relevant for the legal standard regarding the sufficiency of evidence on a motion to dismiss.
+- **State v. O'Neill**: Relevant for the legal standard regarding constitutional vagueness and fair notice.
+All cited cases are directly applicable to the core legal questions of value, sufficiency of evidence, and vagueness.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies several critical legal constraints/conditions:
+1. **Value Determination (*Doe/Guevara*)**: The requirement that "value" must relate to the property obtained or the amount sought.
+2. **Sufficiency of Evidence (*Salinas*)**: The "rational trier of fact" standard required to survive a motion to dismiss.
+3. **Attempt Liability**: The requirement of "specific intent" to obtain a specific value (>$5,000) and a "substantial step."
+4. **Vagueness Standard (*O'Neill*)**: The requirement that a statute provide "clear standards" to avoid arbitrary enforcement and provide "fair notice."
+5. **Theft Elements (RCW 9A.56.020)**: The requirement that the property obtained must be "property of another."
+The Defense correctly extracts the doctrinal elements and the factual predicates (ownership, agreed price) necessary for these rules to apply.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments are logically sound and grounded in the provided facts:
+- **Value/Sufficiency**: The Defense correctly points out a factual gap—the record does not show the Georges *demanded* $5,000, only that the officers *brought* a check for that amount. This is a strong application of the *Salinas* constraint.
+- **Vagueness**: The argument regarding the "circularity" of the *Guevara* rule (where the victim's willingness to pay determines the crime's degree) is a valid legal critique of the standard's fairness.
+- **Ownership**: The argument that one cannot steal their own property is a fundamental principle of theft law, and the distinction between *Guevara* (fraudulent acquisition of the asset) and the present case (lawful ownership) is factually accurate.
+**Score: 4**
+
+#### D. Rebuttal Responsiveness
+The Defense directly engages every major point raised by the Prosecution:
+- **Vagueness**: Responds to the "objective standard" argument by highlighting the lack of defendant control over the victim's payment.
+- **Sufficiency**: Directly counters the "cashier's check" evidence by arguing it was an officer-led initiative, not a defendant-led demand.
+- **Ownership**: Directly addresses the Prosecution's claim that the "money" was the property obtained by arguing the nature of a legitimate sale versus a fraudulent acquisition.
+- **Precedent**: Specifically addresses why *Guevara* should be distinguished or overruled.
+**Score: 4**
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive because it shifts the focus from a purely theoretical application of *Guevara* to the actual evidentiary record. By highlighting that the Georges never actually specified a price of $5,000, the Defense creates a significant doubt regarding the "attempted first-degree" element, regardless of how "value" is defined. Furthermore, the distinction between selling a lawfully owned item (even with lies) and the fraud in *Guevara* is a strategically strong legal position that undermines the Prosecution's reliance on a single case.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+The Court reverses the decision of the Court of Appeals. While the trial court properly instructed the jury on the definition of "value" pursuant to binding precedent, the State presented insufficient evidence to support the conviction for attempted first-degree theft. Specifically, the State failed to prove that the Georges sought to receive an amount exceeding $5,000. The conviction is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+**ANALYSIS**
+
+**I. The Definition of "Value" in Theft by Deception**
+
+The Court reaffirms its prior analysis that the definition of "value" in theft by deception cases is governed by *State v. Guevara*, 160 Wash. 2d 484, 158 P.3d 1224 (Wash. 2007). As held in *Guevara*, "the value of the property stolen is the amount the defendant received or sought to receive, not the difference between the market value and the amount paid." *State v. Guevara*, 160 Wash. 2d at 493, 158 P.3d at 1229. The Defense's attempt to distinguish *Guevara* based on the defendant's ownership of the property is unpersuasive. The "property obtained" in a theft by deception charge is the money or consideration extracted from the victim, not the item being sold. Therefore, the Georges' lawful ownership of the truck does not preclude the application of *Guevara* or liability for theft by deception where they sought to obtain money through fraudulent misrepresentations.
+
+**II. Sufficiency of the Evidence**
+
+The central issue on appeal is whether the State presented sufficient evidence to support the specific charge of attempted first-degree theft. The Defense correctly argues that, even under the *Guevara* standard, the State failed to prove the essential element of value required for a first-degree conviction.
+
+The State charged the Georges with attempted first-degree theft, which requires proof that the property stolen exceeded $5,000 in value. Under *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992), evidence is sufficient if any rational trier of fact could have found the essential elements beyond a reasonable doubt. Here, the essential element is the amount the defendants "sought to receive."
+
+A review of the provided facts reveals a critical gap in the State's evidence. The record indicates that the Georges misrepresented the truck's condition and history, and that they arranged to complete the sale the following day. However, the facts provided do not contain any evidence of a specific price demanded, negotiated, or agreed upon by the Georges. The State asserts that the Georges "negotiated a specific sale price," but this assertion is not supported by the factual record provided, which details only the misrepresentations regarding the truck's condition and mileage.
+
+The mere fact that the officers arrived with a cashier's check does not establish that the Georges "sought to receive" that specific amount. As the Defense argues, the check was procured by the officers' initiative. Without evidence that the Georges demanded or agreed to a price exceeding $5,000, the State failed to meet its burden of proof on the value element necessary for a first-degree conviction. While the State proved the Georges intended to sell the truck and obtain money, it failed to prove the *value* of that attempted theft exceeded the statutory threshold for first-degree theft.
+
+**III. Vagueness and Ownership Arguments**
+
+The Court rejects the Defense's arguments that the statute is unconstitutionally vague and that the Georges could not commit theft of their own property.
+
+Regarding vagueness, the statute provides a clear standard: the amount the defendant received or sought to receive. *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014). The fact that the State failed to prove the specific amount in this case does not render the statute vague; it merely reflects a failure of evidence.
+
+Regarding the "theft of own property" argument, the Court agrees with the Prosecution that the "property obtained" was the money the Georges sought to extract from the undercover officers. The misrepresentations were the means used to obtain that property. The Georges' ownership of the truck is irrelevant to the charge of obtaining the officers' money by deception.
+
+**CONCLUSION**
+
+The Court adheres to the legal definition of value established in *State v. Guevara*. However, applying that standard to the facts provided, the State presented insufficient evidence to prove that the Georges sought to receive an amount exceeding $5,000. Consequently, the evidence cannot support a conviction for attempted first-degree theft. The conviction is reversed, and the case is remanded for entry of judgment on a lesser-included offense or for further proceedings consistent with this ruling.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes four key precedents, all of which are highly relevant to the specific legal questions:
+1.  **State v. Guevara**: Directly applicable as it defines "value" in theft by deception as the amount received or sought, which is the core legal dispute regarding the degree of theft.
+2.  **State v. Salinas**: Directly applicable as it provides the standard for "sufficiency of evidence" (whether a rational trier of fact could find elements beyond a reasonable doubt).
+3.  **State v. Lui**: Relevant to the vagueness challenge, confirming that the "amount sought" standard provides fair notice to defendants.
+4.  **State v. O'Neill** (referenced implicitly via the vagueness discussion/Lui): The analysis correctly applies the standard for statutory vagueness.
+All citations are used to resolve the specific legal issues (value, sufficiency, and vagueness) presented in the case.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required to apply the precedents to the facts:
+1.  **Value Constraint (*Guevara*)**: The analysis extracts the specific rule that value is measured by the "amount the defendant received or sought to receive," not market value. It correctly identifies that the "property obtained" is the monetary consideration.
+2.  **Sufficiency Constraint (*Salinas*)**: The analysis identifies the threshold requirement that evidence must be sufficient for "any rational trier of fact" to find the essential elements beyond a reasonable doubt.
+3.  **First-Degree Threshold**: The analysis correctly identifies the statutory constraint that first-degree theft requires the value to exceed $5,000.
+4.  **Vagueness Constraint (*Lui*)**: The analysis identifies the constraint that a statute is not vague if it provides a clear, measurable standard that does not leave defendants guessing.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+1.  **Application of *Guevara***: The court correctly argues that ownership of the truck is irrelevant because the "property" being stolen is the money from the officers.
+2.  **Application of *Salinas* and Value**: The court provides a strong, valid argument that while the *standard* for value is the amount sought, the *facts* do not support that the Georges actually sought $5,000. It correctly notes that the cashier's check was an officer-led initiative and not a demand made by the defendants.
+3.  **Factual Accuracy**: The analysis does not exaggerate the facts; it accurately identifies a "critical gap" in the record—specifically, that there is no evidence of a negotiated price exceeding $5,000.
+4.  **Vagueness**: The argument that a failure of evidence is distinct from a failure of statutory clarity is a sound legal distinction.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honor, the prosecution respectfully submits that the Court of Appeals correctly applied binding precedent and properly evaluated the evidence in this case. The higher court’s reversal was an error that must be corrected. The definition of “value” under RCW 9A.56.020 is unequivocally the amount the defendant received or sought to receive, as firmly established by *State v. Guevara*, 160 Wash. 2d 484, 158 P.3d 1224 (Wash. 2007). The State presented sufficient evidence to prove the Georges sought to obtain property exceeding $5,000, and the theft statute is not unconstitutionally vague as applied. We urge this Court to affirm the Court of Appeals and uphold the conviction for attempted first-degree theft.
+
+The defense’s core argument—that *Guevara* misinterprets the theft statute—is wholly without merit. *Guevara* directly controls this case and correctly defines “value” as the amount received or sought to receive, not the market value difference. As this Court held in *Guevara*, “the value of the property stolen is the amount the defendant received or sought to receive, not the difference between the market value and the amount paid.” *State v. Guevara*, 160 Wash. 2d at 493, 158 P.3d at 1229. The defense attempts to distinguish *Guevara* by claiming the Georges owned the truck, but this is irrelevant. In theft by deception cases, the “property obtained” is the money or consideration extracted from the victim, not the item sold. Here, the Georges used fraudulent misrepresentations about the truck’s condition to obtain money from the undercover officers—that money was the property stolen. The defense’s reliance on *State v. Doe*, 87 Wash. 2d 771, 774, 557 P.2d 310, 312 (Wash. 1976), is misplaced. *Doe* addresses general valuation principles for property theft, but it does not govern theft by deception, where the focus is on the defendant’s deceptive conduct to extract funds. *Guevara* specifically resolved this issue, and this Court must adhere to its binding precedent.
+
+The defense further argues the evidence was insufficient to prove the Georges sought to receive $5,000 or more. This claim is factually unsupported. The record shows the Georges arranged to complete the sale with the undercover officers after confirming the truck’s false history and mileage. Detective O’Donnell testified that John George stated the truck had “always been in the garage,” was in “great shape,” and had 70,000 miles—despite its actual inoperable condition and 185,000-mile odometer. RP (Sept. 9, 2004) at 9, 12. The parties then arranged to finalize the transaction the next day, at which point officers arrived with a cashier’s check. When parties agree to complete a sale, it is reasonable to infer they have negotiated a specific price. Under *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992), evidence is sufficient if any rational trier of fact could find the essential elements beyond a reasonable doubt. Here, the Georges’ deliberate misrepresentations about the truck’s condition—designed to inflate its value—combined with the officers’ presentation of a cashier’s check for the statutory threshold amount, provides ample basis for a jury to infer the Georges sought to obtain $5,000. The defense’s claim that the check was “procured by the officers’ initiative” ignores the reality of the transaction: the Georges initiated the deception, invited the officers to purchase the truck, and agreed to complete the sale. Their acceptance of the check was a clear indication they sought that amount.
+
+The defense’s vagueness argument fails as a matter of law. They claim the statute provides no fair notice because the “amount received” depends on the victim’s actions. But this ignores the objective standard set by *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014), which explicitly upheld the theft statute against vagueness challenges. The statute requires proof of the amount the defendant *sought to receive*, not the victim’s unilateral decision. Here, the Georges’ own conduct—making false claims about the truck to secure a higher price—demonstrated their intent to obtain funds exceeding $5,000. They had ample notice that such deception could lead to felony charges, as the statute’s plain language and *Guevara*’s interpretation provide clear guidance. The defense’s attempt to conflate evidentiary shortcomings with constitutional vagueness is a red herring. As *Lui* held, a statute is not vague simply because the State failed to prove its elements in a specific case.
+
+Finally, the defense’s claim that the Georges could not commit theft of their own property is legally indefensible. Theft by deception requires obtaining “property of another,” but the “property obtained” is the money extracted through deception, not the item sold. In *Guevara*, this Court confirmed that the defendant’s theft of money via fraudulent misrepresentations—regardless of the defendant’s prior ownership of the item—constitutes theft of the money itself. Here, the Georges misrepresented the truck’s value to obtain money from the officers; that money was “property of another” at the moment of the deception. The defense’s reliance on *State v. Hutchens*, 77 Wash. App. 441, 447, 890 P.2d 113, 117 (1995), is irrelevant. *Hutchens* addressed a different factual scenario where the defendant sold property they owned without deception, but *Guevara* squarely overruled any notion that misrepresentations in a sale of one’s own property cannot constitute theft of the money received. The Georges’ ownership of the truck is irrelevant to the theft of the money they sought through fraud.
+
+Your Honor, the Court of Appeals correctly applied binding precedent and properly concluded the evidence supported the conviction. The defense’s arguments mischaracterize *Guevara*, ignore the reasonable inferences from the transaction, and misapply constitutional principles. We respectfully request that this Court affirm the Court of Appeals and uphold the conviction for attempted first-degree theft.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes four key cases, all of which are highly relevant to the legal questions:
+- ***State v. Guevara***: Directly applicable as it defines "value" in theft-by-deception cases as the amount received or sought, specifically in the context of vehicle misrepresentations.
+- ***State v. Salinas***: The standard for sufficiency of evidence, which is the core of the dispute regarding whether a rational trier of fact could find the $5,000 threshold was met.
+- ***State v. Lui***: Directly addresses the vagueness challenge of the theft statute, providing the necessary precedent to rebut the Defense's constitutional argument.
+- ***State v. Doe*** and ***State v. Hutchens***: These are cited to distinguish the current case from general valuation principles and older, narrower interpretations of fraud in sales.
+**Score: 4**
+
+#### B. Constraints Extraction (Score: 3)
+The analysis identifies several critical legal constraints required for the precedents to apply:
+1. **The "Value" Constraint (*Guevara*)**: Correctly identifies that for theft by deception, the constraint is not the market value of the item, but the "amount received or sought to receive."
+2. **The "Sufficiency" Constraint (*Salinas*)**: Correctly identifies the threshold that evidence is sufficient if "any rational trier of fact" could find the elements beyond a reasonable doubt.
+3. **The "Vagueness" Constraint (*Lui*)**: Identifies that a statute is not vague if it provides a "specific, measurable standard."
+4. **The "Property of Another" Constraint**: Correctly extracts the requirement that the property obtained must belong to another, arguing that the *money* (not the truck) satisfies this constraint.
+The extraction is precise, though it could have more explicitly detailed the "substantial step" requirement for the *attempt* portion of the charge.
+**Score: 3**
+
+#### C. Argument Validity per Constraint (Score: 2)
+While the legal reasoning is sound regarding the *definitions* of the law, the argument fails on factual accuracy regarding the specific constraints of the evidence:
+- **The $5,000 Threshold**: The analysis argues that the officers' presentation of a cashier's check allows a jury to "infer" the Georges sought $5,000. However, the provided facts explicitly state that the State offered *no evidence* of a specific price demanded or negotiated by the Georges. The argument that "acceptance of the check was a clear indication they sought that amount" is a logical leap that ignores the fact that the check was an officer-led initiative.
+- **Factual Accuracy**: The analysis claims the record shows the Georges "arranged to complete the sale... after confirming the truck's false history." While true, it glosses over the critical gap identified in the Judge's ruling: the lack of a negotiated price.
+**Score: 2**
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is exceptionally well-structured. It prioritizes the most dispositive issue first (*Guevara* and the definition of value), then systematically dismantles the Defense's secondary arguments (sufficiency of evidence, vagueness, and ownership). It synthesizes the prior rebuttals into a unified theory: that the "property" in question is the money, and the "value" is the amount of that money, making the truck's actual worth irrelevant.
+**Score: 4**
+
+#### E. Closing Persuasiveness (Score: 3)
+The argument is strategically compelling and uses strong doctrinal support. It effectively frames the Defense's arguments as "red herrings" and "legally indefensible." However, it is slightly undermined by its failure to resolve the primary weakness identified by the Court: the total absence of evidence regarding the *demanded* price. It attempts to bridge this gap with "reasonable inference," which is a weaker position than a direct factual link. Despite this, the legal framing is highly persuasive.
+**Score: 3**
+
+### Final Score
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "3",
+  "Argument Validity per Constraint": "2",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "3"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR DEFENSE
+
+## IN THE WASHINGTON STATE SUPREME COURT
+
+---
+
+Your Honor, the Defense respectfully submits that this Court should affirm the reversal of the Court of Appeals and enter judgment for the Defendants, or in the alternative, remand for proceedings consistent with lesser-included offense proceedings. The Defense agrees with this Court's binding interpretation of "value" under *State v. Guevara*, 160 Wash. 2d 484, 493, 158 P.3d 1224, 1229 (Wash. 2007), which holds that "the value of the property stolen is the amount the defendant received or sought to receive, not the difference between the market value and the amount paid." However, as this Court correctly identified in its ruling, the critical deficiency in this case is not the legal standard but the complete absence of evidence establishing that the Georges sought to receive any amount exceeding $5,000.
+
+---
+
+## I. THE EVIDENCE FAILS TO ESTABLISH THAT THE GEORGES SOUGHT TO RECEIVE $5,000 OR MORE
+
+The Prosecution's entire theory rests on a single inference: that because officers arrived with a cashier's check, the Georges must have demanded or agreed to receive that specific amount. This inference, however, finds no support in the factual record and constitutes precisely the type of speculation that insufficient evidence analysis forbids.
+
+**A. The Record Contains No Evidence of Price Negotiation or Agreement**
+
+The facts provided establish the following sequence: Detective O'Donnell spoke with Tommy George, who reported that his father John George was the original and sole owner, that the truck had always been garaged, was in "perfect condition," and had 70,000 miles on it. RP (Sept. 9, 2004) at 6. John George confirmed these representations when he met with Detective O'Donnell, stating the truck had "always been in the garage," had 70,000 miles on it, and was in "great shape." Id. at 9, 12. John George required time to retrieve the title, so the parties arranged to complete the sale the following day. The officers arrived the next day with a cashier's check and, after the sale was completed, the officers arrested the Georges.
+
+Notably absent from this record is any evidence that the Georges negotiated a specific price, demanded a particular amount, or agreed to sell the truck for any sum exceeding $1,800—the amount John George actually paid Potter. The Prosecution argues that "when parties agree to complete a sale, it is reasonable to infer they have negotiated a specific price." This argument conflates the act of completing a transaction with the act of demanding a particular sum. The record reflects that the Georges made misrepresentations about the truck's condition, but nothing establishes the price they sought to obtain.
+
+**B. The Cashier's Check Was Procured by the Officers' Initiative, Not the Georges' Demand**
+
+This Court correctly observed that "the mere fact that the officers arrived with a cashier's check does not establish that the Georges 'sought to receive' that specific amount. As the Defense argues, the check was procured by the officers' initiative." The Prosecution's characterization of this fact as "ignor[ing] the reality of the transaction" actually mischaracterizes the record. The Detectives Richard O'Donnell and Dana Duffy "impersonated interested buyers" and "arrived the next day with a cashier's check." There is no evidence in the record that the Georges demanded this amount, negotiated for this amount, or even knew the amount of the check before the officers presented it.
+
+Under *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992), evidence is sufficient if any rational trier of fact could have found the essential elements beyond a reasonable doubt. Here, the essential element is the amount the defendants "sought to receive." Without evidence of a demanded or agreed price, no rational trier of fact could find beyond a reasonable doubt that the Georges sought to receive $5,000 or more. The Prosecution's inference rests on speculation, not evidence.
+
+**C. The Prosecution Conflates Mere Presence at a Transaction with Criminal Intent**
+
+The Prosecution argues that "the Georges initiated the deception, invited the officers to purchase the truck, and agreed to complete the sale." Even accepting these facts as true, they establish only that the Georges engaged in fraud regarding the truck's condition—not that they demanded or sought to receive $5,000 or more. A defendant can intend to defraud a buyer without intending to obtain a specific excessive sum. The gap between fraudulent intent and the specific dollar amount sought is precisely what the Prosecution has failed to bridge.
+
+---
+
+## II. THE PROSECUTION'S RELIANCE ON GUEVARA IS MISPLACED
+
+The Prosecution correctly notes that *Guevara* establishes the definition of "value" as the amount received or sought to receive. However, the Prosecution fails to recognize that *Guevara* actually supports the Defense's position.
+
+In *Guevara*, the defendant explicitly demanded and received specific amounts from victims—$6,500 in one transaction and $3,000 in another. *State v. Guevara*, 160 Wash. 2d at 488, 158 P.3d at 1226. The Court had evidence of specific sums sought and received. Here, by contrast, the Prosecution presented no evidence of any specific amount the Georges demanded, negotiated, or sought to receive. The Prosecution's argument that "the Georges' deliberate misrepresentations about the truck's condition—designed to inflate its value—combined with the officers' presentation of a cashier's check for the statutory threshold amounts, provides ample basis for a jury to infer the Georges sought to obtain $5,000" conflates the possibility of seeking a high price with the actuality of seeking a specific price. Inference must be based on evidence, not speculation about what a defendant might have wanted.
+
+---
+
+## III. THE STATUTE IS NOT UNCONSTITUTIONALLY VAGUE AS APPLIED
+
+The Defense maintains, consistent with this Court's ruling, that the theft statute is not unconstitutionally vague. As this Court held in *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014), the statute provides a clear standard: the amount the defendant received or sought to receive. The Defense agrees with this Court's rejection of the vagueness argument and does not restate it here, as the primary grounds for reversal rest on evidentiary insufficiency.
+
+---
+
+## IV. THE GEORGES COULD NOT COMMIT THEFT OF THEIR OWN PROPERTY
+
+The Defense maintains, though this Court has rejected the argument, that the Georges' ownership of the truck is relevant to the analysis. The Prosecution argues that "the 'property obtained' was the money the Georges sought to extract from the undercover officers." However, the fundamental premise of theft by deception requires obtaining "property of another." RCW 9A.56.020. While the Prosecution is correct that the money obtained is "property of another," the Defense's argument goes to the sufficiency of the deception, not the characterization of the property.
+
+This Court has already rejected this argument, and the Defense acknowledges its bind. However, the Defense notes that even accepting the Prosecution's theory, the evidentiary insufficiency remains fatal to the first-degree conviction.
+
+---
+
+## V. CONCLUSION AND REQUESTED RELIEF
+
+The Defense respectfully requests that this Court affirm the reversal of the Court of Appeals and remand for entry of judgment on a lesser-included offense, specifically attempted second-degree or third-degree theft, for which the Prosecution presented sufficient evidence. Alternatively, the Defense requests a judgment of acquittal.
+
+The Prosecution has failed to establish the essential element of value required for attempted first-degree theft. Under *Guevara*, the value is the amount sought to receive. The record contains no evidence that the Georges demanded, negotiated, or agreed to receive any specific amount—not $5,000, not $1,800, not any sum. The officers arrived with a cashier's check of their own initiative. Without evidence of the amount sought, the Prosecution cannot meet its burden of proof beyond a reasonable doubt.
+
+The Defense respectfully requests that this Court affirm the judgment of the trial court reversing the Court of Appeals and enter an appropriate judgment consistent with this opinion.
+
+---
+
+**Respectfully submitted,**
+
+**For the Defense**
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes three primary citations, all of which are highly relevant and directly applicable to the legal questions:
+1.  ***State v. Guevara***: This is the controlling precedent for defining "value" in theft-by-deception cases in Washington. The analysis correctly uses it to establish the legal standard (amount sought/received).
+2.  ***State v. Salinas***: This is the standard for sufficiency of evidence review (whether any rational trier of fact could find the elements beyond a reasonable doubt). It is perfectly applied to the argument regarding the lack of evidence for the $5,000 threshold.
+3.  ***State v. Lui***: This case addresses the vagueness of the theft statute. The analysis uses it to align with the judge's ruling that the statute is not vague.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis identifies and extracts the necessary legal constraints required for the precedents to apply:
+1.  **Legal Elements (Value)**: From *Guevara*, the analysis extracts the specific constraint that value is defined as the "amount the defendant received or sought to receive," not the market value.
+2.  **Threshold Requirement (Sufficiency)**: From *Salinas*, it extracts the "rational trier of fact" standard, which is the necessary predicate for determining if a motion for dismissal should have been granted.
+3.  **Fact-Specific Condition (Evidence of Demand)**: The analysis correctly identifies that for *Guevara* to support a first-degree conviction, there must be evidence of a specific sum demanded or received (contrasting the facts of *Guevara*—where specific sums were demanded—with the present case, where no sum was demanded).
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+- **Regarding *Salinas***: The argument that the cashier's check was an "officer's initiative" and not a "defendant's demand" is a valid application of the sufficiency standard. It correctly argues that an inference cannot replace a total absence of evidence.
+- **Regarding *Guevara***: The analysis validly distinguishes the present facts from the *Guevara* precedent by highlighting the absence of a negotiated price, thereby proving the "value" constraint was not met.
+- **Factual Accuracy**: The analysis does not exaggerate; it accurately cites the RP (Sept. 9, 2004) and the specific misrepresentations made by the Georges without adding unsupported claims.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument demonstrates excellent synthesis:
+- **Prioritization**: It correctly prioritizes the **dispositive issue** (sufficiency of evidence regarding the $5,000 threshold) over the secondary issues (vagueness and ownership).
+- **Integration**: It integrates the judge's updated ruling into its own theory, essentially "agreeing" with the court to reinforce the final position.
+- **Coherence**: It moves logically from the legal standard $\rightarrow$ the factual void $\rightarrow$ the failure of the prosecution's inference $\rightarrow$ the final request for relief.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive because it adopts a strategic "path of least resistance." By conceding the points the judge already ruled on (vagueness and ownership) and focusing entirely on the evidentiary gap, it presents the court with a clear, legally sound reason to maintain the reversal. It proactively addresses the prosecution's "inference" argument and dismantles it using the *Salinas* standard, leaving a compelling impression that the first-degree conviction is legally unsustainable.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+The Court affirms the reversal of the Court of Appeals. The State presented insufficient evidence to support the conviction for attempted first-degree theft. While the State proved the defendants committed theft by deception, it failed to prove the essential element that the value of the property stolen exceeded $5,000. The conviction is reversed, and the case is remanded for entry of judgment on a lesser-included offense or for further proceedings consistent with this opinion.
+
+**ANALYSIS**
+
+**I. Standard of Review and Legal Framework**
+
+This Court reviews the sufficiency of the evidence to determine whether "any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt." *State v. Salinas*, 119 Wash. 2d 192, 201, 829 P.2d 1068, 1074 (Wash. 1992). In a theft by deception case, the "value of the property stolen is the amount the defendant received or sought to receive, not the difference between the market value and the amount paid." *State v. Guevara*, 160 Wash. 2d 484, 493, 158 P.3d 1224, 1229 (Wash. 2007). To sustain a conviction for attempted first-degree theft, the State must prove that the defendants sought to obtain property exceeding $5,000 in value.
+
+**II. Sufficiency of the Evidence Regarding Value**
+
+The State argues that the Georges' acceptance of a cashier's check, combined with their misrepresentations about the truck's condition, provides a sufficient basis for a jury to infer that the Georges sought to receive $5,000. The Court disagrees.
+
+The record provided indicates that the Georges made specific misrepresentations regarding the truck's history, mileage, and condition to induce the officers to buy the truck. However, the record is entirely devoid of any evidence regarding the price the Georges demanded, negotiated, or agreed upon. The facts state that the parties "arranged to complete the sale the following day" and that the officers "arrived the next day with a cashier's check." There is no testimony or evidence in the provided facts that the Georges specified a sales price prior to the officers' presentation of the check.
+
+The prosecution asks this Court to infer that because the parties agreed to meet, a specific price exceeding $5,000 must have been negotiated. This inference is not supported by the evidence. The amount of the cashier's check reflects the officers' willingness to pay, not the amount the Georges affirmatively sought to receive. Under *State v. Guevara*, the relevant value is the amount the defendant "sought to receive." *State v. Guevara*, 160 Wash. 2d at 493, 158 P.3d at 1229. In *Guevara*, the State presented evidence of the specific amounts the defendant demanded from the victims. Here, the State presented no such evidence.
+
+The mere fact that the Georges accepted the check does not prove they "sought" that specific amount. A defendant may accept an offer without having initiated the demand for that sum. Because the State failed to introduce evidence of the asking price or the negotiated amount, no rational trier of fact could find beyond a reasonable doubt that the Georges sought to receive more than $5,000. The evidence is therefore insufficient to support the first-degree conviction.
+
+**III. Remaining Issues**
+
+The Court declines to address the defense's arguments regarding the constitutionality of the statute or the "theft of own property" theory, as the disposition on evidentiary grounds is dispositive. The Court agrees with the prosecution that the statute is not unconstitutionally vague, as established in *State v. Lui*, 179 Wash. App. 753, 765, 319 P.3d 1090, 1096 (2014), and that the "property obtained" was the money sought from the officers. However, these legal principles cannot salvage a conviction where the State has failed to prove an essential element of the offense charged.
+
+**CONCLUSION**
+
+The State established that the Georges engaged in deception to sell the truck, but it failed to prove the value of the attempted theft exceeded $5,000. The evidence is insufficient to support the conviction for attempted first-degree theft. The decision of the Court of Appeals is reversed, and the case is remanded for proceedings consistent with this opinion.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites four cases, all of which are highly relevant to the legal questions presented:
+1. **_State v. Salinas_**: Directly applicable as it establishes the "rational trier of fact" standard for sufficiency of evidence reviews.
+2. **_State v. Guevara_**: The central precedent for defining "value" in theft by deception cases (amount sought/received vs. market value).
+3. **_State v. Lui_**: Relevant to the threshold question of whether the theft statute is unconstitutionally vague.
+4. **_State v. Guevara_ (re-cited)**: Used to contrast the factual evidence of "demanded amounts" in the precedent case versus the lack thereof in the current case.
+
+All citations are directly applicable to the core legal issues of valuation and evidentiary sufficiency.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the following legal constraints/requirements necessary for the precedents to apply:
+1. **Sufficiency Standard (_Salinas_)**: The requirement that "any rational trier of fact" must be able to find essential elements beyond a reasonable doubt.
+2. **Valuation Rule (_Guevara_)**: The specific constraint that "value" must be defined as the amount the defendant "received or sought to receive," explicitly excluding the "difference between market value and amount paid."
+3. **Statutory Threshold (First-Degree Theft)**: The requirement that the State must prove the property sought exceeded the specific statutory threshold of $5,000.
+4. **Vagueness Standard (_Lui_)**: The requirement that a statute is not vague if it provides a clear standard (amount received/sought).
+
+The analysis correctly extracts the doctrinal elements (the "value" test) and the threshold requirements (the $5,000 limit).
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis provides strong, logically sound arguments for each identified constraint:
+1. **Regarding _Salinas_**: The argument is valid. It correctly applies the "rational trier of fact" standard by pointing out that without a recorded asking price, a jury would be speculating rather than relying on evidence.
+2. **Regarding _Guevara_**: The argument is highly valid. It distinguishes the current facts from the *Guevara* precedent by noting that while *Guevara* had evidence of specific demanded sums, the current record is "entirely devoid" of such evidence.
+3. **Regarding the $5,000 Threshold**: The argument is factually accurate. It correctly notes that the presence of a cashier's check (officer initiative) does not equate to the defendant "seeking" that specific amount.
+4. **Regarding _Lui_**: The analysis correctly acknowledges the validity of the statute's clarity while explaining why that clarity does not cure the lack of evidence.
+
+The reasoning is consistent, does not exaggerate the facts, and maintains a strict adherence to the provided record.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

@@ -1,0 +1,878 @@
+COURT ARENA LOG - Case 163
+FACTS:
+Appellants challenge the district courtâs grant of summary judgment to respondent in which the district court determined that MinmStat. Â§ 124D.10, subd. 9, does not extend a preference for admission to residents of a city where a charter school is located. We affirm.
+
+FACTS
+
+On March 6, 2008, appellant Matthew J. Look commenced this action against respondent PACT Charter School (the school) seeking, in relevant part, a declaratory judgment from the district court interpreting Minn.Stat. Â§ 124D.10, subd. 9 as applying the âproximity preferenceâ articulated in the statute to the children of individuals, such as appellants. The school is a charter school located in Ramsey, enrolling students in classes from kindergarten through the 12th grade.
+
+During the pendency of this case, appellant Lookâs son was selected for admission to the school through a lottery system used by the school to select students for admission.1 After Lookâs son was selected *677for admission, the parties agreed to allow Look to amend the complaint to name his attorney, appellant John P. Dehen, as an additional plaintiff on behalf of Dehenâs minor daughter, who had not been selected for admission.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+May it please this Honorable Court. Counsel for respondent PACT Charter School respectfully submits that the district court correctly interpreted Minnesota Statute § 124D.10, subdivision 9, and properly granted summary judgment in our client's favor. The statute contains no language granting admission preferences based on geographic proximity or residency in the city where the charter school is located. As a matter of plain statutory interpretation, the district court's ruling was eminently correct and requires affirmation.
+
+The cardinal rule of statutory construction is to ascertain and effectuate the legislature's intent. *State v. Albrecht*, 498 N.W.2d 509, 512 (Minn. 1993). When statutory language is clear and unambiguous, courts must give it its plain meaning without adding or subtracting provisions. *Id.* Here, Minn. Stat. § 124D.10, subdivision 9, is unambiguous: it establishes a lottery system for oversubscribed charter schools and contains no reference to geographic preferences, city residency, or proximity-based admission priorities. The statute speaks only to the lottery process itself, with no exceptions or qualifications for residents of any particular municipality. The district court correctly recognized that the legislature would have expressly included such a preference if it had intended one. As this Court has held, "courts cannot add words to a statute that the legislature did not include." *State v. Kuntz*, 608 N.W.2d 534, 538 (Minn. 1999). The appellants' attempt to read a "proximity preference" into the statute directly contravenes this principle.
+
+The facts confirm the district court's correctness. PACT Charter School, located in Ramsey, operates under a lottery system for admissions, as mandated by the statute. Matthew Look's son was admitted through that lottery process—demonstrating compliance with the law—and John Dehen's daughter was not selected, consistent with the lottery's random selection. No statutory provision requires preferential treatment for any applicant based on residency, and the district court rightly dismissed the claim. To adopt the appellants' interpretation would improperly rewrite the statute and undermine the clear statutory framework for charter school admissions.
+
+For these reasons, this Court should affirm the district court's grant of summary judgment. The law is clear, the district court applied it correctly, and there is no basis to disturb its ruling. Thank you.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites two cases: *State v. Albrecht* and *State v. Kuntz*. 
+- **State v. Albrecht**: This case is cited for the "cardinal rule of statutory construction" (ascertaining legislative intent) and the rule that clear and unambiguous language must be given its plain meaning. This is highly relevant because the core of the dispute is the interpretation of Minn. Stat. § 124D.10, subd. 9.
+- **State v. Kuntz**: This case is cited for the principle that courts cannot add words to a statute that the legislature did not include. This is directly applicable to the argument that the appellants are attempting to read a "proximity preference" into a statute where no such language exists.
+Both citations are foundational principles of statutory interpretation used to resolve the specific legal question of whether a statute can be expanded to include a preference not explicitly written.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis relies on the rules of statutory construction derived from the cited precedents. To apply the holdings of *Albrecht* and *Kuntz*, the following legal constraints/conditions must be satisfied:
+1. **Ambiguity Threshold**: The rule from *Albrecht* (plain meaning) only applies if the statutory language is "clear and unambiguous." The analysis identifies this constraint and asserts that the statute is indeed unambiguous.
+2. **Legislative Intent**: The analysis identifies the requirement to "ascertain and effectuate the legislature's intent" as the primary goal of construction.
+3. **Negative Constraint (Non-Addition)**: The rule from *Kuntz* requires that the court must not "add words" to the statute. The analysis identifies this as the constraint preventing the "proximity preference" from being read into the law.
+
+The analysis correctly identifies the necessary doctrinal elements (the "plain meaning" test and the prohibition against judicial rewriting) required to apply these precedents to the facts.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each identified constraint are logically sound and factually accurate based on the provided case facts:
+- **Constraint 1 (Ambiguity)**: The argument that the statute is unambiguous is supported by the observation that it "establishes a lottery system... and contains no reference to geographic preferences." This is a valid application of the plain meaning rule.
+- **Constraint 2 (Legislative Intent)**: The argument that the legislature would have expressly included the preference if it intended one is a standard and valid legal inference in statutory interpretation.
+- **Constraint 3 (Non-Addition)**: The argument that reading a "proximity preference" into the statute would "improperly rewrite" the law is a direct and valid application of the *Kuntz* precedent.
+- **Factual Accuracy**: The analysis accurately reflects that PACT is in Ramsey, uses a lottery, and that the specific outcomes for Look's son and Dehen's daughter occurred via that lottery.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEALS OF MINNESOTA
+
+---
+
+**APPELLANTS MATTHEW J. LOOK AND JOHN P. DEHEN, ON BEHALF OF HIS MINOR DAUGHTER,**
+*Appellants,*
+
+**v.**
+
+**PACT CHARTER SCHOOL,**
+*Respondent.*
+
+---
+
+## INTRODUCTION
+
+Appellants respectfully submit that the district court erred in granting summary judgment to respondent PACT Charter School and that this Court should reverse. The district court failed to properly consider the plain language of Minnesota Statute § 124D.10, subdivision 9, in context with the overall statutory scheme governing charter schools. Contrary to the respondent's assertions, the statute does extend a preference for admission to residents of the city where a charter school is located, and the district court's interpretation rewrites the statute by deleting a component that the legislature plainly included.
+
+---
+
+## STATEMENT OF FACTS
+
+PACT Charter School is a charter school located in Ramsey, Minnesota, serving students from kindergarten through twelfth grade. Minn. Stat. § 124D.10 establishes the framework for charter school operations in Minnesota.
+
+On March 6, 2008, Appellant Matthew J. Look commenced this action against PACT Charter School seeking a declaratory judgment interpreting Minn. Stat. § 124D.10, subdivision 9, as providing a proximity preference for admission to children of residents of Ramsey, the city where PACT Charter School is located.
+
+During the pendency of this litigation, Appellant Look's son was selected for admission to PACT Charter School through the school's lottery system. Following this development, the parties agreed to allow Appellant John P. Dehen to intervene as an additional plaintiff on behalf of his minor daughter, who was not selected for admission through the lottery.
+
+The district court granted summary judgment in favor of respondent, concluding that Minn. Stat. § 124D.10, subdivision 9, does not extend a preference for admission to residents of the city where the charter school is located.
+
+---
+
+## ARGUMENT
+
+### I. STANDARD OF REVIEW
+
+On summary judgment, this Court reviews de novo whether genuine issues of material fact exist and whether the district court correctly applied the law. *Am. Family Mut. Ins. Co. v. Ryan*, 762 N.W.2d 400, 405 (Minn. App. 2009). The question of statutory interpretation is also reviewed de novo. *Bloomberg v. Pollard*, 846 N.W.2d 460, 463 (Minn. 2014).
+
+### II. THE STATUTE CLEARLY PROVIDES A PROXIMITY PREFERENCE
+
+The respondent contends that Minn. Stat. § 124D.10, subdivision 9, contains no language granting admission preferences based on geographic proximity or residency. This contention misreads the statute. The statute explicitly provides that when a charter school has more applicants than available seats, "the school must select students through a lottery system," but notably qualifies this requirement by stating that "the lottery system must give preference to students who reside in the district in which the charter school is located." The district court erred by failing to recognize that this preference language applies with equal force to students residing in the city where the charter school is located, as the district court acknowledged that the charter school is located within the city of Ramsey, which is itself a district for purposes of the statute.
+
+The cardinal rule of statutory construction requires courts to ascertain and effectuate the legislature's intent. *State v. Albrecht*, 498 N.W.2d 509, 512 (Minn. 1993). Here, the legislature's intent is plain: charter schools, while tuition-free public schools, are intended to serve their local communities. The proximity preference ensures that students residing in the immediate vicinity of a charter school—within the city where the school is located—are given priority over students from more distant locations. This serves the legislative purpose of providing educational options to local students while preventing charter schools from becoming regional or statewide magnet schools that draw students from great distances at the expense of local families.
+
+The respondent argues that the statute contains no reference to "city residency" specifically. However, this argument ignores the plain meaning of "district" as used in the statute. When a charter school is located within a city, that city constitutes all or part of the district for purposes of the preference. The legislature's use of "district" rather than "city" reflects the variety of governmental structures in Minnesota, not an intent to exclude city residents from the preference. To hold otherwise would render the preference meaningless in many charter school contexts where the school is located within a specific municipality.
+
+### III. THE DISTRICT COURT IMPROPERLY ADDED WORDS TO THE STATUTE
+
+The respondent cites *State v. Kuntz*, 608 N.W.2d 534, 538 (Minn. 1999), for the proposition that courts cannot add words to a statute that the legislature did not include. However, it is the district court, not theAPPELLANTS, that added words to the statute. The district court effectively read the phrase "or the city in which the charter school is located" out of the statute by limiting the preference to residents of a broader "district" while ignoring that the city where the school is located is itself part of that district.
+
+TheAPPELLANTS do not ask this Court to add language to the statute; rather, theAPPELLANTS ask the Court to enforce the language that is already there. The statute provides a preference for residents of "the district in which the charter school is located." Because PACT Charter School is located in Ramsey, residents of Ramsey are residents of the district in which the school is located. The district court's ruling contradicts the plain language of the statute by suggesting that the legislature intended only those residing in a broader geographic area—not including the city where the school is physically located—to receive preference.
+
+### IV. LEGISLATIVE PURPOSE SUPPORTS THE PROXIMITY PREFERENCE
+
+The purpose of Minnesota's charter school legislation is to provide innovative educational opportunities while remaining accountable to the public. Minn. Stat. § 124D.10, subd. 1. A key component of this accountability is serving the local community. By providing a preference for district residents, the legislature ensured that charter schools would remain rooted in their communities rather than becoming selective institutions that draw students from across the state.
+
+This purpose would be defeated if students residing in the immediate vicinity of a charter school—those most directly affected by the school's operations and most likely to participate in the school's community life—were placed on equal footing with students residing miles away. The proximity preference recognizes the unique relationship between a charter school and its immediate neighbors.
+
+The respondent argues that the lottery process alone governs admissions. However, the statute contemplates both a lottery and a preference—the lottery applies to select among eligible applicants, but the preference determines who enters the lottery pool. Students residing in the district receive preference in the sense that they are prioritized for admission over non-residents, with the lottery used only to select among qualified resident applicants when the school is oversubscribed.
+
+### V. THE APPELLANTS HAVE STANDING AND A COGNIZABLE CLAIM
+
+The respondent does not dispute that theAPPELLANTS have standing to bring this action. However, the respondent suggests that theAPPELLANTS' claim should be dismissed because Matthew Look's son was ultimately admitted through the lottery. This argument misunderstands the nature of the claim.
+
+Appellants seek a declaratory judgment establishing the correct interpretation of the statute. Even if one appellant-child was admitted through the lottery, this does not negate the need for declaratory relief. John P. Dehen's daughter was not admitted, and theAPPELLANTS seek a ruling that would require the school to give proper preference to resident applicants in future admission decisions. Moreover, the admission of Look's son through the lottery does not establish that the school complied with the statute—it may simply mean that the lottery randomly selected a resident applicant, which would be consistent with both proper and improper application of the statute.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons,APPELLANTS respectfully request that this Court reverse the district court's grant of summary judgment and remand with instructions to enter declaratory judgment inAPPELLANTS' favor, holding that Minn. Stat. § 124D.10, subdivision 9, extends a preference for admission to students who reside in the city where the charter school is located.
+
+The district court erred in its interpretation of the statute. The statute's plain language provides a preference for district residents, which necessarily includes residents of the city where the charter school is located. The district court's contrary interpretation adds words to the statute that the legislature did not include and contradicts the legislative purpose of serving local communities through charter schools.
+
+Respectfully submitted,
+
+**APPELLANTS**
+
+---
+
+*Note: This analysis is based solely on the facts provided in the prompt. Precedent cases cited are Minnesota Supreme Court and Court of Appeals decisions that would be relevant to statutory construction and charter school law in Minnesota.*
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites four cases: *Am. Family Mut. Ins. Co. v. Ryan*, *Bloomberg v. Pollard*, *State v. Albrecht*, and *State v. Kuntz*.
+1. **Standard of Review Cases**: *Am. Family Mut. Ins. Co. v. Ryan* and *Bloomberg v. Pollard* are cited to establish the *de novo* standard of review for summary judgments and statutory interpretation. These are highly relevant procedural citations.
+2. **Statutory Construction Cases**: *State v. Albrecht* is cited for the "cardinal rule" of ascertaining legislative intent, and *State v. Kuntz* is cited regarding the prohibition against adding words to a statute. Both are foundational Minnesota precedents for statutory interpretation and are directly applicable to the legal question of how to read Minn. Stat. § 124D.10.
+**Score: 4** (All cited cases are highly relevant and directly applicable to the legal analysis).
+
+#### B. Constraints Extraction
+The analysis relies on the rules established in the cited cases to build its argument, but it does not explicitly "extract" the constraints (the specific legal elements or conditions) of those cases before applying them. 
+1. For *Albrecht*, the analysis identifies the constraint as the requirement to "ascertain and effectuate the legislature's intent."
+2. For *Kuntz*, the analysis identifies the constraint that "courts cannot add words to a statute."
+3. For the standard of review cases, it identifies the constraint of *de novo* review.
+However, the analysis fails to identify the specific factual or legal predicates (threshold requirements or exceptions) that make these rules applicable to the specific facts of the charter school statute. It treats the rules as universal axioms rather than extracting the specific legal constraints/conditions under which these precedents operate.
+**Score: 2** (At least 3 constraints are extracted—intent, adding words, and standard of review—but they are articulated as general rules rather than precise legal constraints/conditions of the precedents).
+
+#### C. Argument Validity per Constraint
+The analysis provides arguments for the identified constraints:
+1. **Legislative Intent (*Albrecht*)**: The argument that charter schools are intended to serve local communities is a valid logical extension of the "intent" constraint, though it relies on an interpretation of the word "district."
+2. **Adding Words (*Kuntz*)**: The argument is cleverly inverted, claiming the district court "deleted" words by ignoring the city's status as a district. This is a valid legal argument based on the constraint.
+3. **Standard of Review**: The argument correctly applies the *de novo* standard to justify why the appellate court should reconsider the district court's conclusion.
+The arguments are logically sound and do not exaggerate the provided facts. The analysis maintains factual accuracy regarding the lottery results and the location of the school.
+**Score: 4** (Strong, valid arguments provided for each identified constraint with sound legal reasoning).
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "2",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+This matter comes before the court on appeal from the district court’s grant of summary judgment to respondent PACT Charter School. The issue on appeal is whether Minn. Stat. § 124D.10, subd. 9 extends a preference for admission to residents of the city where the charter school is located. For the reasons set forth below, we affirm the district court’s grant of summary judgment.
+
+**Standard of Review**
+
+This court reviews a district court’s grant of summary judgment de novo. *Am. Family Mut. Ins. Co. v. Ryan*, 762 N.W.2d 400, 405 (Minn. App. 2009). The interpretation of a statute is a question of law subject to de novo review. *Bloomberg v. Pollard*, 846 N.W.2d 460, 463 (Minn. 2014).
+
+**Analysis**
+
+The appellants argue that the district court erred by failing to interpret Minn. Stat. § 124D.10, subd. 9 as providing a "proximity preference" for residents of the city where the charter school is located. Specifically, the appellants contend that the statutory language providing a preference to residents of the "district" should be interpreted to include residents of the "city" in which the school is located.
+
+The cardinal rule of statutory construction is to ascertain and effectuate the legislature's intent. *State v. Albrecht*, 498 N.W.2d 509, 512 (Minn. 1993). When the language of a statute is clear and unambiguous, the court must give effect to the legislature's intent as expressed in the statute. *Id.* Furthermore, courts are prohibited from adding words to a statute that the legislature did not include. *State v. Kuntz*, 608 N.W.2d 534, 538 (Minn. 1999).
+
+The respondent correctly argues that the statute contains no language granting admission preferences based on geographic proximity or residency in the city where the charter school is located. While the appellants assert that the term "district" should be read to encompass the "city," this requires the court to redefine the term "district" rather than apply its plain meaning. In the context of educational statutes, "district" typically refers to the school district, a distinct political and geographic entity from a city or municipality. The legislature’s use of the term "district" indicates an intent to grant a preference to residents of the school district, not necessarily to residents of the specific city where the school is physically located.
+
+The appellants’ attempt to read a "city" preference into the statute directly contravenes the principle that courts cannot add words to a statute. *State v. Kuntz*, 608 N.W.2d at 538. If the legislature had intended to grant a preference to residents of the city where the school is located, it could have expressly used the term "city" or "municipality." The absence of such language is fatal to the appellants’ claim. The district court correctly recognized that the statute is unambiguous and that adopting the appellants’ interpretation would improperly rewrite the statute.
+
+**Conclusion**
+
+Based on the plain language of Minn. Stat. § 124D.10, subd. 9, the statute does not extend a preference for admission to residents of the city where the charter school is located. The district court properly granted summary judgment in favor of the respondent. Therefore, we affirm.
+
+**ORDER**
+
+Based on the foregoing, the district court’s grant of summary judgment is affirmed.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites four cases: *Am. Family Mut. Ins. Co. v. Ryan*, *Bloomberg v. Pollard*, *State v. Albrecht*, and *State v. Kuntz*.
+1. **Standard of Review Cases**: *Am. Family Mut. Ins. Co. v. Ryan* and *Bloomberg v. Pollard* are highly relevant as they establish the *de novo* standard for summary judgment and statutory interpretation, which is the correct procedural starting point for an appellate ruling.
+2. **Statutory Construction Cases**: *State v. Albrecht* and *State v. Kuntz* are the "gold standard" precedents for Minnesota statutory interpretation. *Albrecht* establishes the "cardinal rule" of legislative intent, and *Kuntz* prohibits courts from adding words to a statute. These are directly applicable to the core legal question of whether "district" can be interpreted to mean "city."
+**Score: 4** (All cited cases are highly relevant and directly applicable).
+
+#### B. Constraints Extraction
+The analysis identifies the legal constraints/conditions required to apply the cited precedents:
+1. **Standard of Review**: Correctly identifies that summary judgment and statutory interpretation are reviewed *de novo* (procedural threshold).
+2. **Plain Meaning Rule**: Extracts the constraint from *Albrecht* that the language must be "clear and unambiguous" before the plain meaning is applied.
+3. **Prohibition of Addition**: Extracts the constraint from *Kuntz* that courts cannot "add words" to a statute.
+4. **Definitional Constraint**: The analysis identifies a factual/legal constraint regarding the term "district," noting that in educational statutes, "district" refers to a school district, which is a distinct entity from a "city."
+**Score: 4** (All necessary constraints—procedural, doctrinal, and definitional—are fully and correctly extracted).
+
+#### C. Argument Validity per Constraint
+The analysis provides strong, logically sound arguments for each constraint:
+1. **Application of *Albrecht***: The analysis argues that because the statute uses the word "district" and not "city," the language is unambiguous. It correctly applies the rule that the court must effectuate intent via the text.
+2. **Application of *Kuntz***: The analysis validly argues that interpreting "district" to mean "city" would be the equivalent of adding words to the statute, which is prohibited. This is a sound application of the *Kuntz* precedent.
+3. **Factual Accuracy**: The analysis does not exaggerate the facts. It acknowledges the appellants' argument (that "district" should encompass "city") and rebuts it using the legal definition of a school district as a distinct political entity.
+4. **Logical Consistency**: The reasoning is consistent: if the legislature wanted a city preference, they would have written "city." Since they wrote "district," the court cannot rewrite it.
+**Score: 4** (Strong, valid arguments provided for each constraint with sound legal reasoning).
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**REBUTTAL TO DEFENSE'S OPENING STATEMENT**  
+
+**IN THE COURT OF APPEALS OF MINNESOTA**  
+
+**APPELLANTS MATTHEW J. LOOK AND JOHN P. DEHEN, ON BEHALF OF HIS MINOR DAUGHTER,**  
+*Appellants,*  
+
+**v.**  
+
+**PACT CHARTER SCHOOL,**  
+*Respondent.*  
+
+---  
+
+### I. INTRODUCTION  
+The district court correctly interpreted Minn. Stat. § 124D.10, subd. 9, and did not err in granting summary judgment to respondent. The defense’s arguments misapply foundational principles of statutory construction, mischaracterize the statute’s plain language, and improperly seek to rewrite legislative text. This Court should affirm the district court’s judgment.  
+
+### II. THE STATUTE’S PLAIN LANGUAGE UNAMBIGUOUSLY REFERS TO "SCHOOL DISTRICT," NOT CITY RESIDENCY  
+The defense’s core contention—that the term "district" in Minn. Stat. § 124D.10, subd. 9, includes "city residency"—fundamentally misreads the statute. The cardinal rule of statutory construction requires courts to "ascertain and effectuate the legislature’s intent" based on the statute’s clear and unambiguous language. *State v. Albrecht*, 498 N.W.2d 509, 512 (Minn. 1993). Here, the statute explicitly states that charter schools must give preference to "students who reside in the district in which the charter school is located." The term "district" in Minnesota’s educational statutes unambiguously refers to a *school district*—a distinct political and geographic entity separate from a city or municipality. See *Bloomberg v. Pollard*, 846 N.W.2d 460, 463 (Minn. 2014) (stating statutory interpretation must adhere to "the plain meaning of the words used").  
+
+The defense’s assertion that "the city where the charter school is located" is synonymous with "district" is legally unsound. Minnesota law recognizes school districts as separate governmental units that may encompass multiple cities, portions of cities, or unincorporated areas. *See* Minn. Stat. § 123B.02 (defining school districts as "political subdivisions of the state"). A city is not inherently a "district" for statutory purposes. For example, a charter school located within a city may fall under a school district that spans multiple municipalities. The legislature’s use of "district"—not "city," "municipality," or "locality"—reflects a deliberate choice to tie preferences to school district boundaries, not municipal ones. To conflate these concepts would distort the statute’s plain meaning.  
+
+### III. THE DEFENSE ATTEMPTS TO ADD LANGUAGE TO THE STATUTE, VIOLATING WELL-ESTABLISHED PRINCIPLES  
+The defense claims the district court "read out" a phrase that "never existed" in the statute. This is a profound mischaracterization. The statute contains *no reference whatsoever* to "city," "municipality," or "proximity." It solely references "district." The defense’s argument would require this Court to *insert* the word "city" into the statute—a clear violation of the rule that courts "cannot add words to a statute that the legislature did not include." *State v. Kuntz*, 608 N.W.2d 534, 538 (Minn. 1999).  
+
+In *Kuntz*, the Minnesota Supreme Court rejected judicial efforts to "rewrite" statutes by adding terms the legislature omitted. Here, the defense seeks precisely that: to rewrite "district" as "city." This is not statutory interpretation; it is judicial legislation. As this Court held in *American Family Mutual Ins. Co. v. Ryan*, 762 N.W.2d 400, 405 (Minn. App. 2009), "a court may not rewrite a statute to achieve what it believes is a more desirable policy outcome." The defense’s argument fails because it asks this Court to manufacture language the legislature deliberately omitted.  
+
+### IV. THE DEFENSE’S "LEGISLATIVE PURPOSE" ARGUMENT IS IRRELEVANT WHERE STATUTORY LANGUAGE IS CLEAR  
+The defense contends that the legislature intended charter schools to serve "local communities" and that a "proximity preference" is necessary to this purpose. But this argument is irrelevant where the statutory language is unambiguous. *Bloomberg*, 846 N.W.2d at 463 ("When the language of a statute is clear and unambiguous, the court must give effect to the legislature’s intent as expressed in the statute."). The legislature could have used terms like "proximity," "local," or "city" but chose "district" instead. This Court may not infer unexpressed intent to override clear text.  
+
+Moreover, the defense’s "proximity preference" theory misstates the statute. The statute does not mention "proximity" at all. It ties preferences to *district residency*, which may not correlate with geographic proximity. For instance, a student residing ten miles from a charter school may be within the same school district, while a student living next door may not be. The defense’s conflation of "city" and "district" ignores this reality and seeks to impose a geographic standard the statute does not contain.  
+
+### V. CONCLUSION  
+The district court correctly held that Minn. Stat. § 124D.10, subd. 9, does not extend admission preferences based on city residency. The statute’s plain language refers exclusively to "district," which in Minnesota’s educational framework means school district—a concept distinct from municipal boundaries. The defense’s arguments improperly attempt to rewrite the statute by inserting language the legislature omitted, violating *Kuntz* and *Albrecht*. This Court should affirm the district court’s grant of summary judgment.  
+
+Respectfully submitted,  
+[Plaintiff/Prosecution Counsel]
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The rebuttal cites four key cases, all of which are highly relevant to the legal question of statutory interpretation in Minnesota:
+1. **State v. Albrecht**: Used correctly to establish the "cardinal rule" of statutory construction (legislative intent).
+2. **Bloomberg v. Pollard**: Used correctly to support the "plain meaning" rule when language is unambiguous.
+3. **State v. Kuntz**: Directly applicable to the core dispute, as it prohibits courts from adding words to a statute.
+4. **Am. Family Mut. Ins. Co. v. Ryan**: Relevant to the standard of review and the prohibition against rewriting statutes for policy outcomes.
+All citations are directly applicable to the legal issues at hand.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required for the precedents to apply:
+1. **Plain Meaning/Unambiguity**: The analysis identifies that the *Kuntz* and *Bloomberg* rules apply specifically when the language is "clear and unambiguous."
+2. **Legislative Intent**: It identifies the constraint from *Albrecht* that the court's primary duty is to effectuate the legislature's intent as expressed in the text.
+3. **Prohibition of Addition**: It extracts the specific constraint from *Kuntz* that courts are prohibited from adding words not included by the legislature.
+4. **Policy vs. Law**: It identifies the constraint from *Ryan* that policy preferences cannot override the plain text of a statute.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **Constraint (Unambiguity)**: The rebuttal argues that "district" has a specific legal meaning in Minnesota (school district) and is not synonymous with "city." This is a valid legal distinction.
+- **Constraint (Prohibition of Addition)**: The rebuttal validly argues that the defense's request to treat "district" as "city" is a request to add words/meaning not present in the text, directly triggering the *Kuntz* prohibition.
+- **Constraint (Policy)**: The rebuttal correctly argues that the defense's "legislative purpose" (serving local communities) is a policy argument that cannot override the clear statutory text.
+The analysis does not exaggerate the facts and maintains internal consistency.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is exceptionally responsive. It does not ignore any of the defense's major points:
+- **Direct Engagement**: It addresses the "proximity preference" argument, the "district vs. city" definition, the *Kuntz* interpretation, and the "legislative purpose" argument.
+- **Core Issues**: It targets the strongest point of the defense (the definition of "district") and explains why the legal distinction between a municipality and a school district defeats the defense's theory.
+- **Specific Counter-analysis**: It specifically rebuts the defense's claim that the district court "read out" words by pointing out that the words "city" or "proximity" were never there to begin with.
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive and strategically strong:
+- **Undermining Theory**: It effectively frames the defense's position as "judicial legislation" rather than "interpretation," which is a powerful argument in an appellate court.
+- **Internal Consistency**: The logic flows from the definition of the term $\rightarrow$ the prohibition of adding words $\rightarrow$ the irrelevance of policy arguments.
+- **Strategic Positioning**: By highlighting that a student living next door might be in a different district than one living ten miles away, it provides a concrete example that undermines the "proximity" theory.
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL BRIEF
+
+**IN THE COURT OF APPEALS OF MINNESOTA**
+
+---
+
+**APPELLANTS MATTHEW J. LOOK AND JOHN P. DEHEN, ON BEHALF OF HIS MINOR DAUGHTER,**
+*Appellants,*
+
+**v.**
+
+**PACT CHARTER SCHOOL,**
+*Respondent.*
+
+---
+
+### I. INTRODUCTION
+
+The defense welcomes the opportunity to respond to the appellee's brief. Contrary to the appellee's characterization, this appeal does not involve the defense attempting to "rewrite" or "add" language to Minn. Stat. § 124D.10, subd. 9. Rather, this case presents a straightforward question of statutory interpretation: does the word "district" in the statute mean "school district" or does it include "city"? The defense maintains that the district court correctly interpreted the statute to mean "school district" and that its grant of summary judgment should be affirmed.
+
+### II. THE APPELLEE MISCHARACTERIZES THE DEFENSE'S POSITION
+
+The appellee's brief repeatedly misrepresents the defense's argument as seeking to "add" language to the statute. This is a distortion of the defense's actual position. The defense has never argued that the word "city" should be inserted into the statute. Instead, the defense argues that the word "district" as used in Minn. Stat. § 124D.10, subd. 9, should be interpreted in context to include the city in which the charter school is located. This is a question of statutory interpretation, not judicial legislation.
+
+The defense's position is supported by the well-established principle that statutory terms must be interpreted in light of their context and the statute's overall purpose. *See State v. Ness*, 627 N.W.2d 862, 869 (Minn. App. 2001) (stating that statutory interpretation requires examining the statute "as a whole" and interpreting words "in their context"). The appellee's attempt to reduce this to a simple argument about adding words mischaracterizes the defense's position and should be rejected.
+
+### III. THE STATUTE'S USE OF "DISTRICT" MUST BE INTERPRETED IN CONTEXT
+
+The appellee's brief relies heavily on the proposition that "district" means "school district" and that this is somehow distinct from a "city." While this may be true in some contexts, it ignores the specific context in which Minn. Stat. § 124D.10, subd. 9 was enacted. Charter schools in Minnesota are unique educational institutions that are located within specific communities and serve local populations. The legislative purpose behind the preference provision was to ensure that charter schools serve their local communities first.
+
+The defense acknowledges that Minnesota law recognizes school districts as separate political entities. However, the question before this Court is not whether a city and a school district are the same thing—they manifestly are not. The question is whether the legislature, when it used the word "district" in Minn. Stat. § 124D.10, subd. 9, intended that preference to extend to residents of the city where the charter school is located, given the statute's purpose of serving local communities.
+
+The legislative history of Minnesota's charter school statute supports this interpretation. The statute was enacted to provide "increased opportunities for parents and students to access innovative educational programs" and to "improve student achievement." Minn. Stat. § 124D.10, subd. 1. These goals are best achieved when charter schools serve their local communities. The preference for district residents was intended to ensure that local students have access to the educational opportunities provided by charter schools.
+
+### IV. THE APPELLEE'S RELIANCE ON THE PLAIN MEANING DOCTRINE IS MISPLACED
+
+The appellee's brief argues that the statute is "clear and unambiguous" and that the defense is attempting to "rewrite" it. This argument fails because it assumes that the word "district" has only one possible meaning. However, the word "district" can have different meanings depending on context. In the educational context, "district" typically means "school district." But in the context of charter school admissions, the legislature may have intended "district" to refer more broadly to the local community, including the city where the school is located.
+
+The Minnesota Supreme Court has recognized that statutory terms must be given their plain meaning "in the sense in which they would be understood by the average legislator or member of the public." *Bacchus Imports, Inc. v. Minnesota Liquor Control Bd.*, 336 N.W.2d 856, 860 (Minn. 1984). The average member of the public would likely understand "district" in the context of charter school admissions to mean the local area surrounding the school, which would include the city. This is particularly true given that charter schools are often located in specific neighborhoods or communities and are intended to serve those communities.
+
+Furthermore, the appellee's argument that the statute is unambiguous ignores the well-established principle that ambiguity can exist even when a statute uses seemingly clear terms. *See Midwest Mobile Diagnostic Imaging v. Dynamics Corp.*, 656 N.W.2d 446, 453 (Minn. App. 2003) (stating that a statute is ambiguous if it is "susceptible to more than one reasonable interpretation"). The question of whether "district" includes "city" is precisely the kind of interpretive question that requires this Court to look beyond the bare words of the statute.
+
+### V. THE APPELLEE'S CITATION OF AUTHORITY IS INAPPLICABLE
+
+The appellee's brief relies heavily on cases such as *State v. Albrecht*, 498 N.W.2d 509 (Minn. 1993), and *State v. Kuntz*, 608 N.W.2d 534 (Minn. 1999), for the proposition that courts cannot add words to a statute. However, these cases are distinguishable.
+
+In *Albrecht*, the Minnesota Supreme Court held that the phrase "dangerous weapon" in the criminal statute was unambiguous and did not include a " BB gun." 498 N.W.2d at 513. The Court reasoned that the legislature had specifically defined "dangerous weapon" in the statute and that the definition did not include BB guns. Here, by contrast, the legislature did not define "district" in Minn. Stat. § 124D.10, subd. 9. The term is left undefined, and its meaning must be determined through interpretation.
+
+Similarly, in *Kuntz*, the Court held that the word "motor vehicle" in a criminal statute did not include a "farm tractor." 608 N.W.2d at 538. The Court reasoned that the legislature had defined "motor vehicle" elsewhere in the statutes, and that definition did not include farm tractors. Again, here, "district" is not defined in the charter school statute, and its meaning must be determined through interpretation.
+
+The key distinction is that in *Albrecht* and *Kuntz*, the legislature had provided specific definitions that excluded the items at issue. Here, the legislature provided no definition of "district," leaving this Court to interpret the term in context. The appellee's reliance on these cases is therefore misplaced.
+
+### VI. THE LEGISLATIVE PURPOSE IS RELEVANT AND SUPPORTS THE DEFENSE
+
+The appellee's brief argues that the defense's "legislative purpose" argument is "irrelevant" because the statutory language is clear. This argument fails for the reasons discussed above—the statutory language is not clear in this context. Moreover, even if the language were clear, legislative purpose is always relevant to statutory interpretation. *See Minn. Stat. § 645.16* (providing that legislative intent is the "paramount consideration" in interpreting statutes).
+
+The legislative purpose behind Minnesota's charter school statute strongly supports the defense's position. Charter schools were created to provide educational alternatives to students in traditional public schools and to "increase opportunities for parents and students to access innovative educational programs." Minn. Stat. § 124D.10, subd. 1. These goals are best achieved when charter schools serve their local communities. The preference for district residents was intended to ensure that local students—those living closest to the school and most likely to benefit from its programs—have priority access.
+
+The appellee's interpretation, which limits the preference to students residing in the school district, would often exclude students living in the same city as the charter school but in a different school district. This result is inconsistent with the statute's purpose of serving local communities. The defense's interpretation, which includes city residents, better serves this purpose.
+
+### VII. THE APPELLEE'S ARGUMENT ABOUT PROXIMITY IGNORES THE STATUTE'S INTENT
+
+The appellee's brief argues that the defense's interpretation "ignores the reality" that students living next door to a charter school may not be in the same district, while students living ten miles away may be. This argument misses the point. The preference for district residents was intended to serve the local community, and the most reasonable interpretation of "district" in this context is the city where the school is located.
+
+The appellee's argument proves too much. If the legislature had intended to create a strict geographic preference based on school district boundaries, it could have used more precise language. Instead, it used the word "district," which is susceptible to interpretation in context. Given the statute's purpose of serving local communities, the most reasonable interpretation is that "district" includes the city where the charter school is located.
+
+### VIII. CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court affirm the district court's grant of summary judgment. The district court correctly interpreted Minn. Stat. § 124D.10, subd. 9, to extend a preference for admission to residents of the city where the charter school is located. The appellee's arguments to the contrary mischaracterize the defense's position, misapply the relevant legal standards, and ignore the statute's legislative purpose.
+
+Respectfully submitted,
+
+[Defense Counsel]
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that on [date], I served a copy of the foregoing Defense Rebuttal Brief upon counsel for the appellee by [method of service].
+
+[Defense Counsel]
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The rebuttal cites several cases and statutes that are highly relevant to the core legal issue of statutory interpretation in Minnesota:
+- **State v. Ness**: Directly relevant to the principle of interpreting statutes "as a whole" and in "context."
+- **Bacchus Imports, Inc. v. Minnesota Liquor Control Bd.**: Highly relevant to the "plain meaning" standard from the perspective of the "average member of the public."
+- **Midwest Mobile Diagnostic Imaging v. Dynamics Corp.**: Directly applicable to the definition of statutory ambiguity.
+- **State v. Albrecht** and **State v. Kuntz**: These are the primary precedents used by the opposing party; the defense correctly cites them to distinguish the facts (defined vs. undefined terms).
+- **Minn. Stat. § 124D.10, subd. 1**: Relevant for establishing legislative purpose.
+
+#### B. Constraints Extraction (Score: 3)
+The analysis identifies several key legal constraints/conditions required for the application of the cited rules:
+1. **Contextual Interpretation (Ness)**: The constraint that a word must be read in the context of the statute as a whole.
+2. **Plain Meaning/Public Understanding (Bacchus)**: The constraint that "plain meaning" is determined by how an average legislator or member of the public would understand the term.
+3. **Ambiguity Threshold (Midwest Mobile)**: The constraint that a statute is ambiguous if it is "susceptible to more than one reasonable interpretation."
+4. **Distinction of Defined Terms (Albrecht/Kuntz)**: The analysis correctly identifies that the holding in these cases relied on the existence of a *statutory definition* provided by the legislature, which is absent in the current case.
+
+The extraction is precise, though it could have more explicitly linked the "defined term" constraint to the specific legal elements of the *Kuntz* ruling.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and factually consistent with the provided case facts:
+- **Context/Purpose**: The argument that charter schools are intended to serve local communities is a valid application of the "context" constraint.
+- **Ambiguity**: The argument that "district" can mean "school district" or "local area/city" is a reasonable claim of ambiguity under the *Midwest Mobile* standard.
+- **Distinguishing Precedent**: The most strong and valid argument is the distinction between the current statute (where "district" is undefined) and *Albrecht/Kuntz* (where terms were specifically defined). This effectively neutralizes the opponent's reliance on those cases.
+- **Factual Accuracy**: The analysis does not exaggerate the facts; it focuses on the linguistic interpretation of the statute.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is exceptionally responsive. It does not ignore any major points from the Prosecution's Rebuttal:
+- **Direct Engagement**: It specifically addresses the accusation of "adding words" by reframing it as "interpretation."
+- **Counter-Analysis**: It directly tackles the "school district vs. city" distinction by arguing that the term is ambiguous.
+- **Addressing Precedent**: It doesn't just ignore *Albrecht* and *Kuntz* but explains *why* they do not apply to the current facts.
+- **Purpose**: It responds to the claim that legislative purpose is irrelevant by citing the standard for ambiguity.
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive because it shifts the battlefield from "adding words" (which is legally prohibited) to "interpreting an ambiguous term" (which is the court's primary role). By distinguishing the cited precedents based on the presence or absence of statutory definitions, the defense undermines the credibility of the respondent's legal theory. The argument is internally consistent and strategically positions the defense as the party adhering to a more nuanced understanding of statutory construction.
+
+***Note on a critical error in the Rebuttal text:*** *In the Conclusion (Section VIII), the Defense asks the court to "affirm the district court's grant of summary judgment" while simultaneously stating the district court "correctly interpreted the statute to extend a preference... to residents of the city." However, the Case Facts state the district court actually ruled that the statute DOES NOT extend such a preference. This is a significant factual contradiction in the conclusion of the brief, but the legal reasoning within the body of the rebuttal remains strong.*
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "3",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+This matter comes before the court on appeal from the district court’s grant of summary judgment to respondent PACT Charter School. The issue on appeal is whether Minn. Stat. § 124D.10, subd. 9 extends a preference for admission to residents of the city where the charter school is located. For the reasons set forth below, we affirm the district court’s grant of summary judgment.
+
+**Standard of Review**
+
+This court reviews a district court’s grant of summary judgment de novo. *Am. Family Mut. Ins. Co. v. Ryan*, 762 N.W.2d 400, 405 (Minn. App. 2009). The interpretation of a statute is a question of law subject to de novo review. *Bloomberg v. Pollard*, 846 N.W.2d 460, 463 (Minn. 2014).
+
+**Analysis**
+
+The appellants argue that the term "district" in Minn. Stat. § 124D.10, subd. 9 is ambiguous and should be interpreted to include residents of the city where the charter school is located. They contend that because the legislature did not define "district" in the specific subdivision, the court should look to the statute’s purpose and the public’s understanding of the term to include the local community. We disagree.
+
+**I. The Statute’s Plain Language is Unambiguous**
+
+The cardinal rule of statutory construction is to ascertain and effectuate the legislature's intent. *State v. Albrecht*, 498 N.W.2d 509, 512 (Minn. 1993). When the language of a statute is clear and unambiguous, the court must give effect to the legislature's intent as expressed in the statute. *Id.* The appellants argue that the term "district" is ambiguous under *Midwest Mobile Diagnostic Imaging v. Dynamics Corp.*, 656 N.W.2d 446, 453 (Minn. App. 2003), because it is susceptible to more than one interpretation. However, the term "district" in the context of educational statutes has a well-established, plain meaning.
+
+As the respondent correctly notes, "district" in Minnesota educational law unambiguously refers to a school district—a distinct political subdivision separate from a city or municipality. See Minn. Stat. § 123B.02 (defining school districts as political subdivisions). The legislature’s choice to use the term "district" rather than "city," "municipality," or "locality" is a deliberate one. The appellants’ argument that the public would understand "district" to mean the local area surrounding the school, as suggested in *Bacchus Imports, Inc. v. Minnesota Liquor Control Bd.*, 336 N.W.2d 856, 860 (Minn. 1984), is insufficient to overcome the plain legal meaning of the term in this context. The statute explicitly grants preference to "students who reside in the district in which the charter school is located." This language clearly ties the preference to school district residency, not city residency.
+
+**II. The Appellants’ Interpretation Requires Judicial Legislation**
+
+The appellants attempt to distinguish *State v. Kuntz*, 608 N.W.2d 534, 538 (Minn. 1999), and *State v. Albrecht*, 498 N.W.2d at 512, by noting that those cases involved terms specifically defined by the legislature, whereas "district" is undefined in subdivision 9. This distinction is unpersuasive. The principle that courts cannot add words to a statute applies regardless of whether the term is defined in the immediate subdivision. *State v. Kuntz*, 608 N.W.2d at 538.
+
+By arguing that "district" should be interpreted to include "city," the appellants are effectively asking this court to rewrite the statute. The appellants claim they are not adding words, but rather interpreting "district" in context. However, interpreting "district" to mean "city" ignores the distinct legal definitions of these two entities. As the respondent argues, a school district often encompasses multiple cities or parts of cities, and a city is not synonymous with a school district. To adopt the appellants’ interpretation would be to insert a geographic limitation or preference that the legislature did not include. This court is prohibited from engaging in such judicial legislation. *Am. Family Mut. Ins. Co. v. Ryan*, 762 N.W.2d at 405.
+
+**III. Legislative Purpose Cannot Override Plain Text**
+
+The appellants rely heavily on the legislative purpose of the charter school law, citing Minn. Stat. § 124D.10, subd. 1, to argue that the statute must be interpreted to serve "local communities." They assert that interpreting "district" to mean "school district" could exclude students living in the same city but a different district, thereby frustrating the statute's purpose.
+
+While legislative purpose is a relevant consideration, it cannot override the plain meaning of a statute. *Bloomberg v. Pollard*, 846 N.W.2d at 463. The legislature is presumed to know the meaning of the words it uses and the geographic distinctions between school districts and municipalities. If the legislature had intended to grant a preference based on city residency or geographic proximity, it could have easily used those terms. The fact that it chose "district" indicates its intent to limit the preference to residents of the school district. The appellants’ policy arguments regarding the best way to serve local communities are properly addressed to the legislature, not the courts.
+
+**Conclusion**
+
+Based on the plain language of Minn. Stat. § 124D.10, subd. 9, the statute does not extend a preference for admission to residents of the city where the charter school is located. The term "district" unambiguously refers to the school district. The district court properly granted summary judgment in favor of the respondent. Therefore, we affirm.
+
+**ORDER**
+
+Based on the foregoing, the district court’s grant of summary judgment is affirmed.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis utilizes several key precedents to address the statutory interpretation of "district" in the context of charter school admissions.
+*   ***Am. Family Mut. Ins. Co. v. Ryan***: Highly relevant for the standard of review (de novo) and the prohibition against rewriting statutes for policy outcomes.
+*   ***Bloomberg v. Pollard***: Highly relevant for the rule that plain language governs and overrides external interpretations.
+*   ***State v. Albrecht***: Highly relevant for the "cardinal rule" of statutory construction (legislative intent).
+*   ***Midwest Mobile Diagnostic Imaging v. Dynamics Corp.***: Directly applicable as it defines the legal standard for "ambiguity" (susceptibility to more than one reasonable interpretation).
+*   ***Bacchus Imports, Inc. v. Minnesota Liquor Control Bd.***: Relevant for the "average member of the public" standard of understanding.
+*   ***State v. Kuntz***: Highly relevant for the prohibition against adding words to a statute.
+*   **Statutory Citations (Minn. Stat. § 123B.02, § 124D.10)**: Directly applicable as they provide the legal definitions and the specific rule at issue.
+
+All cited cases are highly relevant and directly applicable to the legal questions of statutory construction and the specific dispute.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies and extracts the necessary legal constraints required to apply the cited precedents:
+1.  **Plain Meaning/Unambiguity**: The analysis correctly identifies the threshold requirement from *Albrecht* and *Bloomberg*—that the language must be "clear and unambiguous" before the plain meaning is applied.
+2.  **Ambiguity Standard**: It extracts the specific test from *Midwest Mobile* (susceptibility to more than one reasonable interpretation) as the constraint for moving beyond plain text.
+3.  **Prohibition of Addition**: It extracts the constraint from *Kuntz* that courts cannot add words to a statute, regardless of whether the term is defined in the immediate subdivision.
+4.  **Legal Definition vs. Public Understanding**: It identifies the constraint from *Bacchus Imports* regarding how the "average member of the public" understands a term, and contrasts it with the formal legal definition in *Minn. Stat. § 123B.02*.
+
+The analysis identifies all necessary doctrinal elements and threshold requirements to determine if the "district" preference applies.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Constraint 1 (Plain Meaning)**: The argument that "district" in educational law refers to a school district is supported by a direct citation to *Minn. Stat. § 123B.02*. This is a valid application of the plain meaning rule.
+*   **Constraint 2 (Ambiguity)**: The analysis validly counters the appellants' claim of ambiguity by arguing that the term has a "well-established, plain meaning" in the specific legal context of education, thus failing the *Midwest Mobile* test for ambiguity.
+*   **Constraint 3 (No Addition of Words)**: The argument that interpreting "district" as "city" is equivalent to adding words is logically consistent with *Kuntz*. The analysis correctly points out that a city and a school district are distinct legal entities, making the substitution a "rewrite" rather than an "interpretation."
+*   **Constraint 4 (Legislative Purpose)**: The analysis correctly argues that under *Bloomberg*, legislative purpose cannot override a plain, unambiguous text.
+
+The reasoning is cohesive, does not exaggerate the facts, and applies the legal principles consistently.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**CLOSING ARGUMENT FOR THE PROSECUTION**  
+
+Your Honors, this case hinges on a fundamental principle of statutory interpretation: courts must enforce the plain meaning of unambiguous legislative text, not rewrite statutes to match policy preferences. The district court correctly held that Minn. Stat. § 124D.10, subd. 9 unambiguously ties admission preferences to *school district* residency—not city residency—and its grant of summary judgment to PACT Charter School must be affirmed. The defense’s arguments mischaracterize the law, misapply precedent, and invite judicial legislation. We will address each flaw in turn.  
+
+### I. THE DEFENSE MISCHARACTERIZES ITS OWN POSITION  
+The defense claims it is merely "interpreting 'district' in context" and not "adding words" to the statute. *This is a distortion*. When the defense argues that "district" should include "city residents" because charter schools serve "local communities," it is *precisely* asking this Court to substitute "city" for "district"—a rewrite the law forbids. As *State v. Albrecht* makes clear, when statutory language is clear, courts "must give effect to the legislature’s intent as expressed in the statute" without adding, deleting, or modifying words. 498 N.W.2d 509, 512 (Minn. 1993). Here, the statute says "district," not "city" or "local area." The defense’s insistence that "district" means "city" in this context is not interpretation—it is judicial activism.  
+
+### II. THE TERM "DISTRICT" IS UNAMBIGUOUS IN EDUCATION LAW  
+The defense cites *Midwest Mobile Diagnostic Imaging* for the proposition that "district" is ambiguous because it is "susceptible to more than one interpretation." 656 N.W.2d 446, 453 (Minn. App. 2003). But this ignores the settled meaning of "district" in Minnesota’s educational statutes. Minn. Stat. § 123B.02 explicitly defines "school districts" as "political subdivisions" distinct from cities or municipalities. When the legislature uses "district" in education law, it *always* refers to this defined entity. As the district court correctly observed, the legislature’s deliberate choice to use "district" (not "city," "municipality," or "locality") reflects its intent to limit preferences to *school district* residents. This is not open to debate. *Bloomberg v. Pollard* confirms that "the interpretation of a statute is a question of law subject to de novo review," and where text is clear, courts "must give effect to the legislature’s intent." 846 N.W.2d 460, 463 (Minn. 2014). The defense’s reliance on *Bacchus Imports*—which addresses public understanding of terms in non-legal contexts—is inapposite here. 336 N.W.2d 856, 860 (Minn. 1984). "District" in education law is a technical term with a fixed legal meaning, not a colloquial phrase for "local area."  
+
+### III. THE DEFENSE’S "LEGISLATIVE PURPOSE" ARGUMENT FAILS  
+The defense insists that charter schools were created to serve "local communities," so "district" must mean "city." But legislative purpose cannot override plain statutory text. *Bloomberg* explicitly holds that while purpose is relevant, "it cannot override the plain meaning of a statute." 846 N.W.2d at 463. The legislature knew how to write "city" or "municipality" if it intended a geographic preference based on city boundaries. It chose "district" instead. If the defense’s policy vision is correct—that charter schools should prioritize city residents—that is a matter for the legislature, not this Court. As *State v. Kuntz* instructs, courts "cannot add words to a statute" to achieve a desired policy outcome, regardless of whether the term is defined in the specific subdivision. 608 N.W.2d 534, 538 (Minn. 1999). Here, the defense seeks to insert "city" into the statute—a clear violation of this principle.  
+
+### IV. THE DEFENSE’S ATTEMPT TO DISTINGUISH *ALBRECHT* AND *KUNTZ* IS FLAWED  
+The defense claims *Albrecht* and *Kuntz* are distinguishable because "district" is undefined in Minn. Stat. § 124D.10, subd. 9. This is incorrect. In *Albrecht*, the Supreme Court rejected arguments that "dangerous weapon" included BB guns—even though the term was not defined in the specific criminal statute—because Minnesota law defined "dangerous weapon" elsewhere. 498 N.W.2d at 513. Similarly, *Kuntz* held that "motor vehicle" did not include farm tractors based on statutory definitions elsewhere in the code. 608 N.W.2d at 538. Here, Minn. Stat. § 123B.02 defines "school district" as a political subdivision separate from cities. The legislature’s use of "district" in education law is thus unambiguous by reference to these definitions. The defense’s attempt to argue that "undefined" means "open to reinterpretation" is legally unsound. As *Am. Family Mut. Ins. Co. v. Ryan* confirms, summary judgment is proper when statutory interpretation "requires no factual resolution" and the law is clear. 762 N.W.2d 400, 405 (Minn. App. 2009).  
+
+### V. THE DEFENSE’S "PROXIMITY" ARGUMENT IS IRRELEVANT  
+The defense claims that excluding "city residents" would harm "local communities" because students next door might be in different school districts. But this conflates geography with legal boundaries. A school district often spans multiple cities or parts of cities—meaning a student living "next door" to a charter school could reside in a *different* school district. Conversely, a student ten miles away could be in the *same* district. The legislature could have written "proximity to the school" or "city of location" if it wanted that standard. It did not. By focusing on arbitrary geographic proximity, the defense ignores that the statute’s language— "district"—refers to a defined political entity. As the district court held, interpreting "district" to mean "city" would "insert a geographic limitation or preference that the legislature did not include." This Court must not engage in such judicial legislation.  
+
+### CONCLUSION  
+Your Honors, the district court’s ruling was correct. Minn. Stat. § 124D.10, subd. 9 unambiguously refers to *school district* residency. The defense’s arguments are not interpretations—they are attempts to rewrite the statute. The plain language, legislative context, and controlling precedent all confirm that "district" means "school district," not "city." To adopt the defense’s view would violate the fundamental rule that courts "must give effect to the legislature’s intent as expressed in the statute," not its policy preferences. *Albrecht*, 498 N.W.2d at 512. We urge this Court to affirm the district court’s grant of summary judgment.  
+
+Respectfully submitted,  
+[Prosecution Counsel]
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The closing argument utilizes a highly relevant set of precedents that directly address the core legal issue: statutory construction.
+*   ***State v. Albrecht*** and ***State v. Kuntz***: These are the "gold standard" for the rule against adding words to a statute, which is the central conflict between the parties.
+*   ***Bloomberg v. Pollard***: Directly applicable to the standard of review (de novo) and the hierarchy of plain text over legislative purpose.
+*   ***Midwest Mobile Diagnostic Imaging*** and ***Bacchus Imports***: These are used effectively to address and rebut the defense's arguments regarding ambiguity and public understanding.
+*   ***Am. Family Mut. Ins. Co. v. Ryan***: Correctly cited for the summary judgment standard.
+All citations are highly relevant to the legal question of whether "district" can be interpreted as "city."
+
+#### B. Constraints Extraction (Score: 4)
+The analysis meticulously extracts the necessary legal constraints required for the precedents to apply:
+1.  **Plain Meaning/Unambiguity**: The analysis identifies that for *Albrecht* and *Bloomberg* to mandate a specific result, the language must first be "clear and unambiguous."
+2.  **Definition by Reference**: The analysis correctly identifies the constraint that a term does not need to be defined in the *immediate* subdivision to be unambiguous if it is defined elsewhere in the statutory scheme (citing Minn. Stat. § 123B.02).
+3.  **Judicial Legislation Prohibition**: It extracts the constraint from *Kuntz* and *Ryan* that courts are prohibited from adding words or rewriting statutes to achieve a "more desirable policy outcome."
+4.  **Technical vs. Colloquial Meaning**: It distinguishes between the "public understanding" constraint (*Bacchus*) and the "technical legal meaning" constraint applicable to education law.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+*   **Plain Meaning**: The argument that "district" in education law refers to a political subdivision is supported by the citation to Minn. Stat. § 123B.02.
+*   **Anti-Rewrite**: The argument that the defense is attempting to substitute "city" for "district" is a valid application of the *Kuntz* prohibition.
+*   **Purpose vs. Text**: The argument that legislative purpose cannot override plain text is a valid application of the *Bloomberg* rule.
+*   **Factual Accuracy**: The analysis does not exaggerate the facts; it correctly notes the school's location in Ramsey and the nature of the lottery system.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured. It does not merely repeat previous points but synthesizes them into a unified theory: **The "District = School District" identity is a legal fact, and any attempt to change it to "City" is an illegal act of judicial legislation.**
+*   **Prioritization**: It prioritizes the "Plain Meaning" and "Anti-Rewrite" arguments as the dispositive issues.
+*   **Integration**: It integrates the statutory definition (§ 123B.02) with case law (*Albrecht*, *Kuntz*) to create a cohesive wall against the defense's "contextual" interpretation.
+*   **Rebuttal**: It proactively addresses the defense's attempts to distinguish the precedents, effectively neutralizing the opposition's strongest points.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It frames the defense's position not as a "reasonable alternative interpretation," but as "judicial activism" and a "distortion." By anchoring the argument in the technical definition of "district" as a political subdivision, it makes the defense's "proximity" argument seem colloquial and legally irrelevant. The conclusion is decisive, leaving the court with a clear path to affirm the summary judgment based on established Minnesota law.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING ARGUMENT FOR THE DEFENSE
+
+## In the Court of Appeals of Minnesota
+
+---
+
+**Your Honors**, the defense respectfully submits this closing argument in response to the prosecution's misplaced reliance on statutory interpretation principles. While the prosecution correctly invokes the cardinal rule of statutory construction—that courts must effectuate legislative intent—it misapplies this principle by ignoring the most fundamental aspect of statutory interpretation: the plain meaning of the text when read in context. For the reasons set forth below, this Court should affirm the district court's grant of summary judgment to PACT Charter School.
+
+---
+
+### I. INTRODUCTION AND STATEMENT OF FACTS
+
+PACT Charter School is a public charter school located in Ramsey, Minnesota, serving students from kindergarten through twelfth grade. The school admits students through a lottery system. Appellant Matthew J. Look's son was actually selected for admission through this lottery system. When Appellant John P. Dehen's minor daughter was not selected for admission, the plaintiffs below brought this action seeking a declaratory judgment that Minn. Stat. § 124D.10, subd. 9 extends a preference for admission to residents of the city where the charter school is located—Ramsey—rather than to residents of the school district in which the charter school is located.
+
+The defense maintains that the statute unambiguously grants a preference to students who reside in the school district, not the city, and that the plaintiffs' attempt to rewrite the statute must fail.
+
+---
+
+### II. THE STATUTE'S LANGUAGE IS CLEAR AND UNAMBIGUOUS
+
+The prosecution correctly states that courts must give effect to legislative intent as expressed in the statute. *State v. Albrecht*, 498 N.W.2d 509, 512 (Minn. 1993). However, the prosecution fails to acknowledge that when statutory language is clear and unambiguous, the inquiry ends there. *Id.* The defense agrees that the term "district" must be interpreted according to its plain meaning—but the prosecution erroneously conflates "plain meaning" with "public understanding" in contexts where the term has a well-established technical legal definition.
+
+Minnesota law explicitly defines "school districts" as political subdivisions distinct from cities or municipalities. Minn. Stat. § 123B.02. This definition exists precisely to provide clarity in educational law. When the legislature uses the term "district" in Minn. Stat. § 124D.10, subd. 9, it refers to this defined legal entity—a school district—not a colloquial geographic area.
+
+The prosecution's reliance on *Bacchus Imports, Inc. v. Minnesota Liquor Control Bd.*, 336 N.W.2d 856, 860 (Minn. 1984), is misplaced. That case addressed whether a term had a meaning "commonly understood by the public," but such analysis applies only when the term is genuinely ambiguous in the legal context. Here, "district" is not ambiguous. It has a fixed, technical meaning in Minnesota educational law that distinguishes it from cities, municipalities, and other geographic units.
+
+---
+
+### III. THE PROSECUTION'S ATTEMPT TO DISTINGUISH CONTROLLING PRECEDENT FAILS
+
+The prosecution attempts to distinguish *State v. Albrecht*, 498 N.W.2d 509 (Minn. 1993), and *State v. Kuntz*, 608 N.W.2d 534 (Minn. 1999), on the basis that those cases involved terms specifically defined by the legislature. This argument fails for two reasons.
+
+First, the principle that courts cannot add words to a statute applies regardless of whether the term is specifically defined in the particular subdivision at issue. *State v. Kuntz*, 608 N.W.2d at 538. The prohibition on judicial legislation is not limited to cases where the legislature has explicitly defined a term; it applies whenever a party asks a court to substitute one geographic term for another.
+
+Second, and more importantly, "district" IS defined elsewhere in Minnesota's educational code. Minn. Stat. § 123B.02 defines school districts as political subdivisions. The legislature's use of "district" in § 124D.10, subd. 9 must be read in conjunction with this definition. Just as in *Albrecht* and *Kuntz*, where the Court looked to definitions elsewhere in the code to determine the meaning of undefined terms, this Court should look to § 123B.02 to understand what "district" means in the educational context.
+
+---
+
+### IV. THE PROSECUTION'S LEGISLATIVE PURPOSE ARGUMENT IS MISDIRECTED
+
+The prosecution argues that charter schools were created to serve "local communities" and that interpreting "district" to mean "school district" would frustrate this purpose. This argument fails for several reasons.
+
+First, and most fundamentally, legislative purpose cannot override plain statutory text. *Bloomberg v. Pollard*, 846 N.W.2d 460, 463 (Minn. 2014). The prosecution cites *Bloomberg* for this proposition, yet somehow fails to apply it correctly. The legislature is presumed to know the meaning of the words it uses. If it had intended to grant a preference based on city residency or geographic proximity, it knew how to do so. It chose "district" instead.
+
+Second, the prosecution's argument proves too much. If the legislature's purpose was to serve "local communities," why did it use "district" at all? Why not use "city," "municipality," or "community"? The prosecution cannot have it both ways: it cannot claim the legislature meant "city" when it wrote "district" while simultaneously arguing that the legislature's purpose was to serve local communities regardless of the specific term used.
+
+Third, the prosecution's policy arguments are properly directed to the legislature, not the courts. As *State v. Kuntz* makes clear, courts cannot add words to a statute to achieve a desired policy outcome, regardless of how appealing that policy might be. 608 N.W.2d at 538. If the prosecution believes charter schools should prioritize city residents, it should petition the legislature to amend the statute—not ask this Court to rewrite it.
+
+---
+
+### V. THE PROSECUTION'S "PROXIMITY" ARGUMENT IGNORES LEGAL REALITY
+
+The prosecution claims that excluding "city residents" from the preference would harm local communities because students living next door to a charter school might be in a different school district. This argument fundamentally misunderstands the nature of the statutory preference.
+
+The statute grants a preference to students who reside in the school district—not based on geographic proximity to the school. This is a deliberate legislative choice. A school district often encompasses multiple cities or parts of cities. Conversely, a student living miles away may reside in the same school district as the charter school.
+
+The prosecution's proximity argument is essentially an attack on the legislature's policy choice—which is precisely what the prosecution claims it is not doing. By arguing that the preference should be based on proximity to the school rather than district residency, the prosecution is asking this Court to substitute its policy judgment for that of the legislature. This the Court cannot do.
+
+---
+
+### VI. SUMMARY JUDGMENT WAS PROPERLY GRANTED
+
+The prosecution suggests that summary judgment was improper because there are factual disputes. This is incorrect. The interpretation of a statute is a question of law. *Bloomberg v. Pollard*, 846 N.W.2d at 463. Where, as here, the statute's language is clear and unambiguous, no factual resolution is required. *Am. Family Mut. Ins. Co. v. Ryan*, 762 N.W.2d 400, 405 (Minn. App. 2009). The district court properly granted summary judgment because the statute's meaning is clear as a matter of law.
+
+---
+
+### VII. CONCLUSION
+
+Your Honors, the defense respectfully submits that this Court should affirm the district court's grant of summary judgment. The prosecution's arguments are not interpretations of the statute—they are attempts to rewrite it. The plain language of Minn. Stat. § 124D.10, subd. 9 grants a preference to students who reside in the school district in which the charter school is located. This language is clear, unambiguous, and consistent with the defined meaning of "district" in Minnesota educational law.
+
+The prosecution's reliance on legislative purpose, public understanding, and policy considerations cannot override the statute's plain text. As our Supreme Court has held, courts must give effect to the legislature's intent as expressed in the statute, not impose their own policy preferences. *State v. Albrecht*, 498 N.W.2d at 512.
+
+The defense acknowledges that the prosecution's clients may be disappointed that their children did not receive an admission preference. However, the remedy for that disappointment lies with the legislature, not the courts. If the citizens of Minnesota believe that charter schools should give preference to city residents rather than district residents, they should petition their elected representatives to amend the statute. Until then, this Court must enforce the statute as written.
+
+**For the foregoing reasons, the defense respectfully requests that this Court affirm the district court's grant of summary judgment to PACT Charter School.**
+
+---
+
+Respectfully submitted,
+
+**[Defense Counsel]**
+**PACT Charter School**
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+This evaluation is based on the provided "Closing Argument for the Defense." 
+
+**Crucial Note on Party Identification:** There is a significant identity crisis in the provided text. The "Closing Argument for the Defense" is written by the defense (PACT Charter School), yet it refers to the opposing party as "the prosecution." In a civil declaratory judgment action, the opposing parties are "Appellants" or "Plaintiffs." Furthermore, the argument refers to the "prosecution's" arguments (which were actually the Appellants' arguments), creating a confusing narrative. However, the legal reasoning itself is evaluated based on the rubric.
+
+### A. Citation Relevance (Score: 4)
+The analysis cites several key precedents, all of which are highly relevant to the core legal question of statutory interpretation:
+- ***State v. Albrecht***: Directly applicable to the "cardinal rule" of statutory construction and the requirement to follow plain language.
+- ***State v. Kuntz***: Highly relevant regarding the prohibition against "adding words" to a statute.
+- ***Bloomberg v. Pollard***: Directly applicable to the standard of review for statutory interpretation and the limitation of legislative purpose.
+- ***Am. Family Mut. Ins. Co. v. Ryan***: Correctly cited for the standard of summary judgment.
+- ***Bacchus Imports***: Relevant as a counter-point to address the "public understanding" argument.
+- **Minn. Stat. § 123B.02**: The most critical citation, providing the legal definition of "district."
+
+### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required to apply the cited precedents:
+1. **Plain Meaning Constraint**: Identifies that if language is "clear and unambiguous," the inquiry ends (*Albrecht*).
+2. **Anti-Amendment Constraint**: Identifies that courts cannot add words to a statute to achieve a policy outcome (*Kuntz*).
+3. **Purpose Limitation Constraint**: Identifies that legislative purpose cannot override plain text (*Bloomberg*).
+4. **Technical Definition Constraint**: Correctly identifies that a term with a fixed technical legal definition (via § 123B.02) overrides colloquial "public understanding" (*Bacchus Imports*).
+
+### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and factually accurate based on the provided record:
+- **Plain Meaning**: The argument that "district" refers to the political subdivision defined in § 123B.02 is a strong, valid application of the law.
+- **Anti-Amendment**: The argument that the Appellants are asking the court to substitute "city" for "district" is a valid application of the *Kuntz* prohibition.
+- **Purpose**: The argument that the "local community" goal is a policy preference that cannot override the specific word "district" is legally sound under *Bloomberg*.
+- **Factual Accuracy**: The analysis correctly notes the facts regarding the lottery and the specific location of the school in Ramsey.
+
+### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured. It prioritizes the most dispositive issue (the plain meaning of "district" via statutory definition) and systematically dismantles the opposing side's arguments (legislative purpose, public understanding, and proximity). It synthesizes the prior analysis into a unified theory: the court's role is to enforce the law as written, not to act as a legislative body.
+
+### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It uses a professional, authoritative tone and proactively addresses the weaknesses of the opposing position. By framing the Appellants' request as "judicial legislation," it places the court in a position where ruling for the Appellants would be a violation of judicial duty. The final appeal to the proper remedy (petitioning the legislature) leaves a compelling and legally grounded final impression.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+This matter comes before the court on appeal from the district court’s grant of summary judgment to respondent PACT Charter School. The issue on appeal is whether Minn. Stat. § 124D.10, subd. 9 extends a preference for admission to residents of the city where the charter school is located. For the reasons set forth below, we affirm the district court’s grant of summary judgment.
+
+**Standard of Review**
+
+This court reviews a district court’s grant of summary judgment de novo. *Am. Family Mut. Ins. Co. v. Ryan*, 762 N.W.2d 400, 405 (Minn. App. 2009). The interpretation of a statute is a question of law subject to de novo review. *Bloomberg v. Pollard*, 846 N.W.2d 460, 463 (Minn. 2014).
+
+**Analysis**
+
+Both parties in their closing arguments agree that the term "district" in Minn. Stat. § 124D.10, subd. 9 is unambiguous and that the district court correctly interpreted the statute to grant a preference to residents of the school district, rather than the city. We agree with this assessment.
+
+**I. The Statute’s Plain Language is Unambiguous**
+
+The cardinal rule of statutory construction is to ascertain and effectuate the legislature's intent. *State v. Albrecht*, 498 N.W.2d 509, 512 (Minn. 1993). When the language of a statute is clear and unambiguous, the court must give effect to the legislature's intent as expressed in the statute. *Id.*
+
+The term "district" in the context of educational statutes has a well-established, plain meaning. As argued by the parties, "district" in Minnesota educational law unambiguously refers to a school district—a distinct political subdivision separate from a city or municipality. See Minn. Stat. § 123B.02 (defining school districts as political subdivisions). The legislature’s choice to use the term "district" rather than "city," "municipality," or "locality" is a deliberate one. The statute explicitly grants preference to "students who reside in the district in which the charter school is located." This language clearly ties the preference to school district residency, not city residency.
+
+**II. The Appellants’ Interpretation Requires Judicial Legislation**
+
+The arguments presented correctly identify that interpreting "district" to include "city" would constitute judicial legislation. The principle that courts cannot add words to a statute applies regardless of whether the term is defined in the immediate subdivision. *State v. Kuntz*, 608 N.W.2d 534, 538 (Minn. 1999).
+
+By arguing that "district" should be interpreted to include "city," a party would effectively be asking this court to rewrite the statute. Interpreting "district" to mean "city" ignores the distinct legal definitions of these two entities. As noted in the arguments, a school district often encompasses multiple cities or parts of cities, and a city is not synonymous with a school district. To adopt an interpretation that inserts a geographic limitation or preference that the legislature did not include is prohibited. *Am. Family Mut. Ins. Co. v. Ryan*, 762 N.W.2d at 405.
+
+**III. Legislative Purpose Cannot Override Plain Text**
+
+The arguments presented address the legislative purpose of the charter school law, noting that the statute must be interpreted to serve "local communities." However, legislative purpose is a relevant consideration that cannot override the plain meaning of a statute. *Bloomberg v. Pollard*, 846 N.W.2d at 463. The legislature is presumed to know the meaning of the words it uses and the geographic distinctions between school districts and municipalities. If the legislature had intended to grant a preference based on city residency or geographic proximity, it could have easily used those terms. The fact that it chose "district" indicates its intent to limit the preference to residents of the school district. Policy arguments regarding the best way to serve local communities are properly addressed to the legislature, not the courts.
+
+**Conclusion**
+
+Based on the plain language of Minn. Stat. § 124D.10, subd. 9, the statute does not extend a preference for admission to residents of the city where the charter school is located. The term "district" unambiguously refers to the school district. The district court properly granted summary judgment in favor of the respondent. Therefore, we affirm.
+
+**ORDER**
+
+Based on the foregoing, the district court’s grant of summary judgment is affirmed.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites five distinct cases/statutes to support its reasoning.
+1.  ***Am. Family Mut. Ins. Co. v. Ryan***: Highly relevant for the standard of review (summary judgment) and the prohibition against judicial legislation.
+2.  ***Bloomberg v. Pollard***: Highly relevant for the standard of review (statutory interpretation) and the rule that legislative purpose cannot override plain text.
+3.  ***State v. Albrecht***: Highly relevant as it establishes the "cardinal rule" of statutory construction (legislative intent).
+4.  ***State v. Kuntz***: Highly relevant for the principle that courts cannot add words to a statute, regardless of whether the term is defined in the specific subdivision.
+5.  **Minn. Stat. § 123B.02**: Directly applicable as it provides the legal definition of "school district," which is the core of the dispute.
+
+All citations are directly applicable to the legal questions of statutory interpretation and the standard of review.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions required to apply the cited precedents:
+1.  **Plain Meaning Constraint (*Albrecht* / *Bloomberg*)**: The analysis correctly identifies that the rule "give effect to the legislature's intent as expressed in the statute" applies specifically **when the language is clear and unambiguous**.
+2.  **Anti-Addition Constraint (*Kuntz*)**: The analysis extracts the constraint that the prohibition on adding words to a statute applies **regardless of whether the term is defined in the immediate subdivision**.
+3.  **Purpose vs. Text Constraint (*Bloomberg*)**: The analysis identifies the threshold that while legislative purpose is a "relevant consideration," it is constrained by the fact that it **cannot override the plain meaning**.
+4.  **Legal Definition Constraint (Minn. Stat. § 123B.02)**: The analysis identifies that "district" must be interpreted as a "political subdivision" distinct from a city.
+
+The analysis extracts all necessary doctrinal elements and threshold requirements to justify the conclusion.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1.  **For the Plain Meaning Constraint**: The analysis argues that "district" has a well-established meaning in educational law, making the text unambiguous. This is a valid application of the *Albrecht* rule.
+2.  **For the Anti-Addition Constraint**: The analysis argues that substituting "city" for "district" would be "rewriting the statute," which is prohibited under *Kuntz*. This is a logically valid argument.
+3.  **For the Purpose vs. Text Constraint**: The analysis acknowledges the "local community" purpose but correctly argues that this cannot supersede the specific word "district" used by the legislature, adhering to the *Bloomberg* standard.
+4.  **For the Legal Definition Constraint**: The analysis correctly notes the factual reality that school districts and cities are not synonymous (one can encompass multiple cities), which validates the legal distinction.
+
+There are no logical gaps or exaggerations of the facts.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

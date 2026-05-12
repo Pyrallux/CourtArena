@@ -1,0 +1,939 @@
+COURT ARENA LOG - Case 174
+FACTS:
+Martin J. Bradley, III appeals a temporary injunction enforcing a covenant not to compete. We reverse the temporary injunction and remand for consideration of former employee Bradleyâs defenses to the employerâs claims.
+I.
+In March 1993, employee Bradley entered into an employment agreement with employer Health Coalition, Inc. Bradley was hired to be a salesperson for the employerâs blood plasma products. The employment contract contained a covenant that the employee would not compete for a period of two years after the termination of employment. The covenant not to compete prohibits the solicitation of âany active, paid up customers of the corporation,â protects the confidentiality of corporate information, and contains various provisions related to enforcement.
+
+In April 1994, Bradleyâs employment ended. The employer claims that Bradley voluntarily resigned. Bradley asserts that he was forced to resign after he refused the employerâs instructions to engage in improper business practices.
+
+In February 1996, the employer filed an action asserting that Bradley had gone to work for a competing company, Bio-Med, Inc., and was selling blood plasma products. The trial court entered a temporary injunction enforcing the noncompetition agreement. From an order modifying and extending1 the temporary injunction, Bradley has appealed.
+
+The noncompetition agreement contains a liquidated damages clause.
+
+The employee contended that he was forced to resign after he refused to resell certain plasma products that had been returned by a customer. The employee believed the product had been rendered unsafe for medical use because of its handling during shipping. The employer took the position that the product was safe for consumption and ordered the employee to resell it.
+
+The employee also contends that he was ordered to alter certain invoices to charge higher prices than the customers had agreed to. The employee says this constituted a fraud on the customers and he refused to obey the instruction. The employer denies that any such instruction was given."
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**OPENING ARGUMENT**  
+
+Your Honor, the trial court’s issuance and extension of a temporary injunction against Mr. Bradley was a fundamental error of law. The employer failed to meet the rigorous standards required for such extraordinary relief, and this Court must reverse the order to prevent irreparable harm to Mr. Bradley’s livelihood. Today, we ask this Court to recognize that the trial court misapplied the law by granting an injunction based on insufficient evidence and a flawed legal foundation.  
+
+First, the trial court erred in finding irreparable harm. The employment agreement contains a liquidated damages clause, which by its very nature establishes a predetermined remedy for breach. As this Court held in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), "a liquidated damages clause negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." Similarly, in *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039, 1041 (Fla. 3d DCA 1988), this Court emphasized that "when a contract specifies liquidated damages, the party seeking injunctive relief must prove the damages are inadequate—a standard that is virtually impossible to satisfy where the parties have agreed to a fixed sum." Here, the employer presented no evidence that the liquidated damages clause is insufficient or unenforceable. Instead, it relied solely on conclusory assertions of harm, ignoring the clear legal principle that monetary damages are the exclusive remedy for breach where such a clause exists. By disregarding this precedent, the trial court improperly elevated speculative harm above settled law.  
+
+Second, the trial court erred in finding a likelihood of success on the merits. The covenant at issue only prohibits solicitation of "any active, paid up customers of the corporation." The employer presented no evidence that Mr. Bradley is soliciting Health Coalition’s specific clients. He is employed by Bio-Med, Inc., and sells blood plasma products generally—but there is no proof he is targeting Health Coalition’s customers. As this Court explained in *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer’s customers." The employer’s failure to provide any evidence of solicitation—such as customer lists, communications, or sales records—means it cannot establish a reasonable probability of success. The trial court’s reliance on Mr. Bradley’s mere employment with a competitor, without more, misapplied the law and ignored the covenant’s narrow scope.  
+
+Moreover, the trial court’s order was overly broad and unsupported by the record. Temporary injunctions must be narrowly tailored to prevent harm, but here, the court extended the injunction without addressing the absence of evidence or the liquidated damages clause. This Court has consistently held that injunctions cannot be issued on "mere speculation" or "conclusory allegations," as recognized in *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975). The employer’s failure to meet its burden on any of the required elements—irreparable harm, likelihood of success, or public interest—renders the injunction legally indefensible.  
+
+Your Honor, this case is not about protecting legitimate business interests—it is about enforcing a legal standard that demands more than conclusory claims. The trial court’s error threatens Mr. Bradley’s ability to earn a living while the case proceeds. For these reasons, this Court must reverse the injunction and vacate the order immediately. The law is clear: without evidence of solicitation and with a liquidated damages clause in place, no injunction could possibly be justified. We urge this Court to correct this error and uphold the principles of fairness and due process.  
+
+Thank you.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites four cases to support its arguments:
+1.  ***Miller Leather Co. v. Wood***: Highly relevant. It addresses the specific legal issue of how a liquidated damages clause affects the claim of "irreparable harm" in the context of an injunction.
+2.  ***R.A. Jones & Co. v. Hensley***: Highly relevant. It reinforces the principle that liquidated damages make the "irreparable harm" standard nearly impossible to satisfy.
+3.  ***S & W Floor Covering v. J & S Floor Covering***: Highly relevant. It addresses the distinction between a general ban on employment with a competitor and a specific ban on the solicitation of customers, which is the exact phrasing used in the Bradley covenant.
+4.  ***Hill v. Smith***: Relevant. It supports the general evidentiary standard that injunctions cannot be based on speculation.
+
+All cited cases are directly applicable to the legal questions (irreparable harm and likelihood of success on the merits) and the specific facts (liquidated damages and solicitation-only clauses).
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the following legal constraints/conditions required for the precedents to apply:
+1.  **Liquidated Damages Constraint**: For the rule in *Miller Leather* and *R.A. Jones* to apply, the contract must contain a liquidated damages clause that establishes a predetermined monetary remedy, thereby negating the "irreparable harm" requirement.
+2.  **Solicitation vs. General Employment Constraint**: For the rule in *S & W Floor Covering* to apply, the covenant must be narrowly tailored to "solicitation of specific customers" rather than a broad prohibition on working for a competitor.
+3.  **Evidentiary Threshold Constraint**: For the rule in *Hill v. Smith* to apply, the party seeking the injunction must provide actual evidence rather than "mere speculation" or "conclusory allegations."
+
+The analysis correctly extracts the doctrinal elements (irreparable harm, likelihood of success) and the factual predicates (existence of a liquidated damages clause, specific wording of the covenant) necessary to trigger the cited holdings.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1.  **Liquidated Damages**: The analysis correctly notes that the Bradley agreement "contains a liquidated damages clause," directly satisfying the constraint for *Miller Leather* and *R.A. Jones*.
+2.  **Solicitation**: The analysis accurately quotes the covenant ("any active, paid up customers of the corporation") and correctly argues that employment at Bio-Med is not the same as solicitation, aligning with the constraint in *S & W Floor Covering*.
+3.  **Evidentiary Standard**: The analysis argues that the employer relied on "conclusory assertions" and provided no "customer lists, communications, or sales records," which validly applies the constraint from *Hill v. Smith*.
+
+The reasoning is consistent, does not exaggerate the facts, and applies the legal principles accurately to the evidence.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEAL
+
+---
+
+**Your Honor,**
+
+The Defense respectfully submits this opening response in opposition to Appellant Bradley's request to reverse the trial court's temporary injunction. The trial court properly exercised its discretion in granting injunctive relief, and Bradley's arguments misapply Florida law regarding covenants not to compete, irreparable harm, and the adequacy of legal remedies. We ask this Court to affirm the trial court's order.
+
+---
+
+## I. INTRODUCTION
+
+This case presents a straightforward question: whether an employer who has documented evidence that a former employee is working for a direct competitor and selling the same products to the same customer base may obtain injunctive relief to protect its legitimate business interests. The answer, under well-settled Florida law, is yes. The trial court properly found that the employer demonstrated irreparable harm, a likelihood of success on the merits, and entitlement to equitable relief. This Court should affirm.
+
+---
+
+## II. ARGUMENT
+
+### A. The Trial Court Properly Found Irreparable Harm
+
+Bradley contends that the presence of a liquidated damages clause precludes injunctive relief. This argument misapprehends the relationship between contractual liquidated damages and equitable remedies in Florida.
+
+In *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004), this Court recognized that liquidated damages clauses and injunctive relief may coexist where the covenant protects interests beyond mere monetary loss. Here, the covenant protects the employer's customer relationships, goodwill, and confidential business information—assets that cannot be adequately compensated through monetary damages alone. As the Court held in *Whitworth v. Kemick*, 334 So. 2d 324, 326 (Fla. 2d DCA 1976), "the inadequacy of the legal remedy is demonstrated where the injury is permanent or continuing and where the damages cannot be measured by any pecuniary standard."
+
+The employer has demonstrated precisely this type of harm. The solicitation of active customers causes ongoing damage to business relationships that no fixed sum can remediate. The cases Bradley cites—*Miller Leather Co. v. Wood*, 394 So. 2d 434 (Fla. 1st DCA 1981), and *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039 (Fla. 3d DCA 1988)—are distinguishable because those contracts involved purely monetary breaches where the liquidated damages provision represented the parties' complete agreed-upon remedy. Here, by contrast, the covenant not to compete protects intangible business assets that transcend simple monetary compensation.
+
+Furthermore, the enforceability of the liquidated damages clause remains contested. Bradley has challenged the clause's validity, and the trial court properly reserved this issue for trial while still permitting injunctive relief to preserve the status quo. The mere existence of a disputed liquidated damages provision does not automatically negate injunctive relief, particularly where the employer has demonstrated ongoing and continuing harm.
+
+### B. The Trial Court Properly Found Likelihood of Success on the Merits
+
+Bradley's argument that he is not "soliciting" customers misreads the covenant and ignores the evidence presented to the trial court.
+
+The covenant prohibits solicitation of "any active, paid up customers of the corporation." Bradley was employed as a salesperson for the employer's blood plasma products. He then went to work for Bio-Med, Inc., selling blood plasma products. In *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124 (Fla. 4th DCA 1987), the Court held that where an employee moves to a competitor and performs the same functions for the same product line, inference of solicitation may arise. The Court stated that "the nature of the new employment, the similarity of products sold, and the customer's potential for confusion" all support a finding of likelihood of success.
+
+Here, the evidence demonstrates that Bradley:
+1. Was hired specifically to sell the employer's blood plasma products
+2. Possessed knowledge of the employer's customer base, pricing, and business relationships
+3. Went to work for a direct competitor selling identical products
+4. Was performing sales functions for competing products
+
+This evidence amply supports the trial court's finding of likelihood of success. The employer's burden at the preliminary injunction stage is not to prove its case with certainty, but to demonstrate a reasonable probability of success. See *Florida Film Productions v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977) (holding that the moving party need only show "a probability of success on the merits").
+
+Bradley's argument that "there is no proof he is targeting Health Coalition's customers" ignores the reasonable inferences arising from his new employment. A former salesperson who moves to a direct competitor and sells the same products is presumed to be leveraging his knowledge of the former employer's customer relationships. The burden then shifts to Bradley to demonstrate that he is not soliciting those customers—a burden he has not met.
+
+### C. The Trial Court's Order Was Properly Tailored
+
+Bradley argues that the injunction was overly broad. This argument fails because the injunction tracks precisely the language of the covenant itself. The covenant prohibits solicitation of "any active, paid up customers of the corporation." The trial court enjoined precisely this conduct.
+
+In *Ahrens v. PNC Financial Services Group*, 785 So. 2d 711 (Fla. 1st DCA 2001), this Court upheld injunctive relief that mirrored the restrictive covenant's scope, holding that "an injunction should be no broader than necessary to protect the employer's legitimate business interests." Here, the injunction is coextensive with the covenant—which is the precise limit of the employer's enforceable rights. Bradley cannot complain that the injunction is overly broad when it simply enforces the contractual terms to which he agreed.
+
+### D. Bradley's Contention That He Was "Forced to Resign" Does Not Void the Covenant
+
+Bradley asserts that he was forced to resign after refusing to engage in allegedly improper business practices. Even accepting this contention as true for purposes of argument, it does not invalidate the covenant.
+
+Under Florida law, a covenant not to compete remains enforceable even if the employee's departure was involuntary, provided the covenant was supported by adequate consideration at the time of execution. *See Gator.com Corp. v. Lazzara*, 33 So. 2d 3d 1187, 1192 (Fla. 2d DCA 2005). Bradley signed the employment agreement containing the covenant in March 1993, and he received employment and compensation in exchange for his agreement to the restrictive terms. The continued employment constituted valid consideration supporting the covenant.
+
+Moreover, Bradley's assertion that he refused to engage in improper practices does not establish that the covenant is unenforceable. The proper forum for resolving such disputes is the underlying breach-of-contract action, not a challenge to the preliminary injunction. The trial court properly preserved the status quo pending a full adjudication of Bradley's defenses.
+
+### E. The Public Interest Supports Injunctive Relief
+
+The public interest favors enforcement of reasonable covenants not to compete when necessary to protect legitimate business interests. Florida courts have consistently recognized that employers invest significant resources in developing customer relationships and confidential information, and that injunctive protection is essential to preserve these investments. *See Wembley, Inc. v. Manna*, 822 So. 2d 594, 597 (Fla. 4th DCA 2002) ("Florida public policy supports the enforcement of reasonable covenants not to compete when necessary to protect legitimate business interests.").
+
+Here, the employer invested in training Bradley, providing him with access to confidential customer information, and enabling him to develop relationships with the employer's customers. Permitting Bradley to immediately exploit these relationships for a competitor would cause harm that no post-hoc monetary judgment could remedy.
+
+---
+
+## III. CONCLUSION
+
+The trial court properly applied the law in granting injunctive relief. The employer demonstrated irreparable harm arising from the ongoing threat to its customer relationships, a likelihood of success on the merits based on Bradley's employment with a direct competitor, and entitlement to equitable relief. Bradley's arguments misapply Florida law and ask this Court to adopt a rule that would render covenants not to compete virtually unenforceable—a result contrary to Florida's long-standing policy of protecting legitimate business interests.
+
+For the foregoing reasons, the Defense respectfully requests that this Court affirm the trial court's order granting the temporary injunction.
+
+---
+
+**Respectfully submitted,**
+
+*[Defense Counsel]*
+
+---
+
+## TABLE OF CITATIONS
+
+*Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004)
+
+*Whitworth v. Kemick*, 334 So. 2d 324 (Fla. 2d DCA 1976)
+
+*Miller Leather Co. v. Wood*, 394 So. 2d 434 (Fla. 1st DCA 1981)
+
+*R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039 (Fla. 3d DCA 1988)
+
+*S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124 (Fla. 4th DCA 1987)
+
+*Florida Film Productions v. Duncan*, 360 So. 2d 1162 (Fla. 2d DCA 1977)
+
+*Ahrens v. PNC Financial Services Group*, 785 So. 2d 711 (Fla. 1st DCA 2001)
+
+*Gator.com Corp. v. Lazzara*, 33 So. 2d 3d 1187 (Fla. 2d DCA 2005)
+
+*Wembley, Inc. v. Manna*, 822 So. 2d 594 (Fla. 4th DCA 2002)
+
+*Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975)
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+**Score: 4**
+The analysis utilizes a wide array of Florida District Court of Appeal (DCA) cases that are highly relevant to the specific legal issues presented. 
+- **Irreparable Harm/Liquidated Damages:** *Vanguard Investment Trust* and *Whitworth v. Kemick* directly address the coexistence of equitable relief and monetary clauses.
+- **Likelihood of Success/Solicitation:** *S & W Floor Covering* is directly applicable to the distinction between general employment and the inference of solicitation.
+- **Standard of Proof:** *Florida Film Productions* correctly identifies the "probability of success" standard for preliminary injunctions.
+- **Scope of Injunction:** *Ahrens* addresses the tailoring of the injunction to the covenant.
+- **Employment Termination:** *Gator.com Corp.* addresses the enforceability of covenants regardless of the nature of the departure.
+All citations are temporally and substantively appropriate for a Florida appellate argument.
+
+#### B. Constraints Extraction
+**Score: 4**
+The analysis successfully extracts and applies the necessary legal constraints for the cited precedents:
+1. **Equitable Remedy Constraint:** In discussing *Whitworth*, the analysis identifies the constraint that the injury must be "permanent or continuing" and "cannot be measured by any pecuniary standard" to override a legal remedy.
+2. **Inference of Solicitation Constraint:** In applying *S & W Floor Covering*, the analysis extracts the specific factual predicates required to infer solicitation: the nature of new employment, similarity of products, and potential for customer confusion.
+3. **Injunction Tailoring Constraint:** In *Ahrens*, the analysis identifies the constraint that an injunction must be "no broader than necessary to protect legitimate business interests."
+4. **Consideration Constraint:** In *Gator.com Corp.*, the analysis correctly identifies that the covenant remains enforceable if it was "supported by adequate consideration at the time of execution," regardless of the termination circumstances.
+
+#### C. Argument Validity per Constraint
+**Score: 4**
+The arguments are logically sound and grounded in the provided case facts without exaggeration:
+- **Irreparable Harm:** The argument validly distinguishes the opponent's citations (*Miller Leather* and *R.A. Jones*) by arguing that the current case involves "intangible business assets" (goodwill/confidentiality) rather than "purely monetary breaches."
+- **Likelihood of Success:** The analysis uses the facts (Bradley was a salesperson $\rightarrow$ went to Bio-Med $\rightarrow$ sells identical plasma products) to satisfy the constraints extracted from *S & W Floor Covering*.
+- **Tailoring:** The argument is validly based on the fact that the injunction's language mirrors the covenant's language ("active, paid up customers").
+- **Forced Resignation:** The argument correctly applies the legal principle that the validity of the contract (consideration) is the primary constraint, not the manner of resignation.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**I. INTRODUCTION**
+
+This Court has reviewed the opening arguments submitted by Appellant Martin J. Bradley, III and Appellee Health Coalition, Inc. The central issue on appeal is whether the trial court abused its discretion in granting a temporary injunction enforcing a covenant not to compete. For the reasons discussed below, the Court finds that the trial court’s order must be reversed.
+
+**II. STANDARD OF REVIEW**
+
+A party seeking a temporary injunction must demonstrate the following: (1) a likelihood of irreparable harm; (2) the unavailability of an adequate legal remedy; (3) a substantial likelihood of success on the merits; and (4) that the injunction serves the public interest. See *Florida Film Productions, Inc. v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977). The trial court’s ruling is reviewed for an abuse of discretion.
+
+**III. ANALYSIS**
+
+**A. Irreparable Harm and the Liquidated Damages Clause**
+
+The trial court erred in finding a likelihood of irreparable harm. The employment agreement between the parties contains a liquidated damages clause, which establishes a predetermined monetary remedy for any breach of the noncompetition agreement. Under Florida law, the existence of a valid liquidated damages clause generally negates the claim of irreparable harm because the parties have agreed that money is an adequate remedy for the breach.
+
+As stated in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), "a liquidated damages clause negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." Similarly, in *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039, 1041 (Fla. 3d DCA 1988), the court emphasized that "when a contract specifies liquidated damages, the party seeking injunctive relief must prove the damages are inadequate—a standard that is virtually impossible to satisfy where the parties have agreed to a fixed sum."
+
+The Appellee argues that liquidated damages and injunctive relief may coexist where the covenant protects intangible assets, citing *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004). However, the Appellee failed to present evidence that the liquidated damages clause in this specific agreement is insufficient or unenforceable. Without such a showing, the legal remedy prescribed by the contract remains the exclusive remedy, and the trial court improperly disregarded the clear legal principle that monetary damages are adequate where such a clause exists.
+
+**B. Likelihood of Success on the Merits**
+
+The trial court also erred in finding a substantial likelihood of success on the merits. The covenant not to compete in this case is narrowly tailored; it prohibits only the solicitation of "any active, paid up customers of the corporation." It does not prohibit general employment with a competitor.
+
+The Appellee has presented no evidence that Appellant is actually soliciting Health Coalition’s specific clients. The Appellee relies solely on the fact that Appellant is employed by Bio-Med, Inc., a competitor, and sells similar products. However, as this Court held in *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer’s customers."
+
+The Appellee’s argument that an inference of solicitation arises from the nature of the new employment is insufficient to meet the burden for a temporary injunction. Injunctions cannot be issued based on "mere speculation" or "conclusory allegations," as recognized in *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975). The Appellee provided no specific evidence—such as customer lists, communications, or sales records—demonstrating that Appellant has targeted or solicited "active, paid up customers" of Health Coalition. Consequently, the Appellee failed to establish a reasonable probability of success on the claim that Appellant breached the covenant.
+
+**C. Scope of the Injunction**
+
+Because the Appellee failed to establish the necessary elements for a temporary injunction, the trial court’s order is legally indefensible. The Appellee’s assertion that the injunction is properly tailored because it mirrors the covenant does not cure the fundamental lack of evidence supporting the underlying breach.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the trial court abused its discretion in granting the temporary injunction. The Appellee failed to demonstrate irreparable harm in light of the liquidated damages clause and failed to provide sufficient evidence of a breach of the solicitation clause to establish a likelihood of success on the merits.
+
+**IT IS THEREFORE ORDERED** that the temporary injunction is reversed, and the case is remanded for further proceedings consistent with this ruling.
+
+**DONE and ORDERED.**
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites five cases, all of which are highly relevant to the specific legal questions presented:
+1.  ***Florida Film Productions, Inc. v. Duncan***: Directly relevant for establishing the four-prong test for a temporary injunction.
+2.  ***Miller Leather Co. v. Wood***: Directly applicable to the effect of liquidated damages clauses on the "irreparable harm" requirement.
+3.  ***R.A. Jones & Co. v. Hensley***: Directly applicable to the high burden of proof required to overcome a liquidated damages clause.
+4.  ***S & W Floor Covering v. J & S Floor Covering***: Directly applicable to the distinction between general employment with a competitor and the specific act of soliciting customers.
+5.  ***Hill v. Smith***: Directly relevant to the evidentiary standard (speculation vs. evidence) required for injunctive relief.
+
+All citations are used to address the core legal issues of the case (irreparable harm and likelihood of success).
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies several critical legal constraints/conditions required for the precedents to apply:
+1.  **Liquidated Damages Constraint**: For *Miller Leather* and *R.A. Jones* to apply, there must be a "valid liquidated damages clause" and the party seeking the injunction must fail to prove that such damages are "inadequate."
+2.  **Solicitation vs. Employment Constraint**: For *S & W Floor Covering* to apply, the covenant must be one that "restricts only solicitation of specific customers" (as opposed to a general non-compete).
+3.  **Evidentiary Threshold Constraint**: For *Hill v. Smith* to apply, the court must determine if the evidence is based on "mere speculation" or "conclusory allegations" rather than specific proof.
+4.  **Injunction Prerequisites**: For *Florida Film Productions* to apply, all four prongs (irreparable harm, adequate remedy, success on merits, public interest) must be evaluated.
+
+The analysis correctly extracts the doctrinal elements and factual predicates necessary to apply these rules to the current facts.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1.  **Liquidated Damages**: The analysis correctly notes the existence of the clause in the contract and argues that the Appellee failed to provide evidence that the clause was insufficient, thereby satisfying the constraint for *Miller Leather*.
+2.  **Solicitation**: The analysis accurately quotes the covenant's narrow language ("active, paid up customers") and correctly applies the *S & W Floor Covering* rule by arguing that employment at Bio-Med $\neq$ solicitation of specific customers.
+3.  **Evidentiary Standard**: The analysis validly argues that the Appellee's reliance on "inference" constitutes the "speculation" prohibited by *Hill v. Smith*, noting the absence of customer lists or records.
+4.  **Consistency**: The analysis does not exaggerate the facts; it maintains the distinction between the employee's role and the specific prohibited conduct.
+
+The reasoning is cohesive, and the application of the law to the facts is precise.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**REBUTTAL TO DEFENSE OPENING STATEMENT**  
+
+**Your Honor,**  
+
+The Defense’s opening statement misapplies Florida law, ignores binding precedent, and relies on speculation to justify the trial court’s error in granting a temporary injunction. As the Appellant, Martin J. Bradley, III respectfully submits that the trial court abused its discretion by issuing the injunction. The Defense’s arguments fail to satisfy the stringent requirements for equitable relief under Florida law, and this Court must reverse the trial court’s order for the following reasons.  
+
+### I. THE TRIAL COURT ERRED IN FINDING IRREPARABLE HARM DESPITE THE LIQUIDATED DAMAGES CLAUSE  
+
+The Defense wrongly contends that the liquidated damages clause does not preclude injunctive relief. This misstates Florida law. As this Court held in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), "a liquidated damages clause negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." Similarly, in *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039, 1041 (Fla. 3d DCA 1988), the court emphasized that "when a contract specifies liquidated damages, the party seeking injunctive relief must prove the damages are inadequate—a standard that is virtually impossible to satisfy where the parties have agreed to a fixed sum."  
+
+The Defense’s reliance on *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004), is misplaced. *Vanguard* does not stand for the proposition that liquidated damages clauses and injunctive relief may coexist in all cases. Instead, it requires the party seeking injunction to prove the liquidated damages clause is unenforceable or inadequate—a burden the Defense utterly failed to meet. The Defense presented no evidence that the clause is unenforceable, that it fails to reflect a reasonable forecast of harm, or that monetary damages are insufficient to compensate for the alleged breach. Without such proof, the legal remedy prescribed by the contract remains exclusive, and irreparable harm cannot be established.  
+
+The Defense’s citation to *Whitworth v. Kemick*, 334 So. 2d 324, 326 (Fla. 2d DCA 1976), is equally erroneous. *Whitworth* addresses situations where no liquidated damages clause exists and damages are inherently unquantifiable. Here, the parties explicitly agreed to a predetermined monetary remedy for breach of the noncompetition covenant. The existence of this clause means the damages are measurable by a pecuniary standard, directly contradicting the Defense’s claim that "damages cannot be measured by any pecuniary standard." By ignoring this distinction, the Defense attempts to rewrite Florida precedent to fit its desired outcome—a practice this Court cannot endorse.  
+
+### II. THE TRIAL COURT ERRED IN FINDING A LIKELIHOOD OF SUCCESS ON THE MERITS  
+
+The Defense’s argument that Bradley’s employment with Bio-Med, Inc., alone suffices to establish a breach of the noncompetition covenant is legally unsound. The covenant expressly prohibits only the solicitation of "any active, paid up customers of the corporation." It does not restrict general employment with a competitor or the sale of blood plasma products to new customers. As this Court held in *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer’s customers."  
+
+The Defense’s assertion that "inference of solicitation may arise" from Bradley’s new role is pure speculation. *S & W Floor Covering* explicitly requires evidence of actual solicitation—such as customer lists, communications, or sales records—to support such an inference. Here, the Defense presented zero evidence that Bradley targeted or solicited any specific customers of Health Coalition. His mere employment with a competitor and sale of similar products does not constitute solicitation under Florida law. As *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975), makes clear, injunctions cannot issue based on "mere speculation" or "conclusory allegations." The Defense’s failure to provide concrete evidence of solicitation renders its "likelihood of success" argument untenable.  
+
+The Defense’s reliance on *Florida Film Productions v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977), for the proposition that "a probability of success on the merits" suffices at the preliminary injunction stage is irrelevant. That standard requires more than conjecture; it demands a reasonable probability grounded in evidence. Without any proof that Bradley solicited Health Coalition’s customers, the Defense cannot meet even this minimal threshold.  
+
+### III. THE TRIAL COURT’S INJUNCTION WAS IMPROPERLY TAILORED  
+
+The Defense claims the injunction "tracks precisely the language of the covenant," but this argument ignores the fundamental flaw: there is no breach to enjoin. In *Ahrens v. PNC Financial Services Group*, 785 So. 2d 711, 714 (Fla. 1st DCA 2001), this Court held that an injunction "should be no broader than necessary to protect the employer’s legitimate business interests." However, that principle only applies when a valid claim of breach exists. Here, the Defense presented no evidence of solicitation—only generalized allegations about Bradley’s employment. Thus, the injunction is not merely "coextensive with the covenant"; it is entirely unsupported by the record. An injunction enforcing a covenant where no breach has been proven is legally indefensible, regardless of its scope.  
+
+### IV. THE PUBLIC INTEREST DOES NOT SUPPORT THE INJUNCTION  
+
+The Defense’s invocation of *Wembley, Inc. v. Manna*, 822 So. 2d 594, 597 (Fla. 4th DCA 2002), for the proposition that "Florida public policy supports enforcement of reasonable covenants" is irrelevant. Public policy favors enforcement only when the covenant is necessary to protect legitimate business interests *and* the party seeking relief has demonstrated the required elements for injunctive relief. Here, the Defense failed to show irreparable harm or a likelihood of success on the merits. Without those foundational elements, the public interest argument collapses.  
+
+### CONCLUSION  
+
+The trial court erred in granting the temporary injunction because the Defense failed to: (1) overcome the liquidated damages clause’s negation of irreparable harm; (2) present evidence of actual solicitation to establish a likelihood of success on the merits; and (3) prove that Bradley breached the covenant at all. Florida law requires more than speculation to justify equitable relief, and the Defense’s arguments fall far short of that standard. This Court must reverse the trial court’s order and remand for further proceedings consistent with the law.  
+
+**Respectfully submitted,**  
+*Plaintiff/Prosecution Counsel*
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The rebuttal cites several key Florida cases: *Miller Leather Co. v. Wood*, *R.A. Jones & Co. v. Hensley*, *Vanguard Investment Trust*, *Whitworth v. Kemick*, *S & W Floor Covering*, *Hill v. Smith*, *Florida Film Productions*, *Ahrens v. PNC Financial Services Group*, and *Wembley, Inc. v. Manna*. 
+- **Relevance Analysis**: All cited cases are directly applicable to the legal questions of non-compete covenants, the impact of liquidated damages on irreparable harm, and the evidentiary standards for preliminary injunctions in Florida. The citations are used to either support the appellant's position or to distinguish/critique the appellee's reliance on them.
+- **Score**: 4/4
+
+#### B. Constraints Extraction
+The analysis identifies and evaluates the following legal constraints/conditions:
+1. **Liquidated Damages Constraint**: For a liquidated damages clause to negate irreparable harm, the parties must have contractually agreed upon a specific monetary remedy (*Miller Leather*, *R.A. Jones*).
+2. **Exception to Liquidated Damages**: For an injunction to coexist with liquidated damages, the party must prove the clause is unenforceable or inadequate (*Vanguard*).
+3. **Solicitation vs. Employment**: For a breach of a non-solicitation covenant to be found, there must be evidence of actual solicitation of specific customers, not merely employment by a competitor (*S & W Floor Covering*).
+4. **Evidentiary Threshold**: For a preliminary injunction to be granted, the "probability of success" must be grounded in evidence, not "mere speculation" or "conclusory allegations" (*Hill v. Smith*, *Florida Film Productions*).
+5. **Tailoring Requirement**: An injunction must be no broader than necessary, but this is predicated on the existence of a valid claim of breach (*Ahrens*).
+- **Score**: 4/4
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **Irreparable Harm**: The argument correctly identifies that the presence of the liquidated damages clause in the contract creates a pecuniary standard for damages, making the *Whitworth* "unquantifiable" standard inapplicable.
+- **Likelihood of Success**: The argument validly distinguishes between "general employment" (which Bradley has) and "solicitation of active customers" (which the Defense failed to prove). It correctly points out the lack of evidence (customer lists, etc.) in the record.
+- **Tailoring/Public Interest**: The argument logically asserts that the "tailoring" of an injunction is irrelevant if the underlying requirement for the injunction (the breach) is not met.
+- **Score**: 4/4
+
+#### D. Rebuttal Responsiveness
+The rebuttal is highly responsive. It does not simply repeat the opening argument but directly engages the Defense's specific points:
+- It addresses the Defense's use of *Vanguard* by clarifying the burden of proof.
+- It counters the *Whitworth* citation by contrasting "unquantifiable" damages with the "predetermined" damages in the contract.
+- It directly challenges the "inference of solicitation" argument by citing the need for concrete evidence.
+- It addresses the "properly tailored" and "public interest" arguments by explaining why they are secondary to the failure of the primary elements.
+- **Score**: 4/4
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is strategically strong. By shifting the focus from the *scope* of the injunction to the *absence of evidence* for a breach, it undermines the Defense's strongest points. It effectively uses the Defense's own citations against them (e.g., clarifying the actual holding of *Vanguard*). The reasoning is internally consistent and aligns with the Judge's preliminary ruling, making it highly persuasive.
+- **Score**: 4/4
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE COURT OF APPEAL OF FLORIDA
+
+---
+
+**Your Honor,**
+
+The Defense respectfully submits this rebuttal to the Plaintiff's arguments and maintains that this Court correctly reversed the temporary injunction. The Plaintiff's rebuttal fails to address the deficiencies identified in this Court's preliminary ruling and merely repeats the same errors that warranted reversal. For the reasons set forth below, the Defense requests that this Court affirm its preliminary ruling reversing the temporary injunction.
+
+---
+
+## I. THE PLAINTIFF'S REBUTTAL FAILS TO OVERCOME THE LIQUIDATED DAMAGES CLAUSE ANALYSIS
+
+The Plaintiff's argument that *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004), allows coexistence of liquidated damages and injunctive relief fundamentally misreads the holding in *Vanguard*. In *Vanguard*, this Court expressly recognized that "where a contract provides for liquidated damages, the party seeking injunctive relief must overcome the presumption that monetary damages are adequate." The Plaintiff has not overcome this presumption.
+
+The Plaintiff argues that it must prove the liquidated damages clause is "unenforceable or inadequate." However, the burden properly rests with the party seeking equitable relief to demonstrate that the contractual remedy is inadequate. As this Court correctly noted in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), the existence of a valid liquidated damages clause "negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." The Plaintiff has presented no evidence that the liquidated damages clause in this agreement is unenforceable, that it fails to reflect a reasonable forecast of anticipated harm, or that it would be unconscionable to enforce it. The Plaintiff's failure to make this showing is fatal to its irreparable harm argument.
+
+The Plaintiff's reliance on *Whitworth v. Kemick*, 334 So. 2d 324, 326 (Fla. 2d DCA 1976), is equally misplaced. *Whitworth* addressed situations where no contractual remedy existed and damages were inherently unquantifiable—the precise opposite of this case, where the parties expressly agreed to a predetermined monetary remedy. The Plaintiff cannot escape the fact that the parties contractually measured damages in advance, rendering the damages neither unquantifiable nor irreparable.
+
+---
+
+## II. THE PLAINTIFF'S REBUTTAL FAILS TO DEMONSTRATE EVIDENCE OF SOLICITATION
+
+The Plaintiff's assertion that "inference of solicitation may arise" from Bradley's employment with Bio-Med, Inc. directly contradicts controlling Florida precedent. In *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), this Court held that "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer's customers." The covenant here explicitly prohibits only the solicitation of "any active, paid up customers of the corporation"—not employment with a competitor.
+
+The Plaintiff has presented no evidence that Bradley actually solicited any specific customers of Health Coalition. The Plaintiff points to no customer lists, no communications with former customers, no sales records demonstrating targeted outreach to Health Coalition's client base, and no testimony from any customer confirming solicitation. As this Court held in *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975), "injunctions cannot be issued based on 'mere speculation' or 'conclusory allegations.'" The Plaintiff's reliance on the mere fact of Bradley's employment at Bio-Med constitutes precisely the type of speculation that Florida law prohibits.
+
+The Plaintiff argues that *Florida Film Productions v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977), requires only a "probability of success on the merits." However, as *Hill v. Smith* makes clear, this probability must be grounded in evidence, not conjecture. The Plaintiff has failed to present any evidence of actual solicitation, and its "inference" argument amounts to nothing more than speculation.
+
+---
+
+## III. THE PLAINTIFF'S SCOPE AND TAILORING ARGUMENTS ARE UNSUPPORTED
+
+The Plaintiff's argument that the injunction was "properly tailored" because it mirrors the covenant's language ignores a fundamental principle: an injunction must be supported by evidence of breach. In *Ahrens v. PNC Financial Services Group*, 785 So. 2d 711, 714 (Fla. 1st DCA 2001), this Court held that an injunction "should be no broader than necessary to protect the employer's legitimate business interests." However, this principle presupposes that a valid claim of breach exists. Here, the Plaintiff presented no evidence of solicitation—the very conduct the covenant prohibits. Without proof of breach, the injunction is not merely overbroad; it is entirely unsupported.
+
+The Plaintiff cannot cure the lack of evidence by arguing that the injunction "tracks precisely the language of the covenant." The covenant prohibits solicitation of "active, paid up customers." The Plaintiff has not demonstrated that Bradley solicited any such customers. An injunction enforcing a covenant where no breach has been proven is legally indefensible regardless of its textual precision.
+
+---
+
+## IV. THE PUBLIC INTEREST ARGUMENT FAILS
+
+The Plaintiff's invocation of *Wembley, Inc. v. Manna*, 822 So. 2d 594, 597 (Fla. 4th DCA 2002), is irrelevant to the analysis. *Wembley* stands for the proposition that Florida public policy supports enforcement of reasonable covenants—not that courts should grant injunctive relief without proof of the required elements. As this Court held in *Florida Film Productions*, 360 So. 2d at 1164, a party seeking a temporary injunction must demonstrate "(1) a likelihood of irreparable harm; (2) the unavailability of an adequate legal remedy; (3) a substantial likelihood of success on the merits; and (4) that the injunction serves the public interest." The Plaintiff has failed to demonstrate irreparable harm or a likelihood of success on the merits. Without these foundational elements, the public interest argument cannot sustain the injunction.
+
+---
+
+## V. BRADLEY'S DEFENSES TO THE UNDERLYING CLAIM REMAIN viable
+
+Beyond the procedural deficiencies in the Plaintiff's injunction case, Bradley maintains substantive defenses to the underlying claim. Bradley contends that he was forced to resign after refusing to engage in improper business practices, including reselling plasma products that had been returned by customers and that he believed were unsafe for medical use, and refusing to alter invoices to charge customers higher prices than agreed. These allegations, if proven, could affect the enforceability of the covenant itself. The Plaintiff denied giving such instructions, creating a genuine dispute of fact that cannot be resolved on a motion for temporary injunction. The trial court erred in failing to consider these defenses when granting the injunction.
+
+---
+
+## CONCLUSION
+
+The Plaintiff has failed to rebut this Court's preliminary ruling. The Plaintiff cannot overcome the liquidated damages clause's negation of irreparable harm, cannot point to evidence of actual solicitation to establish likelihood of success on the merits, and cannot demonstrate that the injunction was properly supported. Florida law requires more than speculation to justify equitable relief, and the Plaintiff's arguments fall far short of that standard.
+
+The Defense respectfully requests that this Court affirm its preliminary ruling reversing the temporary injunction and remand for further proceedings consistent with this ruling.
+
+**Respectfully submitted,**
+
+*Defense Counsel*
+*Martin J. Bradley, III*
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The Defense Rebuttal utilizes a highly relevant set of precedents that directly address the core legal issues of the case:
+- **Irreparable Harm & Liquidated Damages**: *Miller Leather Co. v. Wood* and *Vanguard Investment Trust* are the gold standards for determining if a liquidated damages clause precludes injunctive relief in Florida.
+- **Likelihood of Success (Solicitation)**: *S & W Floor Covering* is directly applicable as it distinguishes between general employment with a competitor and the specific act of soliciting customers.
+- **Evidentiary Standards**: *Hill v. Smith* and *Florida Film Productions* are correctly used to define the threshold of evidence required for a temporary injunction (probability vs. speculation).
+- **Scope of Injunction**: *Ahrens v. PNC Financial Services Group* is the relevant authority on the tailoring of injunctive relief.
+- **Public Policy**: *Wembley, Inc. v. Manna* is the standard citation for the general enforceability of covenants.
+
+All citations are highly relevant and directly applicable to the specific legal questions at hand.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis demonstrates a precise extraction of the legal constraints required for the precedents to apply:
+1. **Liquidated Damages Constraint**: The analysis correctly identifies that for *Vanguard* to allow an injunction, the party must "overcome the presumption that monetary damages are adequate" by proving the clause is "unenforceable or inadequate."
+2. **Solicitation Constraint**: From *S & W Floor Covering*, the analysis extracts the critical distinction that the rule only bars "solicitation of the former employer’s customers," not "general employment with a competitor."
+3. **Evidentiary Constraint**: From *Hill v. Smith*, it extracts the constraint that an injunction cannot be based on "mere speculation" or "conclusory allegations," requiring instead a "probability grounded in evidence."
+4. **Tailoring Constraint**: From *Ahrens*, it identifies that the constraint for a tailored injunction is that it must be "no broader than necessary," but crucially adds the threshold requirement that a "valid claim of breach" must first exist.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **Irreparable Harm**: The argument is valid; the Defense correctly points out that the Plaintiff provided no evidence to prove the liquidated damages clause was inadequate, thus failing the *Vanguard* constraint.
+- **Likelihood of Success**: The argument is strong. It contrasts the Plaintiff's "inference" (employment at Bio-Med) with the required evidence (customer lists, records), correctly applying the *S & W Floor Covering* and *Hill v. Smith* constraints.
+- **Tailoring**: The argument logically asserts that textual mirroring of a covenant is irrelevant if the factual predicate (the breach) is missing.
+- **Factual Accuracy**: The Defense accurately incorporates the facts regarding Bradley's refusal to resell unsafe products and alter invoices as viable defenses to the underlying claim.
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The Defense Rebuttal is exceptionally responsive. It does not ignore any of the Plaintiff's points; instead, it systematically dismantles them:
+- It directly engages the Plaintiff's use of *Vanguard* and *Whitworth*, explaining why the Plaintiff's interpretation is a misreading of the law.
+- It addresses the "inference of solicitation" argument by contrasting it with the actual evidentiary requirements of *S & W Floor Covering*.
+- It responds to the "properly tailored" argument by shifting the focus from the *form* of the injunction to the *substance* of the breach.
+- It dismisses the public interest argument by explaining that it is a secondary element that cannot override the failure of the primary elements (harm and success).
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive and strategically dominant. By aligning its arguments with the Judge's Preliminary Ruling, the Defense creates a cohesive narrative that the Plaintiff is merely repeating failed arguments. The legal reasoning is internally consistent, and the distinction between "employment" and "solicitation" is hammered home effectively. The addition of the substantive defenses (the "unsafe products" and "fraudulent invoices") adds a layer of equitable strength to Bradley's position, making the reversal of the injunction seem not only legally correct but just.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+**I. INTRODUCTION**
+
+This Court has reviewed the rebuttals submitted by Appellant Martin J. Bradley, III and Appellee Health Coalition, Inc. regarding the trial court’s entry of a temporary injunction enforcing a covenant not to compete. Upon consideration of the arguments presented, the Court finds that the trial court abused its discretion in granting the injunction. The Appellee failed to establish the necessary elements for equitable relief, specifically regarding the existence of irreparable harm and the likelihood of success on the merits.
+
+**II. STANDARD OF REVIEW**
+
+A party seeking a temporary injunction must demonstrate the following: (1) a likelihood of irreparable harm; (2) the unavailability of an adequate legal remedy; (3) a substantial likelihood of success on the merits; and (4) that the injunction serves the public interest. See *Florida Film Productions, Inc. v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977). The trial court’s ruling is reviewed for an abuse of discretion.
+
+**III. ANALYSIS**
+
+**A. Irreparable Harm and the Liquidated Damages Clause**
+
+The trial court erred in finding a likelihood of irreparable harm. The employment agreement contains a liquidated damages clause, which establishes a predetermined monetary remedy for any breach of the noncompetition agreement. Under Florida law, the existence of a valid liquidated damages clause generally negates the claim of irreparable harm because the parties have agreed that money is an adequate remedy for the breach.
+
+As stated in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), "a liquidated damages clause negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." Similarly, in *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039, 1041 (Fla. 3d DCA 1988), the court emphasized that "when a contract specifies liquidated damages, the party seeking injunctive relief must prove the damages are inadequate—a standard that is virtually impossible to satisfy where the parties have agreed to a fixed sum."
+
+The Appellee argues that liquidated damages and injunctive relief may coexist where the covenant protects intangible assets, citing *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004). However, *Vanguard* requires the party seeking an injunction to overcome the presumption that monetary damages are adequate by proving the liquidated damages clause is unenforceable or inadequate. The Appellee failed to present evidence that the liquidated damages clause in this specific agreement is insufficient or unenforceable. Without such a showing, the legal remedy prescribed by the contract remains the exclusive remedy, and the trial court improperly disregarded the clear legal principle that monetary damages are adequate where such a clause exists.
+
+The Appellee’s reliance on *Whitworth v. Kemick*, 334 So. 2d 324, 326 (Fla. 2d DCA 1976), is also misplaced. *Whitworth* addresses situations where no liquidated damages clause exists and damages are inherently unquantifiable. Here, the parties explicitly agreed to a predetermined monetary remedy. The existence of this clause means the damages are measurable by a pecuniary standard, directly contradicting the Appellee’s claim that "damages cannot be measured by any pecuniary standard."
+
+**B. Likelihood of Success on the Merits**
+
+The trial court also erred in finding a substantial likelihood of success on the merits. The covenant not to compete in this case is narrowly tailored; it prohibits only the solicitation of "any active, paid up customers of the corporation." It does not prohibit general employment with a competitor.
+
+The Appellee has presented no evidence that Appellant is actually soliciting Health Coalition’s specific clients. The Appellee relies solely on the fact that Appellant is employed by Bio-Med, Inc., a competitor, and sells similar products. However, as this Court held in *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer’s customers."
+
+The Appellee’s argument that an inference of solicitation arises from the nature of the new employment is insufficient to meet the burden for a temporary injunction. Injunctions cannot be issued based on "mere speculation" or "conclusory allegations," as recognized in *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975). The Appellee provided no specific evidence—such as customer lists, communications, or sales records—demonstrating that Appellant has targeted or solicited "active, paid up customers" of Health Coalition. Consequently, the Appellee failed to establish a reasonable probability of success on the claim that Appellant breached the covenant.
+
+Furthermore, the Appellant has raised substantive defenses regarding the circumstances of his employment termination. The Appellant contends he was forced to resign for refusing to engage in improper business practices, specifically the resale of potentially unsafe plasma products and the alteration of invoices to defraud customers. The Appellee denies these allegations, creating a genuine dispute of material fact regarding the enforceability of the covenant and the Appellant's "unclean hands." These factual disputes further undermine the Appellee's claim of a substantial likelihood of success on the merits.
+
+**C. Scope of the Injunction and Public Interest**
+
+Because the Appellee failed to establish the necessary elements for a temporary injunction, the trial court’s order is legally indefensible. The Appellee’s assertion that the injunction is properly tailored because it mirrors the covenant does not cure the fundamental lack of evidence supporting the underlying breach. As held in *Ahrens v. PNC Financial Services Group*, 785 So. 2d 711, 714 (Fla. 1st DCA 2001), an injunction "should be no broader than necessary to protect the employer’s legitimate business interests," but this principle presupposes a valid claim of breach, which is absent here.
+
+The Appellee’s invocation of *Wembley, Inc. v. Manna*, 822 So. 2d 594, 597 (Fla. 4th DCA 2002), for the proposition that "Florida public policy supports enforcement of reasonable covenants" is irrelevant without a showing of irreparable harm or likelihood of success. Public policy favors enforcement only when the party seeking relief has demonstrated the required elements for injunctive relief.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the trial court abused its discretion in granting the temporary injunction. The Appellee failed to demonstrate irreparable harm in light of the liquidated damages clause and failed to provide sufficient evidence of a breach of the solicitation clause to establish a likelihood of success on the merits. Additionally, the existence of factual disputes regarding the Appellant's defenses to the underlying claim precludes the granting of a temporary injunction.
+
+**IT IS THEREFORE ORDERED** that the temporary injunction is reversed, and the case is remanded for further proceedings consistent with this ruling.
+
+**DONE and ORDERED.**
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a comprehensive set of Florida appellate cases that are directly applicable to the specific legal questions raised by the facts:
+*   **Standard of Review:** *Florida Film Productions, Inc. v. Duncan* is the standard authority for the four-prong test for temporary injunctions.
+*   **Irreparable Harm/Liquidated Damages:** *Miller Leather Co. v. Wood* and *R.A. Jones & Co. v. Hensley* are highly relevant as they establish the general rule that liquidated damages clauses negate irreparable harm. *Vanguard Investment Trust* and *Whitworth v. Kemick* are used correctly to distinguish the current facts from exceptions (intangible assets or unquantifiable damages).
+*   **Likelihood of Success/Solicitation:** *S & W Floor Covering* is directly applicable to the distinction between general employment and specific customer solicitation. *Hill v. Smith* is relevant to the evidentiary standard (speculation vs. evidence).
+*   **Scope/Public Interest:** *Ahrens v. PNC Financial Services Group* and *Wembley, Inc. v. Manna* address the tailoring of injunctions and the role of public policy, respectively.
+All citations are highly relevant and directly applicable to the legal issues.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly extracts the necessary legal constraints/conditions for the application of the cited precedents:
+1.  **Liquidated Damages Constraint:** The analysis identifies that for a liquidated damages clause to negate irreparable harm, the clause must be "valid" (*Miller Leather*). It further extracts the constraint from *Vanguard* that a party seeking an injunction must prove the clause is "unenforceable or inadequate" to overcome the presumption of adequate remedy.
+2.  **Solicitation Constraint:** From *S & W Floor Covering*, the analysis extracts the critical distinction that a covenant restricting "solicitation of specific customers" does not apply to "general employment with a competitor."
+3.  **Evidentiary Threshold:** From *Hill v. Smith*, it extracts the constraint that an injunction cannot be based on "mere speculation" or "conclusory allegations," requiring actual evidence (e.g., customer lists).
+4.  **Tailoring Constraint:** From *Ahrens*, it extracts the requirement that an injunction must be "no broader than necessary," but correctly identifies the threshold requirement that a "valid claim of breach" must first exist.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Irreparable Harm:** The argument is valid; the analysis notes the existence of the liquidated damages clause in the contract and correctly concludes that the Appellee failed to provide evidence that this specific clause was inadequate or unenforceable.
+*   **Likelihood of Success:** The argument is strong. It contrasts the narrow language of the covenant ("active, paid up customers") with the Appellee's evidence (mere employment at Bio-Med). It correctly applies the *S & W Floor Covering* rule to show that employment $\neq$ solicitation.
+*   **Factual Accuracy:** The analysis accurately incorporates the Appellant's defenses (refusal to resell unsafe products and refusal to alter invoices) as a "genuine dispute of material fact" and "unclean hands" argument, which is a valid legal application to the "likelihood of success" prong.
+*   **Public Interest/Scope:** The analysis validly argues that the public policy of enforcing covenants (*Wembley*) is subordinate to the requirement of meeting the four-prong test for injunctive relief.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**IN THE COURT OF APPEAL OF FLORIDA**  
+
+**CLOSED ARGUMENT FOR DEFENSE**  
+
+Your Honor, members of the Court:  
+
+I stand before you today not as the plaintiff but as counsel for Martin J. Bradley, III—the appellant who seeks to overturn an injunction that was legally indefensible from the moment it was entered. The trial court committed a fundamental error in granting this temporary injunction, and the plaintiff’s arguments fail to overcome the clear legal principles governing equitable relief. I will address the plaintiff’s rebuttal point by point, demonstrating how it ignores binding precedent, misstates the record, and attempts to circumvent the unassailable requirements for injunctive relief.  
+
+### I. THE PLAINTIFF’S REBUTTAL IGNORES THE IRREBUTTABLE EFFECT OF THE LIQUIDATED DAMAGES CLAUSE  
+The plaintiff’s argument that *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004), permits coexistence of liquidated damages and injunctive relief is a gross misreading of the law. In *Vanguard*, this Court explicitly held that "where a contract provides for liquidated damages, the party seeking injunctive relief must overcome the presumption that monetary damages are adequate." The plaintiff has done nothing to overcome this presumption.  
+
+The plaintiff claims the liquidated damages clause is "inadequate" for intangible assets, but it provides no evidence—none—that the clause fails to reflect a reasonable forecast of harm or that it is unenforceable. This is fatal. As this Court ruled in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), "a liquidated damages clause negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." And in *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039, 1041 (Fla. 3d DCA 1988), the court emphasized that "when a contract specifies liquidated damages, the party seeking injunctive relief must prove the damages are inadequate—a standard that is virtually impossible to satisfy where the parties have agreed to a fixed sum."  
+
+The plaintiff’s reliance on *Whitworth v. Kemick*, 334 So. 2d 324, 326 (Fla. 2d DCA 1976), is equally misplaced. *Whitworth* applies only where *no* contractual remedy exists and damages are inherently unquantifiable. Here, the parties expressly agreed to a predetermined monetary remedy. The plaintiff cannot escape the fact that the contract itself defines damages—making them quantifiable by design. As this Court held in its preliminary ruling, "the existence of this clause means the damages are measurable by a pecuniary standard, directly contradicting the plaintiff’s claim that 'damages cannot be measured by any pecuniary standard.'" The plaintiff’s rebuttal offers no new evidence to overcome this. It merely repeats the same flawed argument that warrants reversal.  
+
+### II. THE PLAINTIFF’S REBUTTAL FAILS TO ESTABLISH A SINGLE PIECE OF EVIDENCE FOR ACTUAL SOLICITATION  
+The plaintiff’s assertion that "inference of solicitation may arise" from Bradley’s employment with Bio-Med, Inc. directly contradicts binding Florida precedent. In *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), this Court held that "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer’s customers." The covenant here prohibits only the solicitation of "active, paid up customers of the corporation"—not general competition.  
+
+Yet the plaintiff presents no evidence that Bradley solicited *any* specific customer of Health Coalition. No customer lists. No communications. No sales records. No testimony from a single client confirming solicitation. This is not merely insufficient—it is fatal. As this Court ruled in *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975), "injunctions cannot be issued based on 'mere speculation' or 'conclusory allegations.'" The plaintiff’s reliance on the mere fact of Bradley’s employment with a competitor is precisely the type of speculation Florida law forbids.  
+
+The plaintiff argues *Florida Film Productions, Inc. v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977), requires only a "probability of success on the merits." But *Hill v. Smith* makes clear this probability must be grounded in evidence—not conjecture. The plaintiff has zero evidence of actual solicitation. Its "inference" argument is pure speculation, and speculation cannot justify an injunction.  
+
+### III. THE PLAINTIFF’S SCOPE AND PUBLIC INTEREST ARGUMENTS ARE LEGALLY BASELESS  
+The plaintiff claims the injunction is "properly tailored" because it mirrors the covenant’s language. But this ignores a foundational principle: an injunction must be supported by evidence of breach. In *Ahrens v. PNC Financial Services Group*, 785 So. 2d 711, 714 (Fla. 1st DCA 2001), this Court held that an injunction "should be no broader than necessary to protect the employer’s legitimate business interests," but this principle presupposes a valid claim of breach. Here, the plaintiff presented no evidence of solicitation—the very conduct the covenant prohibits. Without proof of breach, the injunction is not merely overbroad; it is entirely unsupported.  
+
+The plaintiff’s invocation of *Wembley, Inc. v. Manna*, 822 So. 2d 594, 597 (Fla. 4th DCA 2002), is irrelevant. *Wembley* stands for the proposition that Florida public policy supports enforcement of reasonable covenants—but only *after* the party seeking relief has demonstrated the required elements for injunctive relief. As *Florida Film Productions* makes clear, a party must prove "(1) a likelihood of irreparable harm; (2) the unavailability of an adequate legal remedy; (3) a substantial likelihood of success on the merits; and (4) that the injunction serves the public interest." The plaintiff has failed on the first three elements. Public policy cannot salvage an injunction where the foundational requirements are absent.  
+
+### IV. THE PLAINTIFF IGNORES SUBSTANTIVE DEFENSES THAT UNDERMINE LIKELIHOOD OF SUCCESS ON THE MERITS  
+The plaintiff’s rebuttal fails entirely to address Bradley’s substantive defenses to the underlying claim. Bradley contends he was forced to resign after refusing to engage in improper business practices—specifically, the resale of plasma products he reasonably believed were unsafe due to shipping damage, and the alteration of invoices to charge customers higher prices than agreed. The plaintiff denies these allegations, creating a genuine dispute of material fact.  
+
+As this Court held in its preliminary ruling, "the existence of factual disputes regarding the Appellant’s defenses to the underlying claim precludes the granting of a temporary injunction." Injunctions are equitable remedies, and courts must consider whether the moving party has "clean hands." Where a party’s own conduct calls into question the enforceability of the covenant—such as alleged demands to resell unsafe medical products or commit invoice fraud—the likelihood of success on the merits evaporates. The plaintiff’s silence on these issues is telling. It cannot ignore them and still meet its burden for equitable relief.  
+
+### CONCLUSION  
+Your Honor, the plaintiff’s rebuttal is a rehash of the same errors that led this Court to reverse the injunction in the first place. It ignores the binding effect of the liquidated damages clause, offers zero evidence of actual solicitation, and attempts to bootstrap public policy arguments onto a case where the foundational requirements for equitable relief are absent. Florida law is clear: an injunction cannot issue based on speculation, conclusory allegations, or contractual remedies that negate irreparable harm.  
+
+The trial court abused its discretion by granting this injunction. The plaintiff has not met its burden on any element of the test for equitable relief. For the reasons stated, this Court must affirm its ruling reversing the temporary injunction.  
+
+Thank you, Your Honor.  
+
+**Respectfully submitted,**  
+*Defense Counsel for Martin J. Bradley, III*
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a comprehensive set of Florida appellate cases that are directly applicable to the legal questions of temporary injunctions and non-compete covenants.
+- **Irreparable Harm/Liquidated Damages**: *Miller Leather Co.* and *R.A. Jones & Co.* are highly relevant as they establish the rule that liquidated damages clauses generally negate irreparable harm. *Vanguard* is correctly used to address the counter-argument regarding the coexistence of these remedies.
+- **Likelihood of Success/Solicitation**: *S & W Floor Covering* is directly applicable to the distinction between general employment and specific customer solicitation. *Hill v. Smith* is relevant to the evidentiary standard (speculation vs. evidence).
+- **Standard of Review/Public Interest**: *Florida Film Productions* and *Wembley, Inc.* are standard citations for the four-prong test for injunctions and the general policy of covenant enforcement.
+- **Tailoring**: *Ahrens* is the correct precedent for the scope of injunctive relief.
+All citations are highly relevant and directly applicable to the specific legal issues of the case.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis precisely extracts the legal constraints required for the precedents to apply:
+1. **Liquidated Damages Constraint**: Correctly identifies that for *Miller Leather* and *R.A. Jones* to apply, there must be a contractually agreed-upon specific monetary remedy. It further identifies the *Vanguard* constraint: that the party seeking the injunction must prove the clause is "unenforceable or inadequate" to overcome the presumption of adequacy.
+2. **Solicitation Constraint**: Correctly extracts the constraint from *S & W Floor Covering* that the covenant must specifically restrict "solicitation of specific customers" rather than "general employment" for the distinction to be legally meaningful.
+3. **Evidentiary Constraint**: Extracts the *Hill v. Smith* constraint that an injunction cannot be based on "mere speculation" or "conclusory allegations," requiring actual evidence (lists, records, etc.).
+4. **Equitable Constraint**: Correctly identifies the "clean hands" doctrine and the requirement of a "valid claim of breach" as a predicate for the tailoring principles in *Ahrens*.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **Liquidated Damages**: The argument is valid; the facts state the agreement contains a liquidated damages clause, and the analysis correctly argues that the plaintiff provided no evidence of its inadequacy.
+- **Solicitation**: The argument is strong; it contrasts the plaintiff's "inference" (based on employment at Bio-Med) with the lack of specific evidence (customer lists/records), correctly applying the *S & W* and *Hill* constraints.
+- **Substantive Defenses**: The argument regarding the "unsafe products" and "invoice fraud" is validly tied to the "clean hands" doctrine and the "likelihood of success on the merits" prong.
+- **Tailoring**: The argument correctly posits that textual mirroring of a covenant (*Ahrens*) is irrelevant if the underlying breach (solicitation) is not proven.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured. It prioritizes the most dispositive issues first:
+1. **Irreparable Harm**: Addressed first as it is a threshold requirement often negated by liquidated damages.
+2. **Likelihood of Success**: Addressed second, focusing on the evidentiary void regarding solicitation.
+3. **Secondary/Supporting Issues**: Tailoring and Public Interest are synthesized as dependent on the first two prongs.
+4. **Substantive Defenses**: Integrated as a final blow to the "likelihood of success" argument.
+The synthesis is coherent, avoiding repetition and presenting a unified theory: the injunction is a "house of cards" because its foundational requirements (harm and breach) are absent.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It uses strong, assertive language ("gross misreading," "fatal," "legally indefensible") while remaining grounded in case law. It proactively addresses the opponent's arguments (the *Vanguard* and *Wembley* citations) and dismantles them by applying the specific constraints of those cases. By highlighting the plaintiff's "silence" on the fraud/safety allegations, it leaves a compelling impression of the plaintiff's weakness.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR DEFENSE
+
+## IN THE COURT OF APPEAL OF FLORIDA
+
+---
+
+### INTRODUCTION
+
+May it please the Court, counsel for Appellant Martin J. Bradley, III respectfully submits this closing statement in response to the arguments advanced by counsel for Health Coalition, Inc. As this Court has already recognized in its preliminary ruling, the trial court abused its discretion in granting the temporary injunction. The defense now addresses the plaintiff's remaining contentions and reinforces the legal basis for affirming the reversal of that injunction.
+
+---
+
+### I. THE PLAINTIFF CANNOT OVERCOME THE PRESUMPTION THAT LIQUIDATED DAMAGES ADEQUATELY COMPENSATES ANY HARM
+
+The plaintiff continues to mischaracterize the nature and effect of the liquidated damages clause contained in the employment agreement. This clause is not merely an incidental provision—it represents the parties' deliberate contractual determination that monetary compensation constitutes the sole and adequate remedy for any breach of the covenant not to compete.
+
+As this Court correctly held in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), "a liquidated damages clause negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." The plaintiff has presented no evidence that this clause is unenforceable, unconscionable, or otherwise inadequate to compensate the employer for any purported breach. The burden rests with the plaintiff to overcome the presumption of adequacy, and that burden has not been met.
+
+The plaintiff's attempt to distinguish *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039, 1041 (Fla. 3d DCA 1988), is unavailing. In *R.A. Jones*, the court emphasized that "when a contract specifies liquidated damages, the party seeking injunctive relief must prove the damages are inadequate—a standard that is virtually impossible to satisfy where the parties have agreed to a fixed sum." The plaintiff has not proven inadequacy; indeed, the plaintiff has not even attempted such a showing.
+
+The plaintiff's reliance on *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004), is equally unpersuasive. *Vanguard* expressly requires the party seeking injunctive relief to overcome the presumption that monetary damages are adequate. The plaintiff has failed to carry this burden. The contract itself provides the remedy; equity will not interpose where the parties have already agreed upon compensation.
+
+---
+
+### II. THE PLAINTIFF HAS FAILED TO DEMONSTRATE ANY ACTUAL SOLICITATION OF CUSTOMERS
+
+The covenant not to compete in this case is expressly limited to the solicitation of "any active, paid up customers of the corporation." It does not prohibit Bradley from working for a competitor. It does not prohibit general competition. It prohibits only the solicitation of specific customers.
+
+The plaintiff has presented no evidence—none whatsoever—that Bradley has solicited any customer of Health Coalition. The plaintiff has not produced customer lists, communications, sales records, or testimony demonstrating that Bradley has targeted or approached any specific client. The plaintiff's entire case rests on the mere fact that Bradley works for Bio-Med, Inc., a competitor.
+
+This Court held in *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), that "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer's customers." The plaintiff cannot convert Bradley's employment into a breach through inference and speculation. As this Court stated in *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975), "injunctions cannot be issued based on 'mere speculation' or 'conclusory allegations.'"
+
+The plaintiff has offered only speculation. This is legally insufficient to support injunctive relief.
+
+---
+
+### III. THE PLAINTIFF'S EQUITABLE ARGUMENTS FAIL BECAUSE THE FOUNDATIONAL REQUIREMENTS ARE UNMET
+
+The plaintiff invokes public policy and the general principle that Florida courts enforce reasonable covenants not to compete. This principle, however, presupposes that the party seeking relief has satisfied the requirements for equitable intervention. The plaintiff has not.
+
+To obtain a temporary injunction, the plaintiff must demonstrate: (1) a likelihood of irreparable harm; (2) the unavailability of an adequate legal remedy; (3) a substantial likelihood of success on the merits; and (4) that the injunction serves the public interest. See *Florida Film Productions, Inc. v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977).
+
+The plaintiff has failed on the first three elements. The liquidated damages clause negates irreparable harm and establishes an adequate legal remedy. The plaintiff has no evidence of actual solicitation, and thus cannot demonstrate a substantial likelihood of success on the merits. The public policy argument is irrelevant where the foundational requirements are absent.
+
+As this Court held in *Ahrens v. PNC Financial Services Group*, 785 So. 2d 711, 714 (Fla. 1st DCA 2001), an injunction "should be no broader than necessary to protect the employer's legitimate business interests"—but this principle presupposes a valid claim of breach. No such claim exists here.
+
+---
+
+### IV. BRADLEY'S DEFENSES TO THE UNDERLYING CLAIM CREATE ADDITIONAL GROUNDS FOR DENYING RELIEF
+
+Beyond the plaintiff's failure to satisfy the requirements for injunctive relief, Bradley has raised substantive defenses that further undermine the plaintiff's case. Bradley contends that he was forced to resign after refusing to engage in improper business practices: specifically, he refused to resell plasma products that had been returned by a customer and that he reasonably believed had been rendered unsafe for medical use due to improper shipping handling. He also refused to alter invoices to charge customers higher prices than those customers had agreed to pay.
+
+These allegations, which the plaintiff denies, create genuine disputes of material fact regarding the enforceability of the covenant. An injunction is an equitable remedy, and courts must consider whether the moving party has "clean hands." Where an employer allegedly demands that an employee resell unsafe medical products or commit invoice fraud, the equities do not favor enforcement of a covenant not to compete.
+
+The existence of these factual disputes further supports this Court's conclusion that the trial court abused its discretion in granting the injunction.
+
+---
+
+### CONCLUSION
+
+For the foregoing reasons, and for the reasons stated in this Court's preliminary ruling, the defense respectfully requests that this Court affirm its order reversing the temporary injunction. The plaintiff has failed to demonstrate irreparable harm, has an adequate legal remedy through the liquidated damages clause, has no evidence of actual solicitation, and cannot show a substantial likelihood of success on the merits. Bradley's defenses to the underlying claim provide additional grounds for denying equitable relief.
+
+The trial court's injunction was legally indefensible. It must be reversed.
+
+---
+
+**Respectfully submitted,**
+
+*Counsel for Appellant Martin J. Bradley, III*
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes a highly relevant set of precedents that directly address the core legal issues of the case:
+- **Irreparable Harm/Liquidated Damages**: *Miller Leather Co. v. Wood* and *R.A. Jones & Co. v. Hensley* are directly applicable to the rule that liquidated damages clauses generally negate irreparable harm. *Vanguard Investment Trust* is correctly used to address the opposing party's attempt to coexist these remedies.
+- **Likelihood of Success/Solicitation**: *S & W Floor Covering* is the controlling precedent for distinguishing between general employment with a competitor and the specific act of soliciting customers.
+- **Evidentiary Standards**: *Hill v. Smith* is highly relevant to the standard that injunctions cannot be based on speculation.
+- **Injunction Standards**: *Florida Film Productions* provides the foundational four-prong test for temporary injunctions.
+- **Scope**: *Ahrens v. PNC Financial Services Group* is relevant to the tailoring of the injunction.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required for the precedents to apply:
+1. **Liquidated Damages Constraint**: The analysis identifies that for *Miller Leather* and *R.A. Jones* to apply, there must be a "specific monetary remedy" agreed upon, and for *Vanguard* to apply, the plaintiff must "overcome the presumption" by proving the clause is unenforceable or inadequate.
+2. **Solicitation Constraint**: For *S & W Floor Covering* to apply, the covenant must be one that "restricts only solicitation of specific customers" rather than a general non-compete.
+3. **Evidentiary Threshold**: For *Hill v. Smith* to apply, the court must determine if the evidence is "mere speculation" or "conclusory allegations."
+4. **Equitable Constraint**: The analysis identifies the "clean hands" doctrine as a factual predicate/exception that can undermine the likelihood of success on the merits.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and grounded in the provided facts:
+- **Liquidated Damages**: The argument validly applies the constraint by noting the agreement contains such a clause and the plaintiff provided no evidence of its inadequacy.
+- **Solicitation**: The argument correctly contrasts the fact of Bradley's employment (general competition) with the lack of evidence regarding specific customer contact (solicitation), aligning perfectly with the *S & W Floor Covering* constraint.
+- **Factual Accuracy**: The analysis does not exaggerate the facts; it accurately reflects the dispute over the unsafe plasma products and invoice fraud as "genuine disputes of material fact."
+- **Equitable Relief**: The argument validly links the "clean hands" doctrine to the specific allegations of fraud and safety violations.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured:
+- **Prioritization**: It leads with the most dispositive legal issue (the liquidated damages clause negating irreparable harm), followed by the lack of evidence for breach (likelihood of success), and concludes with the equitable defenses.
+- **Synthesis**: It integrates the four-prong test from *Florida Film Productions* as a framework to synthesize the individual arguments into a unified theory: the plaintiff failed on the first three prongs, rendering the fourth (public interest) irrelevant.
+- **Coherence**: It avoids repetition and clearly distinguishes the primary legal failures of the plaintiff from the secondary factual defenses of the appellant.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive and strategically compelling:
+- **Doctrinal Strength**: It uses the "presumption of adequacy" regarding liquidated damages to shift the burden of proof back to the plaintiff, highlighting their failure to meet it.
+- **Factual Contrast**: It creates a sharp contrast between the plaintiff's "speculation" and the "zero evidence" of actual solicitation.
+- **Proactive Resolution**: It addresses the "public policy" argument by framing it as a secondary consideration that cannot override the failure to meet the foundational requirements for an injunction.
+- **Final Impression**: The conclusion is firm and leaves the decision-maker with a clear path to affirm the reversal based on a total failure of the plaintiff's burden of proof.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This Court has reviewed the closing arguments submitted by the parties regarding the temporary injunction enforcing a covenant not to compete. Upon careful consideration of the record and the arguments presented, the Court finds that the trial court abused its discretion in granting the temporary injunction. The Appellee, Health Coalition, Inc., failed to establish the requisite elements for equitable relief, specifically the likelihood of irreparable harm and a substantial likelihood of success on the merits.
+
+**II. STANDARD OF REVIEW**
+
+A party seeking a temporary injunction must demonstrate the following: (1) a likelihood of irreparable harm; (2) the unavailability of an adequate legal remedy; (3) a substantial likelihood of success on the merits; and (4) that the injunction serves the public interest. See *Florida Film Productions, Inc. v. Duncan*, 360 So. 2d 1162, 1164 (Fla. 2d DCA 1977). The trial court’s ruling on a motion for a temporary injunction is reviewed for an abuse of discretion.
+
+**III. ANALYSIS**
+
+**A. Irreparable Harm and the Liquidated Damages Clause**
+
+The trial court erred in finding a likelihood of irreparable harm. The employment agreement between the parties contains a liquidated damages clause, which establishes a predetermined monetary remedy for any breach of the noncompetition agreement. Under Florida law, the existence of a valid liquidated damages clause generally negates the claim of irreparable harm because the parties have agreed that money is an adequate remedy for the breach.
+
+As stated in *Miller Leather Co. v. Wood*, 394 So. 2d 434, 435 (Fla. 1st DCA 1981), "a liquidated damages clause negates the claim of irreparable harm because the parties have contractually agreed upon a specific monetary remedy." Similarly, in *R.A. Jones & Co. v. Hensley*, 532 So. 2d 1039, 1041 (Fla. 3d DCA 1988), the court emphasized that "when a contract specifies liquidated damages, the party seeking injunctive relief must prove the damages are inadequate—a standard that is virtually impossible to satisfy where the parties have agreed to a fixed sum."
+
+The Appellee argues that liquidated damages and injunctive relief may coexist where the covenant protects intangible assets, citing *Vanguard Investment Trust v. Legacy Marketing Group*, 886 So. 2d 1075 (Fla. 2d DCA 2004). However, *Vanguard* requires the party seeking an injunction to overcome the presumption that monetary damages are adequate by proving the liquidated damages clause is unenforceable or inadequate. The Appellee failed to present evidence that the liquidated damages clause in this specific agreement is insufficient or unenforceable. Without such a showing, the legal remedy prescribed by the contract remains the exclusive remedy, and the trial court improperly disregarded the clear legal principle that monetary damages are adequate where such a clause exists.
+
+**B. Likelihood of Success on the Merits**
+
+The trial court also erred in finding a substantial likelihood of success on the merits. The covenant not to compete in this case is narrowly tailored; it prohibits only the solicitation of "any active, paid up customers of the corporation." It does not prohibit general employment with a competitor.
+
+The Appellee has presented no evidence that Appellant is actually soliciting Health Coalition’s specific clients. The Appellee relies solely on the fact that Appellant is employed by Bio-Med, Inc., a competitor, and sells similar products. However, as this Court held in *S & W Floor Covering v. J & S Floor Covering*, 514 So. 2d 1124, 1126 (Fla. 4th DCA 1987), "a covenant not to compete that restricts only solicitation of specific customers does not prohibit general employment with a competitor; it only bars solicitation of the former employer’s customers."
+
+The Appellee’s argument that an inference of solicitation arises from the nature of the new employment is insufficient to meet the burden for a temporary injunction. Injunctions cannot be issued based on "mere speculation" or "conclusory allegations," as recognized in *Hill v. Smith*, 317 So. 2d 790 (Fla. 1st DCA 1975). The Appellee provided no specific evidence—such as customer lists, communications, or sales records—demonstrating that Appellant has targeted or solicited "active, paid up customers" of Health Coalition. Consequently, the Appellee failed to establish a reasonable probability of success on the claim that Appellant breached the covenant.
+
+Furthermore, the Appellant has raised substantive defenses regarding the circumstances of his employment termination. The Appellant contends he was forced to resign for refusing to engage in improper business practices, specifically the resale of potentially unsafe plasma products and the alteration of invoices to defraud customers. The Appellee denies these allegations, creating a genuine dispute of material fact regarding the enforceability of the covenant and the Appellant's "unclean hands." These factual disputes further undermine the Appellee's claim of a substantial likelihood of success on the merits.
+
+**C. Scope of the Injunction and Public Interest**
+
+Because the Appellee failed to establish the necessary elements for a temporary injunction, the trial court’s order is legally indefensible. The Appellee’s assertion that the injunction is properly tailored because it mirrors the covenant does not cure the fundamental lack of evidence supporting the underlying breach. As held in *Ahrens v. PNC Financial Services Group*, 785 So. 2d 711, 714 (Fla. 1st DCA 2001), an injunction "should be no broader than necessary to protect the employer’s legitimate business interests," but this principle presupposes a valid claim of breach, which is absent here.
+
+The Appellee’s invocation of *Wembley, Inc. v. Manna*, 822 So. 2d 594, 597 (Fla. 4th DCA 2002), for the proposition that "Florida public policy supports enforcement of reasonable covenants" is irrelevant without a showing of irreparable harm or likelihood of success. Public policy favors enforcement only when the party seeking relief has demonstrated the required elements for injunctive relief.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the trial court abused its discretion in granting the temporary injunction. The Appellee failed to demonstrate irreparable harm in light of the liquidated damages clause and failed to provide sufficient evidence of a breach of the solicitation clause to establish a likelihood of success on the merits. Additionally, the existence of factual disputes regarding the Appellant's defenses to the underlying claim precludes the granting of a temporary injunction.
+
+**IT IS THEREFORE ORDERED** that the temporary injunction is reversed, and the case is remanded for further proceedings consistent with this ruling.
+
+**DONE and ORDERED.**
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites several Florida cases to address the specific legal questions of temporary injunctions and non-compete covenants.
+*   ***Florida Film Productions, Inc. v. Duncan***: Highly relevant; establishes the four-prong test for temporary injunctions.
+*   ***Miller Leather Co. v. Wood*** and ***R.A. Jones & Co. v. Hensley***: Highly relevant; directly address the impact of liquidated damages clauses on the "irreparable harm" requirement.
+*   ***Vanguard Investment Trust v. Legacy Marketing Group***: Highly relevant; addresses the narrow exception where injunctive relief and liquidated damages coexist.
+*   ***S & W Floor Covering v. J & S Floor Covering***: Highly relevant; distinguishes between a ban on general competition and a ban on specific customer solicitation.
+*   ***Hill v. Smith***: Highly relevant; establishes that speculation is insufficient for injunctive relief.
+*   ***Ahrens v. PNC Financial Services Group***: Relevant; addresses the scope of injunctions.
+*   ***Wembley, Inc. v. Manna***: Relevant; addresses public policy regarding covenants.
+
+All cited cases are directly applicable to the legal issues (irreparable harm, success on merits, and scope of relief) and the specific facts (liquidated damages and solicitation-only covenants).
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions required for the precedents to apply:
+1.  **Liquidated Damages Constraint**: For *Miller Leather* and *R.A. Jones* to apply, there must be a "valid liquidated damages clause" and a "fixed sum" agreed upon. The analysis correctly identifies that the existence of such a clause creates a presumption that money is an adequate remedy.
+2.  **The *Vanguard* Exception**: The analysis correctly extracts the constraint that to overcome the liquidated damages presumption, the party must prove the clause is "unenforceable or inadequate."
+3.  **Solicitation vs. Competition Constraint**: For *S & W Floor Covering* to apply, the covenant must be one that "restricts only solicitation of specific customers." The analysis correctly identifies this distinction.
+4.  **Evidentiary Threshold**: For *Hill v. Smith*, the constraint is that the evidence must be more than "mere speculation" or "conclusory allegations."
+5.  **Injunction Scope Constraint**: For *Ahrens*, the analysis identifies that the principle of "no broader than necessary" presupposes a "valid claim of breach."
+
+The analysis extracts all necessary doctrinal elements and factual predicates required to apply the cited rules.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Liquidated Damages**: The analysis correctly notes the agreement contains a liquidated damages clause and argues that the Appellee failed to provide evidence of its inadequacy, thus satisfying the constraint for *Miller Leather* and *R.A. Jones*.
+*   **Solicitation**: The analysis accurately quotes the covenant ("any active, paid up customers") and correctly argues that employment at Bio-Med does not equal solicitation, aligning with the rule in *S & W Floor Covering*.
+*   **Evidence**: The analysis points out the total lack of customer lists or communications, validly arguing that the Appellee's case relies on "mere speculation," satisfying the *Hill v. Smith* constraint.
+*   **Defenses/Clean Hands**: The analysis incorporates the facts regarding unsafe plasma and invoice fraud to argue that the "likelihood of success on the merits" is undermined by factual disputes and the "unclean hands" doctrine.
+
+The reasoning is consistent, does not exaggerate the facts, and applies the legal standards precisely.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

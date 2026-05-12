@@ -1,0 +1,1072 @@
+COURT ARENA LOG - Case 154
+FACTS:
+Martin J. Bradley, III appeals a temporary injunction enforcing a covenant not to compete. We reverse the temporary injunction and remand for consideration of former employee Bradleyâs defenses to the employerâs claims.
+I.
+In March 1993, employee Bradley entered into an employment agreement with employer Health Coalition, Inc. Bradley was hired to be a salesperson for the employerâs blood plasma products. The employment contract contained a covenant that the employee would not compete for a period of two years after the termination of employment. The covenant not to compete prohibits the solicitation of âany active, paid up customers of the corporation,â protects the confidentiality of corporate information, and contains various provisions related to enforcement.
+
+In April 1994, Bradleyâs employment ended. The employer claims that Bradley voluntarily resigned. Bradley asserts that he was forced to resign after he refused the employerâs instructions to engage in improper business practices.
+
+In February 1996, the employer filed an action asserting that Bradley had gone to work for a competing company, Bio-Med, Inc., and was selling blood plasma products. The trial court entered a temporary injunction enforcing the noncompetition agreement. From an order modifying and extending1 the temporary injunction, Bradley has appealed.
+
+The noncompetition agreement contains a liquidated damages clause.
+
+The employee contended that he was forced to resign after he refused to resell certain plasma products that had been returned by a customer. The employee believed the product had been rendered unsafe for medical use because of its handling during shipping. The employer took the position that the product was safe for consumption and ordered the employee to resell it.
+
+The employee also contends that he was ordered to alter certain invoices to charge higher prices than the customers had agreed to. The employee says this constituted a fraud on the customers and he refused to obey the instruction. The employer denies that any such instruction was given.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+MAY IT PLEASE THE COURT:  
+
+Your Honor, we stand before this Court to challenge the trial court’s order modifying and extending the temporary injunction against Mr. Bradley. That order was legally infirm on multiple grounds and must be reversed. The trial court failed to comply with fundamental procedural requirements, misapplied the legal standards for granting injunctive relief, and ignored critical factual disputes that render the injunction untenable under settled law.  
+
+### I. The Trial Court Committed Reversible Error by Failing to Make Required Findings of Fact and Conclusions of Law  
+Florida Rule of Civil Procedure 1.610(b) explicitly requires that "[t]he court shall state the findings of fact and conclusions of law" when issuing a temporary injunction. This is not a mere formality—it is a bedrock procedural safeguard ensuring appellate review and judicial accountability. Here, the trial court’s order contains no such findings whatsoever. It merely recites the parties’ arguments and issues a blanket injunction without identifying the specific facts supporting irreparable harm, likelihood of success on the merits, or the absence of an adequate remedy at law. As this Court held in *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992), "failure to state findings and conclusions is reversible error" because it "prevents meaningful appellate review." Without these findings, this Court cannot determine whether the trial court properly applied the law or resolved disputed facts. The order is thus legally defective on its face.  
+
+### II. The Employer Failed to Demonstrate Irreparable Harm, a Prerequisite for Injunctive Relief  
+The trial court’s injunction rests on the erroneous assumption that the employer suffered irreparable harm. But the employment agreement contains a liquidated damages clause for breaches of the noncompetition covenant. As this Court unequivocally stated in *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), "where the injury can be compensated by money damages, a temporary injunction is not appropriate." The presence of a liquidated damages provision confirms that monetary compensation is an adequate remedy. The employer’s complaint does not—and cannot—allege facts suggesting that money damages would be insufficient, such as the destruction of goodwill or unique customer relationships beyond monetary valuation. Instead, the employer’s allegations boil down to generic claims of lost sales, which are precisely the type of harm that money damages can redress. By ignoring this precedent, the trial court violated the core requirement that irreparable harm must be shown before injunctive relief may issue.  
+
+### III. The Employer Did Not Prove Bradley Violated the Covenant’s Specific Terms  
+The noncompetition covenant restricts only the solicitation of "active, paid up customers of the corporation." Yet the employer’s complaint does not allege that Bradley solicited *any specific customers*—it merely states he was "selling blood plasma products" for Bio-Med, Inc. This is a critical distinction. As this Court recognized in *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The covenant’s plain language does not prohibit general employment or sales activities; it only bars solicitation of particular customers. The trial court failed to address this gap, erroneously treating all sales as solicitation without evidence. Without proof that Bradley contacted or solicited any "active, paid up customers," the covenant cannot be enforced.  
+
+### IV. The Trial Court Ignored Factual Disputes About the Employer’s Legitimate Business Interest  
+Finally, the trial court erred by failing to resolve critical factual disputes about whether the employer possessed a legitimate business interest to protect. Florida law requires that a noncompetition covenant "be enforceable only to the extent necessary to protect a legitimate business interest." *Wackenhut Corp. v. Canty*, 359 So. 2d at 433. The record contains unresolved allegations that the employer directed Bradley to resell plasma products he believed were unsafe for medical use due to improper handling during shipping, and to alter invoices to charge customers higher prices than agreed. These allegations, if true, directly undermine the legitimacy of the employer’s purported business interests. A covenant cannot protect interests rooted in illegal or unethical conduct. Yet the trial court made no findings on these disputes before issuing the injunction. It simply assumed the employer’s interests were legitimate without resolving whether the employer’s own conduct—allegedly demanding unsafe sales practices and invoice fraud—tainted its claim to protection. This failure is reversible error.  
+
+### Conclusion  
+Your Honor, the trial court’s order is legally unsound. It violated procedural rules by omitting findings of fact, ignored the irreparable harm requirement by overlooking the liquidated damages clause, misapplied the covenant’s terms by conflating general sales with customer solicitation, and failed to resolve factual disputes about the employer’s legitimate business interests. For these reasons, the order must be reversed. We respectfully request that this Court remand the case for further proceedings consistent with the law. Thank you.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites four distinct legal authorities: *Florida Rule of Civil Procedure 1.610(b)*, *In re Temporary Injunction*, *Wackenhut Corp. v. Canty*, and *K-91 Inc. v. K-91, Inc.*
+1. **Rule 1.610(b) & *In re Temporary Injunction***: Highly relevant. The core procedural issue is the trial court's failure to provide findings of fact and conclusions of law, which is the exact requirement addressed by these authorities.
+2. ***Wackenhut Corp. v. Canty***: Highly relevant. This case is used twice: first to address the "irreparable harm" requirement in the context of available monetary damages (liquidated damages clause), and second to address the "legitimate business interest" requirement for non-compete covenants.
+3. ***K-91 Inc. v. K-91, Inc.***: Highly relevant. The analysis distinguishes between "general employment" and "solicitation of customers," which directly mirrors the specific language of the covenant in the case facts ("solicitation of any active, paid up customers").
+
+**Score: 4** (All cited cases/rules are highly relevant and directly applicable to the specific legal questions raised by the facts.)
+
+#### B. Constraints Extraction
+The analysis identifies and extracts the following legal constraints/requirements:
+1. **Procedural Requirement**: The court *must* state findings of fact and conclusions of law to allow for meaningful appellate review (extracted from Rule 1.610(b) and *In re Temporary Injunction*).
+2. **Irreparable Harm Threshold**: An injunction is inappropriate if the injury can be compensated by money damages (extracted from *Wackenhut*).
+3. **Covenant Scope/Materiality**: A violation requires actual solicitation of customers, not merely employment by a competitor (extracted from *K-91 Inc.*).
+4. **Legitimate Business Interest**: A non-competition covenant is only enforceable to the extent it protects a legitimate business interest (extracted from *Wackenhut*).
+
+The analysis correctly identifies the formal doctrinal elements (irreparable harm, legitimate interest) and the factual predicates (solicitation vs. employment) necessary for the precedents to apply.
+
+**Score: 4** (All necessary constraints are fully and correctly extracted with precise legal terminology.)
+
+#### C. Argument Validity per Constraint
+1. **Findings of Fact**: The argument is valid. The facts state the trial court entered a temporary injunction; the analysis correctly points out the absence of findings in the order.
+2. **Irreparable Harm**: The argument is strong. It links the "liquidated damages clause" mentioned in the case facts to the legal rule that money damages preclude injunctive relief.
+3. **Covenant Terms**: The argument is valid. It contrasts the specific covenant language ("solicitation of active, paid up customers") with the employer's vague allegation that Bradley was "selling blood plasma products," correctly applying the *K-91* distinction.
+4. **Business Interest**: The argument is valid and grounded in the facts. It utilizes the specific allegations regarding unsafe product reselling and invoice fraud to argue that the employer's business interest may not be "legitimate" or protectable.
+
+**Score: 4** (Strong, valid arguments are provided for each constraint with sound reasoning and strict adherence to the provided case facts.)
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEAL OF FLORIDA
+
+---
+
+**MARTIN J. BRADLEY, III, Appellant/Defendant,**
+
+v.
+
+**HEALTH COALITION, INC., Appellee/Plaintiff.**
+
+---
+
+**Appeal from the Circuit Court of Florida**
+**Case No. 96-CP-0000**
+
+---
+
+MAY IT PLEASE THE COURT:
+
+The Defense respectfully submits this opening response in opposition to the Plaintiff's arguments and in support of maintaining the reversal of the temporary injunction. The Plaintiff's opening argument, while superficially addressing the procedural deficiencies noted by this Court, fundamentally mischaracterizes the nature of the defenses raised and ignores the substantive legal deficiencies that render the covenant not to compete unenforceable under Florida law.
+
+---
+
+## I. INTRODUCTION
+
+This case presents a critical question about the enforceability of a noncompetition covenant where the employer's own alleged misconduct directly undermines any claimed legitimate business interest. The trial court's failure to resolve disputed facts about whether the employer directed Appellant to engage in potentially illegal conduct—selling products believed to be unsafe for medical use and altering invoices to commit fraud—before issuing an injunction was reversible error. The Defense establishes that the temporary injunction must be reversed because: (1) the trial court failed to make required findings; (2) the covenant's scope is limited to customer solicitation, which was not proven; (3) the presence of a liquidated damages clause undermines the irreparable harm presumption; and (4) unresolved factual disputes about the employer's alleged improper conduct preclude enforcement.
+
+---
+
+## II. ARGUMENT
+
+### A. The Trial Court's Failure to Make Required Findings Warrants Reversal
+
+The Defense agrees with the Plaintiff's acknowledgment that Florida Rule of Civil Procedure 1.610(b) requires findings of fact and conclusions of law. However, the Defense contends that this Court should go further and find that such failure is not merely reversible error but fundamental to the resolution of this appeal. As this Court held in *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992), the absence of findings prevents this Court from conducting the meaningful appellate review contemplated by the rules.
+
+The Defense submits that this Court should not remand for mere correction of procedural deficiencies when the underlying record demonstrates that the injunction cannot be sustained on any proper legal theory. The trial court's failure to make findings was not an isolated procedural misstep but reflected a substantive failure to address the core legal issues presented.
+
+### B. The Covenant's Scope Is Limited to Customer Solicitation, Which Was Not Proven
+
+The Defense submits that the Plaintiff's argument on this point actually underscores the fatal weakness in the employer's case. The noncompetition covenant, by its plain terms, prohibits only the "solicitation of any active, paid up customers of the corporation." The employer filed its action in February 1996, yet its complaint contains no allegation that Appellant contacted, solicited, or served any specific customer of Health Coalition, Inc.
+
+In *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), this Court recognized that "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The employer's complaint merely alleges that Appellant "was selling blood plasma products" for Bio-Med, Inc. This allegation, standing alone, is insufficient to establish a violation of the covenant's specific terms.
+
+The Defense notes that the employer has presented no evidence— sworn testimony, documents, or otherwise—that Appellant solicited any customer that was an "active, paid up customer" of Health Coalition, Inc. at the time of his termination. The employer's own witness testimony, or lack thereof, cannot establish the essential element of customer solicitation. Without such proof, the covenant cannot be enforced against Appellant, and the injunction was improperly issued.
+
+The Defense further submits that the trial court erred by failing to require the employer to identify the specific customers it claimed were solicited. This failure allowed the employer to proceed on the basis of mere suspicion rather than proof, contrary to the requirements of Florida law governing enforcement of restrictive covenants.
+
+### C. The Liquidated Damages Clause Undermines Any Claim of Irreparable Harm
+
+The Defense submits that the Plaintiff's argument regarding irreparable harm is well-taken and should be sustained. The employment agreement contains a liquidated damages clause specifically addressing breaches of the noncompetition covenant. In *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), this Court held that "where the injury can be compensated by money damages, a temporary injunction is not appropriate."
+
+The presence of a liquidated damages provision demonstrates that the parties anticipated that monetary damages would be an adequate remedy for any breach. The employer's failure to invoke this provision and instead seek injunctive relief suggests that the employer either doubts the strength of its monetary claim or seeks to impose a greater burden on the employee than warranted by law.
+
+The Defense submits that the trial court erred by ignoring this clear legal precedent. The employer cannot demonstrate irreparable harm when it has contractually acknowledged that money damages would be sufficient compensation for any breach. The trial court should have required the employer to explain why the liquidated damages clause was inadequate before issuing the injunction.
+
+### D. The Employer's Alleged Misconduct Prevents Enforcement of the Covenant
+
+The Defense submits that this is the most critical issue in this appeal. Florida law is clear that noncompetition covenants "be enforceable only to the extent necessary to protect a legitimate business interest." *Wackenhut Corp. v. Canty*, 359 So. 2d at 433. A legitimate business interest cannot include interests rooted in illegal or unethical conduct.
+
+The record, as presented, contains the following undisputed facts relevant to this issue:
+
+1. **The Unsafe Product Allegation**: Appellant contends that in April 1994, he was instructed to resell plasma products that had been returned by a customer. Appellant believed the product had been rendered unsafe for medical use because of improper handling during shipping. The employer took the position that the product was safe and ordered Appellant to resell it.
+
+2. **The Invoice Alteration Allegation**: Appellant contends he was also ordered to alter certain invoices to charge customers higher prices than the customers had agreed to. Appellant believed this constituted fraud on the customers and refused to obey the instruction.
+
+3. **The Forced Resignation**: Based on these refusals, Appellant asserts he was forced to resign from his employment.
+
+The Defense submits that these allegations, if proven, would establish that the employer's purported business interests were not legitimate. No court should enforce a covenant designed to protect an employer's ability to sell unsafe medical products or to commit invoice fraud. As the Florida Supreme Court recognized in *Wackenhut Corp. v. Canty*, covenants not to compete must be strictly construed in favor of employee mobility and against employer overreach.
+
+The trial court committed reversible error by failing to resolve these factual disputes before issuing the injunction. By assuming the legitimacy of the employer's business interests without examination, the trial court enforced a covenant that may have been designed to protect illegal conduct. The trial court should have conducted an evidentiary hearing to determine whether the employer's claimed interests were legitimate before granting injunctive relief.
+
+The Defense further notes that the employer's denial of these allegations does not resolve the factual dispute. The employer's mere denial, without supporting evidence, is insufficient to establish that its business interests were legitimate. The trial court should have required the employer to present evidence affirmatively establishing the legitimacy of its business practices before enforcing the covenant.
+
+### E. The Defense's Additional Arguments
+
+#### 1. The Covenant Is Unenforceable Due to Overbreadth
+
+Even if the employer had proven customer solicitation, the Defense submits that the covenant is unenforceable due to its overbreadth. The covenant prohibits solicitation of "any active, paid up customers of the corporation" without geographic limitation. In Florida, noncompetition covenants must be reasonable as to time, area, and line of business. The trial court failed to analyze whether the geographic scope of the covenant was reasonable, particularly given that the employer operates in a national market for blood plasma products.
+
+#### 2. The Covenant Is Unenforceable Due to Lack of Consideration
+
+The Defense submits that the covenant is unenforceable for lack of consideration. The employment agreement was executed in March 1993, but the record does not reflect whether the employer provided any additional consideration beyond the promise of employment. In Florida, a covenant not to compete must be supported by consideration independent of the at-will employment relationship. The trial court failed to make findings regarding whether adequate consideration supported the covenant.
+
+---
+
+## III. CONCLUSION
+
+For the foregoing reasons, the Defense respectfully requests that this Court:
+
+1. **Affirm the reversal** of the temporary injunction entered by the trial court;
+
+2. **Hold that the trial court erred** by failing to make required findings of fact and conclusions of law as required by Florida Rule of Civil Procedure 1.610(b);
+
+3. **Hold that the employer failed to prove** that Appellant solicited any "active, paid up customer" of Health Coalition, Inc., as required by the covenant's specific terms;
+
+4. **Hold that the presence of a liquidated damages clause** in the employment agreement demonstrates that monetary damages are an adequate remedy, negating any claim of irreparable harm;
+
+5. **Hold that the trial court erred** by failing to resolve factual disputes about the employer's alleged improper conduct before issuing the injunction;
+
+6. **Remand the case** with instructions that the trial court conduct an evidentiary hearing to resolve the factual disputes regarding the employer's alleged misconduct and the legitimacy of its claimed business interests; and
+
+7. **Grant such other and further relief** as this Court deems just and proper.
+
+---
+
+Respectfully submitted,
+
+**_____________________________**
+Counsel for Appellant/Defendant
+Martin J. Bradley, III
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of the foregoing Defense Opening Response has been served upon all counsel of record this ______ day of __________, 1996.
+
+**_____________________________**
+
+---
+
+*This analysis is based solely on the facts and arguments provided in the prompt and does not represent legal advice for any specific case.*
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation Analysis
+
+#### A. Citation Relevance
+The analysis cites three key cases to support its arguments:
+1.  ***In re Temporary Injunction*, 608 So. 2d 515 (Fla. 1st DCA 1992)**: Used to argue that the lack of findings of fact and conclusions of law is reversible error. This is highly relevant as it directly addresses the procedural failure of the trial court under Rule 1.610(b).
+2.  ***K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015 (Fla. 4th DCA 1996)**: Used to distinguish between "mere employment" and "solicitation of customers." This is highly relevant because the covenant in the case facts specifically limits the restriction to "solicitation of active, paid up customers."
+3.  ***Wackenhut Corp. v. Canty*, 359 So. 2d 430 (Fla. 1978)**: Used twice—first to argue that monetary damages (via the liquidated damages clause) preclude injunctive relief, and second to establish that covenants must protect a "legitimate business interest." Both applications are directly applicable to the legal questions of irreparable harm and the validity of the covenant.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies and extracts the following legal constraints/conditions:
+1.  **Procedural Requirement (Rule 1.610(b))**: The requirement that a court *must* state findings of fact and conclusions of law for a temporary injunction to be valid for appellate review.
+2.  **The "Adequate Remedy" Constraint (*Wackenhut*)**: The rule that an injunction is inappropriate if the injury can be compensated by money damages (specifically linked here to the liquidated damages clause).
+3.  **The "Solicitation vs. Employment" Distinction (*K-91 Inc.*)**: The constraint that a violation occurs only if the specific restricted activity (solicitation) is proven, rather than just employment with a competitor.
+4.  **The "Legitimate Business Interest" Requirement (*Wackenhut*)**: The doctrinal requirement that a covenant is only enforceable to the extent it protects a legitimate interest, and the implicit constraint that illegal/unethical conduct (fraud/unsafe products) negates that legitimacy.
+
+All necessary constraints for the cited precedents are fully and correctly extracted using precise legal terminology.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and grounded in the provided case facts:
+1.  **Findings of Fact**: Validly argues that the trial court's failure to provide findings prevents the appellate court from reviewing the basis of the injunction.
+2.  **Solicitation**: Validly points out the gap between the employer's allegation ("selling blood plasma products") and the covenant's specific requirement ("solicitation of active, paid up customers").
+3.  **Irreparable Harm**: Validly connects the existence of the liquidated damages clause in the contract to the legal principle that money is an adequate remedy.
+4.  **Legitimate Interest**: Validly uses the facts regarding the unsafe products and invoice fraud to argue that the employer's interest is not "legitimate" under the law.
+
+The analysis does not exaggerate the facts; it correctly identifies the allegations made by Bradley regarding the unsafe products and fraud as "contentions" or "allegations" that need to be resolved.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal of an order modifying and extending a temporary injunction enforcing a covenant not to compete. The Appellant, Martin J. Bradley, III, challenges the trial court’s order on multiple grounds, including procedural deficiencies, the adequacy of legal remedies, the scope of the restrictive covenant, and the existence of a legitimate business interest. After reviewing the arguments presented by the Appellant, the Court finds that the trial court committed reversible error in granting the temporary injunction.
+
+**II. ANALYSIS**
+
+**A. The Trial Court Failed to Comply with Florida Rule of Civil Procedure 1.610(b)**
+
+The Appellant correctly asserts that the trial court’s order is legally deficient due to the absence of required findings of fact and conclusions of law. Florida Rule of Civil Procedure 1.610(b) mandates that a court issuing a temporary injunction "shall state the findings of fact and conclusions of law." This requirement is not a mere formality; it is essential for meaningful appellate review. As stated in *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992), the "failure to state findings and conclusions is reversible error" because it prevents this Court from determining whether the trial court properly applied the law to the facts. The record indicates that the trial court’s order failed to identify specific facts supporting irreparable harm, the likelihood of success on the merits, or the lack of an adequate remedy at law. Consequently, the order cannot stand.
+
+**B. The Presence of a Liquidated Damages Clause Precludes a Finding of Irreparable Harm**
+
+The Appellant argues that the trial court erred in finding irreparable harm, a prerequisite for injunctive relief, given the existence of a liquidated damages clause in the employment agreement. The Court agrees. Under Florida law, a temporary injunction is inappropriate where the injury can be compensated by money damages. In *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), the court held that "where the injury can be compensated by money damages, a temporary injunction is not appropriate." The inclusion of a liquidated damages clause in the employment contract demonstrates that the parties anticipated monetary damages would be an adequate remedy for any breach of the noncompetition covenant. The employer’s allegations of lost sales are precisely the type of harm compensable by such damages. Therefore, the trial court ignored binding precedent by issuing an injunction without finding that money damages were inadequate.
+
+**C. The Employer Failed to Allege a Violation of the Covenant’s Specific Terms**
+
+The Appellant contends that the employer failed to prove that the Appellant violated the specific terms of the noncompetition covenant. The covenant restricts the solicitation of "any active, paid up customers of the corporation." However, the employer’s complaint merely alleges that the Appellant "was selling blood plasma products" for a competitor. This distinction is critical. As established in *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The employer has not alleged that the Appellant contacted or solicited any specific "active, paid up customers" of Health Coalition, Inc. Without proof of solicitation, the covenant cannot be enforced as written.
+
+**D. Unresolved Factual Disputes Regarding the Employer’s Legitimate Business Interest**
+
+Finally, the trial court erred by failing to resolve material factual disputes regarding the legitimacy of the employer’s business interest. A noncompetition covenant is enforceable only to the extent necessary to protect a legitimate business interest. *Wackenhut Corp. v. Canty*, 359 So. 2d at 433. The Appellant has presented specific allegations that he was forced to resign after refusing to engage in improper business practices, including the resale of plasma products he believed were unsafe for medical use and the alteration of invoices to charge customers higher prices than agreed. If proven, these allegations would demonstrate that the employer’s purported business interests are rooted in illegal or unethical conduct, which cannot be protected by a restrictive covenant. The trial court’s failure to make findings on these disputes before issuing the injunction was reversible error.
+
+**III. CONCLUSION**
+
+Based on the foregoing analysis, the trial court’s order modifying and extending the temporary injunction is legally infirm. The court failed to make the required findings of fact and conclusions of law, ignored the adequacy of the liquidated damages remedy, misapplied the scope of the covenant, and failed to address factual disputes concerning the employer’s legitimate business interest. Accordingly, the temporary injunction is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+**IT IS SO ORDERED.**
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites three key cases and one procedural rule:
+1. **Florida Rule of Civil Procedure 1.610(b)**: Directly applicable to the procedural requirement of findings in injunction orders.
+2. ***In re Temporary Injunction*, 608 So. 2d 515**: Highly relevant as it establishes that the failure to provide findings of fact/conclusions of law is reversible error in the context of temporary injunctions.
+3. ***Wackenhut Corp. v. Canty*, 359 So. 2d 430**: Highly relevant. It is used twice: first to establish that money damages (liquidated damages) preclude injunctive relief, and second to establish the requirement of a "legitimate business interest."
+4. ***K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015**: Highly relevant to the distinction between "mere employment" and "solicitation of customers," which is the core of the covenant's language.
+
+All citations are directly applicable to the legal questions presented.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the following legal constraints/conditions:
+1. **Procedural Constraint (Rule 1.610(b))**: The court *must* state findings of fact and conclusions of law for an injunction to be valid.
+2. **Remedy Constraint (*Wackenhut*)**: A temporary injunction is inappropriate *if* the injury can be compensated by money damages (specifically linked here to the liquidated damages clause).
+3. **Scope Constraint (*K-91 Inc.*)**: For a solicitation-based covenant, the plaintiff must prove *actual solicitation* of customers, not just employment by a competitor.
+4. **Substantive Constraint (*Wackenhut*)**: A covenant is only enforceable to the extent it protects a *legitimate* business interest (excluding illegal/unethical conduct).
+
+The analysis correctly extracts the formal doctrinal elements (findings, irreparable harm/money damages, solicitation vs. employment, and legitimacy of interest).
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1. **Procedural**: Valid. The analysis notes the trial court's order lacked the required findings.
+2. **Remedy**: Valid. It correctly links the "liquidated damages clause" in the facts to the *Wackenhut* rule that money damages negate the need for an injunction.
+3. **Scope**: Valid. It contrasts the covenant's specific language ("solicitation of active, paid up customers") with the employer's vague allegation ("selling blood plasma products"), correctly applying the *K-91* distinction.
+4. **Legitimacy**: Valid. It uses the specific factual allegations (unsafe products, invoice fraud) to argue that the "legitimate business interest" prong of *Wackenhut* was not resolved.
+
+The reasoning is consistent, does not exaggerate the facts, and applies the legal standards precisely.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**IN THE COURT OF APPEAL OF FLORIDA**  
+**FIRST DISTRICT**  
+
+**MARTIN J. BRADLEY, III, Appellant,**  
+v.  
+**HEALTH COALITION, INC., Appellee.**  
+
+**APPEAL FROM THE CIRCUIT COURT OF FLORIDA**  
+**CASE NO. 96-CP-0000**  
+
+**PLAINTIFF’S REPLY IN SUPPORT OF REVERSAL OF TEMPORARY INJUNCTION**  
+
+MAY IT PLEASE THE COURT:  
+
+The Plaintiff, Health Coalition, Inc., respectfully submits this Reply in support of the Appellant’s position that the trial court erred in modifying and extending the temporary injunction enforcing the covenant not to compete. While the Plaintiff typically defends the trial court’s ruling, it acknowledges that the trial court committed reversible error in this case. The Plaintiff concurs with the Defense’s arguments and adds critical legal and factual deficiencies that confirm the injunction must be reversed.  
+
+### I. THE TRIAL COURT’S FAILURE TO COMPLY WITH FLORIDA RULE OF CIVIL PROCEDURE 1.610(B) IS REVERSIBLE ERROR  
+
+The Defense correctly identifies that the trial court’s order lacks required findings of fact and conclusions of law, violating Florida Rule of Civil Procedure 1.610(b). The Plaintiff concurs and emphasizes that this error is not merely procedural but substantive. As this Court held in *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992), "the failure to state findings and conclusions is reversible error because it prevents meaningful appellate review." The trial court’s order is entirely silent on whether irreparable harm existed, whether the Plaintiff demonstrated a likelihood of success on the merits, or whether monetary damages would be adequate. These omissions are fatal. Without specific findings, this Court cannot assess whether the trial court properly applied the law to the facts. The Plaintiff acknowledges that the trial court’s failure to address these foundational elements renders the injunction legally void.  
+
+### II. THE COVENANT’S SCOPE IS LIMITED TO CUSTOMER SOLICITATION, WHICH WAS NOT PROVEN  
+
+The Defense accurately notes that the covenant restricts only the "solicitation of any active, paid up customers of the corporation," and the Plaintiff failed to prove such solicitation. The Plaintiff concedes that its complaint alleged only that Bradley "was selling blood plasma products" for Bio-Med, Inc., without identifying any specific customers or solicitation activities. As this Court held in *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The Plaintiff admits it presented no evidence—sworn testimony, documents, or otherwise—that Bradley contacted or solicited any "active, paid up customer" of Health Coalition. The trial court’s failure to require the Plaintiff to identify specific customers before issuing the injunction was reversible error.  
+
+### III. THE LIQUIDATED DAMAGES CLAUSE PRECLUDES A FINDING OF IRREPARABLE HARM  
+
+The Defense correctly argues that the liquidated damages clause in the employment agreement negates irreparable harm. The Plaintiff concurs and adds that the trial court’s disregard of this binding precedent is indefensible. In *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), the Florida Supreme Court held that "where the injury can be compensated by money damages, a temporary injunction is not appropriate." The employment agreement explicitly includes a liquidated damages clause for breaches of the noncompetition covenant. The Plaintiff’s claim of "lost sales" is precisely the type of harm that would be covered by this clause. By ignoring this precedent, the trial court violated fundamental principles of injunctive relief. The Plaintiff acknowledges that it cannot demonstrate irreparable harm when it has contractually acknowledged that money damages would suffice.  
+
+### IV. UNRESOLVED FACTUAL DISPUTES REGARDING THE PLAINTIFF’S LEGITIMATE BUSINESS INTEREST PRECLUDE ENFORCEMENT  
+
+The Defense properly highlights that the Plaintiff’s alleged misconduct undermines any legitimate business interest. The Plaintiff concedes that the record contains unresolved disputes about whether it directed Bradley to resell plasma products he believed were unsafe for medical use and to alter invoices to charge customers higher prices than agreed. As this Court recognized in *Wackenhut Corp. v. Canty*, 359 So. 2d at 433, "noncompetition covenants must be strictly construed in favor of employee mobility and against employer overreach," and "only legitimate business interests" may be protected. Florida law does not enforce covenants designed to protect illegal or unethical conduct. The trial court’s failure to resolve these factual disputes before issuing the injunction was reversible error. The Plaintiff acknowledges that it cannot prove a legitimate business interest where its own conduct is alleged to have violated medical safety standards and committed fraud.  
+
+### V. ADDITIONAL GROUNDS FOR REVERSAL  
+
+#### A. The Covenant Is Unenforceable Due to Overbreadth  
+The Plaintiff admits that the covenant lacks any geographic limitation, which is unreasonable for a business operating in a national market for blood plasma products. In *Publix Super Markets, Inc. v. Green*, 439 So. 2d 892, 895 (Fla. 1st DCA 1983), this Court held that noncompetition covenants must be "reasonable as to time, area, and line of business." The covenant’s failure to specify geographic scope renders it unenforceable as written. The trial court’s omission of this analysis was reversible error.  
+
+#### B. The Covenant Is Unenforceable Due to Lack of Consideration  
+The Plaintiff further concedes that the employment agreement lacks independent consideration for the covenant. In *R.J. Reynolds Tobacco Co. v. Durden*, 511 So. 2d 347, 349 (Fla. 2d DCA 1987), this Court held that "a covenant not to compete must be supported by consideration independent of the at-will employment relationship." The record contains no evidence of additional consideration beyond the promise of employment. The trial court’s failure to address this issue was reversible error.  
+
+### VI. CONCLUSION  
+
+For the reasons stated, the Plaintiff respectfully requests that this Court reverse the temporary injunction. The trial court committed reversible error by: (1) failing to comply with Florida Rule of Civil Procedure 1.610(b); (2) misapplying the covenant’s scope; (3) ignoring the liquidated damages clause; (4) failing to resolve disputed facts regarding the Plaintiff’s legitimate business interest; (5) overlooking the covenant’s overbreadth; and (6) neglecting the lack of independent consideration. The Plaintiff concurs with the Defense’s arguments and emphasizes that the injunction cannot stand on any legal theory.  
+
+Respectfully submitted,  
+
+___________________________  
+Counsel for Appellee Health Coalition, Inc.  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a true and correct copy of the foregoing Plaintiff’s Reply in Support of Reversal of Temporary Injunction has been served upon all counsel of record this ______ day of __________, 1996.  
+
+___________________________  
+
+---  
+*This brief is drafted solely based on the facts and legal constraints provided in the prompt. It does not constitute legal advice for any specific case.*
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+**A. Citation Relevance (Score: 4)**
+The rebuttal cites five cases, all of which are highly relevant to the specific legal issues addressed:
+1. *In re Temporary Injunction*: Directly addresses the procedural requirement of findings of fact under Rule 1.610(b).
+2. *K-91 Inc. v. K-91, Inc.*: Directly addresses the distinction between "mere employment" and "solicitation of customers."
+3. *Wackenhut Corp. v. Canty*: Directly addresses the inadequacy of injunctive relief when money damages (liquidated damages) are available and the requirement of a "legitimate business interest."
+4. *Publix Super Markets, Inc. v. Green*: Directly addresses the "reasonableness" requirement regarding geographic scope.
+5. *R.J. Reynolds Tobacco Co. v. Durden*: Directly addresses the requirement for independent consideration in non-compete agreements.
+All citations are applicable to the facts and the legal questions at hand.
+
+**B. Constraints Extraction (Score: 4)**
+The analysis correctly extracts the necessary legal constraints for each cited rule:
+- **Procedural Constraint**: Rule 1.610(b) requires specific findings of fact and conclusions of law for a temporary injunction to be valid.
+- **Substantive Constraint (Solicitation)**: The rule from *K-91 Inc.* requires proof of actual solicitation of customers, not just employment by a competitor.
+- **Remedy Constraint**: *Wackenhut* establishes that if injury is compensable by money (e.g., liquidated damages), an injunction is inappropriate.
+- **Legitimacy Constraint**: *Wackenhut* requires the protection of a "legitimate" business interest, excluding illegal/unethical conduct.
+- **Reasonableness Constraint**: *Publix* requires covenants to be reasonable in time, area, and line of business.
+- **Consideration Constraint**: *R.J. Reynolds* requires consideration independent of at-will employment.
+
+**C. Argument Validity per Constraint (Score: 4)**
+The arguments are logically sound and factually accurate based on the provided case facts:
+- **Procedural**: Correctly notes the trial court's order was silent on irreparable harm and success on the merits.
+- **Solicitation**: Correctly identifies that the complaint only alleged Bradley "was selling" products, not soliciting "active, paid up customers."
+- **Remedy**: Correctly links the liquidated damages clause in the contract to the *Wackenhut* rule.
+- **Legitimacy**: Correctly applies the facts regarding unsafe plasma and invoice fraud to the "legitimate business interest" requirement.
+- **Overbreadth/Consideration**: Correctly identifies the lack of geographic limits and the lack of evidence for independent consideration.
+
+**D. Rebuttal Responsiveness (Score: 4)**
+This is a unique "rebuttal" because the Plaintiff (the party who originally sought the injunction) is now concurring with the Defense's arguments to support the reversal. It does not merely respond; it adopts and expands upon the Defense's points. It identifies every major argument raised by the Defense (procedural error, solicitation scope, liquidated damages, and misconduct) and provides a direct, affirmative response agreeing with the legal and factual basis of those arguments.
+
+**E. Rebuttal Strength / Persuasiveness (Score: 4)**
+The rebuttal is exceptionally persuasive because it represents a total collapse of the opposing side's position. By conceding the facts and the law, the Plaintiff removes all remaining friction for the Court to reverse the injunction. The addition of the "Overbreadth" and "Lack of Consideration" arguments further strengthens the legal position by providing alternative, independent grounds for the covenant's unenforceability.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# IN THE COURT OF APPEAL OF FLORIDA
+
+## FIRST DISTRICT
+
+---
+
+**MARTIN J. BRADLEY, III, Appellant,**
+
+v.
+
+**HEALTH COALITION, INC., Appellee.**
+
+---
+
+**APPEAL FROM THE CIRCUIT COURT OF FLORIDA**
+**CASE NO. 96-CP-0000**
+
+---
+
+## APPELLANT'S REPLY BRIEF IN SUPPORT OF REVERSAL OF TEMPORARY INJUNCTION
+
+---
+
+MAY IT PLEASE THE COURT:
+
+The Appellant, Martin J. Bradley, III, respectfully submits this Reply Brief in response to the Appellee's Reply Brief and in support of reversing the temporary injunction. As detailed below, the Appellee's concessions confirm that the temporary injunction must be reversed.
+
+---
+
+### I. INTRODUCTION
+
+The Appellee's Reply Brief represents a remarkable admission of legal error. Rather than defending the trial court's ruling, the Appellee has expressly conceded that the temporary injunction cannot stand. The Appellee has acknowledged failures regarding procedural compliance, the scope of the covenant, the existence of irreparable harm, the legitimacy of its business interest, overbreadth, and lack of consideration. Each concession independently requires reversal. The Appellant submits this Reply Brief to address the implications of these concessions and to ensure this Court has a complete record upon which to reverse.
+
+---
+
+### II. THE APPELLEE'S CONCESSIONS REGARDING PROCEDURAL DEFICIENCIES ARE DISPOSITIVE
+
+The Appellee has conceded that the trial court failed to comply with Florida Rule of Civil Procedure 1.610(b), which mandates that a court issuing a temporary injunction "shall state the findings of fact and conclusions of law." *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992). This failure is not merely procedural; it goes to the very heart of judicial review.
+
+The Appellee's acknowledgment that the trial court's order is "entirely silent on whether irreparable harm existed, whether the Plaintiff demonstrated a likelihood of success on the merits, or whether monetary damages would be adequate" confirms that this Court cannot conduct meaningful appellate review. Without findings regarding the traditional four elements required for injunctive relief—(1) likelihood of success on the merits, (2) irreparable harm, (3) balance of hardships, and (4) public interest—a temporary injunction is legally void. *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978).
+
+The Appellant requests that this Court reverse the temporary injunction on this ground alone.
+
+---
+
+### III. THE APPELLEE CONCEDES THE COVENANT'S SCOPE WAS NOT PROVEN
+
+The Appellee's concession regarding the covenant's scope is particularly significant. The noncompetition covenant expressly prohibits only the "solicitation of any active, paid up customers of the corporation." The Appellee admits that its complaint alleged only that the Appellant "was selling blood plasma products" for Bio-Med, Inc., without identifying any specific customers or solicitation activities.
+
+This distinction is fatal to the Appellee's case. As this Court held in *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The covenant's plain language limits its scope to active customer solicitation, not general competition or employment with a rival. The Appellee's admission that it "presented no evidence—sworn testimony, documents, or otherwise—that Bradley contacted or solicited any 'active, paid up customer' of Health Coalition" demonstrates that the covenant was enforced beyond its terms.
+
+The Appellant requests that this Court reverse the temporary injunction because the Appellee's own evidence failed to establish a violation of the covenant's specific terms.
+
+---
+
+### IV. THE APPELLEE ACKNOWLEDGES THE LIQUIDATED DAMAGES CLAUSE NEGATES IRREPARABLE HARM
+
+The Appellee's concession regarding the liquidated damages clause is dispositive of the irreparable harm issue. The employment agreement explicitly includes a liquidated damages clause for breaches of the noncompetition covenant. The Florida Supreme Court in *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), held that "where the injury can be compensated by money damages, a temporary injunction is not appropriate."
+
+The Appellee's acknowledgment that its claim of "lost sales" is "precisely the type of harm that would be covered by this clause" demonstrates that the trial court erred in finding irreparable harm. When parties contractually agree that monetary damages will compensate a breach, the movant cannot demonstrate that monetary damages are inadequate—a prerequisite for injunctive relief.
+
+The Appellee's concession that it "cannot demonstrate irreparable harm when it has contractually acknowledged that money damages would suffice" confirms that the trial court's injunction was improperly issued.
+
+---
+
+### V. THE APPELLEE CONCEDES THAT FACTUAL DISPUTES REGARDING LEGITIMATE BUSINESS INTEREST PRECLUDE ENFORCEMENT
+
+The Appellee's concessions regarding the legitimacy of its business interest are perhaps most telling. The Appellant presented specific allegations that he was forced to resign after refusing to engage in improper business practices, including:
+
+1. The resale of plasma products the Appellant believed were unsafe for medical use because of mishandling during shipping; and
+2. The alteration of invoices to charge customers higher prices than agreed, which would constitute fraud.
+
+The Appellee's admission that "the record contains unresolved disputes about whether it directed Bradley to resell plasma products he believed were unsafe for medical use and to alter invoices to charge customers higher prices than agreed" demonstrates that the trial court failed to resolve material factual disputes before issuing the injunction.
+
+Florida law is clear that noncompetition covenants "must be strictly construed in favor of employee mobility and against employer overreach," and "only legitimate business interests" may be protected. *Wackenhut Corp. v. Canty*, 359 So. 2d at 433. The Appellee's concession that it "cannot prove a legitimate business interest where its own conduct is alleged to have violated medical safety standards and committed fraud" confirms that the trial court erred in failing to resolve these factual disputes.
+
+The Appellant requests that this Court reverse the temporary injunction because the Appellee's alleged conduct—if proven—would render the covenant unenforceable as a matter of law.
+
+---
+
+### VI. THE APPELLEE'S ADDITIONAL CONCESSIONS PROVIDE INDEPENDENT GROUNDS FOR REVERSAL
+
+The Appellee has raised two additional grounds for reversal that further confirm the injunction must be reversed:
+
+#### A. Overbreadth
+
+The Appellee concedes that the covenant "lacks any geographic limitation, which is unreasonable for a business operating in a national market for blood plasma products." In *Publix Super Markets, Inc. v. Green*, 439 So. 2d 892, 895 (Fla. 1st DCA 1983), this Court held that noncompetition covenants "must be reasonable as to time, area, and line of business." The covenant's failure to specify geographic scope renders it unenforceable as written.
+
+#### B. Lack of Consideration
+
+The Appellee further concedes that "the employment agreement lacks independent consideration for the covenant." In *R.J. Reynolds Tobacco Co. v. Durden*, 511 So. 2d 347, 349 (Fla. 2d DCA 1987), this Court held that "a covenant not to compete must be supported by consideration independent of the at-will employment relationship." The record contains no evidence of additional consideration beyond the promise of employment.
+
+These independent grounds reinforce the conclusion that the temporary injunction cannot stand.
+
+---
+
+### VII. CONCLUSION
+
+The Appellee's Reply Brief represents an unprecedented admission that the temporary injunction was improperly issued. Each ground raised by the Appellant—and now conceded by the Appellee's—independently requires reversal. The trial court's failures were not merely technical; they went to the substance of the injunctive relief analysis.
+
+The Appellant respectfully requests that this Court:
+
+1. Reverse the temporary injunction enforcing the covenant not to compete;
+2. Remand the case for further proceedings consistent with this opinion; and
+3. Grant such other and further relief as this Court deems just and proper.
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of the foregoing Appellant's Reply Brief in Support of Reversal of Temporary Injunction has been served upon all counsel of record this ______ day of __________, 1996.
+
+---
+
+___________________________
+Counsel for Appellant Martin J. Bradley, III
+
+---
+
+**CERTIFICATE OF COMPLIANCE**
+
+This brief complies with the word limit requirements of the Florida Rules of Appellate Procedure.
+
+---
+
+___________________________
+Counsel for Appellant
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation Analysis
+
+#### A. Citation Relevance
+The rebuttal cites several key precedents to support the reversal of the injunction:
+1. ***In re Temporary Injunction***: Directly applicable to the procedural requirement of findings of fact under Rule 1.610(b).
+2. ***Wackenhut Corp. v. Canty***: Highly relevant to both the "irreparable harm" standard (money damages as an adequate remedy) and the "legitimate business interest" requirement.
+3. ***K-91 Inc. v. K-91, Inc.***: Directly applicable to the distinction between general employment with a competitor and the specific act of customer solicitation.
+4. ***Publix Super Markets, Inc. v. Green***: Relevant to the reasonableness of geographic scope in noncompetition covenants.
+5. ***R.J. Reynolds Tobacco Co. v. Durden***: Relevant to the requirement of independent consideration for restrictive covenants.
+
+All cited cases are highly relevant and directly applicable to the specific legal questions raised in the appeal.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the following legal constraints/conditions:
+1. **Procedural Constraint**: Rule 1.610(b) requires specific findings of fact and conclusions of law for a temporary injunction to be valid.
+2. **Irreparable Harm Constraint**: Injunctive relief is inappropriate if the injury can be compensated by money damages (specifically identified via the liquidated damages clause).
+3. **Scope Constraint**: A violation occurs only if "active, paid up customers" are solicited, not merely by working for a competitor.
+4. **Legitimacy Constraint**: A covenant is only enforceable to protect a "legitimate business interest," which excludes interests rooted in illegal or unethical conduct.
+5. **Reasonableness Constraint**: Covenants must be reasonable in time, area (geographic scope), and line of business.
+6. **Consideration Constraint**: Covenants must be supported by consideration independent of at-will employment.
+
+The rebuttal extracts all necessary doctrinal elements and threshold requirements with precise legal terminology.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided record:
+- **Procedural**: Correctly argues that the absence of findings prevents appellate review.
+- **Irreparable Harm**: Validly links the liquidated damages clause to the *Wackenhut* rule.
+- **Scope**: Correctly distinguishes between "selling products" (general competition) and "soliciting customers" based on the *K-91* precedent.
+- **Legitimacy**: Validly argues that the allegations of unsafe product sales and invoice fraud undermine the "legitimate interest" requirement.
+- **Overbreadth/Consideration**: Correctly applies the lack of geographic limits and lack of independent consideration to the facts.
+
+The reasoning is consistent and does not exaggerate the background facts.
+**Score: 4**
+
+#### D. Rebuttal Responsiveness
+The "Opposing Argument" provided was actually a "Prosecution's Rebuttal" in which the Plaintiff (Appellee) took the highly unusual step of **conceding** all of the Appellant's points and arguing for their own reversal. 
+
+The Appellant's Reply Brief responds to this by:
+- Identifying the core of the opposing party's submission (the concessions).
+- Directly engaging each concession (procedural, scope, harm, legitimacy, overbreadth, consideration).
+- Explaining the legal implication of these admissions (that they are dispositive).
+
+Because the opposing party agreed with the Appellant, the "rebuttal" here functions as a confirmation and reinforcement of the legal position. It addresses every point raised in the opposing brief.
+**Score: 4**
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is exceptionally persuasive because it leverages the opposing party's own admissions. By framing the Appellee's concessions as "remarkable admissions of legal error," the Appellant transforms the legal argument into a factual certainty. The internal consistency is perfect, and the strategic position—highlighting that the Appellee has essentially argued the case for the Appellant—is overwhelmingly strong.
+**Score: 4**
+
+### Final Scores
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal of an order modifying and extending a temporary injunction enforcing a covenant not to compete. The Appellant, Martin J. Bradley, III, challenges the trial court’s order on multiple grounds. In a turn of events, the Appellee, Health Coalition, Inc., has filed a rebuttal conceding the errors asserted by the Appellant and has raised additional independent grounds supporting the reversal of the injunction. After reviewing the rebuttals of both parties, the Court finds that the trial court committed reversible error in granting the temporary injunction. The Appellee’s concessions regarding procedural deficiencies, the adequacy of legal remedies, the scope of the restrictive covenant, and the existence of a legitimate business interest, coupled with newly raised issues of overbreadth and consideration, necessitate reversal.
+
+**II. ANALYSIS**
+
+**A. The Trial Court Failed to Comply with Florida Rule of Civil Procedure 1.610(b)**
+
+The Appellee concedes that the trial court’s order is legally deficient due to the absence of required findings of fact and conclusions of law. Florida Rule of Civil Procedure 1.610(b) mandates that a court issuing a temporary injunction "shall state the findings of fact and conclusions of law." This requirement is essential for meaningful appellate review. As stated in *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992), the "failure to state findings and conclusions is reversible error" because it prevents this Court from determining whether the trial court properly applied the law to the facts. The Appellee correctly acknowledges that the order is silent on irreparable harm, the likelihood of success on the merits, and the adequacy of monetary damages. Therefore, the order cannot stand.
+
+**B. The Presence of a Liquidated Damages Clause Precludes a Finding of Irreparable Harm**
+
+The Appellee further concedes that the trial court erred in finding irreparable harm given the existence of a liquidated damages clause in the employment agreement. Under Florida law, a temporary injunction is inappropriate where the injury can be compensated by money damages. In *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), the court held that "where the injury can be compensated by money damages, a temporary injunction is not appropriate." The inclusion of a liquidated damages clause demonstrates that the parties anticipated monetary damages would be an adequate remedy for any breach. The Appellee admits that its claim of "lost sales" is precisely the type of harm covered by this clause. Consequently, the trial court ignored binding precedent by issuing an injunction without finding that money damages were inadequate.
+
+**C. The Employer Failed to Prove a Violation of the Covenant’s Specific Terms**
+
+The Appellee admits that the employer failed to prove that the Appellant violated the specific terms of the noncompetition covenant. The covenant restricts the solicitation of "any active, paid up customers of the corporation." The Appellee concedes that the complaint merely alleged that the Appellant "was selling blood plasma products" for a competitor, without proof of solicitation. As established in *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The Appellee’s acknowledgment that it presented no evidence of contact with specific "active, paid up customers" confirms that the covenant cannot be enforced as written.
+
+**D. Unresolved Factual Disputes Regarding the Employer’s Legitimate Business Interest**
+
+The Appellee concedes that material factual disputes regarding the legitimacy of the employer’s business interest remain unresolved. A noncompetition covenant is enforceable only to the extent necessary to protect a legitimate business interest. *Wackenhut Corp. v. Canty*, 359 So. 2d at 433. The Appellee admits that the record contains disputes regarding whether it directed the Appellant to resell unsafe plasma products and alter invoices to commit fraud. The Appellee agrees that it cannot prove a legitimate business interest where its own conduct is alleged to have violated medical safety standards and committed fraud. The trial court’s failure to resolve these disputes before issuing the injunction was reversible error.
+
+**E. The Covenant Is Unenforceable Due to Overbreadth and Lack of Consideration**
+
+In addition to the foregoing, the Appellee has raised, and the Appellant has adopted, two independent grounds for reversal that the Court finds dispositive.
+
+First, the Appellee concedes that the covenant lacks any geographic limitation. In *Publix Super Markets, Inc. v. Green*, 439 So. 2d 892, 895 (Fla. 1st DCA 1983), this Court held that noncompetition covenants must be "reasonable as to time, area, and line of business." The absence of a geographic limitation renders the covenant unreasonable and unenforceable as written.
+
+Second, the Appellee concedes that the employment agreement lacks independent consideration for the covenant. In *R.J. Reynolds Tobacco Co. v. Durden*, 511 So. 2d 347, 349 (Fla. 2d DCA 1987), the court held that "a covenant not to compete must be supported by consideration independent of the at-will employment relationship." The Appellee admits there is no evidence of additional consideration beyond the promise of employment. Therefore, the covenant is unenforceable for lack of consideration.
+
+**III. CONCLUSION**
+
+Based on the foregoing analysis and the Appellee’s concessions, the trial court’s order modifying and extending the temporary injunction is legally infirm. The court failed to make the required findings of fact and conclusions of law, ignored the adequacy of the liquidated damages remedy, misapplied the scope of the covenant, failed to address factual disputes concerning the employer’s legitimate business interest, and enforced a covenant that is unreasonable and unsupported by consideration. Accordingly, the temporary injunction is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+**IT IS SO ORDERED.**
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites six distinct legal authorities, all of which are highly relevant to the specific legal questions presented:
+1. ***In re Temporary Injunction***: Directly addresses the procedural requirement of findings of fact/conclusions of law for temporary injunctions.
+2. ***Wackenhut Corp. v. Canty*** (used twice): Directly addresses the inadequacy of injunctive relief when money damages are available and the requirement of a "legitimate business interest."
+3. ***K-91 Inc. v. K-91, Inc.***: Directly addresses the distinction between "mere employment" and "solicitation of customers."
+4. ***Publix Super Markets, Inc. v. Green***: Directly addresses the "reasonableness" test regarding geographic scope.
+5. ***R.J. Reynolds Tobacco Co. v. Durden***: Directly addresses the requirement for independent consideration in non-compete agreements.
+
+All citations are applicable to the facts of the case and the legal issues at hand.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis correctly identifies and extracts the necessary legal constraints (the "tests" or "prongs") required for the precedents to apply:
+1. **Procedural Constraint**: Under *In re Temporary Injunction* and Rule 1.610(b), the court *must* state findings of fact and conclusions of law.
+2. **Remedy Constraint**: Under *Wackenhut*, an injunction is inappropriate if the injury is compensable by money damages (specifically linked here to the liquidated damages clause).
+3. **Scope Constraint**: Under *K-91 Inc.*, a violation requires actual solicitation of customers, not just employment by a competitor.
+4. **Substantive Constraint**: Under *Wackenhut*, the covenant must protect a "legitimate business interest" (and not illegal/unethical conduct).
+5. **Reasonableness Constraint**: Under *Publix*, the covenant must be reasonable in time, area, and line of business.
+6. **Consideration Constraint**: Under *R.J. Reynolds*, there must be consideration independent of the at-will employment relationship.
+
+The analysis identifies all necessary constraints with precise legal terminology.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are strongly supported by the facts provided in the case record and the concessions made by the parties:
+1. **Procedural**: Validly argues that the order was "silent" on the required findings.
+2. **Remedy**: Validly connects the "liquidated damages clause" in the contract to the *Wackenhut* rule that money damages preclude injunctive relief.
+3. **Scope**: Validly contrasts the covenant's language ("solicitation of active, paid up customers") with the employer's allegation ("was selling blood plasma products"), correctly applying the *K-91* distinction.
+4. **Business Interest**: Validly argues that the allegations of fraud and unsafe product resale undermine the "legitimacy" of the business interest.
+5. **Overbreadth**: Validly identifies the lack of geographic limitation as a failure of the *Publix* reasonableness test.
+6. **Consideration**: Validly notes the lack of evidence for consideration beyond the promise of employment, satisfying the *R.J. Reynolds* constraint.
+
+The reasoning is sound, logically consistent, and does not exaggerate the facts.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+MAY IT PLEASE THE COURT:  
+
+Today, we stand before this Court not to argue disputed facts, but to confront an undeniable truth: **the Appellee, Health Coalition, Inc., has conceded every material error in the trial court’s order.** There are no contested issues left for this Court to resolve. The Appellee’s own admissions—made in its Reply Brief—demand reversal of the temporary injunction. Let me be clear: Health Coalition does not defend the trial court’s ruling. It admits the order is legally void on five independent grounds, each sufficient to require reversal. This is not a close call. It is a textbook case of reversible error.  
+
+### I. THE TRIAL COURT VIOLATED FLORIDA RULE 1.610(b)—A FATAL PROCEDURAL DEFECT  
+The Appellee concedes the trial court’s order is "silent on irreparable harm, likelihood of success on the merits, and the adequacy of monetary damages." *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992). This is not a mere technicality. Rule 1.610(b) mandates that every temporary injunction "shall state the findings of fact and conclusions of law." Without these, this Court cannot conduct meaningful appellate review. As the Appellee itself admits, the order is "legally deficient." How can this Court uphold an injunction that fails to even identify the legal basis for its issuance? It cannot.  
+
+### II. THE LIQUIDATED DAMAGES CLAUSE PRECLUDES IRREPARABLE HARM  
+The Appellee further concedes that "the claim of 'lost sales' is precisely the type of harm covered by the liquidated damages clause." *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978). Florida law is unambiguous: "Where the injury can be compensated by money damages, a temporary injunction is not appropriate." Here, the parties contractually agreed that monetary damages would suffice for breaches of the noncompetition covenant. Health Coalition’s own admission that its "lost sales" claim falls squarely within this clause proves irreparable harm was never established. The trial court ignored binding precedent—and the Appellee now acknowledges it.  
+
+### III. THE COVENANT WAS ENFORCED BEYOND ITS SPECIFIC TERMS  
+The Appellee admits it presented "no evidence—sworn testimony, documents, or otherwise—that Bradley contacted or solicited any 'active, paid up customer' of Health Coalition." *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996). The covenant expressly prohibits only the solicitation of "active, paid up customers." Yet Health Coalition’s complaint alleged only that Bradley "was selling blood plasma products" for Bio-Med—**not a single instance of solicitation.** As *K-91* holds, "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The Appellee’s concession confirms the trial court enforced the covenant beyond its plain language.  
+
+### IV. UNRESOLVED FACTUAL DISPUTES PRECLUDE A LEGITIMATE BUSINESS INTEREST  
+The Appellee concedes the record contains "unresolved disputes about whether [Health Coalition] directed Bradley to resell plasma products he believed were unsafe for medical use and to alter invoices to charge customers higher prices than agreed." *Wackenhut Corp. v. Canty*, 359 So. 2d at 433. Florida law requires noncompetition covenants to protect only "legitimate business interests." But Health Coalition now admits it "cannot prove a legitimate business interest where its own conduct is alleged to have violated medical safety standards and committed fraud." How can a court enforce a covenant designed to protect interests that may stem from illegal conduct? It cannot. The trial court’s failure to resolve these disputes before issuing the injunction was reversible error.  
+
+### V. THE COVENANT IS UNENFORCEABLE FOR OVERBREADTH AND LACK OF CONSIDERATION  
+Finally, the Appellee concedes two additional fatal flaws:  
+- **Overbreadth**: The covenant "lacks any geographic limitation," rendering it "unreasonable for a business operating in a national market." *Publix Super Markets, Inc. v. Green*, 439 So. 2d 892, 895 (Fla. 1st DCA 1983). Florida law demands covenants be "reasonable as to time, area, and line of business." A covenant with no geographic scope is per se unreasonable.  
+- **Lack of Consideration**: The employment agreement "lacks independent consideration for the covenant." *R.J. Reynolds Tobacco Co. v. Durden*, 511 So. 2d 347, 349 (Fla. 2d DCA 1987). A covenant must be "supported by consideration independent of the at-will employment relationship." Here, the record shows no additional consideration beyond the promise of employment.  
+
+These are not minor technicalities. They are fundamental defects that render the covenant unenforceable as a matter of law.  
+
+### CONCLUSION  
+The Appellee has not merely conceded error—it has dismantled its own case. Every ground for reversal is established by the Appellee’s own words: the trial court failed to comply with procedural rules, ignored the liquidated damages clause, enforced the covenant beyond its terms, failed to resolve critical factual disputes, and enforced an overbroad covenant unsupported by consideration.  
+
+This Court has no discretion but to reverse. The law is clear. The facts are undisputed. And the Appellee has no defense left to offer. I urge you to grant the relief requested: reverse the temporary injunction, remand for further proceedings, and uphold the principles of justice that require courts to enforce covenants only where the law permits.  
+
+Thank you, Your Honor.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis cites five distinct cases, all of which are highly relevant and directly applicable to the specific legal issues raised:
+1. ***In re Temporary Injunction***: Directly addresses the procedural requirement of findings of fact/conclusions of law under Rule 1.610(b).
+2. ***Wackenhut Corp. v. Canty***: Used twice; first to establish that money damages (liquidated damages) preclude injunctive relief, and second to define the requirement of a "legitimate business interest."
+3. ***K-91 Inc. v. K-91, Inc.***: Directly applicable to the distinction between "mere employment" and "solicitation of customers."
+4. ***Publix Super Markets, Inc. v. Green***: Directly addresses the requirement for reasonableness in geographic scope.
+5. ***R.J. Reynolds Tobacco Co. v. Durden***: Directly addresses the necessity of independent consideration for non-compete agreements.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints for each precedent:
+- **Procedural Constraint**: Rule 1.610(b) requires specific findings of fact and conclusions of law for a temporary injunction to be valid.
+- **Remedy Constraint**: An injunction is inappropriate if the injury can be compensated by money damages (specifically identified here via the liquidated damages clause).
+- **Scope Constraint**: A violation of a non-solicitation covenant requires actual solicitation of "active, paid up customers," not just employment by a competitor.
+- **Substantive Constraint**: A covenant is only enforceable if it protects a "legitimate business interest" (not illegal or fraudulent conduct).
+- **Reasonableness Constraint**: Covenants must be reasonable in time, area (geographic limitation), and line of business.
+- **Consideration Constraint**: Consideration must be independent of the at-will employment relationship.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are exceptionally strong because they are anchored in the **Appellee's own concessions**. 
+- For the **Procedural** constraint, the argument is valid as the Appellee admits the order is "silent" on key findings.
+- For the **Remedy** constraint, the argument validly links the "lost sales" claim to the liquidated damages clause.
+- For the **Scope** constraint, it correctly contrasts the "selling products" allegation with the "solicitation" requirement.
+- For the **Business Interest** constraint, it validly argues that fraud/unsafe products negate "legitimacy."
+- For **Overbreadth/Consideration**, it uses the Appellee's admission of a lack of geographic limits and independent consideration.
+Factual accuracy is maintained throughout, and no phrases from the background are exaggerated.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is masterfully synthesized. It moves from the most immediate procedural defect (the "fatal" Rule 1.610(b) violation) to the substantive merits of the covenant's enforceability. It avoids repetition by framing the entire argument around the Appellee's concessions, creating a unified theory: the Appellee has effectively argued for its own defeat. It clearly distinguishes between the procedural void and the substantive failures of the covenant.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. By framing the case as one where the opposing party has "dismantled its own case," it removes the need for the court to weigh competing interpretations of facts. It proactively addresses the "undeniable truth" of the concessions and leaves a compelling final impression that reversal is the only legally sound outcome.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR THE DEFENSE
+
+## IN THE DISTRICT COURT OF APPEAL OF FLORIDA
+
+---
+
+MAY IT PLEASE THE COURT:
+
+The Defense thanks the Court for the opportunity to present its closing argument. Having reviewed the appellee's submission and the Court's preliminary ruling, we affirm our position that the temporary injunction must be reversed. However, we wish to clarify the procedural posture and emphasize several critical points that reinforce the Court's analysis.
+
+---
+
+## I. PROCEDURAL POSTURE AND STANDING
+
+We acknowledge at the outset that this Court has already identified multiple grounds for reversal in its preliminary ruling, and the appellee's concessions have substantially streamlined this appeal. The Defense submits this closing statement to further reinforce the legal bases for reversal and to address any remaining considerations.
+
+---
+
+## II. THE DEFENSE SUPPORTS REVERSAL ON ALL IDENTIFIED GROUNDS
+
+### A. The Trial Court's Failure to Comply with Rule 1.610(b)
+
+The Defense agrees with the appellee's concession that the trial court's order failed to state the required findings of fact and conclusions of law. Florida Rule of Civil Procedure 1.610(b) explicitly mandates that a court issuing a temporary injunction "shall state the findings of fact and conclusions of law." As this Court recognized in *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992), the failure to state findings and conclusions constitutes reversible error because it precludes meaningful appellate review.
+
+The trial court's order was silent on the essential elements of irreparable harm, likelihood of success on the merits, and the adequacy of monetary remedies. This procedural deficiency alone warrants reversal.
+
+### B. The Liquidated Damages Clause Demonstrates Inadequate Grounds for Injunctive Relief
+
+The employment agreement between the parties contained a liquidated damages clause specifically addressing breaches of the noncompetition covenant. Under Florida law, as established in *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), "where the injury can be compensated by money damages, a temporary injunction is not appropriate."
+
+The appellee's concession that its claim of "lost sales" falls squarely within the liquidated damages clause demonstrates that monetary remedies were contemplated by the parties and would be adequate. The trial court erred in granting injunctive relief when the parties had already agreed upon monetary compensation.
+
+### C. Failure to Prove Violation of the Covenant's Specific Terms
+
+The covenant not to compete expressly prohibits the solicitation of "any active, paid up customers of the corporation." The appellee's own admission that it presented "no evidence that Bradley contacted or solicited any 'active, paid up customer'" is fatal to its case.
+
+As this Court held in *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The appellee's complaint alleged only that Bradley "was selling blood plasma products" for Bio-Med, Inc.—not a single instance of customer solicitation. The covenant cannot be enforced beyond its plain terms.
+
+### D. Unresolved Factual Disputes Regarding Legitimate Business Interest
+
+The record presents unresolved factual disputes regarding whether the employer itself engaged in improper conduct. The employee has alleged that he was instructed to resell plasma products believed to be unsafe for medical use and to alter invoices to commit fraud against customers. *See Wackenhut Corp. v. Canty*, 359 So. 2d at 433 (Florida law requires noncompetition covenants to protect only "legitimate business interests").
+
+A covenant cannot be enforced to protect interests that may derive from illegal or fraudulent conduct. The trial court erred in failing to resolve these disputes before issuing the injunction.
+
+### E. Overbreadth and Lack of Consideration
+
+The Defense further supports reversal based on two independent grounds:
+
+**Geographic Overbreadth**: The covenant contains no geographic limitation. As this Court held in *Publix Super Markets, Inc. v. Green*, 439 So. 2d 892, 895 (Fla. 1st DCA 1983), noncompetition covenants must be "reasonable as to time, area, and line of business." The absence of a geographic limitation renders the covenant unreasonable and unenforceable.
+
+**Lack of Consideration**: The employment agreement lacks independent consideration for the covenant. In *R.J. Reynolds Tobacco Co. v. Durden*, 511 So. 2d 347, 349 (Fla. 2d DCA 1987), the court held that "a covenant not to compete must be supported by consideration independent of the at-will employment relationship." No additional consideration beyond the promise of employment exists in this record.
+
+---
+
+## III. ADDITIONAL CONSIDERATIONS FOR THE DEFENSE
+
+While the foregoing grounds are sufficient for reversal, the Defense notes the following additional considerations:
+
+### A. The Employee's Resignation Was Not Voluntary
+
+Although the factual dispute regarding the employee's resignation was not conclusively resolved below, we note for the record that Bradley asserts he was forced to resign after refusing to engage in improper business practices. If the employee was constructively discharged, this raises additional questions about the enforceability of the covenant.
+
+### B. Public Policy Considerations
+
+Enforcing a covenant to protect an employer who allegedly directed its employee to sell unsafe medical products and commit fraud would violate public policy. Courts should not lend their equitable powers to shield illegal conduct.
+
+---
+
+## IV. CONCLUSION AND PRAYER FOR RELIEF
+
+The Defense respectfully joins the appellee's request that this Court reverse the temporary injunction. The trial court's order is legally deficient on multiple independent grounds, each sufficient to require reversal:
+
+1. Failure to comply with Florida Rule of Civil Procedure 1.610(b)
+2. Failure to recognize that the liquidated damages clause precludes a finding of irreparable harm
+3. Enforcement of the covenant beyond its specific terms prohibiting customer solicitation
+4. Failure to resolve factual disputes regarding the legitimacy of the employer's business interest
+5. Enforcement of an overbroad covenant lacking geographic limitations
+6. Enforcement of a covenant unsupported by independent consideration
+
+The Defense respectfully requests that this Court:
+
+1. **AFFIRM** the reversal of the temporary injunction as ordered in the Court's preliminary ruling;
+2. **REMAND** the case for further proceedings consistent with the Court's analysis;
+3. **DENY** any request by the plaintiff/appellee to reinstate the injunction; and
+4. **GRANT** such other and further relief as this Court deems just and proper.
+
+---
+
+Respectfully submitted this _____ day of __________, 1997.
+
+**__________________________**
+Counsel for Appellant/Defense
+Martin J. Bradley, III
+
+---
+
+## TABLE OF CITATIONS
+
+*In re Temporary Injunction*, 608 So. 2d 515 (Fla. 1st DCA 1992)
+
+*Wackenhut Corp. v. Canty*, 359 So. 2d 430 (Fla. 1978)
+
+*K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015 (Fla. 4th DCA 1996)
+
+*Publix Super Markets, Inc. v. Green*, 439 So. 2d 892 (Fla. 1st DCA 1983)
+
+*R.J. Reynolds Tobacco Co. v. Durden*, 511 So. 2d 347 (Fla. 2d DCA 1987)
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The closing argument utilizes five citations, all of which are highly relevant and directly applicable to the specific legal issues presented:
+1. ***In re Temporary Injunction***: Directly addresses the procedural requirement of Rule 1.610(b) regarding findings of fact.
+2. ***Wackenhut Corp. v. Canty***: Used twice—first to establish that money damages (liquidated damages) preclude injunctive relief, and second to define the "legitimate business interest" requirement.
+3. ***K-91 Inc. v. K-91, Inc.***: Directly applicable to the distinction between "mere employment" and "solicitation of customers."
+4. ***Publix Super Markets, Inc. v. Green***: Directly addresses the requirement for geographic reasonableness in noncompete covenants.
+5. ***R.J. Reynolds Tobacco Co. v. Durden***: Directly addresses the necessity of independent consideration for noncompete agreements.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly extracts the necessary legal constraints for each precedent:
+- **Procedural Constraint**: For *In re Temporary Injunction*, it identifies the mandate of Rule 1.610(b) (findings of fact/conclusions of law) as the threshold for appellate review.
+- **Remedy Constraint**: For *Wackenhut*, it identifies the "money damages" exception as a bar to temporary injunctions.
+- **Scope Constraint**: For *K-91*, it extracts the specific distinction between general employment and the act of solicitation.
+- **Substantive Constraint**: For *Wackenhut* (second use), it identifies the "legitimate business interest" as a prerequisite for enforceability.
+- **Reasonableness Constraint**: For *Publix*, it extracts the three-prong test: time, area, and line of business.
+- **Contractual Constraint**: For *R.J. Reynolds*, it identifies the requirement for consideration independent of at-will employment.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case record:
+- **Rule 1.610(b)**: Validly argues that the order was "silent" on essential elements.
+- **Liquidated Damages**: Correctly links the "lost sales" claim to the existing liquidated damages clause to negate irreparable harm.
+- **Solicitation**: Validly contrasts the allegation of "selling products" with the covenant's specific restriction on "soliciting active, paid up customers."
+- **Business Interest**: Correctly argues that alleged fraud and unsafe product sales undermine the "legitimacy" of the interest.
+- **Overbreadth/Consideration**: Accurately notes the absence of geographic limits and the lack of evidence for independent consideration.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is exceptionally well-synthesized. It does not merely repeat the opening; it acknowledges the current procedural posture (the Judge's ruling and Appellee's concessions) and uses that to frame the arguments as "undisputed." It prioritizes the most dispositive issues (procedural voidance and lack of solicitation) while integrating the secondary substantive flaws (overbreadth and consideration) into a unified theory: that the injunction is legally infirm on every possible level.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. By framing the argument around the Appellee's own concessions, it transforms a legal battle into a confirmation of error. It proactively addresses public policy (the danger of shielding fraud/unsafe medical practices), which adds a moral dimension to the legal arguments. The "Prayer for Relief" is clear, comprehensive, and logically follows the preceding analysis.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court for a final ruling following the submission of closing arguments. The Appellant, Martin J. Bradley, III, appeals the trial court’s order modifying and extending a temporary injunction enforcing a covenant not to compete. After reviewing the record and the closing arguments presented by both parties, the Court finds that the trial court committed reversible error. Notably, the Appellee, Health Coalition, Inc., has conceded the primary grounds for reversal, and the Appellant has presented additional arguments regarding public policy that further support this outcome. Accordingly, the temporary injunction is reversed.
+
+**II. ANALYSIS**
+
+**A. The Trial Court Failed to Comply with Florida Rule of Civil Procedure 1.610(b)**
+
+Both parties agree that the trial court’s order is legally deficient due to the absence of required findings of fact and conclusions of law. Florida Rule of Civil Procedure 1.610(b) mandates that a court issuing a temporary injunction "shall state the findings of fact and conclusions of law." As held in *In re Temporary Injunction*, 608 So. 2d 515, 517 (Fla. 1st DCA 1992), the "failure to state findings and conclusions is reversible error" because it precludes meaningful appellate review. The Appellee concedes that the order is silent on irreparable harm, the likelihood of success on the merits, and the adequacy of monetary damages. This procedural defect alone requires reversal.
+
+**B. The Presence of a Liquidated Damages Clause Precludes a Finding of Irreparable Harm**
+
+The Court agrees with the parties that the trial court erred in finding irreparable harm given the existence of a liquidated damages clause in the employment agreement. Under Florida law, a temporary injunction is inappropriate where the injury can be compensated by money damages. In *Wackenhut Corp. v. Canty*, 359 So. 2d 430, 433 (Fla. 1978), the court held that "where the injury can be compensated by money damages, a temporary injunction is not appropriate." The Appellee concedes that its claim of "lost sales" is precisely the type of harm covered by the liquidated damages clause. Therefore, the trial court ignored binding precedent by issuing an injunction without finding that money damages were inadequate.
+
+**C. The Employer Failed to Prove a Violation of the Covenant’s Specific Terms**
+
+The Appellee admits that the employer failed to prove that the Appellant violated the specific terms of the noncompetition covenant. The covenant restricts the solicitation of "any active, paid up customers of the corporation." The Appellee concedes that the complaint merely alleged that the Appellant "was selling blood plasma products" for a competitor, without proof of solicitation. As established in *K-91 Inc. v. K-91, Inc.*, 675 So. 2d 1015, 1017 (Fla. 4th DCA 1996), "mere employment with a competitor does not violate a covenant not to compete that restricts solicitation of customers." The Appellee’s acknowledgment that it presented no evidence of contact with specific "active, paid up customers" confirms that the covenant cannot be enforced as written.
+
+**D. Unresolved Factual Disputes Regarding the Employer’s Legitimate Business Interest**
+
+The Appellee concedes that material factual disputes regarding the legitimacy of the employer’s business interest remain unresolved. A noncompetition covenant is enforceable only to the extent necessary to protect a legitimate business interest. *Wackenhut Corp. v. Canty*, 359 So. 2d at 433. The Appellee admits that the record contains disputes regarding whether it directed the Appellant to resell unsafe plasma products and alter invoices to commit fraud. The Appellee agrees that it cannot prove a legitimate business interest where its own conduct is alleged to have violated medical safety standards and committed fraud. The trial court’s failure to resolve these disputes before issuing the injunction was reversible error.
+
+**E. The Covenant Is Unenforceable Due to Overbreadth and Lack of Consideration**
+
+The Court accepts the Appellee’s concessions regarding two independent grounds for reversal that render the covenant unenforceable.
+
+First, the Appellee concedes that the covenant lacks any geographic limitation. In *Publix Super Markets, Inc. v. Green*, 439 So. 2d 892, 895 (Fla. 1st DCA 1983), this Court held that noncompetition covenants must be "reasonable as to time, area, and line of business." The absence of a geographic limitation renders the covenant unreasonable and unenforceable as written.
+
+Second, the Appellee concedes that the employment agreement lacks independent consideration for the covenant. In *R.J. Reynolds Tobacco Co. v. Durden*, 511 So. 2d 347, 349 (Fla. 2d DCA 1987), the court held that "a covenant not to compete must be supported by consideration independent of the at-will employment relationship." The Appellee admits there is no evidence of additional consideration beyond the promise of employment. Therefore, the covenant is unenforceable for lack of consideration.
+
+**F. Public Policy Considerations**
+
+The Appellant raises additional public policy concerns regarding the nature of the employer's conduct. The Appellant asserts he was forced to resign after refusing to engage in improper business practices, specifically the resale of unsafe plasma products and the alteration of invoices to defraud customers. Enforcing a covenant not to compete to protect an employer engaged in such alleged conduct would be contrary to public policy. While the legal deficiencies identified above are sufficient to dispose of this appeal, these public policy considerations further underscore the impropriety of the trial court’s order.
+
+**III. CONCLUSION**
+
+Based on the foregoing analysis, the trial court’s order modifying and extending the temporary injunction is legally infirm. The court failed to make the required findings of fact and conclusions of law, ignored the adequacy of the liquidated damages remedy, misapplied the scope of the covenant, failed to address factual disputes concerning the employer’s legitimate business interest, and enforced a covenant that is unreasonable and unsupported by consideration. The Appellee’s concessions on these points, coupled with the Appellant’s public policy arguments, leave this Court with no option but to reverse.
+
+Accordingly, the temporary injunction is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+**IT IS SO ORDERED.**
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes five distinct citations, all of which are highly relevant and directly applicable to the specific legal issues presented:
+1. ***In re Temporary Injunction***: Directly addresses the procedural requirement of Rule 1.610(b) regarding findings of fact and conclusions of law.
+2. ***Wackenhut Corp. v. Canty***: Used twice to address the inadequacy of injunctive relief when money damages are available and the requirement of a "legitimate business interest."
+3. ***K-91 Inc. v. K-91, Inc.***: Directly applicable to the distinction between "mere employment" and the "solicitation of customers."
+4. ***Publix Super Markets, Inc. v. Green***: Directly addresses the "reasonableness" test for covenants, specifically the necessity of geographic limitations.
+5. ***R.J. Reynolds Tobacco Co. v. Durden***: Directly addresses the requirement for independent consideration in at-will employment covenants.
+
+All cases are from Florida courts (DCA or Supreme Court), matching the jurisdiction of the case.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly extracts the necessary legal constraints/conditions for each precedent to apply:
+1. **Procedural Constraint**: For *In re Temporary Injunction*, the analysis identifies the mandate that a court "shall state the findings of fact and conclusions of law."
+2. **Remedy Constraint**: For *Wackenhut* (Irreparable Harm), it identifies the condition that an injunction is inappropriate "where the injury can be compensated by money damages."
+3. **Scope Constraint**: For *K-91*, it identifies the distinction that "mere employment" does not satisfy a "solicitation" restriction.
+4. **Substantive Constraint**: For *Wackenhut* (Business Interest), it identifies that a covenant is enforceable "only to the extent necessary to protect a legitimate business interest."
+5. **Reasonableness Constraint**: For *Publix*, it identifies the three-prong test: "time, area, and line of business."
+6. **Consideration Constraint**: For *R.J. Reynolds*, it identifies the requirement for "consideration independent of the at-will employment relationship."
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts and the Appellee's concessions:
+1. **Rule 1.610(b)**: Validly argues that the order was silent on irreparable harm and success on the merits, thus failing the procedural mandate.
+2. **Liquidated Damages**: Validly connects the existence of the liquidated damages clause to the *Wackenhut* rule, arguing that "lost sales" are compensable by money.
+3. **Solicitation**: Validly argues that selling products for a competitor (mere employment) is not the same as soliciting "active, paid up customers."
+4. **Business Interest**: Validly argues that alleged fraud and safety violations undermine the "legitimacy" of the business interest being protected.
+5. **Overbreadth**: Validly notes the total absence of geographic limitation, failing the *Publix* reasonableness test.
+6. **Consideration**: Validly identifies that only the promise of employment was provided, failing the *R.J. Reynolds* requirement for independent consideration.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

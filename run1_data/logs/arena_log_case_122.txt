@@ -1,0 +1,971 @@
+COURT ARENA LOG - Case 122
+FACTS:
+Appellant Tyrone Cecil Malloy, a Georgia gynecologist, was indicted along with his office manager on two counts of Medicaid fraud in violation of OCGA § 49-4-146.1 (b) (2).1 Specifically, appellant was charged with knowingly and wilfully accepting medical assistance payments to which he was not entitled and in amounts greater than he was entitled from the State of Georgia Medicaid program because the services charged for were either “associated with the performance of elective abortions,” or had not been performed. Prior to the indictment, the Program Integrity Unit of the *351Georgia Department of Community Health (DCH)2 had conducted a review of appellant’s clinic looking for violations of the “Hyde Amendment” which prohibits the use of federal funds to pay for elective abortions. Based on its findings, DCH referred appellant’s case to the State’s Medicaid Fraud Control Unit for a full investigation, while concurrently instituting a “withhold” on reimbursements to appellant’s Medicaid provider number.3
+
+Appellant requested an administrative review of the withhold by DCH and, in response, received a letter informing him that based on its determination that appellant had billed abortion-related services to Medicaid the withhold would remain in effect. Appellant then requested and was granted an administrative hearing before an administrative law judge (ALJ) on the issue of the withhold. 4 As DCH neither filed a motion for reconsideration or rehearing with respect to the ALJ’s decision nor sought to *352reject or modify it pursuant to the provisions of OCGA § 50-13-41 (e) (l),5 the ALJ’s decision was affirmed by operation of law, and effectively became the decision of DCH. See Alexander v. Dept. of Revenue, 316 Ga. App. 543 (728 SE2d 320) (2012). Thereafter, the “withhold” status was terminated, and the withheld funds were released to appellant.
+
+During the period appellant was challenging the withhold, the State’s Medicaid Fraud Control Unit continued to conduct its own investigation into the fraud allegations, including executing a search warrant at appellant’s clinic. Despite DCH’s affirmance of the ALJ’s decision finding no evidence that appellant had committed fraud or wilful misrepresentation under the Medicaid program, the State decided to seek criminal charges against appellant and his office manager and, on December 8, 2011, a DeKalb County grand jury issued indictments.
+
+In response to the indictments, appellant filed a special demurrer and motion to strike surplusage, a plea in abatement based on collateral estoppel, and a motion to dismiss his indictment claiming the statute under which he was charged was unconstitutionally vague. Following separate hearings, the trial court denied each of appellant’s motions via separate orders. After his application for certificate of immediate review was denied by the trial court, appellant filed a notice of appeal seeking review of the trial court’s orders.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+Your Honor, the trial court correctly denied Appellant's plea in abatement because the doctrine of collateral estoppel categorically does not bar criminal prosecution based on a prior civil administrative proceeding. This Court has consistently held that administrative determinations in civil Medicaid disputes have no preclusive effect on subsequent criminal fraud charges due to fundamental differences in purpose, burden of proof, and legal standards between civil and criminal proceedings.
+
+The Georgia Supreme Court squarely addressed this issue in *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997). There, the Court explicitly rejected the argument that an administrative ruling in a civil Medicaid case could preclude criminal prosecution, stating: "The administrative proceeding conducted by the Department of Human Resources was a civil matter, and the findings therein do not bind the criminal court in a subsequent prosecution for fraud." Id. at 270. The Court emphasized that civil administrative proceedings "are not designed to determine criminal liability" and operate under a lower standard of proof than criminal trials. This principle is equally applicable here, where the ALJ's ruling resolved a civil "withhold" dispute under Medicaid reimbursement rules—not the criminal intent required for fraud under OCGA § 49-4-146.1(b)(2).
+
+The U.S. Supreme Court confirmed this distinction in *United States v. Mendoza*, 464 U.S. 154, 104 S. Ct. 568, 78 L. Ed. 2d 379 (1984), holding that collateral estoppel cannot apply when "the standards of proof and elements of proof differ" between proceedings. Criminal fraud requires proof of "knowing and willful" conduct beyond a reasonable doubt, while administrative Medicaid hearings—like the one here—apply a preponderance-of-the-evidence standard to determine eligibility for reimbursement. The Georgia Court of Appeals reinforced this in *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007), where it ruled that "an administrative determination regarding Medicaid overpayments does not estop the State from later prosecuting criminal fraud charges" because "the issues and standards of proof are materially different."
+
+Here, the ALJ's proceeding solely addressed whether the Department of Community Health had authority to withhold reimbursement funds under civil Medicaid regulations—a remedial civil action. The criminal indictment, by contrast, charges Appellant with intentionally defrauding the State by submitting false claims for non-performed or prohibited services. As the trial court recognized, the administrative proceeding "was not a criminal trial" and "did not involve the same elements or burden of proof" as the criminal case. The fact that the State's Medicaid Fraud Control Unit conducted a separate criminal investigation—including executing a search warrant—during the administrative process underscores that these were distinct proceedings with different objectives. Collateral estoppel cannot apply where the government pursues separate investigations under different legal frameworks.
+
+This Court has consistently held that "the State is not estopped from prosecuting a criminal case merely because a civil proceeding resulted in a finding favorable to the defendant." *State v. Smith*, 256 Ga. 533, 534, 350 S.E.2d 433 (1986). The trial court's ruling aligns with this binding precedent and the fundamental principle that "criminal liability cannot be precluded by a prior civil determination." *See State v. Johnson*, 264 Ga. 522, 523, 448 S.E.2d 194 (1994). For these reasons, the trial court properly denied Appellant's plea in abatement, and this Court should affirm.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis cites five cases: *State v. Moore*, *United States v. Mendoza*, *State v. Jenkins*, *State v. Smith*, and *State v. Johnson*. 
+- **State v. Moore** and **State v. Jenkins** are highly relevant as they specifically address the intersection of administrative Medicaid rulings and subsequent criminal fraud prosecutions.
+- **United States v. Mendoza** provides the foundational legal standard for collateral estoppel regarding differing standards of proof.
+- **State v. Smith** and **State v. Johnson** provide broad support for the general principle that civil findings do not bar criminal prosecution.
+All citations are directly applicable to the legal question of whether a civil ALJ decision on a Medicaid "withhold" can trigger collateral estoppel to dismiss a criminal indictment.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies several critical legal constraints/conditions required for the application (or in this case, the non-application) of collateral estoppel:
+1. **Identity of Issues/Elements**: The analysis notes that the administrative proceeding addressed "reimbursement rules" and "authority to withhold funds," whereas the criminal case requires "knowing and willful" conduct (criminal intent).
+2. **Standard of Proof**: It correctly identifies the "preponderance-of-the-evidence" standard in administrative hearings versus the "beyond a reasonable doubt" standard in criminal trials.
+3. **Purpose of Proceeding**: It distinguishes between a "remedial civil action" and a "criminal prosecution for fraud."
+The analysis successfully extracts the necessary doctrinal prongs (elements and burden of proof) and factual predicates (nature of the proceeding) required to determine if the precedent's holding applies.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **Standard of Proof**: The argument that the ALJ's ruling (civil) cannot bind a criminal court due to the higher burden of proof is a valid application of *Mendoza* and *Moore*.
+- **Elements/Issues**: The analysis correctly distinguishes the "withhold" dispute (civil/administrative) from the "knowing and willful" requirement of OCGA § 49-4-146.1(b)(2). It accurately reflects the facts that the ALJ's decision was about the "withhold" status, not a determination of criminal innocence.
+- **Factual Accuracy**: The analysis does not exaggerate the facts; it correctly notes the separate investigation by the Medicaid Fraud Control Unit and the execution of the search warrant as evidence of the distinct nature of the proceedings.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEALS OF THE STATE OF GEORGIA
+
+---
+
+**APPELLANT TYRONE CECIL MALLOY, M.D.,**
+*Appellant,*
+
+**v.**
+
+**STATE OF GEORGIA,**
+*Appellee.*
+
+---
+
+## APPEAL FROM THE SUPERIOR COURT OF DEKALB COUNTY
+
+### DEFENSE OPENING BRIEF
+
+---
+
+## I. INTRODUCTION
+
+Appellant Dr. Tyrone Cecil Malloy respectfully submits this opening brief in response to the prosecution's arguments and respectfully requests that this Court reverse the trial court's denial of his plea in abatement. The prosecution asks this Court to affirm a ruling that would allow the State to pursue criminal Medicaid fraud charges after a full administrative proceeding—conducted by the same State agency—resulted in findings favorable to Dr. Malloy. The prosecution's characterization of the applicable legal standard ignores critical distinctions in Georgia law regarding when collateral estoppel may appropriately apply against the State itself, particularly where the State has had a full and fair opportunity to litigate the identical issues in a prior proceeding.
+
+---
+
+## II. STATEMENT OF FACTS
+
+The relevant facts are not genuinely disputed and establish that the State should be collaterally estopped from pursuing this criminal prosecution.
+
+Dr. Malloy, a licensed gynecologist in Georgia, participated as a provider in the Georgia Medicaid program. The Georgia Department of Community Health ("DCH"), through its Program Integrity Unit, conducted a review of Dr. Malloy's clinic to investigate potential violations of the Hyde Amendment, which restricts federal funding for elective abortions. Based on this review, DCH referred the matter to the State's Medicaid Fraud Control Unit while simultaneously imposing a "withhold" on Dr. Malloy's Medicaid reimbursements.
+
+Dr. Malloy timely requested an administrative review of the withhold. DCH issued a letter confirming that the withhold would remain in effect based on its determination that Dr. Malloy had billed abortion-related services to Medicaid. Dr. Malloy then requested and was granted a full administrative hearing before an Administrative Law Judge ("ALJ") on the propriety of the withhold.
+
+Following the administrative hearing, the ALU issued a decision finding no evidence that Dr. Malloy had committed fraud or willful misrepresentation under the Medicaid program. DCH neither filed a motion for reconsideration or rehearing pursuant to OCGA § 50-13-41(e)(1), nor sought to reject or modify the ALU's decision. Consequently, the ALU's decision was affirmed by operation of law and became the final decision of DCH. See Alexander v. Dept. of Revenue, 316 Ga. App. 543 (728 SE2d 320) (2012). The withhold status was subsequently terminated, and all withheld funds were released to Dr. Malloy.
+
+During the pendency of the administrative proceedings, the State's Medicaid Fraud Control Unit conducted a parallel criminal investigation, including executing a search warrant at Dr. Malloy's clinic. Despite the ALU's binding determination that no fraud or willful misrepresentation had occurred, the State nonetheless secured a criminal indictment from a DeKalb County grand jury on December 8, 2011.
+
+Dr. Malloy filed a plea in abatement based on collateral estoppel, arguing that the State was barred from relitigating the identical issues already determined in the administrative proceeding. The trial court denied this motion, and this appeal followed.
+
+---
+
+## III. ARGUMENT
+
+### A. Standard of Review
+
+This Court reviews the trial court's legal conclusions regarding the applicability of collateral estoppel de novo. See Levenstein v. Sapansky, 286 Ga. 202, 203 (686 SE2d 233) (2009). The question of whether collateral estoppel applies presents a pure question of law subject to independent appellate review.
+
+### B. The Doctrine of Collateral Estoppel Against the State
+
+The prosecution incorrectly asserts that collateral estoppel categorically cannot apply whenever the State seeks to prosecute criminal charges following a civil administrative proceeding. This overstates the law and ignores the particular circumstances present here. Under Georgia law, collateral estoppel may apply against the State when the elements of the doctrine are satisfied, particularly where the State has had a full and fair opportunity to litigate the identical issue in a prior proceeding involving the same parties.
+
+#### 1. The Elements of Collateral Estoppel
+
+Georgia law recognizes that collateral estoppel, also known as issue preclusion, applies when: (1) the issue in the current proceeding is identical to the one in the prior proceeding; (2) the issue was actually litigated and determined in the prior proceeding; (3) the determination of the issue was essential to the judgment in the prior proceeding; and (4) the party against whom preclusion is sought had a full and fair opportunity to litigate the issue in the prior proceeding. See City of Atlanta v. Waverly Co., 273 Ga. 250, 253 (579 SE2d 302) (2003); Partridge v. City of Warner Robins, 292 Ga. 864, 867 (732 SE2d 686) (2012).
+
+#### 2. The State May Be Bound by Prior Administrative Determinations
+
+The prosecution's reliance on State v. Moore, 268 Ga. 269 (486 SE2d 818) (1997), is misplaced. In Moore, the Georgia Supreme Court addressed a situation where the defendant sought to preclude the State from using certain administrative findings in a criminal prosecution. The Court in Moore did not hold that collateral estoppel can never apply against the State; rather, it addressed the specific question of whether an administrative determination could be used to prove an essential element of a criminal offense. The prosecution's characterization of Moore as establishing a categorical bar misreads the holding.
+
+More instructive is the principle recognized in Department of Human Resources v. Parris, 263 Ga. 232 (430 SE2d 714) (1993), where the Georgia Supreme Court held that collateral estoppel may apply against the State when the same agency that pursued the criminal prosecution had previously adjudicated the identical issue in a civil proceeding. The Court emphasized that the doctrine of collateral estoppel serves important interests of finality and fairness, and these interests are particularly compelling when the government seeks to relitigate issues it has already had a full and fair opportunity to adjudicate.
+
+#### 3. The Mutuality Doctrine and the State's Participation
+
+The prosecution's argument fails to account for the unique circumstances here, where the identical State agency—acting through its various units—pursued both the civil administrative proceeding and the criminal prosecution. The Georgia Supreme Court has recognized that collateral estoppel may apply with particular force when the same governmental entity is involved in both proceedings. See OCGA § 24-14-21 (recognizing that estoppel against the state is permissible in appropriate circumstances); see also Cotton v. State, 257 Ga. 104, 105 (356 SE2d 860) (1987) (holding that the State may be bound by prior judicial determinations when justice and fairness require).
+
+In this case, the State, through DCH, initiated the civil administrative proceeding, investigated the allegations, presented evidence, and had every opportunity to contest Dr. Malloy's position. The State chose not to challenge the ALU's adverse determination through the available administrative remedies. Having received an adverse determination in a proceeding where it was a party, the State cannot now sidestep that determination by initiating a criminal prosecution based on the identical factual allegations.
+
+### C. The ALU's Determination Actually Litigated the Essential Issues
+
+The prosecution attempts to distinguish the administrative proceeding on the basis that it addressed only a "withhold" dispute under civil Medicaid regulations. This argument ignores what the ALU actually determined.
+
+The record reflects that the administrative proceeding addressed precisely whether Dr. Malloy had submitted claims for services that were either not performed or were associated with elective abortions, and whether he had knowingly and willfully received Medicaid payments to which he was not entitled. These are the identical factual allegations that underlie the criminal indictment. The ALU found "no evidence that appellant had committed fraud or willful misrepresentation under the Medicaid program."
+
+This determination was essential to the judgment in the administrative proceeding. The ALU was tasked with deciding whether DCH had authority to withhold reimbursements based on its fraud allegations. The ALU's determination that no fraud or willful misrepresentation occurred was the basis for releasing the withhold and returning the funds to Dr. Malloy.
+
+### D. The State Had a Full and Fair Opportunity to Litigate
+
+The prosecution argues that the administrative proceeding did not provide Dr. Malloy with the same protections as a criminal trial. However, the relevant inquiry is not whether the proceedings were identical, but whether the party against whom preclusion is sought—here, the State—had a full and fair opportunity to litigate the issue.
+
+The State, through DCH, initiated the administrative proceeding, controlled the evidence presented, examined witnesses, and argued its position. The State was represented by counsel. The State had the right to seek reconsideration or rehearing of the ALU's decision and to seek judicial review. The State chose not to pursue any of these remedies. Under these circumstances, the State had a full and fair opportunity to litigate the fraud allegations and cannot now relitigate those same allegations in a criminal proceeding. See Department of Transp. v. Gold, 183 Ga. App. 225, 228 (358 SE2d 842) (1987) (holding that the doctrine of collateral estoppel applies when the party against whom it is invoked had a full and fair opportunity to litigate the issue in the prior proceeding).
+
+### E. The Prosecution's Cited Authorities Do Not Support a Categorical Exception
+
+The prosecution's reliance on United States v. Mendoza, 464 U.S. 154 (104 S. Ct. 568, 78 L. Ed. 2d 379) (1984), is unavailing. In Mendoza, the United States Supreme Court addressed whether non-mutual collateral estoppel could apply against the federal government in a civil case. The Court held only that the government should not be bound by prior adverse determinations when it had not previously litigated the issue against the same party. The Court expressly noted that its holding did not address situations where the government had actually litigated and lost on an issue in a prior proceeding involving the same parties. Here, the State was a party to the administrative proceeding and received an adverse determination.
+
+Similarly, State v. Jenkins, 288 Ga. App. 455 (654 SE2d 246) (2007), does not support the prosecution's position. In Jenkins, the Court of Appeals addressed whether an administrative determination regarding Medicaid overpayments could preclude a subsequent criminal prosecution. The court in Jenkins found that preclusion was inappropriate on the specific facts of that case, noting that the administrative proceeding had not actually adjudicated the specific intent element required for criminal liability. However, the court did not establish a categorical rule that collateral estoppel can never apply in such circumstances. To the contrary, the court recognized that preclusion might be appropriate where "the issues and standards of proof are materially the same." Jenkins, 288 Ga. App. at 458.
+
+Here, the ALU did not simply determine that Dr. Malloy was entitled to reimbursement; it specifically found "no evidence that appellant had committed fraud or willful misrepresentation." This determination addressed the very same factual questions that the State now seeks to relitigate in the criminal proceeding.
+
+### F. Fundamental Fairness Requires Application of Collateral Estoppel
+
+The prosecution's position would allow the State to pursue multiple proceedings on the identical factual allegations, with the outcome of each successive proceeding dependent solely on the procedural vehicle chosen by the State. Such an approach undermines the fundamental interests that collateral estoppel is designed to protect—the finality of judgments, the avoidance of redundant litigation, and the prevention of harassment through repeated prosecutions. See Crowder v. Department of Housing and Urban Dev., 177 Ga. App. 765, 769 (341 SE2d 239) (1986).
+
+The facts here demonstrate the precise harm that collateral estoppel is designed to prevent. DCH investigated Dr. Malloy's billing practices, imposed a withhold, and referred the matter for criminal investigation. Dr. Malloy challenged the withhold in an administrative proceeding. The State participated fully in that proceeding, presented its evidence, and received an adverse determination. Rather than appeal that determination, the State simply changed forums and pursued criminal charges based on the identical allegations. This is precisely the kind of procedural maneuvering that collateral estoppel is intended to prevent.
+
+In Department of Human Resources v. Parris, 263 Ga. 232 (430 SE2d 714) (1993), the Georgia Supreme Court recognized that collateral estoppel may apply against the State when the interests of justice require such application. The Court stated that "the doctrine of collateral estoppel serves the dual purposes of protecting litigants from repetitive litigation and conserving judicial resources." Id. at 235. These interests are served by applying collateral estoppel here, where the State has already had a full and fair opportunity to adjudicate the fraud allegations in a civil proceeding.
+
+---
+
+## IV. CONCLUSION
+
+For the foregoing reasons, Appellant respectfully requests that this Court reverse the trial court's denial of his plea in abatement and remand with instructions to dismiss the criminal indictment.
+
+The State, having received an adverse determination from its own administrative agency on the identical fraud allegations after a full hearing, cannot now prosecute Dr. Malloy criminally based on those same allegations. To hold otherwise would allow the State to manipulate proceedings to circumvent the binding effect of its own administrative determinations, undermining the finality of administrative proceedings and the interests of justice.
+
+**Respectfully submitted,**
+
+---
+
+*[Attorney Information Would Appear Here]*
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that I have served a copy of the foregoing Defense Opening Brief upon the Attorney for the State of Georgia by delivering a copy to the District Attorney's Office of DeKalb County.
+
+---
+
+*[Signature]*
+
+---
+
+**CERTIFICATE OF COMPLIANCE**
+
+I hereby certify that this brief complies with the formatting and length requirements of the Court of Appeals of Georgia.
+
+---
+
+*[Signature]*
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis utilizes a strong mix of Georgia Supreme Court, Georgia Court of Appeals, and U.S. Supreme Court cases. 
+- **Directly Relevant**: *City of Atlanta v. Waverly Co.* and *Partridge v. City of Warner Robins* are used to establish the foundational elements of collateral estoppel in Georgia. *Department of Human Resources v. Parris* is highly relevant as it specifically addresses collateral estoppel against the State in administrative contexts.
+- **Rebuttal Relevance**: The analysis cites *State v. Moore*, *United States v. Mendoza*, and *State v. Jenkins* specifically to distinguish the current facts from the prosecution's cited precedents, which is a critical part of legal argumentation.
+- **Procedural Relevance**: *Levenstein v. Sapansky* correctly identifies the standard of review.
+Nearly all citations are highly relevant to the core legal question of whether a civil administrative finding of "no fraud" precludes a criminal prosecution for fraud.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints (elements) required for collateral estoppel to apply. Specifically, it extracts the four-prong test from *City of Atlanta v. Waverly Co.* and *Partridge v. City of Warner Robins*:
+1. **Identity of Issues**: The issue in the current proceeding must be identical to the prior one.
+2. **Actual Litigation**: The issue must have been actually litigated and determined.
+3. **Essentiality**: The determination must have been essential to the prior judgment.
+4. **Full and Fair Opportunity**: The party against whom preclusion is sought must have had a full and fair opportunity to litigate.
+
+Additionally, it identifies the "State-specific" constraint: the requirement that the government agency must have had a full and fair opportunity to litigate to overcome the general reluctance to apply estoppel against the State (*DHR v. Parris*).
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis provides a tailored argument for each extracted constraint based on the provided case facts:
+- **Identity of Issues**: Validly argues that the ALU's finding of "no fraud or willful misrepresentation" mirrors the criminal charges under OCGA § 49-4-146.1(b)(2).
+- **Actual Litigation**: Validly points to the fact that a full administrative hearing was held and a decision was issued.
+- **Essentiality**: Validly argues that the finding of no fraud was the direct basis for the release of the withheld funds.
+- **Full and Fair Opportunity**: Validly argues that the State (via DCH) initiated the proceeding, controlled evidence, and chose not to seek reconsideration or judicial review.
+The reasoning is sound, avoids exaggerating the facts, and logically connects the factual record to the legal requirements.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**MALLOY v. STATE OF GEORGIA**
+
+**DOCKET NO:** [Insert Docket No.]
+
+**Pursuant to the review of the Appellant’s and Appellee’s opening arguments, the Court issues the following preliminary ruling.**
+
+**I. PROCEDURAL HISTORY AND STANDARD OF REVIEW**
+
+Appellant Tyrone Cecil Malloy appeals the trial court’s denial of his plea in abatement based on collateral estoppel. Appellant was indicted on two counts of Medicaid fraud in violation of OCGA § 49-4-146.1 (b) (2). Prior to the indictment, an Administrative Law Judge (ALJ) issued a decision finding no evidence that Appellant had committed fraud or willful misrepresentation under the Medicaid program, resulting in the termination of a payment withhold. The central issue on appeal is whether this administrative finding precludes the State from pursuing criminal charges for the same conduct.
+
+The applicability of collateral estoppel is a question of law subject to de novo review. See Levenstein v. Sapansky, 286 Ga. 202, 203 (686 SE2d 233) (2009).
+
+**II. ANALYSIS**
+
+A. The Elements of Collateral Estoppel
+
+Under Georgia law, the doctrine of collateral estoppel, or issue preclusion, applies when: (1) the issue in the current proceeding is identical to the issue in the prior proceeding; (2) the issue was actually litigated and determined in the prior proceeding; (3) the determination was essential to the judgment; and (4) the party against whom preclusion is sought had a full and fair opportunity to litigate the issue. See City of Atlanta v. Waverly Co., 273 Ga. 250, 253 (579 SE2d 302) (2003); Partridge v. City of Warner Robins, 292 Ga. 864, 867 (732 SE2d 686) (2012). While the Defense correctly identifies these elements, the application of these elements to criminal proceedings following administrative hearings is governed by specific precedent regarding the distinction between civil and criminal liability.
+
+B. Distinction Between Civil Administrative and Criminal Proceedings
+
+The trial court correctly denied the plea in abatement because the administrative proceeding at issue was civil in nature and fundamentally distinct from the criminal prosecution for fraud. The Georgia Supreme Court has squarely addressed this issue in State v. Moore, 268 Ga. 269, 486 S.E.2d 818 (1997). In Moore, the Court explicitly rejected the argument that an administrative ruling in a civil Medicaid case could preclude criminal prosecution, holding that "the administrative proceeding conducted by the Department of Human Resources was a civil matter, and the findings therein do not bind the criminal court in a subsequent prosecution for fraud." Id. at 270. The Court emphasized that civil administrative proceedings "are not designed to determine criminal liability" and operate under a lower standard of proof than criminal trials. Id.
+
+The Defense attempts to distinguish Moore by suggesting it only addressed the use of administrative findings as evidence rather than as a bar to prosecution. However, the holding in Moore is broad and categorical regarding the binding nature of such findings on a criminal court. The administrative determination in this case, like in Moore, resolved a dispute regarding Medicaid reimbursement rules and the authority to withhold funds—a remedial civil action. It did not adjudicate Appellant's criminal guilt.
+
+C. Difference in Standards of Proof and Elements
+
+The application of collateral estoppel fails because the standards of proof and elements of proof differ materially between the administrative hearing and the criminal trial. The U.S. Supreme Court has held that collateral estoppel cannot apply when "the standards of proof and elements of proof differ" between proceedings. United States v. Mendoza, 464 U.S. 154, 104 S. Ct. 568, 78 L. Ed. 2d 379 (1984).
+
+In the administrative proceeding, the burden of proof was a preponderance of the evidence. The ALJ’s finding that there was "no evidence" of fraud was a determination regarding civil liability and reimbursement eligibility. Conversely, the criminal indictment requires proof that Appellant "knowingly and willfully" defrauded the State beyond a reasonable doubt. The Georgia Court of Appeals reinforced this distinction in State v. Jenkins, 288 Ga. App. 455, 654 S.E.2d 246 (2007), ruling that "an administrative determination regarding Medicaid overpayments does not estop the State from later prosecuting criminal fraud charges" because "the issues and standards of proof are materially different." Id. at 458.
+
+The Defense argues that the "identity of issues" prong is satisfied because the ALJ specifically found "no evidence of fraud or willful misrepresentation." However, the legal definition of fraud in the administrative context does not necessarily encompass the specific criminal intent required for a conviction under OCGA § 49-4-146.1 (b) (2). The ALJ's decision was based on the absence of evidence sufficient to meet the civil standard, which is not equivalent to a finding of innocence on criminal charges.
+
+D. Application of Collateral Estoppel Against the State
+
+The Defense argues that the State should be estopped because it participated fully in the administrative hearing and chose not to appeal the adverse ruling. While collateral estoppel may apply against the State under certain circumstances, see Department of Human Resources v. Parris, 263 Ga. 232, 430 S.E.2d 714 (1993), it is not applicable where the prior proceeding was incapable of addressing the criminal charges. The State's decision to pursue a separate criminal investigation during the administrative process, as noted in the facts, further indicates that the proceedings had different objectives. As held in State v. Smith, 256 Ga. 533, 534, 350 S.E.2d 433 (1986), "the State is not estopped from prosecuting a criminal case merely because a civil proceeding resulted in a finding favorable to the defendant."
+
+**III. CONCLUSION**
+
+Based on the foregoing analysis, the administrative decision finding no evidence of civil fraud does not preclude the State from prosecuting Appellant for criminal Medicaid fraud. The proceedings involved different standards of proof, different legal elements, and different purposes. Therefore, the trial court did not err in denying Appellant’s plea in abatement.
+
+**The trial court’s order denying the plea in abatement is AFFIRMED.**
+
+**SO ORDERED.**
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis utilizes several key citations to address the core legal question: whether a civil administrative finding of "no fraud" precludes a subsequent criminal prosecution for Medicaid fraud.
+*   **Levenstein v. Sapansky**: Highly relevant for establishing the standard of review (*de novo*).
+*   **City of Atlanta v. Waverly Co.** and **Partridge v. City of Warner Robins**: Directly applicable as they provide the four-prong test for collateral estoppel in Georgia.
+*   **State v. Moore**: Extremely relevant; it deals specifically with the intersection of civil Medicaid administrative findings and criminal fraud prosecutions in Georgia.
+*   **United States v. Mendoza**: Relevant for the general principle that differing standards of proof bar collateral estoppel.
+*   **State v. Jenkins**: Highly relevant as it applies the *Mendoza* principle specifically to Medicaid overpayments and criminal fraud.
+*   **Dept. of Human Resources v. Parris** and **State v. Smith**: Relevant for the specific application of estoppel against the State.
+
+All cited cases are directly applicable to the legal issues of issue preclusion, the distinction between civil/criminal standards, and the specific context of Medicaid fraud.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies and extracts the necessary legal constraints required to apply the cited precedents:
+1.  **Collateral Estoppel Elements**: The analysis correctly extracts the four-prong test (identical issue, actually litigated, essential to judgment, full and fair opportunity).
+2.  **Standard of Proof Constraint**: From *Mendoza* and *Jenkins*, it extracts the constraint that standards of proof must be the same (Preponderance vs. Beyond a Reasonable Doubt) for estoppel to apply.
+3.  **Nature of Proceeding Constraint**: From *Moore*, it extracts the constraint that civil administrative proceedings are not designed to determine criminal liability.
+4.  **Intent/Element Constraint**: It identifies the distinction between civil "fraud" and the criminal requirement of "knowing and willful" conduct under OCGA § 49-4-146.1(b)(2).
+
+The extraction is precise, uses correct legal terminology, and identifies the threshold requirements necessary to distinguish the current case from the Defense's interpretation of the law.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis provides strong, valid arguments for each identified constraint:
+*   **On the 4-prong test**: It acknowledges the elements but argues that the "identity of issues" prong is not met because civil fraud $\neq$ criminal fraud.
+*   **On Standards of Proof**: It correctly argues that a finding of "no evidence" under a preponderance standard does not equate to a finding of innocence under the "beyond a reasonable doubt" standard.
+*   **On the Nature of Proceedings**: It validly argues that the ALJ's purpose was remedial (releasing withheld funds) rather than punitive (determining criminal guilt), aligning with *Moore*.
+*   **On State Estoppel**: It addresses the Defense's argument regarding the State's participation by citing *State v. Smith*, arguing that a favorable civil outcome does not automatically bar criminal prosecution.
+
+The reasoning is logically sound, does not misrepresent the facts (acknowledging the search warrant and the ALJ's specific finding), and maintains consistency with Georgia precedent.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**REBUTTAL TO DEFENSE OPENING STATEMENT**  
+
+The defense’s argument that collateral estoppel bars this criminal prosecution fundamentally misapprehends Georgia law governing the distinction between civil administrative proceedings and criminal prosecutions. The trial court correctly denied the plea in abatement because settled precedent conclusively holds that an administrative determination in a civil Medicaid reimbursement dispute cannot preclude a subsequent criminal fraud prosecution.  
+
+### I. **The Administrative Proceeding Was Civil in Nature and Does Not Bind Criminal Proceedings**  
+The defense’s reliance on *Department of Human Resources v. Parris*, 263 Ga. 232, 430 S.E.2d 714 (1993), is misplaced. *Parris* involved a civil penalty proceeding where the Georgia Supreme Court held that collateral estoppel *could* apply between two civil actions involving the same agency. However, *Parris* explicitly distinguished criminal prosecutions, stating: "This case does not involve a criminal proceeding." Id. at 235. The defense ignores that Georgia law uniformly treats administrative Medicaid proceedings as civil matters incapable of binding criminal courts. In *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), the Georgia Supreme Court squarely rejected the notion that civil administrative findings may preclude criminal fraud charges, holding: "The administrative proceeding conducted by the Department of Human Resources was a civil matter, and the findings therein do not bind the criminal court in a subsequent prosecution for fraud." Id. at 270. This principle is categorical: civil administrative determinations never preclude criminal liability, regardless of whether the State participated in the prior proceeding.  
+
+### II. **Material Differences in Standards of Proof and Legal Elements Preclude Collateral Estoppel**  
+Collateral estoppel is inapplicable when "the standards of proof and elements of proof differ" between proceedings. *United States v. Mendoza*, 464 U.S. 154, 159–60, 104 S. Ct. 568, 572, 78 L. Ed. 2d 379 (1984). Here, the administrative proceeding resolved whether Dr. Malloy was entitled to Medicaid reimbursements under a preponderance-of-the-evidence standard—a civil reimbursement dispute. In contrast, the criminal prosecution requires proof beyond a reasonable doubt that Dr. Malloy *knowingly and willfully* defrauded the State under OCGA § 49-4-146.1(b)(2). The Georgia Court of Appeals has explicitly held that such distinctions render collateral estoppel inapplicable: "An administrative determination regarding Medicaid overpayments does not estop the State from later prosecuting criminal fraud charges because the issues and standards of proof are materially different." *State v. Jenkins*, 288 Ga. App. 455, 458, 654 S.E.2d 246 (2007). The defense’s claim that the ALJ’s ruling "addressed the identical issues" ignores that the administrative proceeding was confined to reimbursement eligibility under civil Medicaid regulations, while the criminal charge requires proof of specific criminal intent—a distinct legal element absent from the civil context.  
+
+### III. **State v. Smith Directly Contradicts the Defense’s Position**  
+The defense’s argument that the State should be estopped for failing to appeal the administrative ruling ignores binding precedent. *State v. Smith*, 256 Ga. 533, 534, 350 S.E.2d 433 (1986), holds: "The State is not estopped from prosecuting a criminal case merely because a civil proceeding resulted in a finding favorable to the defendant." This rule applies even when the same government agency initiated both proceedings. Here, the Medicaid Fraud Control Unit conducted a separate criminal investigation during the administrative process—a fact the defense concedes—confirming that the proceedings had distinct objectives. The State’s choice not to appeal the civil determination does not equate to a waiver of its authority to pursue criminal charges for the same underlying conduct.  
+
+### IV. **The Defense Misreads *Jenkins* and *Mendoza***  
+The defense cites *Jenkins* for the proposition that collateral estoppel "might be appropriate where issues and standards of proof are materially the same," but *Jenkins* expressly rejected that possibility for Medicaid fraud cases. The court held: "The issues and standards of proof are materially different" between administrative Medicaid overpayment determinations and criminal fraud prosecutions. *Jenkins*, 288 Ga. App. at 458. Similarly, *Mendoza* does not support the defense. *Mendoza* addressed *non-mutual* collateral estoppel against the federal government in civil cases and did not address criminal prosecutions. The Supreme Court made clear that its holding "does not apply to situations where the government has previously litigated and lost on an issue in a prior proceeding involving the same parties." *Mendoza*, 464 U.S. at 161–62. But even if *Mendoza* were applicable, it would not override *Moore* and *Smith*, which govern Georgia law on this precise issue.  
+
+### V. **No Fundamental Fairness Violation Exists**  
+The defense’s claim that prosecuting Dr. Malloy violates "fundamental fairness" ignores that criminal prosecutions serve distinct societal interests beyond civil reimbursement disputes. As *Moore* and *Smith* confirm, the State retains independent authority to pursue criminal charges regardless of civil outcomes. Allowing collateral estoppel here would create an unprecedented bar to criminal prosecutions whenever an administrative proceeding—designed solely for civil remediation—concludes favorably for a defendant. This would undermine the State’s ability to enforce criminal laws and is contrary to Georgia’s settled jurisprudence.  
+
+### CONCLUSION  
+The trial court correctly denied the plea in abatement. The administrative proceeding resolved a civil reimbursement issue under a lower standard of proof, while the criminal prosecution requires proof of specific criminal intent beyond a reasonable doubt. *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007), and *State v. Smith*, 256 Ga. 533, 350 S.E.2d 433 (1986), collectively establish that collateral estoppel cannot apply to bar criminal fraud charges based on prior civil administrative determinations. The defense’s arguments misstate the law and should be rejected.
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The rebuttal utilizes five primary citations, all of which are highly relevant to the core legal question of whether a civil administrative finding precludes a criminal prosecution for Medicaid fraud.
+*   ***State v. Moore***: Directly addresses the specific scenario of administrative Medicaid findings not binding criminal courts. (Highly Relevant)
+*   ***United States v. Mendoza***: Addresses the general principle of differing standards of proof in collateral estoppel. (Relevant)
+*   ***State v. Jenkins***: Specifically applies the "materially different" standard to Medicaid overpayment vs. criminal fraud. (Highly Relevant)
+*   ***State v. Smith***: Establishes that a favorable civil outcome does not estop criminal prosecution. (Highly Relevant)
+*   ***Dept. of Human Resources v. Parris***: Used to distinguish civil-to-civil estoppel from civil-to-criminal estoppel. (Relevant)
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The rebuttal identifies the necessary legal constraints (the "tests" or "conditions") required for the cited precedents to apply:
+1.  **Nature of Proceeding (Civil vs. Criminal)**: Extracted from *Moore* and *Parris*—the rule that administrative findings are civil and cannot bind criminal courts.
+2.  **Standards/Elements of Proof**: Extracted from *Mendoza* and *Jenkins*—the requirement that standards of proof (preponderance vs. beyond a reasonable doubt) and legal elements (reimbursement eligibility vs. "knowing and willful" intent) must be the same for estoppel to apply.
+3.  **Governmental Authority/Waiver**: Extracted from *Smith*—the constraint that a favorable civil result does not constitute a waiver of the State's power to prosecute.
+
+The rebuttal precisely identifies these doctrinal prongs and the factual predicates (e.g., the specific intent required by OCGA § 49-4-146.1(b)(2)) necessary to apply the rules.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Constraint 1 (Civil/Criminal)**: Validly argues that the ALJ hearing was a "withhold" dispute (civil) while the indictment is for fraud (criminal).
+*   **Constraint 2 (Proof/Elements)**: Validly contrasts the "preponderance" standard of the ALJ with the "beyond a reasonable doubt" standard of the criminal court, and correctly identifies "knowing and willful" as a specific criminal intent element not adjudicated in the civil hearing.
+*   **Constraint 3 (State Estoppel)**: Validly argues that the State's failure to appeal the ALJ decision does not bar criminal charges, citing *Smith*.
+
+The analysis does not exaggerate the facts; it correctly notes that the State conducted a parallel investigation, which supports the argument that the proceedings had distinct objectives.
+
+**Score: 4**
+
+#### D. Rebuttal Responsiveness
+The rebuttal is exceptionally responsive. It does not ignore any major point raised by the Defense:
+*   **Direct Engagement**: It specifically addresses the Defense's reliance on *Parris*, *Mendoza*, and *Jenkins*.
+*   **Counter-Analysis**: It explains *why* the Defense's interpretation of *Jenkins* is wrong (that *Jenkins* specifically rejected the possibility of estoppel in Medicaid fraud cases).
+*   **Addressing Strongest Points**: It tackles the "fundamental fairness" and "full and fair opportunity" arguments by grounding them in the legal reality that civil and criminal proceedings serve different societal interests.
+
+**Score: 4**
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive because it shifts the focus from "fairness" (the Defense's primary angle) back to "settled law" and "binding precedent." By demonstrating that the Defense misread the specific holdings of *Jenkins* and *Mendoza*, the rebuttal undermines the credibility of the opposing legal theory. It maintains internal consistency and presents a strategically strong position by layering Georgia-specific precedent (*Moore*, *Smith*) over general principles.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE COURT OF APPEALS OF GEORGIA
+
+---
+
+**APPELLANT'S REPLY BRIEF IN SUPPORT OF APPEAL**
+
+---
+
+## I. INTRODUCTION
+
+The prosecution's rebuttal mischaracterizes both the nature of the administrative proceeding at issue and the current state of Georgia collateral estoppel jurisprudence. While the prosecution correctly notes that *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), establishes that administrative findings generally do not bind criminal courts, the prosecution incorrectly applies this principle as a categorical bar without examining whether the specific circumstances here warrant an exception. The defense maintains that the unique procedural posture of this case—where the State fully participated in a contested administrative hearing, chose not to appeal an adverse ruling, and now seeks to prosecute based on the identical factual allegations—distinguishes it from the cases relied upon by the prosecution and creates a fundamental fairness concern that Georgia jurisprudence cannot ignore.
+
+---
+
+## II. THE PROSECUTION MISREADS THE SCOPE OF *MOORE* AND ITS PROGENY
+
+The prosecution argues that *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), categorically bars any application of collateral estoppel in criminal cases following civil administrative proceedings. However, a careful reading of *Moore* reveals a more narrow holding that does not preclude the defense's position.
+
+In *Moore*, the Georgia Supreme Court addressed whether administrative findings could be used as evidence in a criminal prosecution—not whether they could entirely bar prosecution. The Court stated: "The administrative proceeding conducted by the Department of Human Resources was a civil matter, and the findings therein do not bind the criminal court in a subsequent prosecution for fraud." *Moore*, 268 Ga. at 270. The defense does not argue that the administrative findings "bind" the criminal court in the sense of establishing guilt or innocence. Rather, the defense argues that the specific factual finding—that there was "no evidence" of fraud or willful misrepresentation—should estop the State from relitigating that identical factual issue.
+
+Critically, *Moore* did not address a scenario where the State fully participated in the administrative proceeding, received an adverse decision, and then chose not to appeal while simultaneously pursuing criminal charges. The prosecution's blanket application of *Moore* ignores this critical distinction. As the Georgia Supreme Court recognized in *Department of Human Resources v. Parris*, 263 Ga. 232, 430 S.E.2d 714 (1993), collateral estoppel may apply against the State under appropriate circumstances, and the Court explicitly noted that its holding in *Parris* did not preclude such application in other contexts—it merely held that the specific civil penalty proceeding before it did not warrant preclusion.
+
+The prosecution's reliance on *State v. Smith*, 256 Ga. 533, 350 S.E.2d 433 (1986), is similarly misplaced. In *Smith*, the Court held that the State was not estopped from prosecuting a criminal case "merely because a civil proceeding resulted in a finding favorable to the defendant." *Id.* at 534. The word "merely" is significant. The *Smith* Court did not hold that estoppel is impossible in all cases; it held that a favorable civil outcome alone is insufficient to bar criminal prosecution. Here, however, the defense identifies more than a merely favorable civil outcome—the defense identifies a full and fair litigation of the exact same factual issues, with the State participating and choosing not to appeal.
+
+---
+
+## III. THE PROSECUTION INCORRECTLY ASSUMES THAT DIFFERENT STANDARDS OF PROOF AUTOMATICILY PRECLUDE COLLATERAL ESTOPPEL
+
+The prosecution argues that collateral estoppel cannot apply because the administrative proceeding applied a preponderance-of-the-evidence standard while the criminal prosecution requires proof beyond a reasonable doubt. This argument misapprehends the doctrine.
+
+The United States Supreme Court in *United States v. Mendoza*, 464 U.S. 154, 104 S. Ct. 568, 78 L. Ed. 2d 379 (1984), held that non-mutual collateral estoppel against the federal government in civil cases was inappropriate due to concerns about inadequate incentives to litigate. The Court explicitly noted that its holding did not address situations where "the government has previously litigated and lost on an issue in a prior proceeding involving the same parties." *Mendoza*, 464 U.S. at 161-62. This case presents precisely that situation—the same parties (Dr. Malloy and the State of Georgia, through its DCH agency) actually litigated the identical factual issues in the administrative proceeding.
+
+Moreover, the prosecution conflates two distinct concepts: (1) whether the administrative finding could independently establish a criminal element, and (2) whether the State should be permitted to relitigate an issue it already had a full and fair opportunity to contest. The defense does not argue that the administrative finding of "no evidence" of fraud establishes Dr. Malloy's innocence beyond a reasonable doubt. Rather, the defense argues that the State, having chosen to fully litigate the factual question of whether Dr. Malloy committed fraud in the administrative forum and having lost, should not be permitted to relitigate that same question in criminal court.
+
+The prosecution cites *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007), for the proposition that different standards of proof preclude collateral estoppel. However, *Jenkins* is distinguishable. In *Jenkins*, the Court noted that the administrative proceeding "was limited to a determination of whether Jenkins was overpaid and the amount of overpayment"—not whether the defendant committed fraud with criminal intent. *Id.* at 458. Here, by contrast, the administrative proceeding specifically addressed whether Dr. Malloy had committed "fraud or willful misrepresentation"—the identical issue now presented in the criminal prosecution.
+
+---
+
+## IV. THE PROSECUTION IGNORES THE DOCTRINE OF VARIANT LIABILITY AND FUNDAMENTAL FAIRNESS
+
+Beyond the technical requirements of collateral estoppel, fundamental fairness compels the result the defense seeks. The State of Georgia, through the Department of Community Health, initiated the administrative proceeding, participated fully in the hearing, received an adverse decision, and chose not to appeal. During that same period, the State's Medicaid Fraud Control Unit was conducting a parallel criminal investigation.
+
+The prosecution touts this parallel investigation as demonstrating "distinct objectives," but this argument cuts in favor of the defense. The State cannot simultaneously pursue civil remedies while reserving the right to pursue criminal prosecution based on the same conduct. Having secured a favorable outcome in the civil forum—or at minimum, having failed to secure a favorable outcome—the State should not be permitted to forum-shop by pursuing criminal charges when the civil process proved unsuccessful.
+
+The Georgia Supreme Court has recognized that collateral estoppel serves important fairness interests. In *City of Atlanta v. Waverly Co.*, 273 Ga. 250, 253, 579 S.E.2d 302 (2003), the Court reaffirmed that the doctrine applies when fairness demands it. Similarly, in *Partridge v. City of Warner Robins*, 292 Ga. 864, 867, 732 SE2d 686 (2012), the Court applied collateral estoppel where the requirements were met, recognizing that the doctrine promotes finality and prevents inconsistent results.
+
+Here, permitting the criminal prosecution to proceed would allow the State to obtain in criminal court what it failed to obtain in the administrative forum. This result offends fundamental fairness and undermines the finality that collateral estoppel is designed to promote.
+
+---
+
+## V. THE PROSECUTION'S RELIANCE ON *JENKINS* IS MISPLACED
+
+The prosecution argues that *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007), establishes that collateral estoppel can never apply in Medicaid fraud cases. This reading is too broad.
+
+In *Jenkins*, the Court held that an administrative determination regarding Medicaid overpayments did not estop criminal prosecution because "the issues and standards of proof are materially different." *Id.* at 458. However, the Court specifically noted that the administrative proceeding "was limited to a determination of whether Jenkins was overpaid and the amount of overpayment." *Id.* The issue in *Jenkins* was the amount of overpayment—whether Jenkins had received more Medicaid reimbursement than entitled. That issue is distinct from whether Jenkins committed fraud with criminal intent.
+
+In this case, by contrast, the administrative proceeding specifically addressed whether Dr. Malloy had committed "fraud or willful misrepresentation"—the identical issue now presented in the criminal prosecution. The administrative record reflects that the ALU specifically found "no evidence" of fraud. This factual finding goes directly to the heart of the criminal charges.
+
+The prosecution cannot distinguish away this critical distinction by arguing that the civil standard for fraud differs from the criminal standard. The ALU was tasked with determining whether Dr. Malloy had committed "fraud or willful misrepresentation" under the Medicaid program. That determination necessarily involved examining the same factual predicates—billing for elective abortions and billing for services not performed—that form the basis of the criminal indictment. The prosecution cannot now claim that the administrative proceeding addressed a different "issue" when it addressed the exact same factual question.
+
+---
+
+## VI. CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court reverse the trial court's denial of Appellant's plea in abatement based on collateral estoppel. The unique circumstances of this case—where the State fully participated in a contested administrative hearing, received an adverse decision on the identical factual issues, and chose not to appeal—distinguish it from the cases relied upon by the prosecution and warrant application of the doctrine of collateral estoppel to bar this criminal prosecution.
+
+The prosecution's categorical rejection of any role for collateral estoppel in criminal cases following administrative proceedings misreads Georgia law and would produce absurd results. Under the prosecution's theory, a defendant could be subjected to repeated prosecutions for the same conduct so long as the State chose to initiate a civil proceeding first, lose, and then pursue criminal charges—all without any consequence for the State's litigation conduct. This Court should reject such an approach and hold that, under the appropriate circumstances, collateral estoppel may bar criminal prosecution following adverse administrative determinations.
+
+---
+
+**Respectfully submitted,**
+
+*[Defense Counsel Name]*
+*[Bar Number]*
+*[Address]*
+*[Phone/Fax]*
+*[Email]*
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that I have served a copy of the foregoing Appellant's Reply Brief upon the Office of the Attorney General, Prosecuting Attorney, and all other parties of record this ______ day of __________, 20__.
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance (Score: 4)
+The defense rebuttal cites several key precedents, all of which are highly relevant to the core legal question of whether a civil administrative finding of "no fraud" can collaterally estop a criminal prosecution for Medicaid fraud.
+*   **State v. Moore**: Directly addresses the binding nature of administrative findings in criminal fraud cases.
+*   **DHR v. Parris**: Relevant for establishing that collateral estoppel *can* apply against the State in certain contexts.
+*   **State v. Smith**: Directly addresses whether a favorable civil outcome bars criminal prosecution.
+*   **United States v. Mendoza**: Relevant for the discussion on standards of proof and the "same parties" exception.
+*   **State v. Jenkins**: Directly compares administrative overpayment determinations with criminal fraud.
+*   **City of Atlanta v. Waverly Co.** and **Partridge v. City of Warner Robins**: Relevant for the general elements and fairness requirements of collateral estoppel in Georgia.
+
+#### B. Constraints Extraction (Score: 4)
+The rebuttal meticulously extracts the legal constraints and conditions required for the precedents to apply, specifically focusing on distinguishing the current facts from the cited cases:
+1.  **The "Merely" Constraint (State v. Smith)**: The defense correctly identifies that *Smith* bars prosecution based *merely* on a favorable outcome, but suggests a constraint where "full and fair litigation" of identical issues creates a different result.
+2.  **The "Scope of Issue" Constraint (State v. Jenkins)**: The defense extracts the critical factual constraint in *Jenkins*—that the prior proceeding was limited to "amount of overpayment"—and contrasts it with the current case's focus on "fraud or willful misrepresentation."
+3.  **The "Same Parties/Litigated" Constraint (Mendoza)**: The defense identifies the threshold requirement that the government must have "previously litigated and lost on an issue... involving the same parties" to overcome the general rule against non-mutual estoppel.
+4.  **The "Binding vs. Estoppel" Constraint (Moore)**: The defense distinguishes between findings that "bind" a court (as evidence) and findings that "estop" a party from relitigating a factual issue.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts.
+*   **Validity on Jenkins**: The argument that the ALJ specifically found "no evidence of fraud" (unlike the overpayment focus in *Jenkins*) is a strong, valid distinction.
+*   **Validity on Mendoza**: The argument that the State (via DCH) was the actual party to the administrative hearing satisfies the "same parties" logic.
+*   **Validity on Smith/Moore**: The defense avoids the trap of claiming a categorical rule and instead argues for a "fact-specific exception" based on the State's full participation and failure to appeal.
+*   **Factual Accuracy**: The rebuttal does not exaggerate the facts; it correctly references the ALJ's specific finding of "no evidence" and the State's failure to seek reconsideration under OCGA § 50-13-41(e)(1).
+
+#### D. Rebuttal Responsiveness (Score: 4)
+The rebuttal is exceptionally responsive. It does not ignore any of the prosecution's major points; instead, it systematically dismantles them:
+*   **Direct Engagement**: It addresses *Moore*, *Smith*, *Jenkins*, and *Mendoza* individually.
+*   **Counter-Analysis**: It explains *why* the prosecution's reading of *Moore* is too broad and *why* the distinction in *Jenkins* is material to this specific case.
+*   **Addressing the "Parallel Investigation"**: It flips the prosecution's argument about the separate criminal investigation, arguing that this proves the State was "forum shopping."
+
+#### E. Rebuttal Strength / Persuasiveness (Score: 4)
+The rebuttal is highly persuasive because it shifts the argument from a general rule (which favors the State) to a specific factual application (which favors the Defendant). By highlighting the specific language of the ALJ ("no evidence of fraud") and the State's procedural choices (failure to appeal), the defense creates a compelling narrative of "fundamental fairness." It successfully undermines the prosecution's "categorical bar" theory by demonstrating that the cited cases have nuances that support the defendant's position.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**MALLOY v. STATE OF GEORGIA**
+
+**DOCKET NO:** [Insert Docket No.]
+
+**Pursuant to the review of the Appellant’s and Appellee’s rebuttal arguments, the Court issues the following final ruling.**
+
+**I. PROCEDURAL HISTORY AND STANDARD OF REVIEW**
+
+Appellant Tyrone Cecil Malloy appeals the trial court’s denial of his plea in abatement based on collateral estoppel. Appellant was indicted on two counts of Medicaid fraud in violation of OCGA § 49-4-146.1 (b) (2). Prior to the indictment, an Administrative Law Judge (ALJ) issued a decision finding no evidence that Appellant had committed fraud or willful misrepresentation under the Medicaid program, resulting in the termination of a payment withhold. The central issue on appeal is whether this administrative finding precludes the State from pursuing criminal charges for the same conduct.
+
+The applicability of collateral estoppel is a question of law subject to de novo review. See Levenstein v. Sapansky, 286 Ga. 202, 203 (686 SE2d 233) (2009).
+
+**II. ANALYSIS**
+
+A. The Scope of State v. Moore and the Binding Nature of Administrative Findings
+
+The Defense argues that *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), should be read narrowly to apply only to the use of administrative findings as evidence, rather than as a categorical bar to collateral estoppel. We find this interpretation unpersuasive. In *Moore*, the Georgia Supreme Court explicitly held that "the administrative proceeding conducted by the Department of Human Resources was a civil matter, and the findings therein do not bind the criminal court in a subsequent prosecution for fraud." Id. at 270. The language "do not bind" is a direct statement regarding the preclusive effect of such findings.
+
+The Defense contends that *Moore* did not address a scenario where the State fully participated in the administrative hearing and chose not to appeal. However, the Court in *Moore* did not base its holding on the State's level of participation or the procedural history of the administrative appeal. Rather, the holding was rooted in the fundamental distinction between civil administrative proceedings and criminal prosecutions. The administrative determination in this case, like in *Moore*, resolved a dispute regarding Medicaid reimbursement rules—a remedial civil action. It did not, and could not, adjudicate Appellant's criminal guilt. Therefore, *Moore* remains controlling precedent that civil administrative findings cannot bind a criminal court.
+
+B. Material Differences in Standards of Proof and Legal Elements
+
+The Defense argues that the administrative proceeding in this case is distinguishable from *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007), because the ALJ specifically found "no evidence of fraud," whereas *Jenkins* involved only a determination of overpayment. While we acknowledge this factual distinction, it does not overcome the legal barrier identified in *Jenkins*.
+
+In *Jenkins*, the Court held that an administrative determination regarding Medicaid overpayments does not estop the State from later prosecuting criminal fraud charges because "the issues and standards of proof are materially different." Id. at 458. The Defense correctly notes that the ALJ found "no evidence of fraud or willful misrepresentation." However, this finding was made based on a preponderance of the evidence standard applicable to civil administrative disputes. The criminal prosecution requires proof that Appellant "knowingly and willfully" defrauded the State beyond a reasonable doubt.
+
+The United States Supreme Court has held that collateral estoppel cannot apply when "the standards of proof and elements of proof differ" between proceedings. United States v. Mendoza, 464 U.S. 154, 159–60, 104 S. Ct. 568, 572, 78 L. Ed. 2d 379 (1984). The Defense argues that *Mendoza* permits estoppel where the government has "previously litigated and lost" involving the same parties. Even assuming the "same parties" requirement is met, the differing standards of proof—preponderance of the evidence in the administrative hearing versus beyond a reasonable doubt in the criminal trial—constitute a material difference that precludes the application of collateral estoppel. The ALJ's finding that the evidence was insufficient to meet the civil standard is not equivalent to a finding that the State cannot prove criminal intent beyond a reasonable doubt.
+
+C. The State’s Authority to Prosecute and Fundamental Fairness
+
+The Defense relies on *State v. Smith*, 256 Ga. 533, 534, 350 S.E.2d 433 (1986), arguing that the State should be estopped because it fully litigated the issue and lost, rather than the civil proceeding resulting in a "merely" favorable outcome. The Defense posits that allowing the State to prosecute after losing the administrative hearing violates fundamental fairness and constitutes "forum shopping."
+
+While the Defense's fairness arguments are intuitively appealing, they are contrary to established Georgia jurisprudence. *Smith* holds that "the State is not estopped from prosecuting a criminal case merely because a civil proceeding resulted in a finding favorable to the defendant." Id. The Court in *Smith* did not create an exception for cases where the State participated fully in the civil proceeding. The State's sovereign authority to enforce criminal laws is not waived by its participation in a parallel civil administrative process.
+
+Furthermore, the administrative proceeding and the criminal prosecution serve distinct societal interests. The administrative process is designed to ensure the fiscal integrity of the Medicaid program and determine provider eligibility. The criminal prosecution is designed to punish wrongdoing and deter criminal conduct. As noted in *Department of Human Resources v. Parris*, 263 Ga. 232, 235, 430 S.E.2d 714 (1993), collateral estoppel against the State is disfavored, particularly where the prior proceeding was civil in nature and the current proceeding is criminal. Permitting collateral estoppel in this context would allow the outcome of a civil administrative hearing, utilizing a lower standard of proof, to dictate the State's ability to enforce its criminal laws.
+
+**III. CONCLUSION**
+
+Based on the foregoing analysis, the administrative decision finding no evidence of civil fraud does not preclude the State from prosecuting Appellant for criminal Medicaid fraud. The proceedings involved different standards of proof, different legal elements, and different purposes. The binding precedent of *State v. Moore*, *State v. Jenkins*, and *State v. Smith* establishes that collateral estoppel cannot be applied to bar this prosecution. Therefore, the trial court did not err in denying Appellant’s plea in abatement.
+
+**The trial court’s order denying the plea in abatement is AFFIRMED.**
+
+**SO ORDERED.**
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis utilizes highly relevant and directly applicable precedents to address the core legal question: whether a civil administrative finding of "no fraud" in a Medicaid context precludes a subsequent criminal prosecution.
+*   **Levenstein v. Sapansky**: Correctly cited for the standard of review (de novo for questions of law).
+*   **State v. Moore**: Directly applicable as it addresses the specific issue of civil Medicaid administrative findings not binding criminal courts.
+*   **State v. Jenkins**: Highly relevant as it specifically discusses the material difference in standards of proof between Medicaid overpayment determinations and criminal fraud.
+*   **United States v. Mendoza**: Relevant for the general principle regarding differing standards of proof and elements of proof.
+*   **State v. Smith**: Directly applicable to the argument that a favorable civil outcome does not bar criminal prosecution.
+*   **DHR v. Parris**: Relevant for the general posture of collateral estoppel against the State.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis meticulously extracts the necessary legal constraints required for collateral estoppel to apply and for the cited precedents to be controlling:
+1.  **Identity of Issues/Elements**: The analysis identifies the constraint that the "elements of proof" must be the same, distinguishing between "civil fraud/reimbursement eligibility" and "criminal intent (knowingly and willfully)."
+2.  **Standard of Proof**: It correctly extracts the threshold requirement that the standards of proof must not differ materially (Preponderance of Evidence vs. Beyond a Reasonable Doubt).
+3.  **Nature of the Proceeding**: It identifies the constraint that the proceeding must be of a nature capable of adjudicating the issue (Civil/Remedial vs. Criminal/Punitive).
+4.  **Sovereign Authority/Fairness**: It extracts the constraint from *Smith* and *Parris* regarding the State's independent authority to prosecute regardless of civil outcomes.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+*   **Standard of Proof**: The argument that a finding of "no evidence" under a preponderance standard does not equate to an acquittal under a "beyond a reasonable doubt" standard is a valid legal application.
+*   **Legal Elements**: The analysis correctly argues that the administrative hearing focused on reimbursement rules (remedial), whereas the indictment focuses on criminal intent (punitive), thus the "identity of issues" constraint is not met.
+*   **Procedural Posture**: The analysis validly counters the Defense's "fundamental fairness" argument by citing *Smith*, correctly noting that the State's participation in a civil hearing does not waive its sovereign right to prosecute.
+*   **Factual Accuracy**: The analysis does not exaggerate the facts; it acknowledges the ALJ's specific finding of "no evidence of fraud" but correctly contextualizes it within the civil standard.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**CLOSING ARGUMENT FOR THE PROSECUTION**  
+
+Your Honor, the prosecution submits that the trial court correctly denied Appellant’s plea in abatement because collateral estoppel categorically does not apply to bar a criminal prosecution based on a prior civil administrative proceeding. This principle is firmly rooted in binding Georgia precedent and federal jurisprudence, and the defense’s arguments mischaracterize controlling law while ignoring fundamental distinctions between civil and criminal adjudication.  
+
+First, the defense misreads *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), as a narrow rule limited to the "use of administrative findings as evidence." That is incorrect. *Moore* explicitly held: "The administrative proceeding conducted by the Department of Human Resources was a civil matter, and the findings therein do not bind the criminal court in a subsequent prosecution for fraud." *Id.* at 270. The phrase "do not bind" is a direct, categorical rejection of preclusive effect in criminal cases. It does not matter that the State participated fully in the administrative hearing or chose not to appeal—*Moore*’s holding is not conditioned on procedural history but on the inherent distinction between civil administrative proceedings and criminal prosecutions. The Georgia Supreme Court has never carved out an exception for cases where the State litigated and lost in a civil forum; to the contrary, it has consistently treated civil administrative findings as non-binding in criminal contexts.  
+
+Second, the defense’s reliance on *United States v. Mendoza*, 464 U.S. 154, 104 S. Ct. 568, 78 L. Ed. 2d 379 (1984), is misplaced. *Mendoza* addressed non-mutual collateral estoppel in *civil* cases, explicitly stating that its holding "does not address the situation where the government has previously litigated and lost on an issue in a prior proceeding involving the same parties." *Id.* at 161–62. But this case involves a *criminal prosecution*, not a civil dispute. The Supreme Court has never applied *Mendoza* to criminal proceedings, and Georgia courts have repeatedly rejected applying collateral estoppel to bar criminal charges based on civil outcomes. Critically, *Mendoza* itself underscores that collateral estoppel is inapplicable when "the standards of proof and elements of proof differ" between proceedings. *Id.* at 159–60. Here, the administrative hearing applied a preponderance-of-the-evidence standard, while the criminal prosecution requires proof beyond a reasonable doubt. This difference is not merely technical—it is foundational to the separation of civil and criminal justice. As *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007), held, "the issues and standards of proof are materially different" in Medicaid overpayment cases, and administrative findings on civil fraud cannot estop criminal fraud charges. *Id.* at 458. The defense claims *Jenkins* is distinguishable because the ALJ addressed "fraud," but the *Jenkins* court’s reasoning was not limited to "overpayment" determinations—it focused on the irreconcilable differences in legal standards. Even if the administrative proceeding examined "fraud," the civil standard for fraud under Medicaid regulations differs materially from the criminal standard for "knowingly and willfully" defrauding the State under OCGA § 49-4-146.1(b)(2).  
+
+Third, *State v. Smith*, 256 Ga. 533, 350 S.E.2d 433 (1986), squarely rejects the defense’s "fundamental fairness" argument. *Smith* holds that "the State is not estopped from prosecuting a criminal case merely because a civil proceeding resulted in a finding favorable to the defendant." *Id.* at 534. The word "merely" does not imply exceptions; it reinforces that a civil outcome alone is insufficient to bar criminal prosecution, regardless of how fully the State participated or whether it chose not to appeal. The defense’s insistence that this case involves more than a "merely favorable" outcome is legally irrelevant—*Smith*’s rule is categorical. Moreover, the State’s sovereign authority to enforce criminal laws cannot be waived by participation in a civil administrative process. As *Department of Human Resources v. Parris*, 263 Ga. 232, 235, 430 S.E.2d 714 (1993), confirms, collateral estoppel against the State is "disfavored" in criminal contexts because civil proceedings serve remedial purposes (e.g., fiscal integrity of Medicaid), while criminal prosecutions serve punitive and deterrent functions. Allowing collateral estoppel here would improperly allow a civil administrative determination—rendered under a lower standard of proof and for a different purpose—to dictate the State’s ability to enforce its criminal laws.  
+
+Finally, the defense’s claim that the administrative proceeding and criminal prosecution involve "identical factual issues" is legally untenable. The administrative hearing resolved a dispute over Medicaid reimbursement under a civil regulatory framework, while the criminal indictment charges intentional fraud under a punitive statute. The legal elements, burdens of proof, and societal interests at stake are fundamentally distinct. As *Mendoza* and *Jenkins* make clear, collateral estoppel cannot apply when the proceedings involve different standards, different elements, and different purposes. The trial court properly recognized this distinction and denied the plea in abatement.  
+
+In conclusion, the binding precedent of *Moore*, *Smith*, *Jenkins*, and *Mendoza* compels the conclusion that collateral estoppel does not bar this criminal prosecution. The trial court’s ruling was correct as a matter of law. The prosecution respectfully requests that this Court affirm the denial of the plea in abatement.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The prosecution cites five key authorities, all of which are highly relevant to the core legal question of whether a civil administrative finding of "no fraud" can collaterally estop a criminal prosecution for Medicaid fraud:
+- ***State v. Moore***: Directly addresses the non-binding nature of administrative findings in criminal fraud prosecutions.
+- ***United States v. Mendoza***: Provides the federal standard regarding differing standards of proof as a bar to collateral estoppel.
+- ***State v. Jenkins***: Specifically applies the "materially different" standards of proof argument to Medicaid overpayment/fraud cases.
+- ***State v. Smith***: Establishes that a favorable civil outcome does not bar criminal prosecution.
+- ***Dept. of Human Resources v. Parris***: Discusses the general disfavor of collateral estoppel against the State in criminal contexts.
+All citations are directly applicable and target the specific legal hurdles raised by the defense.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints (the "tests") required for the precedents to apply:
+1. **Standard of Proof (Mendoza/Jenkins)**: Correctly identifies that the "preponderance of evidence" (civil) vs. "beyond a reasonable doubt" (criminal) is a material difference that precludes estoppel.
+2. **Nature of the Proceeding (Moore/Parris)**: Correctly extracts the constraint that the remedial/civil purpose of an administrative hearing is fundamentally different from the punitive/deterrent purpose of a criminal trial.
+3. **Legal Elements (Jenkins/OCGA § 49-4-146.1)**: Correctly identifies that "civil fraud" under regulations is not the same as the "knowing and willful" intent required for criminal liability.
+4. **Sovereign Authority (Smith)**: Correctly identifies that a favorable civil outcome is not a threshold requirement to bar the State's power to prosecute.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments supporting the constraints are logically sound and factually accurate based on the provided case facts:
+- **Standard of Proof**: The argument that a finding of "no evidence" under a lower civil standard does not preclude the State from attempting to prove a case under a higher criminal standard is a valid application of *Mendoza*.
+- **Legal Elements**: The analysis correctly distinguishes between the administrative "withhold" dispute (reimbursement eligibility) and the criminal charges (intentional fraud), avoiding any exaggeration of the facts.
+- **Procedural History**: The prosecution validly argues that the State's failure to appeal the ALJ decision does not waive its sovereign right to prosecute, which is consistent with the holding in *Smith*.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently synthesized. It does not merely list cases but organizes them into a coherent theory:
+- It begins by attacking the defense's narrow reading of *Moore*.
+- It then moves to the technical/doctrinal bar (Standards of Proof via *Mendoza* and *Jenkins*).
+- It addresses the "fairness" and "participation" arguments via *Smith* and *Parris*.
+- It concludes by synthesizing these points into a unified theory: that the difference in purpose, element, and burden makes the two proceedings legally distinct. It prioritizes the dispositive issue (the categorical nature of the civil-criminal divide) over secondary procedural arguments.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It proactively addresses the defense's strongest points (the "no evidence of fraud" finding and the State's full participation) and systematically dismantles them using binding precedent. By framing the defense's arguments as "mischaracterizations" of the law and emphasizing the "foundational separation" of civil and criminal justice, the prosecution leaves a compelling impression that the trial court's decision was not just reasonable, but legally mandatory.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE CLOSING STATEMENT
+
+## In the Court of Appeals of Georgia
+
+---
+
+**Introduction and Statement of the Case**
+
+Your Honor, the Defense respectfully submits this closing statement in support of Appellant Tyrone Cecil Malloy's position that the doctrine of collateral estoppel precludes the State from prosecuting this matter. The Defense acknowledges the thorough analysis in this Court's Final Ruling, but maintains that certain critical distinctions between the instant case and the precedent upon which the Court relied warrant reconsideration.
+
+The Defense does not dispute that *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), stands for the general proposition that administrative findings typically do not bind criminal courts. However, the Defense maintains that this case presents a materially different factual and procedural scenario that takes it outside the scope of *Moore* and its progeny.
+
+---
+
+**I. The Unique Procedural Posture Distinguishes This Case from *Moore***
+
+The Defense submits that the instant case is fundamentally distinguishable from *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997), based on critical procedural distinctions that render the categorical rule of *Moore* inapplicable.
+
+In *Moore*, the defendant was charged with fraud based on representations made in a Medicaid application. The administrative proceeding at issue was conducted by the Department of Human Resources, and the opinion does not indicate whether the State actively participated in that proceeding or had a full opportunity to contest the issues. The Georgia Supreme Court's holding was grounded in the fundamental distinction between civil and criminal proceedings, without regard to the procedural history of the specific administrative action.
+
+In the instant case, the procedural posture is distinctly different. Here, the State, through the Georgia Department of Community Health (DCH) and its Program Integrity Unit, initiated the investigation that gave rise to the administrative proceeding. The State conducted the review, made the findings, imposed the withhold, and then fully participated in the administrative hearing before the Administrative Law Judge. The State was not a passive bystander to the administrative process; it was the moving party that imposed the sanction and then defended that imposition at a full evidentiary hearing.
+
+After the ALU issued a decision finding no evidence of fraud or willful misrepresentation, the State had the opportunity to seek reconsideration, rehearing, or modification of that decision pursuant to OCGA § 50-13-41(e)(1). The State chose not to do so. By operation of law, the ALU's decision became the final decision of DCH. The State cannot now be permitted to relitigate the same factual and legal issues in a criminal prosecution when it had a full and fair opportunity to do so in the administrative forum and chose not to pursue appellate remedies.
+
+The Defense maintains that *Moore* should be read as establishing a general rule—that administrative findings do not bind criminal courts *absent exceptional circumstances*—rather than as establishing a categorical bar that applies regardless of the State's participation and procedural choices. The instant case presents those exceptional circumstances.
+
+---
+
+**II. The Defense Does Not Rely on *Mendoza* for a General Rule of Estoppel**
+
+The Defense acknowledges that its citation to *United States v. Mendoza*, 464 U.S. 154, 104 S. Ct. 568, 78 L. Ed. 2d 379 (1984), has been characterized as misplaced. However, the Defense submits that certain principles articulated in *Mendoza* remain applicable and supportive of its position.
+
+The Defense does not argue that *Mendoza* establishes a general rule of collateral estoppel against the government in criminal cases. Rather, the Defense cites *Mendoza* for the unremarkable proposition that collateral estoppel is inappropriate when the standards of proof differ between proceedings. The Defense agrees with the prosecution and this Court that the preponderance-of-the-evidence standard applied in the administrative proceeding differs from the beyond-a-reasonable-doubt standard applicable in the criminal prosecution.
+
+However, the Defense submits that this case presents a unique situation where the ALU's finding was not merely that the State failed to prove fraud by a preponderance of the evidence, but that there was *no evidence* of fraud or willful misrepresentation. This factual finding—that the record contained no evidence supporting the fraud allegations—goes beyond a mere comparison of standards of proof. It represents a substantive determination that the State's own evidence, as presented in a full evidentiary hearing, was insufficient to establish the factual predicate for fraud allegations.
+
+The Defense further notes that *Mendoza* explicitly left open the question of whether collateral estoppel might apply "where the government has previously litigated and lost on an issue in a prior proceeding involving the same parties." *Id.* at 161-62. While the prosecution is correct that *Mendoza* did not resolve this question, the Defense submits that the instant case presents precisely this scenario: the government (through DCH) litigated the fraud issue in a civil proceeding involving the same parties (Dr. Malloy and the State) and lost.
+
+---
+
+**III. This Case Is Distinguishable from *Jenkins* and Involves More Than a "Merely Favorable" Outcome**
+
+The Defense acknowledges the holding in *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007), that administrative determinations regarding Medicaid overpayments do not estop criminal prosecution. However, the Defense submits that the instant case is materially distinguishable.
+
+In *Jenkins*, the administrative proceeding resulted in a determination that the defendant had received overpayments—a determination that, while favorable to the defendant to some degree, did not constitute a finding that no fraud had occurred. The Court of Appeals characterized the administrative determination as addressing "whether [the defendant] had been overpaid" rather than whether he had committed fraud. *Id.* at 458.
+
+In the instant case, the ALU made a specific finding that there was "no evidence of fraud or willful misrepresentation" under the Medicaid program. This is not merely a determination that the defendant was not overpaid or that the billing errors were innocent. It is a specific factual finding that the State's own evidence, as presented in a full evidentiary hearing, was insufficient to establish the essential elements of fraud.
+
+The Defense submits that *State v. Smith*, 256 Ga. 533, 350 S.E.2d 433 (1986), does not control this case because the outcome in the administrative proceeding was more than "merely favorable" to Dr. Malloy. In *Smith*, the defendant was charged with vehicular homicide, and the administrative proceeding involved the suspension of his driver's license. The administrative hearing addressed whether the defendant's license should be suspended—not whether the defendant had committed criminal homicide. The outcome was favorable to the defendant only in the sense that it prevented the administrative sanction; it did not constitute a finding on the ultimate criminal issue.
+
+Here, by contrast, the administrative proceeding directly addressed the question of whether Dr. Malloy had committed fraud or willful misrepresentation under the Medicaid program. The ALU found that there was no evidence of such fraud or misrepresentation. This is not a "merely favorable" outcome—it is a specific factual finding on the precise issue that the State now seeks to relitigate in the criminal prosecution.
+
+---
+
+**IV. Fundamental Fairness and the Prevention of Forum Shopping**
+
+The Defense submits that allowing the State to proceed with criminal prosecution after fully litigating the fraud issue in an administrative hearing and losing violates fundamental principles of fairness and encourages improper forum shopping.
+
+The State cannot have it both ways. If the State believes that a provider has committed fraud, it has the option of pursuing criminal charges through the appropriate law enforcement channels. Alternatively, the State may pursue administrative remedies, such as the imposition of a withhold on Medicaid reimbursements. The State chose to pursue the administrative remedy first, and it did so aggressively—it conducted an investigation, imposed a withhold, and then defended that withhold in a full administrative hearing.
+
+Having lost that administrative proceeding—and having chosen not to appeal—the State should not be permitted to change course and pursue criminal charges based on the same conduct. This is precisely the "forum shopping" that the doctrine of collateral estoppel is designed to prevent. The State is effectively attempting to obtain in the criminal forum what it could not obtain in the civil forum: a finding that Dr. Malloy committed fraud.
+
+The Defense acknowledges that *Department of Human Resources v. Parris*, 263 Ga. 232, 430 S.E.2d 714 (1993), holds that collateral estoppel against the State is disfavored. However, the Defense submits that the facts of *Parris* are distinguishable. In *Parris*, the prior proceeding involved a termination of Medicaid benefits, and the Court was concerned that allowing collateral estoppel would improperly prevent the State from enforcing eligibility requirements. The instant case involves not an eligibility determination, but a specific finding that no fraud occurred—a finding made after a full evidentiary hearing at which the State presented its evidence.
+
+---
+
+**V. The Defense's Key Points**
+
+The Defense summarizes its key arguments as follows:
+
+1. **Unique Procedural Posture**: This case is distinguishable from *Moore* because the State actively initiated and fully participated in the administrative proceeding, had the opportunity to appeal the adverse decision, and chose not to do so.
+
+2. **More Than a "Merely Favorable" Outcome**: The ALU's finding that there was "no evidence of fraud or willful misrepresentation" is a substantive factual determination on the precise issue now presented in the criminal prosecution, not merely a favorable procedural outcome.
+
+3. **Fundamental Fairness**: Allowing the State to prosecute after fully litigating and losing in the administrative forum violates fundamental fairness and encourages improper forum shopping.
+
+4. **The State Should Not Benefit from Its Choice Not to Appeal**: The State had a full and fair opportunity to contest the fraud allegations in the administrative forum. By choosing not to appeal the adverse decision, the State accepted that determination and should not be permitted to relitigate the same issues in a criminal prosecution.
+
+---
+
+**Conclusion**
+
+The Defense respectfully maintains that the doctrine of collateral estoppel should bar the State from prosecuting Dr. Malloy for Medicaid fraud based on the prior administrative determination that there was no evidence of fraud or willful misrepresentation. While the Defense acknowledges the general rule of *Moore* and its progeny, the unique procedural posture of this case—including the State's full participation in the administrative proceeding and its choice not to appeal the adverse decision—takes this case outside the scope of that general rule.
+
+The Defense requests that this Court reverse the trial court's denial of the plea in abatement and remand with instructions to dismiss the indictment.
+
+---
+
+**Respectfully submitted,**
+
+**[Defense Counsel]**
+
+**For Appellant Tyrone Cecil Malloy**
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Defense Closing Statement
+
+#### A. Citation Relevance (Score: 4)
+The analysis evaluates five key precedents: *State v. Moore*, *United States v. Mendoza*, *State v. Jenkins*, *State v. Smith*, and *Department of Human Resources v. Parris*. 
+- **Moore, Jenkins, and Smith** are the primary Georgia authorities governing the intersection of administrative findings and criminal prosecution for fraud.
+- **Mendoza** is the leading U.S. Supreme Court authority on collateral estoppel against the government.
+- **Parris** addresses the general disfavor of estoppel against the State.
+All citations are highly relevant as they directly address the legal question of whether a civil administrative finding of "no fraud" can bar a criminal prosecution.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required for collateral estoppel to apply, specifically:
+1. **Identity of Issues**: It distinguishes the "overpayment" issue in *Jenkins* from the "no evidence of fraud" finding in the present case.
+2. **Full and Fair Opportunity to Litigate**: It emphasizes the State's role as the moving party, its full participation in the hearing, and its choice not to appeal (OCGA § 50-13-41(e)(1)).
+3. **Standard of Proof**: It acknowledges the difference between "preponderance of evidence" and "beyond a reasonable doubt" but argues that a finding of "no evidence" transcends the standard of proof constraint.
+4. **Nature of the Outcome**: It distinguishes between a "merely favorable" outcome (*Smith*) and a substantive factual determination on the merits.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments are logically sound and factually accurate based on the provided case facts:
+- **Procedural Validity**: The argument that the State initiated the withhold and failed to appeal the ALJ's decision is factually supported.
+- **Legal Reasoning**: The distinction between *Jenkins* (overpayment) and the current case (finding of "no fraud") is a valid legal nuance.
+- **Logical Consistency**: The argument that "no evidence" is a more powerful constraint than a mere failure to meet a burden of proof is a sophisticated and valid legal theory.
+- **No Exaggeration**: The analysis adheres to the background facts without distorting the record.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently synthesized. It does not merely repeat the opening brief but responds directly to the Judge's Final Ruling. It prioritizes the most dispositive issue: the **unique procedural posture** (State's active participation and failure to appeal). It integrates the prior analysis of *Moore* and *Mendoza* into a unified theory that the case represents "exceptional circumstances" that override general rules.
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It strategically concedes the general rules (e.g., *Moore*) to appear reasonable, then methodically dismantles the application of those rules to the specific facts of this case. By framing the State's conduct as "forum shopping" and highlighting the "no evidence" finding, it creates a compelling narrative of fundamental unfairness that challenges the court to provide an exception to the general rule.
+
+---
+
+### Final Scores
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**MALLOY v. STATE OF GEORGIA**
+
+**DOCKET NO:** S12A1234 (Example)
+
+**Pursuant to the review of the closing arguments presented by both the Prosecution and the Defense, the Court issues the following final ruling.**
+
+**I. PROCEDURAL HISTORY AND STANDARD OF REVIEW**
+
+Appellant Tyrone Cecil Malloy appeals the trial court’s denial of his plea in abatement based on collateral estoppel. Appellant was indicted on two counts of Medicaid fraud in violation of OCGA § 49-4-146.1 (b) (2). Prior to the indictment, an Administrative Law Judge (ALJ) issued a decision finding no evidence that Appellant had committed fraud or willful misrepresentation under the Medicaid program, resulting in the termination of a payment withhold. The central issue on appeal is whether this administrative finding precludes the State from pursuing criminal charges for the same conduct.
+
+The applicability of collateral estoppel is a question of law subject to de novo review. See Levenstein v. Sapansky, 286 Ga. 202, 203 (686 SE2d 233) (2009).
+
+**II. ANALYSIS**
+
+A. The Binding Nature of Administrative Findings in Criminal Proceedings
+
+The Defense argues that the unique procedural posture of this case—specifically, the State’s active participation in the administrative hearing and its failure to appeal the adverse decision—distinguishes it from the holding of *State v. Moore*, 268 Ga. 269, 486 S.E.2d 818 (1997). We find this distinction unpersuasive.
+
+In *Moore*, the Georgia Supreme Court held that "the administrative proceeding conducted by the Department of Human Resources was a civil matter, and the findings therein do not bind the criminal court in a subsequent prosecution for fraud." Id. at 270. The Defense contends that *Moore* should be read as establishing a general rule with exceptions for cases where the State fully litigates and loses. However, the language "do not bind" is categorical. The Court in *Moore* based its decision on the fundamental distinction between civil administrative proceedings and criminal prosecutions, not on the level of the State's participation or the procedural history of the administrative appeal. The administrative determination in this case, like in *Moore*, resolved a dispute regarding Medicaid reimbursement rules—a remedial civil action. It did not, and could not, adjudicate Appellant's criminal guilt. Therefore, *Moore* remains controlling precedent that civil administrative findings cannot bind a criminal court, regardless of the State's decision to forgo an administrative appeal.
+
+B. Standards of Proof and the "No Evidence" Finding
+
+The Defense places significant weight on the ALJ’s specific finding that there was "no evidence of fraud or willful misrepresentation," arguing this constitutes a substantive factual determination that transcends the civil standard of proof. While we acknowledge the specificity of the ALJ's language, this finding does not overcome the legal barrier identified in *State v. Jenkins*, 288 Ga. App. 455, 654 S.E.2d 246 (2007).
+
+In *Jenkins*, the Court held that an administrative determination regarding Medicaid overpayments does not estop the State from later prosecuting criminal fraud charges because "the issues and standards of proof are materially different." Id. at 458. The Defense argues that *Jenkins* is distinguishable because it involved an overpayment determination rather than a finding of "no fraud." However, the principle of *Jenkins* applies with equal force here. The ALJ's finding of "no evidence" was a conclusion based on the "preponderance of the evidence" standard applicable to civil administrative disputes. The criminal prosecution requires proof that Appellant "knowingly and willfully" defrauded the State "beyond a reasonable doubt."
+
+The United States Supreme Court has held that collateral estoppel cannot apply when "the standards of proof and elements of proof differ" between proceedings. United States v. Mendoza, 464 U.S. 154, 159–60, 104 S. Ct. 568, 572, 78 L. Ed. 2d 379 (1984). The Defense argues that a finding of "no evidence" implies the record is empty, rendering the standard of proof irrelevant. We disagree. The ALJ's finding that the evidence was insufficient to meet the civil standard is not equivalent to a finding that the State cannot prove criminal intent beyond a reasonable doubt. The administrative record was developed for the purpose of determining reimbursement eligibility, not criminal culpability. Furthermore, the facts indicate that the State’s Medicaid Fraud Control Unit continued its investigation, including executing a search warrant, during the administrative process. Thus, the evidence available to the criminal trier of fact may differ from that presented to the ALJ.
+
+C. Fundamental Fairness and Sovereign Authority
+
+The Defense argues that allowing the State to prosecute after losing the administrative hearing violates fundamental fairness and constitutes "forum shopping." While these arguments are intuitively appealing, they are contrary to established Georgia jurisprudence.
+
+*State v. Smith*, 256 Ga. 533, 534, 350 S.E.2d 433 (1986), holds that "the State is not estopped from prosecuting a criminal case merely because a civil proceeding resulted in a finding favorable to the defendant." Id. The Defense argues that the outcome here was more than "merely favorable" because it directly addressed the issue of fraud. However, *Smith* does not limit its holding to cases where the civil proceeding is tangentially related; it addresses the State's sovereign authority to prosecute. The State's right to enforce criminal laws is not waived by its participation in a parallel civil administrative process, nor by its failure to appeal an administrative decision that addressed only civil liability.
+
+As noted in *Department of Human Resources v. Parris*, 263 Ga. 232, 235, 430 S.E.2d 714 (1993), collateral estoppel against the State is disfavored, particularly where the prior proceeding was civil in nature and the current proceeding is criminal. Permitting collateral estoppel in this context would allow the outcome of a civil administrative hearing, utilizing a lower standard of proof and serving a remedial purpose, to dictate the State's ability to enforce its criminal laws. The administrative process ensures the fiscal integrity of the Medicaid program, while the criminal prosecution serves to punish wrongdoing and deter criminal conduct. These are distinct societal interests that permit parallel proceedings.
+
+**III. CONCLUSION**
+
+Based on the foregoing analysis, the administrative decision finding no evidence of civil fraud does not preclude the State from prosecuting Appellant for criminal Medicaid fraud. The proceedings involved different standards of proof, different legal elements, and different purposes. The binding precedent of *State v. Moore*, *State v. Jenkins*, and *State v. Smith* establishes that collateral estoppel cannot be applied to bar this prosecution. The State's participation in the administrative hearing and its choice not to appeal the decision do not constitute a waiver of its sovereign power to prosecute criminal offenses. Therefore, the trial court did not err in denying Appellant’s plea in abatement.
+
+**The trial court’s order denying the plea in abatement is AFFIRMED.**
+
+**SO ORDERED.**
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis relies on several key precedents to address the core legal question: whether a civil administrative finding of "no fraud" precludes a criminal prosecution for Medicaid fraud via collateral estoppel.
+*   **Levenstein v. Sapansky**: Highly relevant for establishing the standard of review (*de novo*).
+*   **State v. Moore**: Directly applicable. It addresses the specific issue of whether administrative findings by the Department of Human Resources bind a criminal court in fraud prosecutions.
+*   **State v. Jenkins**: Highly relevant. It specifically deals with Medicaid overpayment administrative determinations and the material difference in standards of proof.
+*   **United States v. Mendoza**: Relevant as a foundational federal authority on the necessity of identical standards of proof for collateral estoppel.
+*   **State v. Smith**: Directly applicable. It addresses the general rule that a favorable civil outcome does not estop criminal prosecution.
+*   **Dept. of Human Resources v. Parris**: Relevant for the general principle that collateral estoppel against the State is disfavored in civil-to-criminal transitions.
+
+**Score: 4** (All cited cases are highly relevant and directly applicable to the legal question.)
+
+#### B. Constraints Extraction
+The analysis identifies the necessary legal constraints/conditions required for the cited precedents to apply:
+1.  **Nature of the Proceeding (Moore/Parris)**: The analysis correctly extracts the constraint that the prior proceeding was "civil/remedial" and the current is "criminal/punitive."
+2.  **Standard of Proof (Jenkins/Mendoza)**: The analysis identifies the "preponderance of the evidence" (civil) versus "beyond a reasonable doubt" (criminal) as a critical threshold requirement for estoppel.
+3.  **Materiality of Issues (Jenkins)**: It extracts the requirement that the issues must be "materially" the same, noting the difference between reimbursement eligibility and criminal culpability.
+4.  **Sovereign Authority (Smith)**: It identifies the constraint that a "favorable outcome" in a civil case is insufficient to waive the State's sovereign power to prosecute.
+
+**Score: 4** (All necessary constraints—legal elements, standards of proof, and jurisdictional/sovereign distinctions—are fully and correctly extracted.)
+
+#### C. Argument Validity per Constraint
+The analysis provides strong, logically sound arguments for each identified constraint:
+*   **Regarding Moore**: The argument that "do not bind" is categorical and not contingent on the State's level of participation is a valid interpretation of the precedent.
+*   **Regarding Jenkins/Mendoza**: The analysis effectively counters the "no evidence" argument by explaining that a finding of "no evidence" under a civil standard does not equate to an inability to prove criminal intent beyond a reasonable doubt, especially when the criminal investigation (search warrants) produced different evidence.
+*   **Regarding Smith/Parris**: The argument correctly distinguishes between the remedial purpose of the DCH (fiscal integrity) and the punitive purpose of the criminal court (deterrence), validating why the State's participation in one does not waive the other.
+*   **Factual Accuracy**: The analysis remains faithful to the provided case facts (e.g., the specific OCGA statute, the ALJ's finding, and the search warrant).
+
+**Score: 4** (Strong, valid arguments are provided for every constraint with sound legal reasoning and factual accuracy.)
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

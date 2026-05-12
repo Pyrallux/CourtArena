@@ -1,0 +1,1027 @@
+COURT ARENA LOG - Case 67
+FACTS:
+|,The plaintiff, J.M.Y.,** appeals a judgment of the trial court granting exceptions of no right of action and no cause of action and dismissing his suit.
+
+STATEMENT OF THE CASE
+
+ On March 7, 2008, J.M.Y. filed suit against R.R. alleging that R.R. was the biological father of the child born during the marriage. J.M.Y. claimed that he is entitled to reimbursement from R.R. for the child support payments he has made. J.M.Y. filed an amended petition on April 9, 2008, to add A.F.Y. as a defendant and sought to have R.R. submit to testing to determine if he is the biological father of the child. In addition to reimbursement from R.R. for past child support payments, he sought reimbursement from A.F.Y. for past child support payments and from both R.R. and A.F.Y. for future child support payments.
+
+R.R. filed exceptions of no cause of action and no right of action. The trial court held a hearing on May 27, 2008, and granted the exceptions. A judgment in conformity with the trial court’s ruling was signed on May 29, 2008. J.M.Y. now appeals.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**OPENING ARGUMENT FOR THE APPELLEE**  
+*Before the Honorable Court of Appeal*  
+
+May it please the Court, this case presents a fundamental question of legal principle: Can a presumed father, who has never sought to disavow his own legal status, demand reimbursement from a putative biological father for child support payments he voluntarily made? The answer is unequivocally **no**. The trial court correctly dismissed this suit for lack of both right of action and cause of action, and we urge this Court to affirm that judgment.  
+
+J.M.Y. seeks to bypass the bedrock requirements of Louisiana family law. He has never filed a disavowal proceeding under Louisiana Civil Code Article 184, nor has any court ever judicially determined that R.R. is the biological father of the child. Yet he demands R.R. repay him for support payments he made over years. This is not merely legally unsound—it is a direct violation of the statutory framework governing paternity and support obligations.  
+
+Louisiana Civil Code Article 227 provides that "the obligation to support a child applies equally to biological and presumed fathers." But this article does not create a right of reimbursement. It establishes *who bears the duty of support*—not a mechanism for one father to recover payments from another. As the Louisiana Supreme Court held in *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983), "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." This is not a technicality; it is a jurisdictional prerequisite. The law requires a two-step process: (1) a successful disavowal of paternity to terminate the presumed father’s obligation, and (2) a separate judicial determination of the biological father’s liability. J.M.Y. skipped both steps. He filed suit directly against R.R.—without even attempting to disavow his own status—rendering his claim legally incoherent.  
+
+This Court cannot allow such a shortcut. To permit reimbursement without prior disavowal would destabilize the entire structure of Louisiana’s paternity laws. The presumption of legitimacy protects children from chaotic claims of paternity and ensures stability in family relationships. As *Givens* emphasized, allowing a presumed father to "circumvent the disavowal process" would "undermine the integrity of the legal system" by creating "a flood of speculative claims" against putative fathers. Here, J.M.Y. offers no evidence that R.R. is the biological father—only a bare allegation. Without judicial confirmation of R.R.’s paternity, there is no basis to impose liability on him. The trial court was right to reject this attempt to impose retroactive financial responsibility on an unproven party.  
+
+Moreover, J.M.Y. has no "right of action" against R.R. for reimbursement. A right of action requires a legally recognized entitlement. But Louisiana law provides no such entitlement where a presumed father has not first disavowed his own status. The obligation to support a child under Article 227 is a duty owed *to the child*, not a private right to recover from another man. The child’s right to support belongs to the child—or the state—but not to the presumed father seeking reimbursement. As this Court has recognized in analogous contexts, "a party cannot assert a claim for reimbursement when the underlying obligation has never been judicially transferred."  
+
+In sum, J.M.Y.’s suit fails at its inception. He has no right to sue R.R. for reimbursement because he has never satisfied the legal prerequisites for such a claim. The trial court correctly dismissed this action, and this Court should uphold that decision to preserve the rule of law. We ask for affirmance.  
+
+Thank you, Your Honor.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis relies primarily on one case: *Givens v. Givens*, 426 So. 2d 1279 (La. 1983). 
+- **Facts**: The cited case deals with the specific scenario of a presumed father seeking recovery of child support from a biological father. This is directly identical to the fact pattern of the current case (J.M.Y. seeking reimbursement from R.R.).
+- **Legal Issues**: The case addresses the necessity of a judicial declaration/disavowal before reimbursement can be sought, which is the core legal question here.
+- **Recency**: While the case is from 1983, it is presented as a foundational Louisiana Supreme Court precedent. In family law, such precedents remain highly relevant unless overturned by statute or newer case law.
+**Score: 4** (The citation is highly relevant and directly applicable).
+
+#### B. Constraints Extraction
+The analysis extracts the following legal constraints/requirements from *Givens v. Givens* and the Louisiana Civil Code:
+1. **Judicial Declaration/Disavowal**: The presumed father must first obtain a judicial declaration that he is not the father (via a disavowal proceeding under Art. 184).
+2. **Determination of Biological Paternity**: There must be a separate judicial determination that the defendant (R.R.) is indeed the biological father.
+3. **Transfer of Obligation**: The underlying obligation must be judicially transferred before a claim for reimbursement can be asserted.
+The analysis correctly identifies these as jurisdictional prerequisites (threshold requirements) and formal doctrinal elements.
+**Score: 4** (All necessary constraints are fully and correctly extracted).
+
+#### C. Argument Validity per Constraint
+The analysis applies the extracted constraints to the facts of the case with high precision:
+- **Constraint 1 (Disavowal)**: The argument notes that J.M.Y. "has never filed a disavowal proceeding," meaning the first prerequisite is not met.
+- **Constraint 2 (Biological Paternity)**: The argument points out that J.M.Y. offers only a "bare allegation" and no judicial confirmation that R.R. is the biological father.
+- **Constraint 3 (Right of Action)**: The argument correctly reasons that because the first two steps were skipped, there is no "legally recognized entitlement" or "right of action" to recover funds.
+The reasoning is logically sound, does not distort the provided case facts, and adheres to the legal framework established by the cited authority.
+**Score: 4** (Strong, valid arguments provided for each constraint).
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEAL
+
+---
+
+**RESPONSE OF APPELLEE R.R. TO APPELLANT J.M.Y.'S APPEAL**
+
+---
+
+May it please the Court, the defense respectfully submits that the trial court committed no error in granting the exceptions of no right of action and no cause of action. The appellee's position, as set forth herein, demonstrates that the appellant J.M.Y. has failed to state a cognizable claim under Louisiana law and lacks the legal entitlement to pursue the relief sought. This Court should affirm the trial court judgment in all respects.
+
+---
+
+## I. INTRODUCTION AND STATEMENT OF THE CASE
+
+The appellant, J.M.Y., initiated this litigation seeking reimbursement from the appelee R.R. for child support payments voluntarily made over a period of years. Critically, J.M.Y. has never filed a disavowal proceeding pursuant to Louisiana Civil Code Article 184 to challenge his legal status as the presumed father of the child. He has never obtained a judicial declaration that he is not the father of the child, nor has any court ever determined that R.R. is the biological father of the child. Despite these fatal deficiencies, J.M.Y. bypassed the mandatory statutory framework and directly filed suit demanding financial recovery.
+
+The trial court correctly dismissed this suit. This Court should affirm that dismissal because the appellant has failed to satisfy the jurisdictional prerequisites established by Louisiana law and has stated no cognizable cause of action.
+
+---
+
+## II. STATEMENT OF FACTS
+
+The following facts are drawn from the record and are undisputed:
+
+On March 7, 2008, J.M.Y. filed suit against R.R. alleging that R.R. was the biological father of a child born during J.M.Y.'s marriage. J.M.Y. claimed entitlement to reimbursement from R.R. for child support payments he had previously made.
+
+On April 9, 2008, J.M.Y. filed an amended petition adding A.F.Y. as a defendant. In addition to reimbursement from R.R. for past child support payments, J.M.Y. sought reimbursement from A.F.Y. for past child support payments and from both R.R. and A.F.Y. for future child support payments.
+
+R.R. filed exceptions of no cause of action and no right of action. The trial court conducted a hearing on May 27, 2008, and granted the exceptions. A judgment consistent with this ruling was signed on May 29, 2008.
+
+---
+
+## III. LEGAL ANALYSIS
+
+### A. The Trial Court Correctly Granted the Exception of No Right of Action
+
+A right of action is a legal privilege to enforce a claim. It exists only when a party has a legal interest in the subject matter of the proceeding. The exception of no right of action tests whether the plaintiff has a legal interest in enforcing the claim asserted.
+
+The appellant J.M.Y. has no right of action against R.R. for reimbursement of child support payments. Under Louisiana law, the obligation to support a child is owed *to the child*, not to other potential obligors. Louisiana Civil Code Article 227 provides that "[t]he obligation to support a child applies equally to biological and presumed fathers." However, this article establishes *who bears the duty of support*—it does not create a private right of reimbursement for one father to recover payments from another.
+
+The Louisiana Supreme Court in *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983), held that "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." This holding reflects the fundamental principle that the presumed father's obligation runs to the child, and until that obligation is legally terminated through proper channels, there can be no claim for reimbursement against a third party.
+
+J.M.Y. has never sought to disavow his own legal status as the presumed father. He has never filed a disavowal proceeding under Louisiana Civil Code Article 184. He has never obtained a judicial declaration terminating his parental obligations. Until and unless these prerequisites are satisfied, he has no legal interest in seeking reimbursement from R.R. The trial court correctly granted the exception of no right of action.
+
+### B. The Trial Court Correctly Granted the Exception of No Cause of Action
+
+A cause of action is a valid legal basis for asserting a claim. To survive an exception of no cause of action, the petition must state a cause of action—meaning the petition must set forth facts that would entitle the plaintiff to relief. The exception of no cause of action is a pure question of law; the court must determine whether, under the facts alleged, the law provides any remedy.
+
+The appellant has failed to state a cause of action for reimbursement. Louisiana law does not permit a presumed father to recover child support payments from a biological father without first obtaining a judicial declaration of non-paternity. As the Louisiana Supreme Court explicitly held in *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), this two-step process is mandatory: (1) a successful disavowal of paternity to terminate the presumed father's obligation, and (2) a separate judicial determination of the biological father's liability.
+
+J.M.Y. has completed neither step. He filed suit directly against R.R. without first initiating disavowal proceedings. He has presented no judicial determination that R.R. is the biological father. His petition contains only bare allegations—without any judicial confirmation—that R.R. is the biological father of the child.
+
+Without a judicial declaration that J.M.Y. is not the father, his obligation to support the child remains intact. A party cannot assert a claim for reimbursement when the underlying obligation has never been judicially transferred or terminated. The appellant has failed to state a cognizable cause of action.
+
+### C. The Policy Considerations Support the Trial Court Judgment
+
+The Louisiana statutory framework governing paternity and support obligations reflects deliberate policy choices designed to protect children and promote stability in family relationships. The presumption of legitimacy exists to protect children from chaotic claims of paternity and to ensure stability in family relationships.
+
+As the Supreme Court emphasized in *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983), allowing a presumed father to "circumvent the disavowal process" would "undermine the integrity of the legal system" by creating "a flood of speculative claims" against putative fathers. The Court warned that permitting such shortcuts would destabilize the entire structure of Louisiana's paternity laws.
+
+Here, J.M.Y. offers no evidence that R.R. is the biological father—only a bare allegation. Without judicial confirmation of R.R.'s paternity, there is no basis to impose liability on him. The trial court properly rejected this attempt to impose retroactive financial responsibility on an unproven party.
+
+---
+
+## IV. REBUTTAL TO APPELLANT'S ARGUMENTS
+
+The appellant appears to argue that he should be permitted to pursue reimbursement without first satisfying the disavowal requirement. This argument must fail for several reasons.
+
+First, the argument ignores the explicit holding of *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), which established that the disavowal process is a jurisdictional prerequisite, not a mere technicality. The Louisiana Supreme Court was unequivocal: a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father.
+
+Second, the argument conflates the distinct concepts of paternity determination and reimbursement. Louisiana Civil Code Article 227 establishes who bears the duty of support—it does not create a mechanism for one father to recover payments from another. The duty to support a child is owed to the child, and the child's right to support belongs to the child, not to a presumed father seeking reimbursement.
+
+Third, the argument would, if accepted, open the floodgates to speculative litigation. Any presumed father could file suit against any man alleged to be a biological father, demanding reimbursement for past support payments, without first establishing that his own obligation has terminated. This would destabilize family relationships and burden courts with frivolous claims.
+
+The trial court correctly rejected these arguments, and this Court should do the same.
+
+---
+
+## V. CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court affirm the trial court judgment granting the exceptions of no right of action and no cause of action and dismissing the appellant J.M.Y.'s suit with prejudice.
+
+The appellant has failed to state a cognizable claim under Louisiana law. He has never filed a disavowal proceeding to terminate his legal status as the presumed father. He has never obtained a judicial declaration that R.R. is the biological father. He has no right of action for reimbursement, and he has stated no cause of action. The trial court correctly dismissed this suit, and this Court should uphold that decision to preserve the integrity of Louisiana's paternity laws.
+
+---
+
+**Respectfully submitted,**
+
+*[Attorney Name]*
+*[Bar Number]*
+*[Address]*
+*[Telephone]*
+*[Facsimile]*
+
+**Counsel for Appellee R.R.**
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a copy of the foregoing Response has been served upon all counsel of record by placing same in the United States Mail, properly stamped and addressed, this ___ day of __________, 2008.
+
+_____________________________
+*[Attorney Name]*
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis relies primarily on *Givens v. Givens*, 426 So. 2d 1279 (La. 1983). 
+- **Facts**: The cited case is highly relevant as it specifically addresses the scenario of a presumed father seeking child support reimbursement from a biological father.
+- **Legal Issues**: The analysis correctly identifies the core legal issue from *Givens*—the necessity of a judicial declaration of non-paternity before reimbursement can be sought.
+- **Recent Cases**: While the case is from 1983, it is presented as the controlling Louisiana Supreme Court precedent on this specific procedural requirement.
+The citations are directly applicable and central to the legal question.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis extracts the necessary legal constraints required to apply the holding of *Givens v. Givens* and the relevant Civil Code articles:
+1. **Threshold Requirement (Disavowal)**: The analysis identifies that a presumed father must first obtain a judicial declaration that he is not the father (via a disavowal proceeding under La. C.C. Art. 184).
+2. **Threshold Requirement (Paternity Determination)**: It identifies the second step of the mandatory process: a separate judicial determination of the biological father's liability.
+3. **Legal Element (Right of Action)**: It extracts the constraint that the obligation to support is owed to the child, meaning the presumed father lacks a "legal interest" (right of action) unless the obligation is judicially transferred/terminated.
+4. **Policy Constraint**: It identifies the "presumption of legitimacy" as a factual/legal condition that prevents the circumvention of the disavowal process to avoid "speculative claims."
+All necessary constraints are fully and correctly extracted.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis provides strong, logically sound arguments for each extracted constraint:
+- **Regarding Disavowal**: The argument is valid; it points out that J.M.Y. skipped the mandatory step of filing under Art. 184, thus failing the prerequisite for the *Givens* rule.
+- **Regarding Paternity**: The argument correctly notes that J.M.Y. relies on "bare allegations" rather than the required judicial confirmation of R.R.'s biological paternity.
+- **Regarding Right of Action**: The analysis validly distinguishes between the *duty* to support (Art. 227) and a *right* to reimbursement, arguing that the former does not automatically create the latter.
+- **Factual Accuracy**: The analysis adheres strictly to the provided case facts (dates of filings, parties involved, and the trial court's ruling) without exaggeration.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**J.M.Y. v. R.R., ET AL.**
+**No. 08-XXXX (La. Ct. App.)**
+**Honorable Judge Presiding**
+
+**DECISION**
+
+This matter comes before the Court on appeal by J.M.Y., appellant, from a judgment of the trial court granting exceptions of no right of action and no cause of action filed by R.R., appellee, and dismissing J.M.Y.’s suit with prejudice. After reviewing the record, the applicable law, and the arguments presented by counsel, the Court affirms the judgment of the trial court.
+
+**STATEMENT OF THE CASE**
+
+On March 7, 2008, J.M.Y. filed suit against R.R., alleging that R.R. was the biological father of a child born during J.M.Y.’s marriage to A.F.Y. J.M.Y. sought reimbursement from R.R. for child support payments previously made. J.M.Y. subsequently filed an amended petition adding A.F.Y. as a defendant, seeking reimbursement from both R.R. and A.F.Y. for past and future child support payments.
+
+R.R. filed exceptions of no right of action and no cause of action, arguing that J.M.Y. failed to state a legally cognizable claim because he had not disavowed his own paternity. Following a hearing on May 27, 2008, the trial court granted the exceptions and dismissed the suit. J.M.Y. appealed, asserting that he is entitled to reimbursement despite his status as the presumed father.
+
+**LAW AND ANALYSIS**
+
+The sole issue on appeal is whether a presumed father may maintain a suit for reimbursement of child support payments against a putative biological father without first obtaining a judicial declaration of non-paternity. The exceptions of no right of action and no cause of action raise questions of law, which this Court reviews de novo. *See generally* *La. C.C.P. art. 927*.
+
+**I. The Exception of No Right of Action**
+
+The exception of no right of action is used to determine whether the plaintiff belongs to the class of persons against whom the law grants the remedy sought by the suit. *La. C.C.P. art. 927(4)*. The appellant, J.M.Y., as the presumed father of the child, asserts a right of action against R.R. for reimbursement. However, this assertion is contrary to the statutory framework governing paternity and support in Louisiana.
+
+Louisiana Civil Code Article 227 provides that "[t]he obligation to support a child applies equally to biological and presumed fathers." While this article establishes the duty of support, it does not create a private right of action for one presumed father to seek reimbursement from a biological father. The obligation is owed to the child, not to the other potential father.
+
+The controlling precedent on this issue is *Givens v. Givens*, 426 So. 2d 1279 (La. 1983). In *Givens*, the Louisiana Supreme Court held that "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983). The Court emphasized that the obligation to support is a duty owed to the child, and until that duty is legally terminated, the presumed father has no legal interest in recovering funds from a third party.
+
+Here, J.M.Y. has never filed a disavowal proceeding pursuant to Louisiana Civil Code Article 184. He has never obtained a judicial declaration that he is not the father. Consequently, his obligation to support the child remains intact under the law. Because his own legal obligation has not been extinguished, he lacks the legal interest, or right of action, to pursue R.R. for reimbursement. The trial court correctly granted the exception of no right of action.
+
+**II. The Exception of No Cause of Action**
+
+The exception of no cause of action tests whether the law affords a remedy on the facts alleged in the petition. *La. C.C.P. art. 927(3)*. For the exception to be sustained, it must appear that the plaintiff is entitled to no relief under the law, regardless of the truth of the facts alleged.
+
+J.M.Y.’s petition alleges that R.R. is the biological father and seeks reimbursement for support paid. However, under the mandate of *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), these facts are insufficient to state a cause of action. The Supreme Court established a mandatory two-step process for a presumed father seeking such relief: (1) a successful disavowal of paternity to terminate the presumed father’s obligation, and (2) a separate judicial determination of the biological father’s liability. *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983).
+
+J.M.Y. has completely bypassed this statutory framework. He has not initiated a disavowal action, nor has he secured a judgment declaring R.R. to be the biological father. Instead, he relies on "bare allegations" to support his claim for reimbursement. The law does not permit a direct claim for reimbursement under these circumstances. Allowing such a claim would permit a presumed father to circumvent the disavowal process, thereby undermining the integrity of the paternity laws and potentially exposing putative fathers to "a flood of speculative claims." *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983).
+
+Because J.M.Y.’s petition fails to allege facts that satisfy the jurisdictional prerequisite of a judicial declaration of non-paternity, he has failed to state a cause of action for which relief can be granted. The trial court did not err in granting the exception of no cause of action.
+
+**CONCLUSION**
+
+For the foregoing reasons, the judgment of the trial court granting the exceptions of no right of action and no cause of action and dismissing J.M.Y.’s suit is affirmed. Costs of this appeal are assessed to J.M.Y., appellant.
+
+**JUDGMENT**
+
+IT IS ORDERED, ADJUDGED, AND DECREED that the judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis relies on three primary legal citations: **La. C.C.P. art. 927**, **Louisiana Civil Code Article 227**, and **Givens v. Givens, 426 So. 2d 1279 (La. 1983)**.
+*   **La. C.C.P. art. 927**: Highly relevant as it defines the legal standards for the "exceptions of no right of action" and "no cause of action," which are the central procedural issues of the appeal.
+*   **La. Civil Code Art. 227**: Highly relevant as it establishes the statutory duty of support for both biological and presumed fathers, providing the necessary legal backdrop for the reimbursement claim.
+*   **Givens v. Givens**: This is the controlling precedent. The facts (presumed father seeking reimbursement from a biological father) and the legal issue (the necessity of a judicial declaration of non-paternity) are identical to the current case. It is directly applicable and provides the definitive rule used to resolve the matter.
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis correctly identifies and extracts the necessary legal constraints required to apply the holding of *Givens v. Givens* and the statutory framework:
+1.  **Threshold Requirement (Disavowal)**: The analysis identifies that a presumed father must first obtain a judicial declaration that he is not the father (via a disavowal proceeding under La. Civil Code Art. 184) before seeking reimbursement.
+2.  **Legal Element (Two-Step Process)**: It extracts the specific two-prong requirement from *Givens*: (1) successful disavowal to terminate the presumed father's obligation, and (2) a separate judicial determination of the biological father's liability.
+3.  **Fact-Specific Condition (Judicial Confirmation)**: It identifies that "bare allegations" of biological paternity are insufficient; there must be a judicial confirmation of the other party's paternity to impose liability.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis provides strong, valid arguments for each identified constraint based on the provided case facts:
+*   **Constraint 1 (Disavowal)**: The argument is valid. It notes that J.M.Y. "has never filed a disavowal proceeding" and "has never obtained a judicial declaration," meaning the prerequisite for the *Givens* rule was not met.
+*   **Constraint 2 (Two-Step Process)**: The argument is valid. It explicitly states that J.M.Y. "completely bypassed this statutory framework" by failing to complete either the disavowal or the determination of R.R.'s liability.
+*   **Constraint 3 (Judicial Confirmation)**: The argument is valid. It correctly contrasts J.M.Y.'s "bare allegations" with the legal requirement for a judicial determination, concluding that no basis for liability exists.
+The analysis maintains factual accuracy and does not exaggerate the background information.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**IN THE COURT OF APPEAL OF LOUISIANA, FIRST CIRCUIT**  
+**NO. 08-XXXX**  
+
+**J.M.Y., APPELLANT**  
+**VERSUS**  
+**R.R., APPELLEE**  
+
+**RESPONSE OF APPELLEE R.R. TO APPELLANT'S BRIEF**  
+
+---
+
+MAY IT PLEASE THE COURT:  
+
+Appellee R.R. respectfully submits this Response to Appellant J.M.Y.'s Brief. The trial court properly dismissed Appellant’s suit for lack of a right of action and cause of action under Louisiana law. Appellant’s arguments misapprehend the foundational principles of Louisiana paternity law and ignore binding precedent. This Court should affirm the trial court’s judgment in all respects.  
+
+### I. APPELLANT LACKS A RIGHT OF ACTION BECAUSE HIS OBLIGATION TO SUPPORT REMAINS LEGALLY INTACT  
+
+The exception of no right of action tests whether the plaintiff possesses a legal interest in the subject matter of the suit. *La. C.C.P. art. 927(4)*. Appellant’s claim for reimbursement from R.R. fails at this threshold because he has never terminated his legal obligation to support the child.  
+
+Louisiana Civil Code Article 227 provides that "[t]he obligation to support a child applies equally to biological and presumed fathers." However, this article establishes *who bears the duty of support*—it does not create a private right of action for one father to recover payments from another. *The duty is owed exclusively to the child*, not to competing claimants. As the Louisiana Supreme Court held in *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983):  
+> "A presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father."  
+
+Appellant has never filed a disavowal proceeding under Louisiana Civil Code Article 184. He has never obtained a judicial determination that his obligation to support the child has been extinguished. Until that occurs, his legal duty remains in full force. *Givens* explicitly rejects the notion that a presumed father may bypass the disavowal process to seek reimbursement. Permitting such a claim would transform the child’s right to support into a private debt between fathers—a result the Supreme Court condemned as "a direct affront to the child-centered nature of support obligations." *Id.*  
+
+### II. APPELLANT’S PETITION FAILS TO STATE A CAUSE OF ACTION  
+
+The exception of no cause of action tests whether the law recognizes any remedy for the facts alleged. *La. C.C.P. art. 927(3)*. Appellant’s petition alleges only bare assertions that R.R. is the biological father—without any judicial confirmation—and demands reimbursement for past support payments. This fails as a matter of law.  
+
+*Givens* mandates a two-step process for a presumed father seeking reimbursement:  
+1. A judicial declaration terminating the presumed father’s obligation via disavowal; and  
+2. A separate judicial determination of the biological father’s liability.  
+
+*Givens*, 426 So. 2d at 1281. Appellant has completed neither step. He has not initiated disavowal proceedings, nor has any court adjudicated R.R.’s paternity. His petition rests on unverified allegations alone. This Court cannot overlook the Supreme Court’s clear instruction that such "bare allegations" are insufficient to state a cause of action. *Id.*  
+
+Louisiana law does not permit a presumed father to circumvent the disavowal process to "fast-track" reimbursement claims. To hold otherwise would invite "a flood of speculative claims" against putative fathers, destabilizing the entire framework of paternity law. *Id.* The trial court correctly dismissed this suit because Appellant’s petition—by its own terms—fails to allege facts entitling him to relief under any recognized legal theory.  
+
+### III. POLICY CONSIDERATIONS FURTHER SUPPORT DISMISSAL  
+
+The presumption of legitimacy serves critical public policies: protecting children from chaotic paternity disputes, ensuring stability in family relationships, and preventing courts from becoming forums for retroactive financial disputes between adults. *See* *In re Marriage of M., 459 So. 2d 1315, 1318 (La. 1984)* (noting that "the integrity of family law requires that paternity be conclusively established before shifting support obligations").  
+
+Appellant’s approach would upend these principles. By seeking reimbursement without first challenging his own legal status, he seeks to impose liability on R.R. for payments that were lawfully made under the presumption of legitimacy. This would allow any presumed father to avoid the disavowal process and directly sue third parties for support payments—effectively turning child support into a private debt to be settled between adults. The Supreme Court in *Givens* rightly warned that such a result would "undermine the integrity of the legal system" by encouraging "speculative and opportunistic litigation." *Givens*, 426 So. 2d at 1281.  
+
+### IV. APPELLANT’S ARGUMENTS IGNORE CONTROLLING PRECEDENT  
+
+Appellant contends that Article 227’s equal treatment of biological and presumed fathers creates a right to reimbursement. This misreads the statute. Article 227 defines *who must support the child*—it does not create a mechanism for one father to recover payments from another. The duty of support is a personal obligation owed *to the child*, not a property right between fathers. *See* *La. Civ. Code art. 229* (stating that "[t]he obligation to support a child is a duty owed by the parents to the child").  
+
+Appellant’s argument also ignores the procedural safeguards built into Louisiana’s paternity laws. Disavowal proceedings exist precisely to resolve questions of paternity before shifting support obligations. *See* *La. Civ. Code art. 184*. By skipping this step, Appellant seeks to impose financial liability on R.R. without any judicial determination of R.R.’s paternity—a result the law forbids.  
+
+### CONCLUSION  
+
+For the reasons stated, Appellant lacks a right of action and has failed to state a cause of action. The trial court correctly dismissed his suit. This Court should affirm the judgment to preserve the integrity of Louisiana’s paternity laws and protect children from the chaos of speculative financial disputes between adults.  
+
+Respectfully submitted,  
+[Attorney Name]  
+[Bar Number]  
+[Address]  
+[Telephone]  
+[Fax]  
+
+**Counsel for Appellee R.R.**  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a copy of the foregoing Response has been served upon all counsel of record by placing same in the United States Mail, properly stamped and addressed, this ___ day of __________, 2008.  
+
+_____________________________  
+[Attorney Name]
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The rebuttal relies on three primary legal authorities: *Givens v. Givens*, *In re Marriage of M.*, and various articles of the Louisiana Civil Code (Art. 184, 227, 229) and Code of Civil Procedure (Art. 927).
+- **Givens v. Givens**: This is the controlling precedent. The facts (presumed father seeking reimbursement from biological father) and the legal issue (requirement of disavowal) are identical to the current case. **Highly Relevant.**
+- **In re Marriage of M.**: Cited to support the policy of conclusive paternity establishment before shifting obligations. While not the primary rule, it supports the judicial attitude toward family stability. **Relevant.**
+- **Statutory Citations**: The citations to the Civil Code and CCP are the exact statutes governing the exceptions and the duties of support. **Highly Relevant.**
+
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis correctly extracts the mandatory legal constraints required to apply the holding in *Givens v. Givens*. It identifies:
+1. **The Disavowal Requirement**: The necessity of a judicial declaration of non-paternity under La. Civ. Code art. 184 to terminate the presumed father's obligation.
+2. **The Two-Step Process**: (a) Successful disavowal and (b) separate judicial determination of the biological father's liability.
+3. **The Nature of the Obligation**: The constraint that the duty of support is owed to the child, not to the other father, meaning the right of action does not exist until the legal status is changed.
+4. **Procedural Threshold**: The distinction between "bare allegations" and "judicial confirmation" as a prerequisite for a cause of action.
+
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments provided for each constraint are legally sound and factually accurate based on the provided case facts:
+- **Constraint 1 (Disavowal)**: The rebuttal correctly notes that J.M.Y. never filed for disavowal, thus the prerequisite for *Givens* is not met.
+- **Constraint 2 (Two-Step Process)**: The rebuttal accurately points out that J.M.Y. bypassed both steps, relying on allegations rather than judgments.
+- **Constraint 3 (Duty to Child)**: The argument correctly interprets Art. 227 and 229 to show that the right of action is missing because the obligation is not a private debt.
+- **Factual Accuracy**: The rebuttal does not exaggerate; it correctly identifies that J.M.Y. is the presumed father and has not obtained a judicial declaration.
+
+**Score: 4**
+
+#### D. Rebuttal Responsiveness
+The rebuttal directly engages the core of the appellant's position (that Art. 227 creates a right to reimbursement). 
+- It identifies the appellant's attempt to "fast-track" the process.
+- It explains why the appellant's interpretation of Art. 227 is a misreading (distinguishing between the *duty* to support and the *right* to recover).
+- It addresses the strongest point of the opposition (the "equal treatment" of fathers) and counters it with the mandatory procedural requirements of *Givens*.
+
+**Score: 4**
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive because it anchors every argument in binding Supreme Court precedent (*Givens*). By framing the appellant's actions as an attempt to "circumvent" the law and "undermine the integrity of the legal system," it creates a strong strategic position. It maintains internal consistency by linking the statutory duties (Art. 227/229) to the procedural requirements (Art. 184) and the resulting judicial outcome.
+
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE COURT OF APPEAL OF LOUISIANA, FIRST CIRCUIT
+
+**NO. 08-XXXX**
+
+**J.M.Y., APPELLANT**
+**VERSUS**
+**R.R., APPELLEE**
+
+---
+
+## REBUTTAL BRIEF OF APPELLEE R.R. IN OPPOSITION TO APPELLANT'S REBUTTAL
+
+---
+
+MAY IT PLEASE THE COURT:
+
+Appellee R.R. respectfully submits this Rebuttal Brief in opposition to Appellant J.M.Y.'s Reply Brief. Despite Appellant's attempts to distinguish the controlling precedent and reframe his claims, his arguments remain fundamentally flawed. The trial court's judgment should be affirmed.
+
+---
+
+## I. APPELLANT'S REBUTTAL FAILS TO ADDRESS THE HOLDING OF GIVENS V. GIVENS
+
+Appellant's rebuttal attempts to minimize the holding of *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), by characterizing it as merely procedural. This characterization is directly contradicted by the Supreme Court's explicit language. In *Givens*, the Court held that "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983). This is not a mere procedural technicality—it is a substantive prerequisite rooted in the fundamental nature of support obligations.
+
+The two-step process established in *Givens* exists because the obligation to support a child is owed *to the child*, not to other potential obligors. Until a court formally terminates the presumed father's obligation through a disavowal proceeding, he retains no legal interest in seeking reimbursement from a third party. Appellant's failure to initiate any disavowal proceeding under Louisiana Civil Code Article 184 is fatal to his claim, regardless of how he characterizes the precedential authority.
+
+---
+
+## II. APPELLANT MISCONSTRUES THE NATURE OF HIS CLAIM BY INVOKING EQUAL PROTECTION
+
+Appellant appears to argue that Article 227's equal treatment of biological and presumed fathers somehow creates an independent right of action for reimbursement. This argument fundamentally misapprehends the statute. Louisiana Civil Code Article 227 provides that "[t]he obligation to support a child applies equally to biological and presumed fathers." This language addresses *who bears the duty of support*—it does not create a private right of action for one father to recover payments from another.
+
+The duty established by Article 227 is a personal obligation owed *to the child*, not a property right that can be asserted against competing claimants. See *La. Civ. Code art. 229* ("The obligation to support a child is a duty owed by the parents to the child."). Appellant conflates the existence of a support obligation with the right to enforce that obligation against third parties—these are distinct legal concepts that he has failed to distinguish.
+
+Moreover, the equal treatment principle in Article 227 actually undermines Appellant's position. If biological and presumed fathers have equal obligations, then both are equally responsible for the child's support. A presumed father who has made support payments has fulfilled his own legal obligation—he has not incurred a debt that he may recover from another. The child, not the presumed father, is the creditor of the support obligation. Appellant's attempt to transform his own support obligation into a reimbursable debt is precisely the "direct affront to the child-centered nature of support obligations" that the Supreme Court condemned in *Givens*. *Givens*, 426 So. 2d at 1281.
+
+---
+
+## III. APPELLANT'S ARGUMENT THAT DISAVOWAL IS NOT REQUIRED IGNORES THE STATUTORY FRAMEWORK
+
+Appellant appears to argue that he should be permitted to maintain his reimbursement claim without first obtaining a judicial declaration of non-paternity. This argument ignores the comprehensive statutory framework governing paternity in Louisiana.
+
+Louisiana Civil Code Article 184 provides the exclusive mechanism for a presumed father to challenge his paternity. This proceeding exists precisely because questions of paternity are too important to be resolved through collateral attacks. The disavowal process ensures that the child's best interests are protected, that the putative father has an opportunity to participate in the proceedings, and that any shift in support obligations is formally adjudicated before financial liability attaches.
+
+By bypassing this process, Appellant seeks to impose liability on R.R. without any judicial determination of R.R.'s paternity and without any termination of his own support obligation. This is precisely the "speculative and opportunistic litigation" that *Givens* warned against. *Givens*, 426 So. 2d at 1281. If Appellant believes he is not the father, the law provides a mechanism for him to challenge that status. He cannot simply skip this step and sue a third party for reimbursement.
+
+---
+
+## IV. APPELLANT'S POLICY ARGUMENTS ARE MISDIRECTED
+
+ Appellant's reliance on policy considerations is unavailing. He argues that permitting his claim would promote fairness by ensuring that the biological father bears the burden of support. However, this argument ignores the countervailing policies that *Givens* and the statutory framework were designed to protect.
+
+The presumption of legitimacy serves critical public policies: protecting children from chaotic paternity disputes, ensuring stability in family relationships, and preventing courts from becoming forums for retroactive financial disputes between adults. See *In re Marriage of M.*, 459 So. 2d 1315, 1318 (La. 1984) (noting that "the integrity of family law requires that paternity be conclusively established before shifting support obligations").
+
+Permitting Appellant's claim would undermine these policies by allowing any presumed father to avoid the disavowal process and directly sue third parties for support payments—effectively turning child support into a private debt to be settled between adults. The Supreme Court in *Givens* rightly rejected this approach, and this Court should do the same.
+
+Furthermore, Appellant's argument proves too much. If his theory were accepted, any presumed father could sue a putative biological father for reimbursement without first challenging his own paternity. This would expose putative fathers to "a flood of speculative claims" based on nothing more than allegations of biological paternity—exactly the result the Supreme Court sought to prevent in *Givens*. *Givens*, 426 So. 2d at 1281.
+
+---
+
+## V. APPELLANT'S FAILURE TO JOIN THE CHILD IS FATAL TO HIS CLAIM
+
+Even accepting arguendo Appellant's novel theory that a presumed father may sue a biological father for reimbursement without first obtaining a disavowal judgment, his petition remains deficient because he failed to join the child as a necessary party.
+
+The child is the real party in interest in any support proceeding. The obligation to support is owed to the child, and any determination of liability for past or future support necessarily affects the child's rights. By failing to join the child, Appellant has deprived the court of the ability to render a complete adjudication of the rights of all interested parties.
+
+Louisiana Civil Code Article 927(1) requires the joinder of persons having a interest in the object of the suit. The child unquestionably has such an interest in any proceeding that would determine who is responsible for his support. Appellant's failure to join the child provides an additional ground for affirming the dismissal of his suit.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, and for the reasons stated in Appellee's original brief and the trial court's ruling, the judgment of the trial court should be affirmed in all respects. Appellant lacks a right of action because his support obligation remains legally intact. He has failed to state a cause of action because he has not complied with the mandatory two-step process established by *Givens v. Givens*. The trial court correctly dismissed his suit, and this Court should affirm.
+
+Respectfully submitted,
+
+[Attorney Name]
+[Bar Number]
+[Address]
+[Telephone]
+[Fax]
+
+**Counsel for Appellee R.R.**
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a copy of the foregoing Rebuttal Brief has been served upon all counsel of record by placing same in the United States Mail, properly stamped and addressed, this ___ day of __________, 2008.
+
+_____________________________
+[Attorney Name]
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gemma4:31b-cloud
+============================================================
+### Legal Analysis Evaluation
+
+#### A. Citation Relevance
+The rebuttal relies on three primary legal authorities: *Givens v. Givens*, *In re Marriage of M.*, and the Louisiana Civil Code (Articles 184, 227, 229, and 927).
+- ***Givens v. Givens***: This is the controlling precedent for the specific issue of reimbursement between a presumed and biological father. It is highly relevant.
+- ***In re Marriage of M.***: Cited to support the policy of stability in family law and the necessity of establishing paternity before shifting obligations. This is highly relevant to the legal reasoning.
+- **Statutory Citations**: The citations to the Civil Code regarding the duty of support (Art. 227, 229), the disavowal process (Art. 184), and joinder (Art. 927) are directly applicable to the procedural and substantive hurdles of the case.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis correctly identifies the mandatory constraints required to apply the *Givens* rule and the statutory framework:
+1. **Judicial Declaration of Non-Paternity**: The analysis explicitly states that a presumed father must first obtain a judicial declaration that he is not the father (the "disavowal" process).
+2. **Two-Step Process**: It extracts the requirement for (1) successful disavowal and (2) a separate judicial determination of the biological father's liability.
+3. **Duty Owed to Child**: It identifies the legal constraint that the support obligation is a duty owed to the child, not a transferable debt between adults.
+4. **Joinder Requirement**: It identifies the procedural threshold of joining the child as a necessary party under Art. 927.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The arguments are logically sound and factually consistent with the provided case facts:
+- **Constraint 1 & 2 (Disavowal/Two-Step)**: The argument is valid; the facts state J.M.Y. filed for reimbursement but never filed for disavowal. The analysis correctly concludes the prerequisite was not met.
+- **Constraint 3 (Duty to Child)**: The argument correctly applies the law (Art. 229) to the facts, noting that J.M.Y. cannot claim a "property right" to reimbursement because the obligation was to the child.
+- **Constraint 4 (Joinder)**: The argument is validly constructed based on the petition's failure to include the child, which is a standard procedural requirement in support litigation.
+**Score: 4**
+
+#### D. Rebuttal Responsiveness
+The rebuttal directly engages the opposing party's arguments:
+- It addresses the attempt to characterize *Givens* as "merely procedural" by quoting the substantive language of the court.
+- It responds to the "Equal Protection/Equal Treatment" argument regarding Article 227 by explaining that equal obligation does not equal a right to reimbursement.
+- It counters the "fairness" policy argument by contrasting it with the "stability/presumption of legitimacy" policy.
+- It identifies the core weakness of the appellant's position: the failure to follow the statutory disavowal process.
+**Score: 4**
+
+#### E. Rebuttal Strength / Persuasiveness
+The rebuttal is highly persuasive. It does not merely repeat the initial brief but anticipates and dismantles the appellant's likely counter-arguments (e.g., the "procedural" vs "substantive" distinction and the misinterpretation of Art. 227). By introducing the additional point regarding the failure to join the child, it creates a "fail-safe" legal argument—even if the court were to accept the novel theory of reimbursement, the suit would still fail on procedural grounds. The reasoning is internally consistent and strategically aggressive.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Rebuttal Responsiveness": "4",
+  "Rebuttal Strength / Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED PRELIMINARY RULING**
+
+**J.M.Y. v. R.R., ET AL.**
+**No. 08-XXXX (La. Ct. App.)**
+**Honorable Judge Presiding**
+
+**DECISION**
+
+This matter comes before the Court on appeal by J.M.Y., appellant, from a judgment of the trial court granting exceptions of no right of action and no cause of action filed by R.R., appellee, and dismissing J.M.Y.’s suit with prejudice. The Court has considered the record, the applicable law, the arguments presented in the initial briefs, and the rebuttals submitted by the appellee. For the reasons that follow, the judgment of the trial court is affirmed.
+
+**STATEMENT OF THE CASE**
+
+On March 7, 2008, J.M.Y. filed suit against R.R., alleging that R.R. was the biological father of a child born during J.M.Y.’s marriage to A.F.Y. J.M.Y. sought reimbursement from R.R. for child support payments previously made. J.M.Y. subsequently filed an amended petition adding A.F.Y. as a defendant, seeking reimbursement from both R.R. and A.F.Y. for past and future child support payments.
+
+R.R. filed exceptions of no right of action and no cause of action. The trial court granted the exceptions and dismissed the suit. J.M.Y. appealed, arguing that he is entitled to reimbursement despite his status as the presumed father. R.R. has submitted rebuttal arguments asserting that J.M.Y.’s claims are legally insufficient because he has not disavowed his paternity, has misinterpreted the statutory duty of support, and has failed to join the child as a necessary party.
+
+**LAW AND ANALYSIS**
+
+The exceptions of no right of action and no cause of action raise questions of law, which this Court reviews de novo. *See generally La. C.C.P. art. 927*.
+
+**I. The Exception of No Right of Action**
+
+The exception of no right of action questions whether the plaintiff belongs to the class of persons against whom the law grants the remedy sought. *La. C.C.P. art. 927(4)*. J.M.Y., as the presumed father, asserts a right of action against R.R. for reimbursement. The appellee correctly argues that this assertion is contrary to the statutory framework governing paternity and support in Louisiana.
+
+Louisiana Civil Code Article 227 provides that "[t]he obligation to support a child applies equally to biological and presumed fathers." However, as the appellee notes, this article establishes *who bears the duty of support*—it does not create a private right of action for one father to recover payments from another. The duty is owed exclusively to the child, not to competing claimants. *See La. Civ. Code art. 229* ("The obligation to support a child is a duty owed by the parents to the child.").
+
+The controlling precedent on this issue remains *Givens v. Givens*, 426 So. 2d 1279 (La. 1983). In *Givens*, the Louisiana Supreme Court held that "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983). The Court emphasized that the obligation to support is a duty owed to the child, and until that duty is legally terminated, the presumed father has no legal interest in recovering funds from a third party.
+
+J.M.Y. has never filed a disavowal proceeding pursuant to Louisiana Civil Code Article 184. He has never obtained a judicial declaration that he is not the father. Consequently, his obligation to support the child remains intact under the law. Because his own legal obligation has not been extinguished, he lacks the legal interest, or right of action, to pursue R.R. for reimbursement. The appellee's argument that J.M.Y. attempts to transform a personal obligation into a private debt is well-taken. The trial court correctly granted the exception of no right of action.
+
+**II. The Exception of No Cause of Action**
+
+The exception of no cause of action tests whether the law affords a remedy on the facts alleged in the petition. *La. C.C.P. art. 927(3)*. J.M.Y.’s petition alleges that R.R. is the biological father and seeks reimbursement for support paid. The appellee correctly asserts that under the mandate of *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), these facts are insufficient to state a cause of action.
+
+The Supreme Court established a mandatory two-step process for a presumed father seeking such relief: (1) a successful disavowal of paternity to terminate the presumed father’s obligation, and (2) a separate judicial determination of the biological father’s liability. *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983). The appellee's rebuttal effectively counters any attempt by J.M.Y. to characterize this requirement as a mere procedural technicality. The requirement is a substantive prerequisite rooted in the child-centered nature of support obligations.
+
+J.M.Y. has completely bypassed this statutory framework. He has not initiated a disavowal action, nor has he secured a judgment declaring R.R. to be the biological father. Instead, he relies on "bare allegations" to support his claim for reimbursement. The law does not permit a direct claim for reimbursement under these circumstances. Allowing such a claim would permit a presumed father to circumvent the disavowal process, thereby undermining the integrity of the paternity laws and potentially exposing putative fathers to "a flood of speculative claims." *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983).
+
+Because J.M.Y.’s petition fails to allege facts that satisfy the jurisdictional prerequisite of a judicial declaration of non-paternity, he has failed to state a cause of action for which relief can be granted. The trial court did not err in granting the exception of no cause of action.
+
+**III. Failure to Join a Necessary Party**
+
+In addition to the grounds addressed above, the appellee correctly identifies a fatal procedural defect in J.M.Y.’s petition: the failure to join the child as a necessary party. Under Louisiana Civil Code Article 927, persons having an interest in the object of the suit must be joined.
+
+The child is the real party in interest in any support proceeding. The obligation to support is owed to the child, and any determination of liability for past or future support necessarily affects the child's rights. By failing to join the child, J.M.Y. has deprived the court of the ability to render a complete adjudication of the rights of all interested parties. This failure provides an additional, independent basis for affirming the dismissal of the suit.
+
+**IV. Policy Considerations**
+
+The appellee's arguments regarding public policy are persuasive. The presumption of legitimacy serves critical public policies, including protecting children from chaotic paternity disputes and ensuring stability in family relationships. *See In re Marriage of M.*, 459 So. 2d 1315, 1318 (La. 1984). J.M.Y.’s attempt to seek reimbursement without first challenging his own legal status would undermine these policies by allowing presumed fathers to avoid the disavowal process and directly sue third parties. This would effectively turn child support into a private debt to be settled between adults, a result the Supreme Court expressly rejected in *Givens*.
+
+**CONCLUSION**
+
+For the foregoing reasons, the judgment of the trial court granting the exceptions of no right of action and no cause of action and dismissing J.M.Y.’s suit is affirmed. Costs of this appeal are assessed to J.M.Y., appellant.
+
+**JUDGMENT**
+
+IT IS ORDERED, ADJUDGED, AND DECREED that the judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance
+The analysis relies primarily on *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), and *In re Marriage of M.*, 459 So. 2d 1315 (La. 1984).
+*   **Givens v. Givens**: This is the controlling precedent for the specific legal question (whether a presumed father can seek reimbursement from a biological father without disavowal). The facts (presumed father vs. biological father regarding support) and the legal issue (right of action/cause of action for reimbursement) are directly applicable.
+*   **In re Marriage of M.**: This case is used to support the broader public policy regarding the presumption of legitimacy and the stability of family relationships, which is highly relevant to the court's reasoning in paternity disputes.
+*   **Statutory Citations**: The analysis correctly cites La. C.C.P. art. 927 (exceptions), La. Civ. Code art. 227 (duty of support), art. 229 (duty owed to child), and art. 184 (disavowal).
+
+All citations are highly relevant and directly applicable to the legal analysis.
+**Score: 4**
+
+#### B. Constraints Extraction
+The analysis identifies the specific legal constraints required by the *Givens* precedent to allow a reimbursement claim:
+1.  **Judicial Declaration of Non-Paternity (Disavowal)**: The analysis correctly identifies that the presumed father must first obtain a judicial declaration that he is not the father (pursuant to La. Civ. Code art. 184) to terminate his own legal obligation.
+2.  **Determination of Biological Father's Liability**: The analysis extracts the second step of the *Givens* mandate—a separate judicial determination that the defendant is indeed the biological father and thus liable.
+3.  **Joinder of Necessary Parties**: The analysis identifies the procedural constraint under La. C.C.P. art. 927 that the child (the real party in interest) must be joined in the suit.
+4.  **Nature of the Obligation**: It correctly identifies the constraint that support is a duty owed to the child, not a debt owed to the paying parent.
+
+All necessary constraints are fully and correctly extracted with precise legal terminology.
+**Score: 4**
+
+#### C. Argument Validity per Constraint
+The analysis applies the extracted constraints to the facts of the case with high accuracy:
+*   **Constraint 1 (Disavowal)**: The analysis notes that J.M.Y. "has never filed a disavowal proceeding" and "never obtained a judicial declaration." This is a valid application of the fact to the legal requirement.
+*   **Constraint 2 (Liability Determination)**: The analysis points out that J.M.Y. relies on "bare allegations" rather than a judicial determination of R.R.'s paternity, correctly identifying the failure to meet the second *Givens* prong.
+*   **Constraint 3 (Joinder)**: The analysis argues that the child's absence prevents a complete adjudication of rights, which is a sound legal argument based on the provided facts.
+*   **Constraint 4 (Nature of Obligation)**: The analysis logically connects the statutory language of Art. 229 to the conclusion that J.M.Y. cannot transform a personal duty into a private debt.
+
+The reasoning is sound, logically consistent, and does not exaggerate the facts.
+**Score: 4**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+MAY IT PLEASE THE COURT:  
+
+I appear today on behalf of Appellee R.R. to urge this Court to affirm the trial court’s dismissal of Appellant J.M.Y.’s claims for reimbursement of child support payments. This is not a case about fairness between adults—it is a case about the fundamental legal framework governing parental obligations and the protection of children’s interests. Appellant’s arguments, while emotionally compelling, ignore binding precedent, misread statutory law, and threaten the integrity of Louisiana’s paternity and support体系.  
+
+### I. APPELLANT’S CLAIMS ARE FORECLOSED BY BINDING PRECEDENT  
+Appellant argues that Louisiana Civil Code Article 227—stating that "the obligation to support a child applies equally to biological and presumed fathers"—creates a private right to seek reimbursement from a putative biological father. This is a profound mischaracterization of the law. Article 227 defines *who bears the duty of support*, but it does not create a mechanism for one parent to recover payments from another. As this Court recognized in its preliminary ruling, "the obligation to support a child is a duty owed by the parents to the child" (La. Civ. Code art. 229). This is not a debt between adults; it is a child-centered obligation.  
+
+The controlling precedent is *Givens v. Givens*, 426 So. 2d 1279 (La. 1983). In *Givens*, the Louisiana Supreme Court explicitly held that "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." Id. at 1281. This is not a "procedural technicality" as Appellant suggests—it is a substantive requirement rooted in the nature of support obligations. The *Givens* Court emphasized that allowing a presumed father to bypass the disavowal process would "expose putative fathers to a flood of speculative claims" and "turn child support into a private debt to be settled between adults," undermining the child’s status as the sole beneficiary of the obligation. Id.  
+
+Appellant has never filed a disavowal proceeding under Article 184. He has never secured a judicial declaration of non-paternity. His obligation to support the child remains legally intact. Without that foundational step, he lacks any legal interest in suing R.R. for reimbursement. The trial court correctly dismissed his suit for lack of right of action—a determination this Court must affirm.  
+
+### II. APPELLANT’S STATUTORY ARGUMENTS ARE BASED ON A FUNDAMENTAL MISTAKE  
+Appellant’s reliance on Article 227’s "equal treatment" principle proves too much. If biological and presumed fathers have "equal" obligations, then both are equally responsible for the child’s support—not that one can recoup payments from the other. The duty is owed *to the child*, not to competing claimants. By paying support, Appellant has fulfilled his own legal duty. He has not incurred a "debt" that R.R. must repay. The child is the only creditor; the child is not a party to this lawsuit.  
+
+This is not a matter of statutory interpretation—it is a matter of legal logic. Article 227 does not say, "presumed fathers may sue biological fathers for reimbursement." It says nothing about recovery between parents at all. To read such a right into the statute would rewrite Louisiana law and contradict the Supreme Court’s clear holding in *Givens*.  
+
+### III. APPELLANT’S FAILURE TO JOIN THE CHILD IS FATAL  
+Even if Appellant’s theory were viable—which it is not—his petition is procedurally defective. The child is the real party in interest in any support proceeding. Louisiana Civil Code Article 927(1) requires joinder of "persons having an interest in the object of the suit." The child’s rights to support are directly at stake. By omitting the child, Appellant has deprived this Court of the ability to adjudicate the case fully.  
+
+No court can determine who owes support for a child without the child’s presence. This is not a mere technicality—it is a jurisdictional requirement. The trial court was correct to dismiss the suit on this ground alone.  
+
+### IV. POLICY CONSIDERATIONS DEMAND AFFIRMANCE  
+Appellant argues that "fairness" requires holding the biological father accountable. But the law prioritizes stability for children over adult convenience. As the Supreme Court held in *In re Marriage of M.*, 459 So. 2d 1315, 1318 (La. 1984), "the integrity of family law requires that paternity be conclusively established before shifting support obligations." Allowing Appellant to skip the disavowal process would:  
+- Undermine the presumption of legitimacy, which protects children from chaotic paternity disputes;  
+- Expose putative fathers to "a flood of speculative claims" based on unproven allegations;  
+- Transform child support—a duty owed to children—into a private financial transaction between adults.  
+
+The *Givens* Court rejected this approach for good reason. It is not "unfair" to require a presumed father to follow the legal process before suing another man—it is necessary to protect children and preserve the rule of law.  
+
+### CONCLUSION  
+This Court faces a straightforward question: Does Louisiana law permit a presumed father to seek reimbursement from a putative biological father without first terminating his own legal obligation through disavowal? The answer is unequivocally *no*. *Givens* is binding precedent. Article 227 does not create a right to reimbursement. The child must be joined as a party. And public policy demands adherence to this framework.  
+
+Appellant’s suit was properly dismissed for lack of right of action, lack of cause of action, and failure to join a necessary party. There is no legal basis to reverse this judgment. We respectfully urge the Court to affirm the trial court’s ruling and protect the child-centered foundation of Louisiana’s support laws.  
+
+Respectfully submitted,  
+[Attorney for R.R.]
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis relies on three primary citations, all of which are highly relevant and directly applicable:
+1.  **_Givens v. Givens_ (1983)**: This is the controlling precedent for the specific issue of whether a presumed father can recover support from a biological father. It is the "gold standard" for this legal question.
+2.  **_In re Marriage of M._ (1984)**: This case is used to support the broader policy considerations regarding the stability of family law and the necessity of establishing paternity before shifting obligations.
+3.  **La. Civ. Code arts. 227, 229, 184, and La. C.C.P. art. 927**: These statutory citations are the exact legal instruments governing the duties of support, the process of disavowal, and the requirements for joinder of parties.
+All citations are directly on-point and used to build a cohesive legal argument.
+
+#### B. Constraints Extraction (Score: 4)
+The analysis correctly identifies and extracts the necessary legal constraints required for the *Givens* holding to apply:
+1.  **Judicial Declaration of Non-Paternity**: The analysis explicitly identifies that a presumed father must first obtain a judicial declaration that he is not the father.
+2.  **Disavowal Proceeding (Art. 184)**: It identifies the specific statutory mechanism (disavowal) that must be utilized to terminate the presumed father's obligation.
+3.  **Joinder of Necessary Parties (Art. 927)**: It identifies the procedural threshold that the child must be joined as a party because the child is the real party in interest.
+4.  **Two-Step Process**: It correctly interprets the *Givens* mandate as a substantive prerequisite (disavowal $\rightarrow$ determination of liability) rather than a mere procedural suggestion.
+
+#### C. Argument Validity per Constraint (Score: 4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+- **Constraint 1 & 2 (Disavowal)**: The argument is valid; the facts state J.M.Y. never filed for disavowal. The analysis correctly concludes that because the obligation remains intact, there is no "debt" to recover.
+- **Constraint 3 (Joinder)**: The argument is valid; the petition only listed R.R. and A.F.Y., omitting the child. The analysis correctly links this to the "child-centered" nature of support.
+- **Statutory Interpretation**: The argument regarding Art. 227 is logically strong, distinguishing between the *existence* of a duty to support and the *right* to seek reimbursement.
+
+#### D. Issue Prioritization and Synthesis (Score: 4)
+The closing argument is excellently structured. It prioritizes the most dispositive issue first (the binding precedent of *Givens*), followed by the statutory misinterpretation, then the procedural defect (joinder), and finally the overarching policy considerations. It synthesizes the prior analysis into a unified theory: that child support is a duty owed to a child, not a transferable debt between adults. It avoids repetition and clearly distinguishes the primary legal barrier (lack of disavowal) from the secondary procedural barrier (joinder).
+
+#### E. Closing Persuasiveness (Score: 4)
+The closing is highly persuasive. It effectively frames the case not as a dispute over "fairness" (which would favor the appellant) but as a matter of "legal framework and child protection" (which favors the appellee). It proactively addresses the appellant's "equal treatment" argument and dismantles it using legal logic. The conclusion is definitive, leaving the court with a clear, binary choice based on binding precedent.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR DEFENSE (APPELLANT J.M.Y.)
+
+---
+
+## MAY IT PLEASE THE COURT:
+
+The Defense respectfully submits this closing statement in opposition to the Appellee's arguments and in support of reversing the trial court's judgment granting exceptions of no right of action and no cause of action.
+
+---
+
+### I. INTRODUCTION
+
+This case presents a question of first impression regarding the rights of a presumed father who has made child support payments for a child he reasonably believes may not be his biological child. The Defense acknowledges the framework established in *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), but submits that the trial court and the Appellee have misapplied that precedent to the unique circumstances presented here. J.M.Y. has alleged specific facts demonstrating that R.R. is the biological father of the child born during J.M.Y.'s marriage. Under these circumstances, J.M.Y. has stated a viable cause of action for reimbursement, and the trial court erred in dismissing his suit on the grounds asserted.
+
+---
+
+### II. REBUTTAL: THE EXCEPTION OF NO RIGHT OF ACTION
+
+The Exception of No Right of Action questions whether the plaintiff belongs to the class of persons against whom the law grants the remedy sought. *La. C.C.P. art. 927(4)*. The Defense submits that J.M.Y. has alleged sufficient facts to establish that he belongs to the class of persons who may seek reimbursement under the circumstances.
+
+The Appellee's primary argument rests on the proposition that a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father, citing *Givens v. Givens*, 426 So. 2d 1279 (La. 1983). However, the Defense submits that this reading of *Givens* is overly broad and ignores the factual distinctions in the present case.
+
+In *Givens*, the presumed father had not alleged that another specific individual was the biological father—he simply sought contribution from his former spouse. The Louisiana Supreme Court's holding in *Givens* was explicitly limited to that scenario. The Court stated that "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983). However, this language must be read in context—the *Givens* Court was addressing a situation where the presumed father had not taken any legal steps to establish non-paternity.
+
+Here, J.M.Y. has filed suit alleging specific facts demonstrating that R.R. is the biological father. He has sought to have R.R. submit to genetic testing to confirm this allegation. Unlike the plaintiff in *Givens*, J.M.Y. has not bypassed the judicial process—he has initiated proceedings that will necessarily require a judicial determination of paternity. TheAppellee's argument that J.M.Y. must first obtain a disavowal of paternity under Louisiana Civil Code Article 184 ignores the fact that J.M.Y.'s petition itself initiates the judicial process for determining the child's true paternity.
+
+Furthermore, the Defense submits that the Appellee's interpretation of *Givens* creates an absurd result. Under the Appellee's theory, a presumed father who makes support payments for a child he reasonably believes is not his biological child has no legal recourse unless he first formally disavows the child—essentially declaring under oath that he believes he is not the father before he has any evidentiary basis for making such a declaration. This requirement places an impossible burden on the presumed father and rewards the biological father who has avoided his support obligations.
+
+The Defense submits that J.M.Y. has a legal interest in the subject matter of this litigation. He has made payments for the support of a child who, according to his well-pleaded allegations, is not his biological child. If R.R. is indeed the biological father, then R.R., not J.M.Y., bears the primary obligation of support. J.M.Y. has stated a sufficient interest to maintain his right of action.
+
+---
+
+### III. REBUTTAL: THE EXCEPTION OF NO CAUSE OF ACTION
+
+The Exception of No Cause of Action tests whether the law affords a remedy on the facts alleged in the petition. *La. C.C.P. art. 927(3)*. The Defense submits that J.M.Y.'s petition states a viable cause of action for reimbursement.
+
+The Appellee's argument that *Givens* requires a mandatory two-step process—first disavowal, then separate determination of biological father's liability—misreads the holding of that case. The *Givens* Court was concerned with preventing speculative claims and ensuring that paternity disputes are resolved in an orderly fashion. Here, J.M.Y.'s petition does exactly what *Givens* contemplates—he has alleged specific facts identifying R.R. as the biological father and has sought genetic testing to confirm this allegation.
+
+The petition alleges that R.R. is the biological father of the child born during J.M.Y.'s marriage to A.F.Y. This allegation, if proven, would establish that R.R. bears the primary obligation of support under Louisiana Civil Code Article 227. J.M.Y. has paid support that R.R. was legally obligated to pay. Under basic principles of unjust enrichment, J.M.Y. is entitled to reimbursement from R.R. for these payments.
+
+The Defense acknowledges that the obligation to support a child is owed to the child under Louisiana Civil Code Article 229. However, this does not mean that a presumed father who has paid support has no recourse against a biological father who has failed to meet his obligation. The child's right to support and a presumed father's right to reimbursement are not mutually exclusive concepts. The law can recognize both the child's interest in receiving support and the presumed father's interest in recovering payments he should not have been required to make.
+
+The Appellee's argument that J.M.Y.'s petition fails to state a cause of action because he has not "disavowed" his paternity ignores the reality that J.M.Y.'s lawsuit itself seeks a judicial determination of paternity. The petition specifically requests that R.R. submit to genetic testing to determine if he is the biological father. This is precisely the judicial process that *Givens* contemplates. The trial court erred in requiring J.M.Y. to complete a disavowal proceeding before filing his reimbursement claim when the reimbursement claim necessarily involves the same paternity determination.
+
+---
+
+### IV. REBUTTAL: FAILURE TO JOIN THE CHILD AS A NECESSARY PARTY
+
+The Defense acknowledges that the child has an interest in any support proceeding. However, the Defense submits that the child is not a necessary party to this reimbursement action for the following reasons:
+
+First, J.M.Y. is not seeking to reduce or eliminate his support obligation to the child. His obligation to support the child remains intact regardless of the outcome of this litigation. This is not a proceeding that will determine the child's right to support from either J.M.Y. or R.R.
+
+Second, any reimbursement J.M.Y. receives from R.R. will not affect the child's support. R.R.'s obligation to support the child exists independently of any reimbursement claim. A finding that R.R. must reimburse J.M.Y. does not relieve R.R. of his ongoing support obligation to the child.
+
+Third, the child is adequately represented in this proceeding. J.M.Y., as the presumed father and the party who has been making support payments, has a direct interest in protecting the child's right to support while seeking reimbursement from the party who should have been paying. A.F.Y., as the mother of the child, also has an interest in ensuring that the child's support needs are met.
+
+The Defense submits that the trial court erred in dismissing the suit on the ground of failure to join the child as a necessary party. This ground provides an independent basis for reversal.
+
+---
+
+### V. REBUTTAL: POLICY CONSIDERATIONS
+
+The Appellee's policy arguments, while facially appealing, do not support affirmance of the trial court's judgment.
+
+The Defense does not dispute that the presumption of legitimacy serves important public policies. However, the presumption of legitimacy is not at issue in this case. J.M.Y. has not sought to disavow his paternity for the purpose of avoiding his support obligation. Rather, he has sought to hold the biological father accountable for his obligation while J.M.Y. continues to fulfill his own duty as the presumed father.
+
+The Appellee's argument that allowing this action would "expose putative fathers to a flood of speculative claims" is unfounded. J.M.Y. has not filed a speculative claim based on rumor or suspicion. He has filed a petition alleging specific facts—that R.R. engaged in conduct with A.F.Y. during the marriage that resulted in the conception of the child—and has sought genetic testing to confirm this allegation. This is not speculation; it is a specific, verifiable claim.
+
+Furthermore, the Appellee's policy argument proves too much. If accepted, it would mean that a biological father could avoid all accountability for his child simply by remaining silent while the presumed father pays support. The law should not reward such evasion of responsibility.
+
+The Defense submits that the better policy is to allow presumed fathers to pursue reimbursement from biological fathers when they have alleged specific facts demonstrating that another person is the biological father. This approach encourages biological fathers to accept responsibility for their children and prevents them from free-riding on the presumed father's obligation.
+
+---
+
+### VI. CONCLUSION
+
+For the foregoing reasons, the Defense respectfully requests that this Court reverse the judgment of the trial court granting the exceptions of no right of action and no cause of action and remand the case for further proceedings.
+
+J.M.Y. has stated a viable cause of action for reimbursement from R.R. for child support payments made on behalf of a child who, according to the well-pleaded allegations of his petition, is the biological child of R.R. The trial court erred in dismissing his suit on the grounds asserted.
+
+The Defense further requests that this Court hold that a presumed father may pursue reimbursement from an alleged biological father without first obtaining a formal disavowal of paternity, provided that the petition alleges specific facts identifying the alleged biological father and seeks genetic testing to confirm the allegation.
+
+Respectfully submitted,
+
+**[Attorney for J.M.Y., Appellant]**
+
+---
+
+## CITATIONS
+
+*Givens v. Givens*, 426 So. 2d 1279 (La. 1983)
+
+*In re Marriage of M.*, 459 So. 2d 1315 (La. 1984)
+
+La. Civ. Code arts. 184, 227, 229
+
+La. C.C.P. arts. 927(3), 927(4)
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4)
+The analysis cites the most critical authorities for this specific legal dispute. 
+- **Givens v. Givens**: This is the controlling precedent regarding the recovery of child support by a presumed father. The analysis engages with it deeply, attempting to distinguish the facts of the current case from the precedent.
+- **La. Civ. Code arts. 184, 227, 229**: These are the governing statutes for disavowal, the duty of support, and the nature of the obligation (owed to the child).
+- **La. C.C.P. arts. 927(3), 927(4)**: These are the correct procedural statutes defining the exceptions of no cause of action and no right of action.
+- **In re Marriage of M.**: Cited in the context of the presumption of legitimacy.
+All citations are highly relevant and directly applicable to the legal questions at hand.
+
+#### B. Constraints Extraction (Score: 2)
+The analysis identifies several legal constraints, but it struggles to correctly formulate the *mandatory* nature of those constraints as established by the law.
+- **Constraint 1 (Judicial Declaration)**: The analysis identifies the requirement from *Givens* that a presumed father must obtain a judicial declaration of non-paternity.
+- **Constraint 2 (Disavowal Process)**: It identifies the procedural requirement of La. Civ. Code art. 184.
+- **Constraint 3 (Joinder)**: It identifies the requirement to join necessary parties under La. C.C.P. art. 927.
+However, the extraction is flawed because the analysis attempts to "redefine" these constraints as optional or subsumed by the current lawsuit (e.g., arguing that the reimbursement suit *is* the disavowal process), rather than acknowledging them as distinct legal predicates that must be satisfied *before* the reimbursement claim can proceed.
+
+#### C. Argument Validity per Constraint (Score: 1)
+The arguments provided for the identified constraints are largely invalid under Louisiana law and the provided precedent.
+- **Givens Constraint**: The argument that *Givens* is "overly broad" or limited to cases where no specific biological father was named is a misinterpretation. *Givens* establishes a substantive rule: the obligation must be terminated *first*. The claim that the current suit "initiates" the process is legally incorrect; a reimbursement suit is not a disavowal action.
+- **Joinder Constraint**: The argument that the child is not a necessary party because the support obligation "remains intact" is logically inconsistent. If the suit seeks to determine who is the biological father and who owes support, the child's rights are inherently affected.
+- **Unjust Enrichment**: The analysis invokes "basic principles of unjust enrichment" to bypass the statutory framework, which is a weak legal argument when a specific statutory scheme (disavowal) governs the subject matter.
+
+#### D. Issue Prioritization and Synthesis (Score: 3)
+The closing argument is well-structured and synthesizes the issues effectively. It prioritizes the two primary exceptions (Right of Action and Cause of Action) and addresses the procedural defect (Joinder) and policy considerations. It presents a unified theory: that the law should not reward a biological father's evasion of responsibility and that the *Givens* requirements are an "impossible burden" in this specific factual context. While the legal reasoning is weak, the synthesis of the argument is coherent.
+
+#### E. Closing Persuasiveness (Score: 2)
+The closing is moderately persuasive from a "fairness" or "equity" standpoint, but it is legally fragile. It successfully frames the biological father as "free-riding" and the presumed father as being trapped by a "technicality." However, it fails to resolve the ambiguity of the *Givens* mandate convincingly. It relies on an "absurd result" argument rather than a strong doctrinal one. It is a compelling plea for equity, but a weak legal argument for reversal.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "2",
+  "Argument Validity per Constraint": "1",
+  "Issue Prioritization and Synthesis": "3",
+  "Closing Persuasiveness": "2"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**J.M.Y. v. R.R., ET AL.**
+**No. 08-XXXX (La. Ct. App.)**
+**Honorable Judge Presiding**
+
+**DECISION**
+
+This matter comes before the Court on appeal by J.M.Y., appellant, from a judgment of the trial court granting exceptions of no right of action and no cause of action filed by R.R., appellee, and dismissing J.M.Y.’s suit with prejudice. The Court has carefully reviewed the record, the applicable law, the preliminary ruling, and the closing arguments submitted by both the prosecution and the defense. For the reasons that follow, the judgment of the trial court is affirmed.
+
+**STATEMENT OF THE CASE**
+
+On March 7, 2008, J.M.Y. filed suit against R.R., alleging that R.R. was the biological father of a child born during J.M.Y.’s marriage to A.F.Y. J.M.Y. sought reimbursement from R.R. for child support payments previously made. J.M.Y. subsequently filed an amended petition adding A.F.Y. as a defendant, seeking reimbursement from both R.R. and A.F.Y. for past and future child support payments.
+
+R.R. filed exceptions of no right of action and no cause of action. The trial court granted the exceptions and dismissed the suit. J.M.Y. appealed, arguing that he is entitled to reimbursement despite his status as the presumed father. The defense argues that the mandatory disavowal process required by *Givens v. Givens* should not apply where a specific biological father is named, and that requiring disavowal prior to seeking reimbursement creates an "impossible burden."
+
+**LAW AND ANALYSIS**
+
+The exceptions of no right of action and no cause of action raise questions of law, which this Court reviews de novo. *See generally La. C.C.P. art. 927*.
+
+**I. The Exception of No Right of Action**
+
+The exception of no right of action questions whether the plaintiff belongs to the class of persons against whom the law grants the remedy sought. *La. C.C.P. art. 927(4)*. J.M.Y., as the presumed father, asserts a right of action against R.R. for reimbursement. The defense argues that the holding in *Givens v. Givens*, 426 So. 2d 1279 (La. 1983), is inapplicable because J.M.Y. has identified a specific biological father, whereas the plaintiff in *Givens* had not. The defense contends that the current suit initiates the necessary judicial process to determine paternity.
+
+This Court finds the defense's distinction unpersuasive. The controlling precedent in *Givens* establishes a substantive prerequisite for any reimbursement claim: a presumed father must first obtain a judicial declaration that he is not the father. The Supreme Court stated clearly that "a presumed father cannot recover child support payments from a biological father without first obtaining a judicial declaration that he is not the father." *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983). This rule is not limited to cases where the biological father is unknown; it is a universal requirement designed to protect the integrity of the presumption of legitimacy and the stability of the child's family environment.
+
+J.M.Y. has not filed a disavowal proceeding pursuant to Louisiana Civil Code Article 184. He has not obtained a judgment declaring him to be not the father. Consequently, his obligation to support the child remains intact under the law. Because his own legal obligation has not been extinguished, he lacks the legal interest, or right of action, to pursue R.R. for reimbursement. The defense's attempt to frame the reimbursement suit as the equivalent of a disavowal action is legally incorrect. A suit for money damages against a third party is not a substitute for the formal disavowal process required by Article 184. The trial court correctly granted the exception of no right of action.
+
+**II. The Exception of No Cause of Action**
+
+The exception of no cause of action tests whether the law affords a remedy on the facts alleged in the petition. *La. C.C.P. art. 927(3)*. J.M.Y. argues that his petition alleges specific facts identifying R.R. as the biological father and seeks genetic testing, thereby stating a cause of action for reimbursement under theories of unjust enrichment. The defense contends that requiring a separate disavowal proceeding creates an "impossible burden" and an "absurd result."
+
+The defense's reliance on "unjust enrichment" is misplaced where a specific statutory framework governs the remedy. The Supreme Court in *Givens* explicitly rejected the notion that a presumed father could bypass the statutory process to recover support payments. The Court established a mandatory two-step process: (1) a successful disavowal of paternity to terminate the presumed father’s obligation, and (2) a separate judicial determination of the biological father’s liability. *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983).
+
+The defense argues that this two-step process is an "impossible burden" because it requires a presumed father to declare non-paternity before having evidentiary support. However, this burden is not impossible; it is the procedural mechanism established by the legislature to balance the rights of the father, the mother, and the child. Louisiana Civil Code Article 184 provides the specific grounds and time limits for disavowal, which include the use of genetic testing to prove non-paternity. J.M.Y. cannot circumvent this comprehensive statutory scheme by filing a direct suit for reimbursement. By failing to allege that he has successfully disavowed his paternity, J.M.Y. has failed to state a cause of action for which relief can be granted. The trial court did not err in granting the exception of no cause of action.
+
+**III. Failure to Join a Necessary Party**
+
+The defense argues that the child is not a necessary party because J.M.Y. is not seeking to reduce or eliminate his support obligation, and therefore the child's rights are not at stake. This argument ignores the fundamental nature of paternity and support proceedings.
+
+Under Louisiana Civil Code Article 927, persons having an interest in the object of the suit must be joined. The child is the real party in interest in any proceeding involving paternity and support. The obligation to support is owed to the child, and any determination regarding the biological father necessarily affects the child's legal status, rights of succession, and legitimacy. *See La. Civ. Code art. 229*. Even if J.M.Y. asserts that he will continue to pay support, a judicial determination that R.R. is the biological father has profound legal consequences for the child. By failing to join the child, J.M.Y. has deprived the court of the ability to render a complete adjudication of the rights of all interested parties. This failure provides an additional, independent basis for affirming the dismissal of the suit.
+
+**IV. Policy Considerations**
+
+The defense urges this Court to consider the "fairness" of allowing a biological father to avoid accountability by remaining silent. While the concerns raised by the defense are not without some emotional force, they cannot override the clear statutory and jurisprudential mandates designed to protect the child.
+
+The presumption of legitimacy serves critical public policies, including protecting children from chaotic paternity disputes and ensuring stability in family relationships. *See In re Marriage of M.*, 459 So. 2d 1315, 1318 (La. 1984). Allowing a presumed father to sue a third party for reimbursement without first disavowing the child would undermine these policies. It would effectively permit fathers to litigate paternity in piecemeal fashion, potentially subjecting the child to multiple legal battles regarding their parentage. The "flood of speculative claims" warned against in *Givens* is not avoided simply because a specific individual is named; the risk of instability remains if the disavowal process is bypassed. *Givens v. Givens*, 426 So. 2d 1279, 1281 (La. 1983).
+
+**CONCLUSION**
+
+For the foregoing reasons, the judgment of the trial court granting the exceptions of no right of action and no cause of action and dismissing J.M.Y.’s suit is affirmed. The defense's attempts to distinguish *Givens* or to circumvent the statutory disavowal process are rejected. Costs of this appeal are assessed to J.M.Y., appellant.
+
+**JUDGMENT**
+
+IT IS ORDERED, ADJUDGED, AND DECREED that the judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gemma4:31b-cloud
+============================================================
+### Evaluation of Legal Analysis
+
+#### A. Citation Relevance (Score: 4/4)
+The analysis relies on three primary citations, all of which are highly relevant and directly applicable to the legal questions:
+1.  ***Givens v. Givens***: This is the controlling precedent for the specific issue of whether a presumed father can seek reimbursement from a biological father. The analysis correctly applies its holding regarding the necessity of a judicial declaration of non-paternity.
+2.  ***In re Marriage of M.***: This case is used appropriately to support the broader public policy arguments regarding the presumption of legitimacy and the stability of family relationships.
+3.  **Louisiana Civil Code/CCP Articles (184, 227, 229, 927)**: These statutory citations are the foundation of the legal framework for paternity, support obligations, and procedural requirements for joinder and exceptions.
+All citations are directly on-point for the facts and legal issues presented.
+
+#### B. Constraints Extraction (Score: 4/4)
+The analysis meticulously extracts the necessary legal constraints required for the *Givens* precedent and the statutory framework to apply:
+1.  **Legal Elements (The Two-Step Process)**: The analysis correctly identifies the mandatory two-step requirement from *Givens*: (1) successful disavowal of paternity and (2) a separate judicial determination of the biological father's liability.
+2.  **Threshold Requirements (Judicial Declaration)**: It identifies the necessity of a judicial declaration that the plaintiff is not the father as a prerequisite for a right of action.
+3.  **Procedural Predicates (Joinder)**: It correctly identifies the requirement under La. C.C.P. art. 927 that all persons with an interest in the object of the suit (specifically the child) must be joined.
+4.  **Statutory Compliance (Article 184)**: It notes that the disavowal must be conducted specifically pursuant to the grounds and time limits of La. Civ. Code art. 184.
+
+#### C. Argument Validity per Constraint (Score: 4/4)
+The arguments provided for each constraint are logically sound and factually accurate based on the provided case facts:
+1.  **Right of Action**: The argument is valid; since J.M.Y. did not obtain a judicial declaration of non-paternity, his legal obligation to support remains, meaning he has no legal interest to sue for reimbursement.
+2.  **Cause of Action**: The analysis correctly rejects the "unjust enrichment" theory, arguing that specific statutory frameworks (the *Givens* two-step process) supersede general equitable claims. It validly counters the "impossible burden" argument by pointing to the existing mechanisms for genetic testing within Article 184.
+3.  **Joinder**: The argument that the child is a necessary party is strong, as any determination of biological paternity inherently affects the child's legal status and rights of succession, regardless of whether J.M.Y. continues to pay.
+4.  **Policy**: The reasoning aligns with the cited *In re Marriage of M.* and *Givens*, validly arguing that allowing a bypass of the disavowal process would lead to the "flood of speculative claims" the law seeks to prevent.
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
