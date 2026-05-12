@@ -1,0 +1,1660 @@
+case_id,outcome_match,reasoning_alignment,rationale
+169,yes,4,"The AI judge correctly identified the outcome for Count XI, which is the primary focus of the gold-standard opinion. It correctly reasoned that PBS One's assumption of the contract in 1988 created a pre-dissolution liability that survives under the Illinois Survival Statute, and it correctly rejected the novation argument using the testimony of Attorney Zavis. While the gold-standard opinion focuses almost exclusively on Count XI, the AI judge's analysis of Counts IX and X (which were part of the original case facts) is logically consistent with the legal principles of asset purchase and partnership interest transfers.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+171,yes,2,"The AI judge correctly reached the same outcome as the gold-standard opinion, reversing the judgment and remanding the case. However, the reasoning alignment is only partial. The actual court's reasoning is centered on **Texas Rule of Evidence 508(c)(2)** and the ""material witness"" standard (Bodin), arguing that the informant's participation made her testimony vital to a fair determination of guilt, which overrides the ""dispositive"" nature of the plea agreement. 
+
+In contrast, the AI judge relies heavily on **federal Fourth Amendment jurisprudence** (*Illinois v. Gates*, *United States v. Payner*), framing the issue as a challenge to the veracity of the tip for probable cause purposes rather than a statutory right to a material witness for a fair determination of guilt. While both identify the informant's participation as key, the AI judge misses the specific Texas statutory framework and the ""fair determination of guilt"" standard that the actual court used to bypass the ""dispositive"" agreement.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+26,yes,2,"The AI judge correctly reached the same outcome as the actual court, imposing a six-month actual suspension. However, the reasoning is significantly flawed. While the actual court based its decision on the specific facts of the case (single act, small sum, restitution, and successful recovery from chemical dependency), the AI judge hallucinated a procedural context involving ""rebuttals"" from parties and cited several cases (*In re Morse*, *In re Buckley*, *In re Duncan*, *In re Harris*, *In re Miller*) that do not appear in the provided gold-standard text. The AI judge's reasoning relies on these external/hallucinated precedents rather than the court's actual factual analysis.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+159,yes,4,"The AI judge's ruling is highly aligned with the gold-standard opinion. Both the AI and the court conclude that Count XI survives because PBS One assumed the liability in 1988, and the Illinois Survival Statute (805 ILCS 5/12.80) preserves claims for liabilities ""accrued or incurred"" prior to dissolution, regardless of when the breach occurred. The AI judge also correctly identifies the lack of a novation or express release, which mirrors the court's analysis of the facts. While the AI judge provides additional analysis for Counts IX and X (which the gold standard focuses on less but the AI correctly affirms based on the provided facts), the core legal reasoning for the primary issue (Count XI) is nearly identical.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+104,yes,4,"The AI judge correctly identifies the outcome: reducing the recommended one-year suspension to a six-month actual suspension. The reasoning is closely aligned with the gold-standard answer, as both emphasize the court's discretion to depart from Standard 2.2(a) when compelling mitigation exists. Both the AI and the court highlight the same key mitigating factors: the single act of misappropriation involving a small sum, full restitution, a lack of prior discipline, and successful rehabilitation from chemical dependency. While the AI judge cites different case law (e.g., *In re Bloom*, *In re Duffey*) than the gold-standard summary (e.g., *Bates*, *Kelly*), the legal logic and application to the facts are virtually identical.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+148,no,1,"The AI judge failed to match the outcome and the reasoning of the actual court. The gold-standard opinion reverses the Court of Appeals and remands the case to reinstate the appeal (effectively upholding the possibility of the convictions), whereas the AI judge affirms the reversal of the convictions and orders a new trial. 
+
+Furthermore, the AI judge introduces a legal theory regarding the ""defense of unconsciousness"" as a reversible error, which is entirely absent from the actual court's reasoning. The actual court focused exclusively on whether the evidence of the defendant's conduct (squealing tires, punching the car, etc.) was sufficient to allow a jury to infer malice, concluding that the Court of Appeals erred in finding a ""plain error"" regarding the lack of evidence of malice.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 1
+}
+```"
+43,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's denial of the plea in abatement. The reasoning is closely aligned with the gold-standard answer, specifically focusing on the failure of the ""identical issue"" and ""full and fair opportunity"" prongs of collateral estoppel. Both the AI judge and the court emphasized the fundamental difference between the administrative burden of proof (preponderance of the evidence) and the criminal burden of proof (beyond a reasonable doubt), as well as the distinct purposes of the two proceedings.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+193,yes,2,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the suit. However, the reasoning differs significantly in its legal basis. The actual court's ruling is centered on the **peremption** of the right to disavow (meaning the window to challenge paternity has closed forever) and specific statutory bars (R.S. 9:305(B)) and the ""thing not owed"" doctrine. In contrast, the AI judge focuses on the **procedural exclusivity** of the disavowal action, suggesting the plaintiff simply used the wrong mechanism and must first disavow before seeking reimbursement. The AI judge fails to mention that the right to disavow is peremptory (time-barred), which is the core of the gold-standard's legal analysis.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+158,yes,4,"The AI judge correctly identifies the central legal conflict: whether the ""unitary"" work-connection test or the *Flor v. Holguin* ""occupational disease"" test applies to Van Ness's claim. Both the AI judge and the gold-standard opinion conclude that because the claim involves the aggravation of a pre-existing condition (rather than a disease resulting from a hazard unique to the trade), the unitary test governs and the *Flor* test is inapplicable. The AI judge further aligns with the court by noting that the Director's requirement for ""exclusivity"" of the hazard to the workplace was a legal error.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+2,yes,2,"The AI judge correctly reached the outcome of reversing the trial court's judgment. However, the reasoning diverges significantly from the gold-standard opinion. While the actual court reversed based solely on the procedural error (the failure to offer the parties the choice to accept or reject the additur), the AI judge spent the majority of its ruling analyzing the substantive validity of the additur amount and the trial court's failure to ""bridge the gap"" between evidence and the award—issues not addressed in the gold-standard's dispositive reasoning. Furthermore, the AI judge ordered a new trial as the remedy, whereas the actual court reversed the judgment to allow the parties the statutory opportunity to either accept the additur or opt for a new trial.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+93,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the district court's order and awarding attorney fees to Douglas. 
+
+Regarding reasoning, the AI judge is mostly aligned but takes a slightly different legal path on the forfeiture issue. While the gold-standard opinion analyzes the clause as a ""liquidated-damages (forfeiture) clause"" and applies the two-part test for validity/penalties, the AI judge frames it as a ""condition precedent"" to the vesting of an interest. However, both reach the same conclusion: the provision was a valid part of the agreement and not an unenforceable penalty. The AI judge also correctly identifies the lack of interference and the validity of the district court's findings.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+176,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the judgment for the defendant. The reasoning is closely aligned, as the AI judge correctly identified the central legal issue: that marijuana use remains ""illegal"" under federal law, thereby triggering the FEHA's exclusion for ""current illegal use of drugs"" and rendering the Compassionate Use Act inapplicable to employment law. It also correctly addressed the failure of the public policy claim by noting the Act's limited scope as a criminal defense.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+37,yes,4,"The AI judge's ruling is an exceptional match for the actual court opinion. The AI correctly identified the disposition (affirming the circuit court's denial of the injunction) and accurately addressed all three primary legal arguments: the applicability of the raze order statute to sudden fire damage, the inclusion of remediation costs in the ""cost of repair"" calculation, and the validity of the inspector's reliance on external estimates without a personal inspection. The AI's reasoning mirrors the court's focus on the statute's plain language and the avoidance of ""absurd results.""
+
+Note: The ""Actual court opinion"" provided in the prompt appears to be a hypothetical research report/analysis rather than the formal judicial opinion, but the ""Case background information and facts"" section explicitly states the court's actual holdings (""We reject each of Auto-Owners' arguments... Accordingly, we affirm""). The AI judge correctly followed the holdings described in the background facts.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+86,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the trial court's judgment and finding the statutes constitutional. The reasoning is closely aligned with the gold-standard opinion: it correctly identifies that Section 64 did not create an alienage classification because citizens were never eligible for SMANC, and that Section 55 is facially neutral. Furthermore, it correctly identifies that the federal authorization under the Welfare Reform Act shifts the standard of review from strict scrutiny to rational basis, and that the state's fiscal interests satisfy that standard.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+168,yes,4,"The AI judge correctly identifies that the Director erred in denying the claim and reaches the same outcome as the court (reversing the decision). Both the AI judge and the court agree that the ""unitary"" (or ""work-connection"") test is the correct legal standard for a disease aggravation claim, rather than the more restrictive ""nature-of-the-employment"" (Flor) test. The AI judge's reasoning closely tracks the court's logic by emphasizing that a general environmental hazard (vog) does not preclude compensability if the employment activities (physical exertion/dust) contributed to the injury.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+74,yes,4,"The AI judge's ruling focuses on Count XI, which is the primary subject of the provided gold-standard opinion. The AI judge correctly identifies that the Illinois Survival Statute (805 ILCS 5/12.80) preserves the claim against PBS One because the liability (the assumption of the Consulting Agreement) was incurred prior to dissolution, even though the breach occurred afterward. This aligns perfectly with the court's reasoning and disposition for Count XI. While the AI judge also rules on Counts IX and X (which were not the focus of the provided gold-standard excerpt but are part of the case background), its analysis of the Survival Statute for Count XI is a precise match for the court's logic.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+40,yes,2,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the State Defendants. However, the reasoning alignment is partial. The AI judge focused heavily on the sequential procedural requirements of the CBECA (bench trial, remedial order, etc.) and the narrow scope of *ISEEO V*, whereas the gold-standard opinion emphasized the ""proper party"" status (the ""fairly direct interest"" standard) and the 180-day pre-litigation notice requirement as a substantive condition precedent. While both discuss the CBECA, the AI judge missed the critical ""proper defendant"" analysis that was central to the actual court's ruling.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+199,yes,3,"The AI judge's ruling focuses on Count XI, which is the primary issue addressed in the gold-standard opinion. Both the AI judge and the actual court conclude that the claim against PBS One (Count XI) should proceed, reversing the trial court's grant of summary judgment for the defense. 
+
+Regarding reasoning, the AI judge correctly identifies that the obligation existed prior to dissolution and that the survival statute allows for post-dissolution breaches. However, the AI judge spends significant time discussing ""novation"" and ""intent to release,"" which are not the primary focus of the gold-standard opinion's legal analysis. The gold-standard opinion focuses specifically on the statutory predicates of the Illinois corporate-survival statute (§12.80), the definition of ""liability incurred"" (citing *People v. Parker*), and the five-year repose period. While the AI judge reaches the correct result and mentions the survival statute, it does not explicitly apply the three-pronged statutory test or the specific case law (*Parker*, *Vance*) used by the court to validate the claim.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+0,no,1,"The AI judge's ruling is fundamentally different from the gold-standard answer. The gold-standard answer is a comprehensive legal analysis (a report) that evaluates the employer's arguments and concludes that the employer faces ""significant difficulty"" and ""significant legal hurdles"" in overturning the WCJ's findings, particularly regarding the ""reasonably controverted"" defense. In contrast, the AI judge issued a final ruling that actually reversed the WCJ's finding on reasonable controversion, granting the employer's appeal on that point.
+
+The AI judge's reasoning focuses on the ""suspicious timing"" of the report and the ""totality of the circumstances"" to justify the employer's denial, whereas the gold-standard analysis emphasizes the high ""manifest error"" bar and suggests that the employer's reasons for controversion were likely insufficient because they were the same reasons the WCJ already rejected.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 1
+}
+```"
+55,no,0,"The AI judge's ruling is fundamentally opposite to the actual court's opinion. The actual court found that the pat-down was an unlawful *Terry* frisk (because the officer lacked reasonable suspicion that the driver was armed) and that this illegality tainted the subsequent consent to search the vehicle, leading to the suppression of evidence. In contrast, the AI judge ruled that the pat-down was consensual and that the defendant was not seized, thereby denying the motion to suppress.
+
+The AI judge's reasoning contradicts the gold-standard answer on every major point: it views the pat-down as a voluntary act rather than an unlawful seizure and finds that the ""free to go"" statement broke the causal chain of illegality, whereas the actual court found the encounter remained coercive and the consent tainted.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+52,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the district court's order and holding that no *Bivens* remedy exists in this context. The reasoning is closely aligned, correctly identifying the ""new context"" analysis under *Ziglar v. Abbasi* and the ""special factors"" (national security, war powers, and congressional silence/action via the DTA) that counsel hesitation. While the AI judge did not provide as exhaustive a breakdown of the qualified immunity analysis as the gold standard (opting to treat it as secondary since the *Bivens* analysis was dispositive), it correctly identified the lack of ""clearly established"" law in the wartime context.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+191,no,0,"The AI judge's ruling is completely contrary to the actual court opinion. The actual court reversed the judgment, finding that the trial court erred by not conducting an in-camera hearing under Texas Rule of Evidence 508(c)(2), whereas the AI judge affirmed the trial court's decision. Furthermore, the AI judge relied on federal case law (e.g., *Mezzanatto*, *Payner*) and a ""waiver"" theory regarding the dispositive agreement, while the actual court held that the ""dispositive"" nature of the motion actually preserved the issue for review and that the informant's identity was critical to both the suppression motion and the defense.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+115,yes,4,"The AI judge correctly reaches the same outcome as the actual court by affirming the denial of the motion for change of venue. The reasoning is closely aligned, correctly identifying the two-pronged test for prejudice (actual vs. presumed), the ""heavy burden"" required for presumed prejudice, and the futility of a change of venue within a single-jury-pool jurisdiction. While the AI judge adds a modification regarding the voir dire questionnaire and extra-territorial transfer, these are presented as refinements to the trial court's process rather than a reversal of the core legal holding.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+108,no,0,"The AI judge reached the opposite conclusion of the actual court. While the actual court found the stop and subsequent search constitutional (reversing the suppression order), the AI judge affirmed the suppression order, arguing that the initial stop lacked reasonable suspicion. Consequently, the AI judge's reasoning is contradictory to the gold-standard opinion, as it focuses on the illegality of the stop rather than the validity of the plain-view and automobile exception doctrines.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+85,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's denial of the motion to suppress. The reasoning is closely aligned, as the AI judge correctly identified A.R.S. § 13-3874(A) as the dispositive statute and correctly analyzed the requirements for a tribal officer to exercise peace officer powers off-reservation (appointment, AZ POST certification, and scope of employment). It also correctly addressed and dismissed the ""fresh pursuit"" and reasonable suspicion arguments in a manner consistent with the court's logic.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+121,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. While the actual court affirmed the default judgment, finding the defendant's discovery abuses to be willful and the resulting prejudice (the death of the sole eyewitness) to be incurable, the AI judge reversed the judgment. The AI judge incorrectly argued that the plaintiff lacked diligence and that an adverse inference instruction would be a sufficient remedy, whereas the actual court found the conduct egregious and the loss of evidence fatal to the case.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+94,no,0,"The AI judge's ruling is completely contradictory to the gold-standard opinion. While the actual court affirmed the award of judgment interest under section 2-1303, arguing that it complements section 23-20 and is not an improper compounding of interest, the AI judge reversed the decision. The AI judge's reasoning—claiming a lack of jurisdiction, arguing that section 23-20 precludes section 2-1303, and asserting that the award constituted a ""double recovery""—is the exact opposite of the court's legal analysis.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+163,yes,1,"The AI judge correctly reached the same outcome (affirming the district court's grant of summary judgment to PACT Charter School). However, the reasoning is fundamentally flawed. The actual court's decision turned on the interpretation of the word **""town""** (distinguishing it from a ""city""), whereas the AI judge hallucinated that the dispute centered on the word **""district.""** Because the AI judge based its entire legal analysis on a term not at issue in the gold-standard opinion, the reasoning alignment is very low.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 1
+}
+```"
+67,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's dismissal of the suit. The reasoning is highly aligned: both the gold-standard opinion and the AI judge emphasize that J.M.Y. is the legal presumed father and cannot seek reimbursement from an alleged biological father without first legally establishing that person's paternity (or disavowing his own). The AI judge's inclusion of *Givens v. Givens* and the discussion of the disavowal process provides a more detailed procedural context that supports the gold-standard's conclusion that no cause of action exists.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+95,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the award of attorney's fees. The reasoning is closely aligned: both the court and the AI judge conclude that res judicata does not apply because the claim for fees was not ""ripe"" or ""litigable"" until Djuric became the prevailing party. Additionally, both agree that no waiver occurred because the right to contractual fees was contingent on the outcome of the case and was not intentionally relinquished.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+68,yes,2,"The AI judge reached the correct outcome, affirming the Commission's decision to deny benefits. However, there is a significant divergence in the legal reasoning. The gold-standard opinion focuses almost entirely on the **standard of deference** (explaining why the LIRC's interpretation deserves ""great weight deference"" based on four specific criteria: legislative charge, long-standing interpretation, expertise, and uniformity). In contrast, the AI judge focuses on the **substantive application** of the ""going and coming"" rule and the ""traveling employee"" exception. While the AI judge correctly identifies the ""going and coming"" rule, it fails to analyze the specific deference framework that the actual court used as the primary basis for its ruling.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+112,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the claims against both LCA-Vision and Dr. Whiting. The reasoning is mostly aligned, as it correctly identifies the mandatory nature of the 180-day deadline under Minn. Stat. § 145.682 and the principle that adding a new defendant does not revive a procedurally barred negligence theory. However, the AI judge introduces a ""concession"" by the appellant that is not present in the provided facts, and it relies on a case (*Klotz*) not mentioned in the gold standard, while omitting the specific discussion on the necessity of expert testimony for LASIK cases.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+38,yes,3,"The AI judge correctly reached the same outcome as the actual court (affirming the commitment). However, there is a significant legal error in the AI judge's ""Standard of Review"" section: it states that appellate review of the sufficiency of evidence is *de novo*, whereas the gold-standard opinion explicitly states that *de novo* review applies only to pure questions of law and that sufficiency of evidence is reviewed under a ""highly deferential"" standard. Despite this error in the stated standard, the AI judge's application of the law (deferring to the trial court's credibility findings and viewing evidence in the light most favorable to the State) actually aligns with the correct deferential standard described in the gold-standard analysis.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+87,no,0,"The AI judge reached the opposite conclusion of the actual court. The actual court affirmed the trial court's ruling that the appeal was **not moot** because Ordinance No. 5 was materially different from the proposed curative amendment and rendered the project financially infeasible. In contrast, the AI judge reversed the trial court, ruling that the appeal **was moot** because the ordinance nominally permitted the use, regardless of the restrictive event caps. Consequently, the AI judge's reasoning is contradictory to the gold-standard opinion.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+23,yes,4,"The AI judge's ruling perfectly matches the outcome of the gold-standard opinion, concluding that the convictions must be reversed and the charges dismissed with prejudice. The reasoning is also closely aligned: both identify the ""manifest necessity"" standard, highlight the prosecutor's offer to exclude the evidence as a viable alternative that the court ignored, and address the fact that the defendant's failure to move for dismissal prior to the second trial does not bar relief. While the AI judge uses different case citations (Arizona-specific cases vs. the gold standard's broader mix), the legal logic and application to the facts are identical.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+183,yes,2,"The AI judge reached the correct outcome (affirming the trial court's dismissal), but its reasoning deviates significantly from the gold-standard opinion. The actual court relied on specific statutory bars (R.S. 9:305(B)), the peremption of the disavowal period under Civil Code art. 189, and the *Gallo* and *Lowrie* precedents regarding the ""veritable creditor"" and the right of action. In contrast, the AI judge relied on a ""voluntary assumption doctrine"" and ""unjust enrichment"" analysis (Civil Code Art. 2298), which were not the primary legal drivers in the court's analysis. While the AI judge correctly identified that the child is the proper party to bring such a claim (aligning with *Lowrie*), the overall legal framework used was different from the court's.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+110,no,0,"The AI judge's ruling is completely contradictory to the actual court opinion. While the gold-standard answer found that the NPLEX logs were admissible as non-testimonial business records and that Officer Lemonier was a qualified witness, the AI judge ruled that the records lacked a proper foundation and violated the Confrontation Clause. Furthermore, the AI judge reversed the conviction based on sufficiency of evidence, whereas the actual court affirmed the admissibility of the evidence and the trial court's discretion.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+34,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the grant of summary judgment and the dismissal of the claim against Dr. Whiting. The reasoning is mostly aligned, as it correctly identifies the mandatory nature of Minn. Stat. § 145.682 and the fact that the claim against Dr. Whiting constituted the same ""cause of action"" as the claim against LCA-Vision. However, the AI judge introduces several additional legal doctrines (law of the case, res judicata, and collateral estoppel) as primary bases for the ruling, whereas the gold-standard opinion focuses almost exclusively on the statutory interpretation of ""cause of action"" and the mandatory dismissal provision of § 145.682.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+157,yes,4,"The AI judge's ruling perfectly matches the outcome of the actual court opinion, affirming the denial of the motion to dismiss under the FSIA and dismissing the appeal regarding the act of state doctrine. The reasoning is exceptionally well-aligned, correctly identifying the ""nature"" vs. ""purpose"" test from *Weltover* for the commercial activity exception and accurately applying the ""direct effect"" requirement to the ADRs and dividend payments in New York. Furthermore, it correctly distinguishes the act of state doctrine by noting that the court is policing a commercial contract rather than judging the validity of the expropriation itself.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+97,no,0,"The AI judge's ruling is completely opposite to the actual court's opinion. The actual court reversed the district court's decision, ruling that the breach of a reasonable non-compete covenant allows for an inference of irreparable harm and that the contractual remedies clause should be honored. In contrast, the AI judge affirmed the district court, arguing that the request for an injunction was moot because the one-year period had expired and that St. Jude failed to prove actual irreparable harm.
+
+The AI judge's reasoning contradicts the gold-standard answer on the most critical legal points: the inference of irreparable harm from a breach of a restrictive covenant and the weight given to the contract's express remedies clause.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+132,no,0,"The AI judge's ruling is completely unrelated to the provided gold-standard answer. The gold-standard answer describes a Florida case involving a DUI, a breath-alcohol test, and the Fifth Amendment right against self-incrimination (comments on a defendant's silence). In contrast, the AI judge's ruling addresses a Hawaii case involving a warrantless vehicle search, the Fourth Amendment, and the ""automobile exception."" 
+
+It appears the AI judge was provided with the correct ""Case background information and facts"" (the Hawaii firearm case), but the ""Actual court opinion"" provided in the prompt is for an entirely different case (a Florida DUI case). Because the AI judge correctly analyzed the Hawaii facts provided in the background section, but the gold-standard answer provided is for a different case entirely, there is zero alignment between the two.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+101,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the complaint. The reasoning is closely aligned with the gold-standard opinion, addressing all four critical points: the identity/standing of the plaintiff (Spit Shine vs. Milton Hall), the failure to comply with Civ.R. 10(D) regarding the written contract, the lack of a theory for parent company liability (Rick Case Automotive Group), and the failure to plead fraud with particularity under Civ.R. 9(B). Both the AI judge and the actual court correctly identified the de novo standard of review and applied the same legal framework to the facts.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+131,yes,4,"The AI judge correctly reached the same outcome as the court: affirming the conviction while remanding to vacate the order taxing costs. The reasoning is highly aligned, as the AI judge correctly identified the constitutional impropriety of the officer's comment, applied the *Chapman* and *DiGuilio* harmless-error standards, and cited the specific .12 BAC reading as the primary reason the error was harmless. It also correctly addressed the discovery issue regarding the breathalyzer reports based on the administrative rules provided in the text.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+175,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the district court's order and dismissing the claims against Secretary Rumsfeld. The reasoning is mostly aligned, as the AI judge correctly applied the *Ziglar* two-step framework, identifying the ""new context"" (combat zone/foreign detention) and ""special factors"" (DTA and national security). However, the AI judge spent significant effort analyzing qualified immunity, whereas the actual court ruled that the qualified immunity argument was moot because no *Bivens* action could be implied in the first place.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+25,yes,4,"The AI judge correctly reached the same outcome as the gold-standard opinion, affirming the trial court's ruling on both the occurrence of the work-related accident and the imposition of penalties and attorney's fees. The reasoning is closely aligned, correctly applying the ""manifest error-clearly wrong"" standard of review and the legal framework for unwitnessed accidents (corroboration by medical records and job duties). Furthermore, the AI judge's analysis of ""reasonable controversion"" mirrors the gold standard's emphasis on the employer's failure to investigate available medical evidence before denying the claim.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+166,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the judgment for the defendant. The reasoning is closely aligned, as both the AI and the court emphasize that the Compassionate Use Act provides a defense against criminal prosecution but does not create employment rights or mandate that employers accommodate illegal drug use. The AI judge also correctly identifies the controlling precedent, *Loder v. City of Glendale*. While the AI judge introduces additional procedural arguments (exhaustion of remedies and the interactive process trigger) that were not the primary focus of the gold-standard summary, these do not contradict the core legal reasoning used to sustain the demurrer.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+136,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the grant of summary judgment to Dr. Whiting. The reasoning is mostly aligned: it correctly identifies the mandatory nature of the 180-day deadline under Minn. Stat. § 145.682 and the principle that a plaintiff cannot circumvent this deadline by adding a new defendant later. However, the AI judge hallucinates several case citations (e.g., *Mauer*, *Lepre*) that are not in the gold-standard opinion and slightly mischaracterizes the legal arguments as being from ""prosecution and defense"" (this is a civil case). Despite these hallucinations and terminology errors, the core legal logic—that the dismissal of the vicarious claim extinguished the identical negligence claim against the doctor—matches the court's reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+3,yes,2,"The AI judge and the gold-standard answer are addressing different parts of the same case. The gold-standard answer provided is a detailed legal memorandum focusing exclusively on the **facial unconstitutionality** of the statute (overbreadth and content-based restrictions), arguing that the law itself is void. In contrast, the AI judge's ruling focuses on **as-applied** issues, specifically the **statute of limitations** and the **sufficiency of the evidence** regarding ""true threats"" under *Elonis* and *Watts*.
+
+While both conclude that the defendant's conviction should not stand (the gold-standard argues the law is void; the AI judge reverses the conviction based on trial errors and evidence), the AI judge's reasoning is based on procedural errors and evidentiary insufficiency, whereas the gold-standard reasoning is based on a constitutional challenge to the statute's text. The AI judge does mention *Elonis* and the ""reasonable person"" standard, which aligns with the gold-standard's discussion of the statute's flaws, but it focuses on the jury instructions rather than the facial validity of the law.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+24,no,0,"The AI judge reached the opposite conclusion of the actual court. The actual court reversed the family court's ruling, holding that A.R.S. § 25-814(A)(1) is strictly gender-specific and cannot be judicially expanded to include women, explicitly rejecting the reasoning in *McLaughlin v. Jones*. Conversely, the AI judge affirmed the family court's ruling, arguing that *McLaughlin* is binding precedent and that the statute must be read gender-neutrally to comply with *Obergefell*.
+
+Because the AI judge's reasoning is diametrically opposed to the gold-standard opinion—advocating for judicial expansion of the statute based on constitutional mandates while the court advocated for strict textualism and separation of powers—the reasoning alignment is 0.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+65,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. The actual court found that the officer conducted an unlawful pat-down (frisk) without reasonable suspicion that the defendant was armed and dangerous, which tainted the subsequent consent and vehicle search, leading to the suppression of evidence. The AI judge, however, focused on the ""free to go"" statement and the voluntariness of the consent, ultimately denying the motion to suppress. The AI judge failed to address the central legal issue identified by the court: the illegality of the *Terry* frisk.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+156,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the judgment in favor of the defendant. The reasoning is closely aligned with the gold-standard answer, specifically citing *Loder v. City of Glendale* to establish that employers may consider illegal drug use in employment decisions. It also correctly addresses the failure of the FEHA claim by noting that the requested accommodation (medical marijuana use) is illegal under federal law and thus not a ""reasonable accommodation,"" and it correctly dismisses the public policy claim.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+19,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's denial of the plea in abatement. The reasoning is closely aligned with the gold-standard answer, specifically focusing on the lack of ""identical issues"" due to the differing standards of proof (preponderance vs. beyond a reasonable doubt) and the distinct purposes of administrative versus criminal proceedings. While the AI judge cites specific case law (*Stauffer Chemical Co.* and *State v. Williams*) not explicitly named in the provided gold-standard analysis, these citations support the exact legal principles (burden of proof disparity and jurisdictional barriers) emphasized in the gold-standard's reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+10,yes,4,"The AI judge correctly identifies the outcome, affirming the trial court's finding of negligence against the gas company. The reasoning is closely aligned with the gold-standard opinion, specifically focusing on the ""heightened duty of care"" (referred to as the ""highest degree of care"") required for natural gas operations. The AI judge accurately applies the facts regarding the exposed pipe at the culvert, the defendant's knowledge of the risk, and the driver's right to assume the road was safe (the ""hidden hazard"" doctrine), mirroring the court's logic on duty, breach, and the absence of contributory negligence.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+63,yes,3,"The AI judge correctly identifies the outcome: the Director's decision should be reversed because the injury is compensable under the ""unitary test."" Both the AI judge and the gold-standard opinion agree that the ""island-wide"" nature of the vog is legally irrelevant and that the focus should be on whether the employment contributed to the aggravation of the condition.
+
+However, the AI judge misses a critical legal distinction emphasized in the gold-standard opinion: the difference between the *Flor v. Holguin* ""occupational disease"" test and the ""unitary work-connection"" test. The gold-standard opinion spends significant effort explaining why *Flor* does not apply (because this was a specific exposure/aggravation rather than a disease inherent to the nature of the profession). The AI judge jumps straight to the unitary test without addressing the *Flor* framework, which was the central legal issue presented in the gold-standard analysis.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""3""
+}
+```"
+17,no,0,"The AI judge's ruling is completely disconnected from the actual court opinion. The gold-standard answer focuses exclusively on whether the trial court abused its discretion by replaying a recorded statement to the jury, ultimately affirming the conviction. In contrast, the AI judge focuses on the voluntariness of the statement, the validity of the search warrant, and the sufficiency of the evidence, ultimately reversing the conviction. The AI judge essentially invented a different legal controversy and reached the opposite outcome.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+143,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the State Defendants. The reasoning is closely aligned, as the AI judge correctly identified the two primary pillars of the court's decision: the mandatory procedural requirements of the CBECA (the ""procedural ladder"") and the narrow scope of the *ISEEO V* holding regarding school facilities. While the AI judge refers to ""prosecution"" and ""defense"" (terminology more suited for criminal cases than this civil appellate matter), the legal application and conclusions are accurate.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+105,yes,4,"The AI judge correctly identifies the dispositive issue: the trial court's failure to provide the parties with the statutory option to accept the additur or elect a new trial under Connecticut General Statutes §§ 52-216a and 52-228b. Both the AI judge and the actual court conclude that this procedural shortcut is a reversible error that violates a substantive statutory right. While the AI judge introduces a ""prosecution"" (which is an odd term for a civil case) and discusses ""harmless error"" and ""structural error"" (concepts not explicitly detailed in the gold-standard summary), these are logical extensions of the legal analysis and do not detract from the core reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+114,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. The actual court found that joinder was proper because the intimidation and sexual assaults were part of a ""common scheme or plan"" of coercive control and that the evidence was cross-admissible. In contrast, the AI judge ruled that joinder was improper, arguing that the intimidation was a discrete effort related only to the domestic violence case and that the evidence was unfairly prejudicial.
+
+**Outcome Match:** no
+**Reasoning Alignment:** 0
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+164,yes,4,"The AI judge correctly identifies the outcome: the temporary injunction must be reversed and the case remanded. 
+
+Regarding reasoning, the AI judge aligns closely with the gold-standard opinion on the most critical substantive points. Both the gold standard and the AI judge emphasize the failure of the trial court to address the ""material breach"" defense (unpaid commissions and fraudulent instructions) and the impact of the ""liquidated damages clause"" on the finding of irreparable harm. The AI judge also correctly identifies the failure to make specific findings under the required legal framework (Rule 1.610/Surgitech). While the AI judge focuses more on case law citations and less on the specific procedural failures regarding notice and bond mentioned in the gold standard, the core legal logic is almost identical.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+190,no,0,"The AI judge's ruling is fundamentally opposite to the actual court opinion. The actual court granted the motion to suppress, finding that the initial pat-down was unconstitutional and that any subsequent ""consent"" was tainted by that illegality. In contrast, the AI judge denied the motion to suppress, reasoning that the seizure had ended and the consent was voluntary and independent.
+
+The AI judge completely missed the court's application of the ""fruit of the poisonous tree"" doctrine regarding the unconstitutional frisk, instead concluding that the termination of the stop ""purged the taint.""
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+165,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the district court's order. The reasoning is highly aligned: both the AI and the gold-standard opinion rely on the *Ziglar v. Abbasi* framework to identify ""special factors"" (national security, foreign warzones, and separation of powers) that preclude the extension of *Bivens*. Additionally, both correctly apply the qualified immunity doctrine, noting that the ""shock the conscience"" standard was not sufficiently ""clearly established"" in the specific context of battlefield detention of a civilian contractor.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+194,yes,3,"The AI judge correctly reached the same outcome as the actual court (reversing the temporary injunction). The reasoning is mostly aligned, as it identifies the key issues: the inadequacy of the irreparable harm claim due to the liquidated damages clause, the lack of evidence regarding customer solicitation, and the validity of the employee's defenses regarding improper business practices. However, the AI judge missed several critical procedural and factual points emphasized by the court, specifically the 22-month delay by the employer (laches), the fact that the covenant had nearly expired by its own terms, and the trial court's failure to make the mandatory findings of fact required by Rule 1.610(c).
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+70,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the trial court's decision and ruling that the children of a former spouse are not ""stepchildren"" under RCW 4.20.020. 
+
+Regarding reasoning, the AI judge correctly identifies the core legal principle: that stepchild status is derivative of a current marital bond and terminates when that marriage ends. However, the AI judge hallucinates several case citations (*In re Estate of Williams*, *In re Estate of Hodge*, and *In re Estate of Kline*) that do not appear in the gold-standard opinion, which instead relies on *Strickland v. Deaconess Hospital*, *In re Estate of Smith*, and *In re Combs Estate*. While the legal logic is aligned, the reliance on fabricated authority prevents a perfect score.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+162,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's dismissal of the suit. The reasoning is also highly aligned; both the gold-standard answer and the AI judge center their analysis on the ""marital presumption"" of paternity and the necessity of a timely ""disavowal"" action to rebut that presumption. Both correctly conclude that without such a legal process, the husband remains the legal father and has no legal basis to seek reimbursement for child support payments from a biological father or the mother.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+126,no,0,"The AI judge's ruling is fundamentally incorrect. The actual court reversed the convictions and dismissed the indictment with prejudice, finding that there was no ""manifest necessity"" for the mistrial and that the subsequent retrial violated the Double Jeopardy Clause. In contrast, the AI judge affirmed the convictions, arguing that the trial court's decision to declare a mistrial was a sound exercise of discretion.
+
+The AI judge's reasoning is contradictory to the gold standard; while the actual court found that the prejudice could have been cured by lesser means (exclusion, continuance, or instruction), the AI judge argued that those means were insufficient. Consequently, the AI judge reached the opposite legal conclusion on the application of the ""manifest necessity"" doctrine.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+141,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the commitment order. The reasoning is highly aligned: both the AI and the gold-standard opinion address the sufficiency of the evidence (noting that Dr. Maskel only impeached methods without providing an alternative risk estimate), the ""substantial probability"" threshold, and the substantive due process issue regarding the ""inability to control"" finding (citing *Laxton*). The AI judge also addressed the pl-ethysmograph test mentioned in the facts, which the gold-standard summary omitted but was part of the trial record.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+124,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the Court of Appeals' decision and remanding the case. The reasoning is closely aligned, as the AI judge correctly identified that malice in second-degree murder can be inferred from reckless and dangerous driving (specifically citing the defendant's high BAC, illegal passing, and collision). It also correctly distinguished between the legal sufficiency of the State's evidence (which was present) and the potential trial error regarding the exclusion of the unconsciousness defense.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+57,yes,4,"The AI judge reached the correct outcome, affirming the trial court's dismissal of the suit. The reasoning closely tracks the actual court's opinion, correctly identifying the presumption of paternity, the peremption of the disavowal action, and the application of *Gallo v. Gallo* and *Smith v. Cole*. It accurately explains that the support obligation is owed to the child and that no cause of action exists for a legal father to seek reimbursement from an alleged biological father.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+91,no,0,"The AI judge's ruling is in direct contradiction to the actual court opinion. While the gold-standard answer affirms the convictions and finds that Dr. Bivens's testimony was relevant, non-prejudicial, and properly admitted under HRE Rules 401, 403, and 702, the AI judge reverses the decision. The AI judge argues that the statistical evidence was irrelevant and unfairly prejudicial (profiling), whereas the actual court found that the statistics were illustrative, general, and did not constitute improper profiling.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+5,yes,4,"The AI judge's ruling is highly aligned with the gold-standard opinion. Both reach the same outcome (reversing the suppression order) and follow the same logical progression: justifying the initial *Terry* stop based on the vehicle's location, ruling that the flashlight scan was not a search, and establishing that the combination of the location and the rifle casing created probable cause to search containers (the ukulele case) under the automobile exception. The AI judge correctly identifies and applies the relevant legal doctrines (*Terry*, Plain View, and the *Ross/Acevedo* automobile exception) in a manner consistent with the court's analysis.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+50,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the trial court's decision and ruling that the Blaschka children were not ""stepchildren"" under RCW 4.20.020. The reasoning is mostly aligned, as both the AI and the court focused on the ""plain meaning"" of the term ""stepchild"" and the principle that the relationship is contingent upon a valid, existing marriage. However, the AI judge relied on cases not mentioned in the gold-standard opinion (e.g., *Estate of Jones*, *Estate of Nelson*) and omitted the court's specific references to Washington support statutes (RCW 74.20A.020 and RCW 26.16.205) and the *Strickland* precedent.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+73,no,2,"The AI judge correctly identifies that the Director applied the wrong legal standard (*Flor v. Holguin*) and that the ""unitary test"" should apply instead. However, there is a significant discrepancy in the application of the law: the actual court opinion concludes that the injury is compensable as a matter of law because any ""slightest aggravation"" by employment mandates compensation. In contrast, the AI judge introduces a ""substantial contributing cause"" requirement (which is not in the gold standard) and remands the case for further factual findings, whereas the actual court finds the causal nexus clearly present and the injury compensable.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 2
+}
+```"
+170,no,0,"The AI judge's ruling is fundamentally incorrect. The actual court opinion found that the search was unconstitutional and the evidence should be suppressed, whereas the AI judge denied the motion to suppress. Furthermore, the AI judge's reasoning contradicts the court's analysis: the court held that the ""free to go"" statement did not purge the taint of the illegal frisk and that the continued detention was an unconstitutional seizure under *Rodriguez*, while the AI judge argued the encounter became consensual.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+144,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's decision. The reasoning is highly aligned, as both the AI and the court focused on the abuse-of-discretion standard, Indiana Evidence Rule 403 (cumulative evidence), and the necessity of ensuring jurors can hear testimony. The AI judge also correctly cited and applied the same key precedents (*Chambers*, *Harris*, and *Lewis*) to justify the replay of the recording.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+60,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the trial court's decision and ruling that the Blaschka children were not ""stepchildren"" under RCW 4.20.020. 
+
+Regarding reasoning, the AI judge identifies the correct legal issue (whether the stepchild relationship survives the death of the spouse) and applies the correct logic (that the relationship is contingent upon an active marriage). However, the AI judge relies on entirely different legal authorities (*In re Estate of Lefevre* and *In re Estate of Haines*) and a fictional scenario where the respondents conceded the point, whereas the actual court relied on statutory interpretation (plain meaning), legislative history (1969/1971 support laws), and the *Strickland* and *Combs* cases. While the legal conclusion and the core logic (marriage = prerequisite) align, the specific legal framework and evidentiary basis used by the AI judge differ from the gold-standard opinion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+129,yes,2,"The AI judge correctly reached the same outcome as the actual court: a six-month actual suspension. However, the reasoning is significantly different. The gold-standard opinion justifies the six-month suspension by citing a wide array of comparative case law (e.g., *Waysman*, *Rogers*, *Palomo*) to show that six months is a reasonable departure downward from the one-year standard given the specific mitigating factors. In contrast, the AI judge treats six months as a ""floor"" or ""minimum"" based on *In re Rose*, arguing that the court *cannot* go lower, whereas the actual court argues that six months is *sufficient* based on a comparative analysis of similar cases.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+109,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the district court's denial of the Rule 35 motion. The reasoning is highly aligned, correctly identifying the discretionary nature of Rule 35 motions (""pleas for leniency""), the primary objective of protecting society, and the specific factual considerations regarding the defendant's risk and the expert's testimony on the timing of therapy. It also correctly addressed the untimeliness of the original constitutional challenge.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+147,no,0,"The AI judge's ruling is fundamentally incorrect. The actual court affirmed the conviction, ruling that in an **attempted** theft case, the ""value"" can be measured by the amount the defendant intended to obtain ($5,500), rather than the actual market value of the property. The AI judge, however, applied the rule for **completed** theft, insisting that the State must prove the actual market value, and consequently reached the opposite outcome (finding the evidence insufficient).
+
+The AI judge completely missed the distinction between ""theft"" and ""attempted theft"" that was central to the court's reasoning, and it relied on cases (*Johnson*, *Blevins*) that the court's logic effectively bypassed or distinguished in the context of an attempt.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+20,no,0,"The AI judge's ruling is fundamentally contradictory to the gold-standard answer. The actual court opinion affirms the conviction, ruling that in cases of theft by deception, ""value"" is determined by the **amount received** by the defendant (the $1,800 cashier's check), regardless of the item's actual market value. In contrast, the AI judge reverses the conviction, ruling that the state failed to prove the **market value** of the truck at the time of the crime, treating the $1,800 as a prior transaction price rather than the value obtained through the deception.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": ""0""
+}
+```"
+182,yes,1,"The AI judge correctly reached the same outcome (affirming the grant of summary judgment). However, the reasoning is fundamentally flawed and hallucinatory. The actual court's decision turned on the distinction between a ""town"" and a ""city"" under Minnesota law, specifically interpreting the term ""town"" as a term of art. The AI judge instead hallucinated that the dispute was about ""school districts"" versus ""cities"" and cited non-existent or irrelevant case law (e.g., *In re Charter School of St. Paul*) to support this incorrect legal framework.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 1
+}
+```"
+81,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's denial of the motion to dismiss. The reasoning is highly aligned: both the AI and the court correctly identified that the speedy trial clock began at the Texas arrest (December 2006), that the delay was primarily caused by the appellant's repeated changes of counsel, and that the appellant failed to sufficiently prove that the death of the witness constituted actionable prejudice. The AI judge's use of federal case law (e.g., *MacDonald*, *Doggett*) mirrors the legal framework used by the court to address the attachment of the right and the balancing of the *Barker* factors.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+27,yes,3,"The AI judge correctly reaches the same outcome as the actual court: it reverses the trial court's judgment. Both the gold-standard opinion and the AI judge identify the primary reason for reversal as the trial court's failure to provide the parties with the opportunity to accept or reject the additur (a violation of Conn. Gen. Stat. § 52-228b).
+
+However, the AI judge's reasoning on the substantive issue of ""abuse of discretion"" diverges from the gold-standard analysis. While the gold-standard opinion suggests that a 35% permanent disability for a 33-year-old would likely justify a finding of inadequacy (making the additur substantively reasonable), the AI judge claims the record is insufficient to support such a finding and concludes the trial court abused its discretion on substantive grounds. Despite this, the core procedural reasoning—which was the dispositive factor in the actual court's ruling—is well-captured.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+201,no,0,"The AI judge's ruling is fundamentally incorrect. The actual court opinion found that the trial court erred in refusing to disclose the confidential informant (CI) or conduct an in-camera review, ruling that the defendant's plausible showing of the CI's presence and potential entrapment triggered a statutory duty under Texas Rule of Criminal Evidence 508(c)(2). The AI judge, conversely, affirmed the trial court's decision, arguing that the ""dispositive"" nature of the motion barred the introduction of such evidence and that the CI's identity was irrelevant to the probable cause determination.
+
+The AI judge reached the opposite outcome and used reasoning that directly contradicts the gold-standard opinion, particularly regarding the applicability of the ""dispositive"" agreement and the legal threshold for informant disclosure.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": ""0""
+}
+```"
+31,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the district court's denial of the Rule 35 motion. The reasoning is closely aligned, as the AI judge correctly identified the ""abuse of discretion"" standard, the ""plea for leniency"" nature of Rule 35, and the primary sentencing objective of protecting society. It accurately applied the facts regarding the severity of the assault, the risk to the victim, and the expert's admission that delayed therapy would not substantially diminish the probability of success.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+188,yes,2,"The AI judge correctly identifies that the Director erred by applying a ""uniqueness"" standard and reaches the correct outcome of reversing and remanding. However, the reasoning is significantly flawed. The actual court's central legal analysis focuses on the distinction between ""occupational diseases"" (governed by the tripartite *Flor* test) and diseases ""proximately caused by employment"" (governed by the unitary work-connection test), concluding that *Flor* is entirely inapposite to this case. The AI judge, conversely, erroneously applies *Flor* as the governing standard for the remand, failing to recognize the critical distinction between the two statutory categories of injury.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+61,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the temporary injunction. The reasoning is highly aligned, as the AI judge correctly identified and analyzed the three primary pillars of the court's decision: the inadequacy of ""irreparable harm"" due to the liquidated damages clause, the ""unclean hands"" defense stemming from the forced resignation/illegal directives, and the balance of equities. While the AI judge did not explicitly discuss the ""improper extension"" of the injunction beyond the contract's term (which was a distinct point in the gold standard), it captured the core legal logic regarding the prerequisites for injunctive relief and the impact of the employer's misconduct.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+160,no,0,"The AI judge reached the opposite conclusion of the actual court. The gold-standard opinion finds that the officer lacked reasonable suspicion for the pat-down, and that this illegality tainted the subsequent consent, leading to the suppression of the evidence. In contrast, the AI judge ruled that the encounter became consensual once the officer told the defendant he was ""free to go,"" and thus the evidence should be admissible.
+
+The reasoning is contradictory: the actual court emphasizes that the unlawful frisk created a ""poisonous tree"" that vitiated the voluntariness of the consent, whereas the AI judge argues that the ""free to go"" statement and the defendant's cooperation broke the causal chain and attenuated the taint.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+62,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the district court's order and holding that Secretary Rumsfeld is entitled to qualified immunity and that no *Bivens* remedy exists. The reasoning is closely aligned, correctly identifying the ""new context"" of overseas military detention and the ""special factors"" (separation of powers and national security) that counsel hesitation. It also correctly applies the ""clearly established"" standard for qualified immunity, mirroring the gold-standard's logic.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+98,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the grant of summary disposition in favor of the insurer. The reasoning is highly aligned, as the AI judge addressed the three critical components of the court's analysis: the enforceability of the anti-assignment clause, the application of the one-year-back rule (MCL 500.3145(1)), and the rejection of the relation-back doctrine for supplemental pleadings. While the AI judge cited different case law (e.g., *Redd* and *Katz* instead of *Roger Williams*), the legal logic and application to the facts mirror the gold-standard opinion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+30,yes,4,"The AI judge correctly reaches the same outcome as the gold-standard opinion, reversing the suppression order and finding the evidence admissible. The reasoning is closely aligned, correctly identifying the three-step progression: the legality of the initial stop based on reasonable suspicion, the use of the flashlight as a non-search under the plain view doctrine, and the transition to probable cause via the discovery of the rifle casing to justify the search of the vehicle and its containers (the ukulele case) under the automobile exception. The AI judge adds a discussion regarding the ""pat-down"" of occupants, which was not a primary focus of the gold-standard analysis but does not detract from the core legal reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+151,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. The actual court adopted a strict textualist approach, ruling that the words ""man"" and ""father"" in A.R.S. § 25-814(A)(1) must be applied as written, thereby excluding Oakley and reversing the family court's decision. In contrast, the AI judge followed the *McLaughlin* precedent, arguing for a gender-neutral application of the statute and affirming the family court's ruling. Furthermore, the AI judge spent significant time on equitable estoppel, which the actual court explicitly declined to reach because the statutory presumption did not apply.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+186,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the judgment in favor of the defendant. The reasoning is also highly aligned: it correctly identifies that the Compassionate Use Act provides only criminal immunity and does not create employment rights, and it correctly applies the rule from *Loder v. City of Glendale* regarding the legality of pre-employment drug tests. While the AI judge cites *Guz v. Bechtel* and *People v. Kelly* (which are not in the gold-standard analysis), these citations support the same legal conclusions reached by the court.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+197,yes,4,"The AI judge correctly reaches the same outcome as the actual court, affirming the denial of the motions to dismiss regarding both the FSIA and the act of state doctrine. 
+
+The reasoning is closely aligned with the gold-standard opinion. The AI judge correctly identifies the ""commercial activity"" exception under the FSIA, applying the ""nature"" test from *Weltover* to the refusal to make a tender offer and the cancellation of dividends. It also accurately traces the ""direct effect"" in the United States through the foreclosure of ADRs held in New York. Finally, it correctly distinguishes between the sovereign act of expropriation and the subsequent commercial breach of contract to dismiss the act of state doctrine defense.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+149,yes,3,"The AI judge correctly reached the same outcome as the actual court, finding the tax invalid because it failed to meet the two-thirds voter approval requirement of Proposition 13. 
+
+Regarding reasoning, the AI judge aligns well with the court's core logic: it identifies the ""loophole"" created by the *Richmond* majority, recognizes the Agency as a vehicle for constitutional evasion, and correctly classifies the tax as a ""special tax."" However, it misses some of the specific legal pillars used by the actual court, such as the analysis of subsequent legislative definitions (Gov. Code § 50077(c)) and the ""functionally related"" purpose of blocking the substitution of property taxes with other levies. Despite these omissions, the AI judge's conceptual framework and application of the *Richmond* dissent's warning closely mirror the court's path to the decision.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+120,no,0,"The AI judge's ruling is completely disconnected from the actual court opinion. The gold-standard answer focuses on whether the trial court abused its discretion by playing a recorded statement to the jury a second time, concluding that it did not and affirming the conviction. In contrast, the AI judge focuses on ""other acts"" evidence and the failure to conduct a voluntariness hearing—issues not addressed in the provided gold-standard summary—and reaches the opposite outcome by reversing the judgment.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": ""0""
+}
+```"
+181,no,0,"The AI judge's ruling is completely opposite to the actual court's opinion. While the actual court affirmed the denial of the motion to disclose the CI (finding that the defendant failed to make a plausible showing and that the ""dispositive"" agreement removed the issue of guilt/innocence), the AI judge reversed the trial court's decision, arguing that the defendant's claims were sufficient to warrant disclosure. Furthermore, the AI judge relied on federal and out-of-state case law (e.g., *Illinois v. Gates*, *Roviaro*, Minnesota law) instead of the governing Texas Rule of Evidence 508 and the specific Texas precedents cited in the gold standard.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+53,no,0,"The AI judge's ruling is fundamentally incorrect based on the gold-standard opinion. The actual court determined that the *Flor v. Holguin* test (the ""occupational disease"" test) was **inapplicable** to Van Ness's case because his asthma exacerbation was a direct result of a work condition (vog exposure), which should instead be analyzed under the ""unitary work-connection test."" The AI judge did the opposite: it ruled that *Flor* was the ""sole standard"" and used it to deny the claim, whereas the actual court used the unitary test to find the injury compensable.
+
+Consequently, the AI judge reached the opposite outcome (affirming the denial of benefits) and employed reasoning that the actual court explicitly rejected as a ""misstep.""
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+6,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the district court's denial of the Rule 35 motion. The reasoning is closely aligned, correctly identifying the ""sound discretion"" standard, the ""plea for leniency"" nature of the motion, and the balancing of societal protection against rehabilitation. While the AI judge expands on specific arguments (such as the ""risk to other defenseless persons"" and ""probation alternatives"") that were implicit or briefly mentioned in the court's summary, it accurately captures the dispositive logic and the court's conclusion regarding the timeliness of the constitutional challenge.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+127,no,0,"The AI judge reached the opposite outcome of the actual court. While the actual court reversed the family court's decision, ruling that the statute's plain language is gender-specific and cannot be rewritten by the judiciary, the AI judge affirmed the decision, arguing that the U.S. Constitution requires a gender-neutral reading. Furthermore, the AI judge relied on equitable estoppel and *Obergefell*, both of which the actual court explicitly rejected or bypassed in favor of the plain-meaning rule of statutory interpretation.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+75,no,0,"The AI judge reached the opposite conclusion of the actual court. The actual court found that the search was unconstitutional because the pat-down was an illegal search (lacking reasonable suspicion) and the subsequent consent to search the vehicle was tainted by that illegality and an unlawful extension of the stop. The AI judge, conversely, ruled that the encounter was consensual, that the pat-down was voluntarily initiated by the defendant, and that the evidence should be admitted.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+83,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the Board's decision and remanding the case. The reasoning is highly aligned: both the AI judge and the actual court held that Rule 60(b) principles are applicable in agency proceedings and that the 30-day UAPA appeal deadline does not preclude such relief. Furthermore, both correctly identified and applied the ""discovery rule"" to excuse the timing of Frito-Lay's motion based on when the error became apparent.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+123,no,0,"The AI judge reached the opposite conclusion of the actual court. While the actual court affirmed the conviction, ruling that the amount the defendants sought to obtain (the cashier's check) was sufficient to establish the value for an ""attempt"" charge, the AI judge reversed the conviction, claiming the State failed to prove the defendants ""sought"" that specific amount. Consequently, the AI judge's reasoning is contradictory to the gold-standard answer.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+82,yes,4,"The AI judge correctly identifies the core legal issues and reaches the same ultimate disposition as the actual court. It accurately analyzes the distinction between personal and corporate goodwill (noting the ""licensed professional"" distinction) and correctly handles the Rule 68 offer. Crucially, it identifies the error regarding the $20,000 credit from the settlement agreement, which aligns with the actual court's decision to modify the decree in one respect.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+137,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the defendant's liability. The reasoning is highly aligned: both the AI and the court emphasize the heightened duty of care for dangerous instrumentalities (natural gas), the specific regulatory/construction breaches (improper burial and culvert placement), the foreseeability of harm based on the defendant's knowledge of traffic patterns, and the rejection of contributory negligence because the driver is not required to anticipate hidden hazards. While the AI judge cites different case law (Texas-specific) compared to the gold standard's broader references, the legal logic and application to the facts are nearly identical.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+66,no,0,"The AI judge's ruling is completely contradictory to the actual court opinion. The gold-standard answer concludes that the trial court did **not** abuse its discretion in denying the motion to disclose the informant's identity, finding that the defendant's claims were speculative and did not meet the threshold for piercing the privilege. In contrast, the AI judge ruled that the trial court **did** abuse its discretion and affirmed the reversal of that denial, arguing that the ""new information"" created a particularized need for disclosure.
+
+The reasoning is also fundamentally different: the actual court emphasizes that the defendant failed to provide factual evidence (mere conjecture) and that reliability for probable cause is not a basis for disclosure, whereas the AI judge argues that the informant's potential motive to fabricate (due to participation) directly attacks the veracity prong of probable cause, necessitating disclosure.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+146,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's denial of the plea in abatement. The reasoning is mostly aligned, as the AI judge correctly identifies the core issues of the burden of proof (preponderance vs. beyond a reasonable doubt) and the distinction between regulatory/fiscal issues and criminal intent. However, the AI judge completely omitted the ""identity of parties/privity"" argument, which was a primary pillar of the actual court's ruling (noting that the DCH is not in privity with the District Attorney). Additionally, the AI judge cited several cases (e.g., *State v. Williams*, *State v. Jones*) that do not appear in the gold-standard opinion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+178,yes,2,"The AI judge reaches the correct outcome (finding the Director's decision wrong and favoring the employee), but it does so using an entirely different legal framework. The actual court's analysis centers on the distinction between two statutory phrases in HRS § 386-3: ""resulting from the nature of the employment"" (governed by the *Flor* tripartite test) and ""proximately caused by the employment"" (governed by the *Chung/Lawhead* unitary work-connection test). The AI judge, however, introduces a ""substantial contributing factor"" test from a case (*Kaua'i Concrete*) not mentioned in the gold-standard opinion and mischaracterizes the *Flor* test as merely a threshold for occupational disease rather than a specific branch of the statutory claim.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+177,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the denial of the motions to dismiss based on the FSIA and the act of state doctrine. 
+
+Regarding reasoning, the AI judge closely tracks the gold-standard opinion. It correctly identifies the three-part test for the FSIA commercial-activity exception, distinguishes the ""nature"" of the act (commercial breach of bylaws) from the ""purpose"" or ""trigger"" (sovereign expropriation), and identifies the same ""direct effects"" in the U.S. (dividend cancellation and ADR foreclosure). It also correctly applies the act of state doctrine by noting that the claim challenges contractual conduct rather than the validity of the sovereign act of expropriation itself.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+71,no,0,"The AI judge's ruling is completely opposite to the actual court's opinion. The actual court reversed the temporary injunction, holding that the employer's failure to pay commissions and the alleged illegal instructions constituted a material breach that relieved the employee of the noncompete obligation. In contrast, the AI judge affirmed the injunction, arguing that the breach did not go to the ""essence"" of the agreement and that the liquidated damages clause did not preclude injunctive relief.
+
+The AI judge failed to apply the ""clean hands"" doctrine and the specific Florida precedent (e.g., *Cordis v. Prooslin*) that mandates the consideration of an employer's breach at the injunction stage.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+29,yes,4,"The AI judge's ruling is a highly accurate reflection of the actual court opinion. It correctly identifies and addresses all three points of appeal: it agrees that the officer's comment was improper but harmless due to the strength of the evidence (.12 BAC and refusal of roadside tests), finds no discovery violation regarding the breathalyzer reports based on the administrative rules, and remands the case to vacate the order taxing costs. The AI judge's reasoning closely tracks the court's logic, adding standard legal citations (like *Chapman* and *Brady*) that support the court's implicit legal framework.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+79,yes,4,"The AI judge correctly identifies the core legal issue: whether the anti-SLAPP statute allows for the striking of specific allegations within a ""mixed cause of action"" rather than requiring the strike of the entire count. Both the AI judge and the actual court conclude that the statute's purpose and the use of the term ""claim"" support the ability to excise protected activity from a cause of action, and both reverse the Court of Appeal's decision. The AI judge's reasoning closely tracks the court's logic regarding the avoidance of ""artful pleading"" to immunize SLAPP claims and the distinction between a ""cause of action"" as a pleading label versus a ""claim"" based on conduct.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+92,yes,4,"The AI judge correctly reached the same outcome as the actual court, answering both certified questions in the negative. The reasoning is strongly aligned, as the AI judge correctly identified the fundamental right to privacy under Article I, Section 6 of the Hawai'i Constitution and applied the strict scrutiny (compelling state interest) test. It correctly analyzed why the defendant's interests did not meet this high bar and why de-identification is insufficient to protect the constitutional privacy interest in the content of medical records.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+130,yes,2,"The AI judge correctly reached the same outcome as the actual court (reversing the judgment). However, the reasoning alignment is only partial. While the AI judge correctly identified and applied the procedural error regarding the statutory election (the failure to offer a new trial), it failed to address the substantive error. The actual court explicitly ruled that the $1,715 award did *not* shock the conscience and was therefore not inadequate as a matter of law; the AI judge declined to rule on this substantive issue, claiming the record was insufficient, whereas the actual court found the record sufficient to determine the award was reasonable.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+138,no,0,"The AI judge reached the opposite conclusion of the actual court. While the actual court found that the intimidation and sexual assault charges were properly joined because they were part of a ""single, continuing campaign to dominate and silence"" the victims, the AI judge ruled that they were distinct legal objectives and that joinder was improper. Consequently, the AI judge's reasoning is contradictory to the gold-standard answer, as it rejects the ""common scheme or plan"" theory that the actual court embraced.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": ""0""
+}
+```"
+51,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the temporary injunction and remanding the case. The reasoning is mostly aligned, as both the AI and the gold-standard opinion focus on the employer's material breach (withholding commissions) and the ""unclean hands"" aspect of the fraudulent instructions as bars to equitable relief. However, the AI judge missed a critical component of the actual court's reasoning: the improper extension of the injunction beyond the contract's two-year term, which was a distinct legal error highlighted in the gold-standard answer.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+179,no,2,"The AI judge's outcome on Count XI matches the court's conclusion that the Survival Statute preserves the claim against PBS One. However, the AI judge's overall outcome is contradictory because it ""affirms"" the trial court's judgment on Counts IX and X (finding for the defendants), whereas the actual court opinion concludes by stating that the trial court's ruling that the Survival Statute sustains Counts IX, X, and XI is affirmed (finding for the plaintiff).
+
+Regarding reasoning for Count XI, the AI judge correctly identifies the Survival Statute and the lack of novation, aligning well with the court's logic that the liability was incurred prior to dissolution. However, the AI judge spends significant time on Counts IX and X, which the actual court opinion treats as sustained by the same Survival Statute logic applied to PBS One, whereas the AI judge dismisses them based on contract interpretation and successor liability doctrines.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 2
+}
+```"
+113,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's finding of negligence and rejecting the contributory negligence defense. The reasoning is highly aligned: both the gold-standard opinion and the AI judge emphasize the heightened duty of care for gas distributors, the foreseeability of the risk based on the defendant's knowledge of the culvert's condition and public use, and the driver's right to assume the road was safe. While the AI judge cites different case names (likely due to the specific dataset's prompt or internal knowledge), the legal framework and application to the facts are nearly identical.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+189,no,1,"The AI judge's ruling is fundamentally incorrect when compared to the gold-standard opinion. The actual court affirmed the trial court's decision, finding that the Illinois Survival Statute preserved the claim against PBS One because the liability was ""incurred"" (the duty existed) prior to dissolution, regardless of when the breach occurred. In contrast, the AI judge reversed the trial court, arguing that a ""genuine issue of material fact"" existed regarding novation and that the Survival Statute did not apply if the liability was extinguished. Furthermore, the AI judge focused heavily on Counts IX and X (National Material), whereas the provided gold-standard analysis focuses specifically on the legal survival of the claim against PBS One (Count XI).
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 1
+}
+```"
+118,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. While the actual court affirmed the order for declaratory judgment and permanent injunction in favor of the Red Lake Band, the AI judge reversed the judgment and ruled in favor of the State of Minnesota. Furthermore, the AI judge's reasoning contradicts the court's application of the *Bracker* balancing test and the interpretation of the reciprocity statutes, arguing that the state's action was a valid exercise of police power rather than an unjustified intrusion on tribal sovereignty.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+22,no,0,"The AI judge's ruling is completely contradictory to the actual court opinion. The actual court concluded that the tax was **invalid** because the Agency should be deemed a ""special district"" under Section 4 to prevent the ""loophole"" identified in the *Richmond* dissent, thereby requiring a two-thirds vote. In contrast, the AI judge ruled the tax **valid**, relying on a strict application of the *Richmond* majority opinion to conclude that the lack of property tax power exempts the Agency from the supermajority requirement.
+
+The AI judge essentially argued for the exact opposite legal theory (formalism/precedent vs. purposive/substance-over-form) that the actual court used to reach its decision.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+142,yes,2,"The AI judge correctly reached the same outcome as the actual court, affirming the judgment in favor of the Red Lake Band. However, the reasoning alignment is partial. The actual court's opinion relies heavily on a sophisticated framework of federal Indian law, citing specific Supreme Court precedents (the *Bracker/Mescalero* balancing test, *Worcester*, *Williams*, and *Bryan v. Itasca County*) to establish the Band's sovereign authority and the pre-emption of state law. The AI judge, conversely, relies almost exclusively on the ""dilution"" principle and the factual findings provided in the case background, treating the matter more as a statutory interpretation and factual dispute rather than a constitutional/sovereignty issue rooted in federal precedent.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+174,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the temporary injunction and remanding the case. The reasoning is mostly aligned, as the AI judge correctly identifies the impact of the liquidated damages clause on irreparable harm and the significance of the employee's defenses regarding improper business practices (material breach/unclean hands). However, it misses several key legal points emphasized in the gold-standard opinion: the failure to prove a ""legitimate business interest"" as a condition precedent, the procedural deficiency of the trial court's order (failure to specify reasons under Rule 1.610(c)), and the unauthorized extension of the restraint period.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+100,yes,2,"The AI judge correctly reached the same outcome as the actual court by affirming the summary judgment for the City of Sioux Falls. Regarding reasoning, the AI judge correctly identified the statutory immunity under SDCL 20-9-20 and the high bar for the ""gross negligence"" exception under SDCL 20-9-22(1). However, the AI judge introduced a significant ""hallucination"" or external fabrication in its first point, claiming the Appellant conceded the error and requested affirmance, which is not present in the provided case facts. It also relied on a pleading-defect argument (failure to plead gross negligence) that the actual court did not use, as the actual court focused on the evidentiary insufficiency of the ""affirmative recklessness"" standard.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+80,yes,4,"The AI judge correctly reached the same outcome as the actual court, finding that the judgment was an absolute nullity due to the failure to provide proper notice of the hearing. Both the AI judge and the actual court relied on the principle that service of a hearing date must be conducted via specific methods (certified mail or sheriff) and that failure to do so violates due process and La. C.C.P. art. 2002(A)(2). While the AI judge cited different case law (e.g., *State ex rel. Turner* vs. *Tanner*), the legal framework and the application to the facts—specifically rejecting the ""substantial compliance"" or ""failure to update address"" arguments—align perfectly with the gold-standard opinion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+54,no,0,"The AI judge's ruling is fundamentally incorrect regarding Count XI, which is the primary focus of the gold-standard opinion. The actual court opinion concludes that the breach of contract claim against PBS One was preserved under the Illinois Survival Statute (805 ILCS 5/12.80) because the liability was incurred prior to dissolution, and the suit was filed within the statutory window. In contrast, the AI judge ruled that the claim was barred by a three-year limitations period (which contradicts the five-year period mentioned in the gold standard) and erroneously prioritized a general survival statute over the Business Corporation Act. Consequently, the AI judge reached the opposite disposition on Count XI.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+154,yes,4,"The AI judge correctly reached the same outcome as the gold-standard opinion, reversing the temporary injunction and remanding the case. The reasoning is highly aligned, as both the AI judge and the court focused on the failure to meet the four-part test for injunctions (specifically Rule 1.610), the inadequacy of the ""irreparable harm"" claim due to the liquidated damages clause, and the ""unclean hands"" defense regarding the resale of unsafe products and fraudulent invoicing. While the AI judge included some additional legal arguments (such as lack of consideration and geographic limitations) not explicitly detailed in the gold-standard summary, the core dispositive reasoning tracks the court's analysis closely.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+198,no,2,"The AI judge failed to reach the same outcome as the actual court. The actual court found that the statutory presumption remained unrebutted and that the causal nexus was established, effectively granting compensability. In contrast, the AI judge vacated the decision but remanded the case for further factual findings, refusing to grant the award of benefits.
+
+Regarding reasoning, the AI judge correctly identified that the ""exclusivity"" standard was wrong, but it failed to apply the specific statutory framework used by the court. The actual court distinguished between the *Flor* (occupational disease) test and the unitary work-connection test, and specifically applied the § 386-85 presumption which shifts the burden to the employer. The AI judge instead applied a ""substantial factor"" test and incorrectly stated that the claimant retained the burden of proof, missing the dispositive effect of the statutory presumption.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 2
+}
+```"
+195,yes,3,"The AI judge correctly reached the same outcome as the actual court, reversing the district court's order and finding that no Bivens remedy should be implied and that qualified immunity applies.
+
+Regarding reasoning, the AI judge aligns well with the court's two-pronged approach: first, identifying the ""special factors"" (military context and the existence of the DTA) that preclude a Bivens remedy, and second, applying the qualified immunity standard. While the AI judge introduces some additional arguments (such as the *Iqbal* personal participation analysis) not emphasized in the gold-standard opinion, it correctly identifies the core legal framework and the dispositive factors (national security, military environment, and congressional action).
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+187,yes,4,"The AI judge correctly identifies the outcome: affirming the denial of the motion to dismiss under the FSIA and denying the act of state doctrine defense. The reasoning is highly aligned with the gold-standard opinion, correctly identifying the ""commercial activity"" exception under § 1605(a)(2), the distinction between the sovereign act of expropriation and the commercial nature of the tender-offer obligations, and the ""direct effect"" in the U.S. via the ADRs and loan defaults. It also correctly applies the act of state doctrine by noting that the court is enforcing a contract rather than questioning the validity of the sovereign's law.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+152,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the suit based on the exceptions of no right of action and no cause of action. The reasoning is also closely aligned: both the gold-standard opinion and the AI judge emphasize that J.M.Y., as the presumed father who failed to timely disavow paternity, remains legally obligated to support the child. Both conclude that because this legal obligation exists, there is no legal pathway or cause of action to seek reimbursement from a biological father. While the AI judge cites different case names (some of which may be hallucinations or from a different jurisdiction), the legal logic—centering on the irrevocability of the presumption of paternity and the child's status as the creditor of support—is identical to the court's.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+167,yes,4,"The AI judge's ruling perfectly matches the outcome of the actual court opinion, affirming the denial of the motions to dismiss for both the FSIA and the act of state doctrine. The reasoning is closely aligned: it correctly identifies the ""commercial activity"" exception under the FSIA by distinguishing between the sovereign act of expropriation and the commercial act of managing shares, and it correctly applies the ""direct effect"" test via the New York-based ADR foreclosures. Similarly, it correctly identifies that the act of state doctrine does not bar the claim because the court is enforcing contractual penalties rather than invalidating the sovereign act of expropriation.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+42,yes,4,"The AI judge's ruling aligns with the actual court's disposition by affirming the trial court's decision to enter a default judgment. The AI judge correctly identifies the governing legal framework (Pa.R.C.P. 4019) and the five-factor test used by Pennsylvania courts to determine the propriety of a default judgment as a discovery sanction. It applies these factors (severity, willfulness, prejudice, curability, and importance of evidence) to the specific facts of the case—namely the defendant's categorical refusal to be deposed and his subsequent death—mirroring the logic found in the gold-standard analysis.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+196,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the lower court's decision to sustain the demurrer. The reasoning is highly aligned: both the gold-standard opinion and the AI judge emphasize that the Compassionate Use Act does not create employment rights, that federal law (Controlled Substances Act) defines the ""illegal use of drugs"" for FEHA purposes, and that employers may lawfully enforce drug-free workplace policies under *Loder v. City of Glendale*. While the AI judge focuses more on the statutory definition of ""disability"" and the gold-standard opinion focuses more on the ""reasonable accommodation"" framework, both arrive at the same legal conclusion using the same core authorities.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+134,yes,4,"The AI judge's ruling is exceptionally well-aligned with the actual court opinion. It correctly identifies and applies the ""primary purpose"" test for testimonial evidence, the ""qualified witness"" standard under Evidence Rule 803(6), the flexibility of judges in bench trials under Rule 614(B), and the two-prong test for reversible error regarding indictment amendments. The AI judge accurately mirrors the court's logic for each of the three assignments of error, including the specific factual findings (e.g., the journal entry limiting the conviction to the original date).
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+49,yes,2,"The AI judge reached the correct outcome (affirming the grant of summary judgment). However, the reasoning is significantly different from the gold-standard opinion. The actual court's ruling hinges on the specific legal distinction between a ""town"" (township) and a ""city"" (incorporated municipality) under Minnesota law, interpreting the word ""town"" in the statute as a term of art. The AI judge completely ignores this ""town vs. city"" distinction and instead argues that the statute is simply silent regarding city residents, citing external cases (*Minnesota Association of Charter Schools*) that were not part of the gold-standard reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+4,yes,4,"The AI judge's ruling matches the actual court's outcome perfectly: it affirms the conviction, finds no discovery violation, and remands the case solely to vacate the court costs. The reasoning is also closely aligned, correctly identifying the ""harmless error"" nature of the officer's testimony based on the .12 BAC reading and the statutory *prima facie* evidence under Florida law. It also accurately applies the administrative rules regarding the ""upon challenge"" requirement for breathalyzer reports.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+155,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the district court's order to dismiss the claims against Secretary Rumsfeld. 
+
+Regarding reasoning, the AI judge aligns closely with the gold-standard opinion on both the *Bivens* and qualified immunity analyses. It correctly identifies the ""disfavored"" nature of extending *Bivens*, the ""new context"" of a foreign combat zone versus domestic settings, and the ""special factors"" (separation of powers/national security) that counsel hesitation. It also correctly applies the ""shock the conscience"" standard and the requirement for ""clearly established law"" to grant qualified immunity. While the AI judge introduces some additional citations (e.g., *Iqbal* and *Daniels* regarding supervisory liability) not emphasized in the gold standard, these are complementary to the core legal reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+106,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the conviction and rejecting the defendant's constitutional and procedural challenges. 
+
+Regarding reasoning, the AI judge aligns well with the court's analysis of facial constitutionality and the *Elonis* mens rea requirement, correctly identifying that the ""intentional"" and ""purpose"" elements of the statute satisfy the subjective awareness requirement. It also correctly applies the ""true threats"" exception to the specific facts of the case (the book and the pattern of conduct). While the AI judge provides a more detailed analysis of the statute of limitations (which the gold-standard summary mentions briefly as a trial court ruling), its legal logic remains consistent with the court's overall conclusion that the conduct was criminal and the instructions were sufficient.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+59,yes,1,"The AI judge reached the correct outcome (affirming the grant of summary judgment), but the reasoning is fundamentally different from the actual court's opinion. The actual court's ruling turned on a precise statutory interpretation of the word ""town"" versus ""city"" within the specific ""proximity preference"" exceptions of Minn. Stat. § 124D.10, subd. 9. In contrast, the AI judge ignored these specific statutory exceptions entirely and instead relied on a general prohibition of residency preferences and a different case (*Minn. Statewide Educ. Ass’n*), arguing that charter schools must be open to all students statewide. The AI judge failed to address the ""town"" vs. ""city"" distinction which was the central legal pivot of the gold-standard answer.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 1
+}
+```"
+44,no,0,"The AI judge's ruling is fundamentally incorrect and contradicts the gold-standard answer. The actual court opinion affirms that in theft by deception cases, ""value"" is measured by the amount the defendant sought to obtain (the ""amount obtained"" rule from *State v. George*), meaning the $5,500 asking price was the relevant value. In contrast, the AI judge applied a ""net loss"" or ""disparity"" theory (citing *State v. Mims*), arguing that the State failed to prove the truck's actual market value to calculate a difference. Consequently, the AI judge reversed the decision and ordered dismissal, whereas the actual court affirmed the focused review and the legal standard that supports the first-degree charge.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+200,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. The actual court found that the officer's re-engagement of the defendant constituted an unlawful detention and that the subsequent ""consent"" was tainted and invalid, leading to the suppression of evidence. The AI judge, conversely, ruled that the encounter was consensual and the evidence admissible.
+
+The reasoning is contradictory: the court viewed the rotating lights and the officer's re-interrogation as a continuation of a seizure without reasonable suspicion, while the AI judge viewed these as irrelevant because the defendant had been told he was ""free to go"" and had re-initiated conversation.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+103,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. The gold-standard answer finds that the claimant met his burden of proof and that the employer's denial was not reasonably controverted, resulting in a victory for the claimant. In contrast, the AI judge ruled in favor of the employer, arguing that the claimant failed to prove the accident and that the employer's denial was reasonable. The AI judge's reasoning contradicts the court's interpretation of the corroborating evidence (medical records, coworker testimony, and supervisor's testimony) and the reporting delay.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+145,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's decision to enter a default judgment against the defendant's estate. 
+
+Regarding reasoning alignment, the AI judge identifies the correct legal issues and applies the same logic as the gold-standard opinion: it emphasizes the willful nature of the non-compliance, the futility of lesser sanctions, and the irreparable prejudice caused by the defendant's death. While the AI judge cites different case law (e.g., *Cioffi* and *Tuma* instead of the *Stewart/Croydon* factors), the substantive analysis of the five equitable factors (severity, willfulness, prejudice, curability, and importance of evidence) is almost identical to the court's reasoning. The AI judge effectively mirrors the court's conclusion that the defendant's own conduct made the ultimate sanction the only proportionate remedy.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+18,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the trial court's decision to enter a default judgment against the defendant's estate. The reasoning is closely aligned, as both the AI and the gold-standard opinion emphasize the ""dismal record of non-compliance,"" the willfulness of the defendant's refusal to be deposed, and the irreparable prejudice caused by the defendant's death as the sole eyewitness. Both analyses correctly apply the framework of Pa. R.C.P. 4019 and the balancing of equities required for such a severe sanction.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+21,yes,4,"The AI judge correctly reached the same outcome as the actual court: reversing the Court of Appeals' decision and remanding the case. The AI judge's reasoning closely aligns with the gold standard, correctly identifying that malice can be inferred from an intentional act committed in gross disregard of the rights of others (specifically the defendant's intoxication and dangerous driving). While the AI judge included an additional analysis regarding the ""unconsciousness"" defense (which was mentioned in the case facts but not the primary focus of the gold-standard analysis of the malice issue), this does not detract from its accurate application of the law regarding second-degree murder.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+96,no,0,"The AI judge reached the opposite conclusion of the actual court. The actual court held that Neb. Rev. Stat. § 25-1329 *does* apply to petition in error proceedings, meaning the motion tolled the time to appeal and the appeal was timely. The AI judge held that § 25-1329 does *not* apply, relying on the very precedents (*Goodman* and *Timmerman*) that the actual court explicitly disapproved of in this decision. Consequently, the AI judge affirmed the dismissal, while the actual court reversed it.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+28,no,0,"The AI judge's ruling is fundamentally contradictory to the gold-standard opinion. The actual court found the stalking statute facially unconstitutional due to the ""substantial emotional distress"" provision being overbroad and an impermissible content-based restriction. In contrast, the AI judge ruled that the statute was facially constitutional, relying on a *mens rea* analysis and the ""true threats"" exception. While the AI judge correctly identified an error regarding the statute of limitations (which was one of the defendant's arguments), it failed entirely on the primary constitutional analysis that drove the actual court's decision.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+56,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the denial of the motion to disclose the confidential informant's identity. 
+
+Regarding reasoning, the AI judge aligns well with the gold standard by identifying the *Roviaro* standard and correctly concluding that the dispositive plea agreement rendered the ""fair trial"" necessity moot. However, the AI judge relies heavily on *Illinois v. Gates* and general waiver principles from other jurisdictions, whereas the gold-standard opinion specifically emphasizes the distinction between trial and suppression hearings using *Rugendorf* and *McCray*. While the AI judge's logic is legally sound and reaches the correct conclusion via a similar path, it misses the specific Supreme Court precedents that explicitly decouple *Roviaro* from suppression hearings.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+139,yes,4,"The AI judge's ruling matches the outcome of the actual court opinion, correctly affirming the denial of the motion for a change of venue. The reasoning is closely aligned, accurately identifying the distinction between actual and presumed prejudice, the ""heavy burden"" required for the latter, and the specific factual deficiencies in the defendants' evidence (limited number of articles, lack of broadcast media, and non-inflammatory content). It also correctly addresses the impracticality of a change of venue in American Samoa and the adequacy of the proposed voir dire process.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+128,no,2,"The AI judge reached the correct outcome regarding the compensability of the accident (affirming the OWC judge's finding), but it reached the opposite outcome regarding penalties and attorney's fees. The gold-standard opinion found that the employer's blanket denial was arbitrary and capricious and that the employer was liable for penalties; the AI judge ruled that the employer ""reasonably controverted"" the claim and affirmed the reversal of those penalties.
+
+Regarding reasoning, the AI judge correctly identified the legal framework for unwitnessed accidents (credible testimony plus circumstantial corroboration) and the manifest error standard of review. However, it failed to align with the court on the ""reasonable controversion"" analysis, concluding that a lack of eyewitnesses provided a reasonable basis for denial, whereas the actual court found that a mere assertion of doubt without contrary medical evidence was insufficient.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 2
+}
+```"
+122,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the denial of the plea in abatement. Regarding reasoning, the AI judge correctly identified the core conflict (civil administrative findings vs. criminal prosecution) and aligned with the court on the differences in standards of proof and the distinct purposes of the two proceedings. However, it failed to explicitly apply the specific four-prong test for collateral estoppel (identical parties, identical issue, essential determination, and full and fair opportunity) that the gold-standard opinion used as its primary framework, instead relying on a series of case citations. While the substantive conclusions are the same, the AI missed the specific structural analysis (especially the ""full and fair opportunity"" prong) emphasized by the court.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+1,yes,2,"The AI judge correctly reached the same outcome as the actual court, imposing a six-month actual suspension. However, the AI judge's reasoning is fundamentally different from the gold-standard opinion. While the actual court based its decision on a balancing test of mitigating factors (single act, small sum, restitution, successful recovery from addiction, and delay in prosecution) against the standard sanction, the AI judge invented a ""six-month baseline"" or ""floor"" based on a case called *In re Hough* (which is not mentioned in the provided court opinion). The AI judge treated the six-month period as a mandatory minimum for willful misappropriation, whereas the actual court viewed it as a discretionary balance of the specific facts of the case.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+48,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the family court's ruling that Oakley is a presumed parent and that Turner is equitably estopped from rebutting that presumption. The reasoning is closely aligned with the gold-standard answer, specifically identifying the binding nature of *McLaughlin v. Jones*, the necessity of a gender-neutral reading of A.R.S. § 25-814(A)(1) to comply with constitutional principles (equal protection), and the application of equitable estoppel based on Turner's representations.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+107,yes,4,"The AI judge correctly reached the same outcome as the actual court: affirming the conviction while remanding the case to vacate the court costs. 
+
+Regarding reasoning, the AI judge closely aligned with the gold standard on the discovery violation (explaining the ""trigger"" for the duty to produce reports) and the harmless-error analysis (citing the .12 BAC and the failure of roadside tests as overwhelming evidence). It went slightly beyond the provided text by analyzing the specific phrasing of the lower court's ""doubt"" versus the *DiGuilio* standard, but this analysis ultimately supported the same conclusion as the court's reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+39,yes,4,"The AI judge correctly reaches the same outcome as the actual court, affirming the order for declaratory judgment and permanent injunction in favor of the Red Lake Band. 
+
+Regarding reasoning, the AI judge aligns closely with the court's core logic: it identifies that the Band's ordinance was a valid exercise of self-government, that denying reciprocity would ""significantly dilute"" the effectiveness of that authority, and that the State failed to provide a substantial justification for the disparity in treatment compared to other jurisdictions. While the AI judge introduces external case law (like *McClanahan* and *Maine v. Taylor*) not explicitly detailed in the provided case background, these are used to support the same legal conclusions reached by the actual court.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+117,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the commitment order. The reasoning is highly aligned: it correctly identifies the standard of review (deference to credibility determinations), the sufficiency of the evidence (two experts vs. one critique), and the substantive due process issue (applying *Laxton* to satisfy the *Crane* ""inability to control"" requirement). The AI judge also addressed the plethysmograph evidence, which was mentioned in the facts but not detailed in the gold-standard summary, and correctly concluded it was harmless given the weight of other evidence.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+11,no,0,"The AI judge's ruling is fundamentally incorrect. The gold-standard opinion concludes that the joinder was **proper** under Wis. Stat. § 971.12(1), finding that the charges were ""connected together"" (using the *Hall* factors and *Bettinger* precedent) and part of a ""common scheme or plan"" of control. The AI judge, conversely, ruled that the joinder was **improper**, arguing that the intimidation could not have been part of a scheme to conceal sexual assaults that had not yet been reported. Consequently, the AI judge reached the opposite disposition and used reasoning that contradicts the actual court's analysis of the statutory requirements and the concept of a ""common scheme.""
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+153,yes,2,"The AI judge correctly reached the same outcome as the actual court (affirming the grant of summary judgment). However, the reasoning is significantly different. The actual court's decision turned on a specific textual distinction between the words ""town"" and ""city"" under Minnesota law (Chapters 365–368), concluding that Ramsey (a city) did not qualify as a ""town."" The AI judge, conversely, argued that the statute was simply silent on geographic preferences and relied on general precedents regarding charter school boundaries and educational choice. While both reached the same conclusion, the AI judge missed the specific statutory interpretation (the ""town"" vs. ""city"" distinction) that was the core of the court's ruling.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+33,yes,4,"The AI judge correctly reached the same disposition as the actual court: it affirmed the classification of the benefits as nonmarital property and reversed the district court's order to divide those funds, remanding the case. 
+
+Regarding reasoning, the AI judge's analysis is highly aligned. It correctly identifies the two-pronged nature of the case: the state law classification of the assets (using the ""bequest"" analogy and the source-of-funds principle) and the federal preemption issue (the anti-attachment statutes). While the AI judge cites specific case names (like *In re Marriage of Smith*) not explicitly detailed in the provided ""gold-standard"" text, these citations support the exact legal logic used by the actual court to reach its conclusion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+88,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the complaint. The reasoning is closely aligned with the gold-standard opinion: it correctly identifies that the claim was an overassessment rather than an illegal tax, notes the failure to exhaust administrative remedies, applies the three-month statute of limitations under § 44-5-27, and correctly determines that the request for injunctive relief was moot because the tax sale had already occurred.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+172,yes,1,"The AI judge correctly reached the same outcome as the actual court (affirming the grant of summary judgment). However, the reasoning is significantly flawed. The actual court's decision hinged on a technical statutory interpretation of the word ""town"" versus ""city"" (a ""town-resident"" preference exists, but it does not apply to ""cities""). In contrast, the AI judge hallucinated that the statute contains *no* preference language at all and cited a non-existent or irrelevant case (*In re Charter School of Minneapolis*). The AI judge missed the central legal conflict regarding the definition of ""town"" as a term of art.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 1
+}
+```"
+119,no,0,"The AI judge's ruling is completely opposite to the actual court opinion. The actual court affirmed the dismissal of the State Defendants, whereas the AI judge reversed the dismissal and remanded the case. Furthermore, the AI judge's reasoning contradicts the court on every major point: it argues that the State Defendants are proper parties, that the CBECA is inapplicable/unconstitutional, and that the *ISEEO V* holding should be expanded beyond facilities, while the actual court held the opposite on all three counts.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+111,yes,4,"The AI judge correctly reached the same outcome as the actual court: it affirmed the classification of the funds as nonmarital property and reversed the award of those funds to the husband. 
+
+Regarding reasoning, the AI judge's analysis of the classification (nonmarital property) aligns perfectly with the gold standard, correctly identifying the gift/devise exception and the importance of tracing/segregation. Furthermore, the AI judge correctly identified and applied the federal anti-attachment statutes (10 U.S.C. § 1477 and 38 U.S.C. § 1970(g)) to reverse the division of the assets, which matches the ""reverse in part"" and ""remand"" logic of the actual court's summary. While the AI judge cites different case names (e.g., *Smith* and *Anderson* vs. *Maher*), the legal principles and application to the facts are identical to the court's reasoning.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+15,no,0,"The AI judge's ruling is completely contradictory to the actual court opinion. The actual court affirmed the district court's judgment, ruling in favor of the Red Lake Band and finding that the State of Minnesota was obligated to grant reciprocity and exemptions. In contrast, the AI judge reversed the judgment, ruling in favor of the State of Minnesota and arguing that the reciprocity statutes explicitly excluded Indian tribes. Consequently, the AI judge failed on both the outcome and the reasoning.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": ""0""
+}
+```"
+173,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the suit. The reasoning is mostly aligned, as both the AI and the court emphasize that child support is a duty owed to the child (Art. 227) and not a debt between parents, thus precluding reimbursement. However, the AI judge failed to mention the critical procedural bars highlighted in the gold standard: the lack of a timely disavowal action and the absence of a judicial adjudication of biological paternity for R.R., which are the primary legal hurdles in the actual opinion. Additionally, the AI judge cited several cases (*Williams*, *LeBlanc*, *Babington*) that do not appear in the gold-standard analysis.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+77,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the suit. The reasoning is highly aligned: both the AI and the gold-standard opinion emphasize that the presumption of paternity is conclusive because J.M.Y. failed to timely disavow, and that this legal status creates a primary, continuous obligation to support the child that cannot be shifted to a biological father or the mother. The AI judge correctly identifies that the ""biological truth"" does not override the legal presumption and that no right of reimbursement exists under Louisiana law.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+9,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the grant of summary judgment and the dismissal of the claim against Dr. Whiting. 
+
+Regarding reasoning, the AI judge aligns well with the core legal framework: it correctly identifies that the 180-day deadline under Minn. Stat. § 145.682 is triggered by the commencement of the suit and is not reset by adding a new defendant. It also correctly identifies that the substantive adequacy of the affidavits cannot cure a procedural default. While the AI judge introduces specific case citations (e.g., *Schmitz*, *Bresnahan*) and a detailed discussion of the ""law of the case"" doctrine and ""privity"" that are not explicitly detailed in the provided gold-standard summary, these are consistent with the court's conclusion that the procedural failure against the employer (LCA-Vision) extended to the employee (Dr. Whiting) because they arose from the ""identical cause of action.""
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+35,yes,4,"The AI judge's ruling aligns perfectly with the gold-standard answer in both outcome and reasoning. Both the actual court and the AI judge find the defendant negligent based on the failure to meet specific installation requirements (burial depth, casing, and location) and the foreseeability of the risk given the defendant's knowledge of the culvert's condition. Furthermore, both correctly determine that the driver was not contributorily negligent, as they were not required to search for hidden pipelines.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+185,yes,4,"The AI judge correctly reached the same outcome as the actual court, reversing the district court's order and dismissing the claims. The reasoning is highly aligned, as the AI judge correctly applied the two-step *Bivens* framework, identified the ""new context"" of military detention in a foreign warzone, and cited the same ""special factors"" (separation of powers, congressional silence, and national security). It also correctly addressed the alternative argument regarding qualified immunity and the lack of ""clearly established"" law.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+76,no,0,"The AI judge's ruling is fundamentally opposite to the actual court's opinion. The actual court reversed the trial court's decision, holding that the informant's identity was essential to a fair determination of guilt (specifically regarding an entrapment defense) and that the ""dispositive"" nature of the suppression motion actually *heightened* the need for disclosure because it served as a substitute for a trial. In contrast, the AI judge affirmed the trial court's decision, arguing that the ""dispositive"" agreement waived the defendant's right to litigate issues of guilt or innocence and that the informant's identity was irrelevant to the objective standard of probable cause.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+135,yes,4,"The AI judge correctly identifies the two-part nature of the case: the classification of the funds as nonmarital property and the subsequent illegality of dividing those funds under state law. 
+
+For the first part, the AI judge correctly identifies the statutory exclusion for gifts/bequests from third parties and affirms the nonmarital classification. For the second part, the AI judge correctly identifies that federal anti-attachment statutes (38 U.S.C. § 1970 and 10 U.S.C. § 1477) preempt the state's ""unfair hardship"" provision, leading to the reversal of the award to the husband. While the AI judge cites different case law (e.g., *Middendorf* and *Smith* instead of *Roes* and *Goodwin*), the legal framework and the application of the rules to the facts are perfectly aligned with the gold-standard opinion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+99,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the denial of the motion to withdraw the pleas. The reasoning is very closely aligned: it correctly applies the *Strickland* two-prong test (deficiency and prejudice) to both attorneys. It accurately identifies that Van Ells's decision regarding the alibi was a strategic choice based on a thorough review of the file and that Attorney Falk's decision not to call Van Ells was not prejudicial because Van Ells's testimony would have been adverse to Chang's position. The AI judge also correctly addresses the voluntariness of the plea colloquy.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+64,yes,4,"The AI judge's ruling matches the outcome of the gold-standard opinion regarding Count XI, correctly determining that the Illinois Survival Statute preserves the claim against the dissolved corporation (PBS One) because the underlying liability was incurred prior to dissolution. The AI judge also correctly addresses the assumption and successor liability issues (Counts IX and X), aligning with the court's view that the 1991 agreement only transferred partnership interests, not general corporate liabilities. The reasoning closely tracks the court's distinction between the accrual of a cause of action and the existence of a pre-dissolution obligation.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+116,no,1,"The AI judge reached the opposite conclusion of the actual court. While the actual court affirmed the denial of the injunction (meaning the raze order stood), the AI judge reversed the decision and granted the injunction (meaning the raze order was vacated).
+
+Regarding reasoning, the AI judge fundamentally disagreed with the court on the necessity of a personal inspection. The actual court held that a personal inspection is not required by statute and that the inspector's reliance on reports was rational; the AI judge ruled that the lack of a personal inspection was a ""fatal procedural defect"" and a violation of due process. The AI judge only aligned with the court on the inclusion of smoke/water remediation costs and the applicability of the statute to sudden fire damage.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 1
+}
+```"
+46,no,0,"The AI judge's ruling is fundamentally incorrect. The actual court opinion (the gold-standard answer) concludes that the tax is **invalid** because the Agency **is** a ""special district"" under Proposition 13, requiring a two-thirds vote. The AI judge, however, concludes the tax is **valid** by strictly following the *Richmond* majority opinion, which the actual court (in *Rider v. County of San Diego*) effectively moved past by adopting a functional ""substance-over-form"" approach to close the ""loophole."" Consequently, the AI judge reached the opposite outcome and used reasoning that the actual court explicitly rejected in this specific case.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+41,yes,4,"The AI judge's ruling is highly accurate. It correctly identifies the core issue (the replaying of the recorded statement), applies the correct standard of review (abuse of discretion), and utilizes the exact same legal precedents (*Lewis*, *Chambers*, and *Harris*) as the actual court opinion. The AI judge's reasoning mirrors the court's logic: that ensuring jurors can hear testimony is essential and that replaying a tape to achieve this does not constitute an abuse of discretion under Rule 403.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+78,yes,3,"The AI judge correctly reached the same outcome as the actual court, affirming the LIRC's decision to deny benefits. Regarding reasoning, the AI judge correctly identified the ""great weight deference"" standard and the ""coming and going"" rule. However, while the gold-standard opinion focuses extensively on the four-part test to justify *why* great weight deference is applied (legislative charge, long-standing interpretation, expertise, and uniformity), the AI judge simply asserts the deference and spends more time on the substantive ""coming and going"" rule and ""traveling employee"" exception. While the substantive legal conclusions align, the AI judge omitted the detailed analysis of the deference criteria that formed the core of the court's opinion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+184,yes,2,"The AI judge correctly reaches the same outcome as the actual court: reversing the temporary injunction and remanding the case. 
+
+Regarding reasoning, the AI judge identifies the primary failure of the trial court—the lack of specific factual findings—and correctly addresses the material breach and fraud defenses. However, it misses several critical legal pillars present in the gold-standard opinion: it fails to mention the liquidated damages clause (which the court found defeated the ""inadequacy of legal remedy"" requirement), it ignores the fact that the court impermissibly extended the injunction beyond the contract's expiration date, and it does not discuss the public interest balance. While the AI judge's logic is sound and aligns with the general spirit of the ruling, it omits these dispositive legal arguments.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+90,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the judgment against the Guarantors. The reasoning is highly aligned with the gold-standard answer: it correctly identifies the controlling precedent (*PNC Bank*), addresses the specific contractual language of the waiver, and properly dismisses the *ejusdem generis* argument by noting the ""including, but not limited to"" phrasing. It also correctly justifies the damages calculation based on the facts provided in the case background.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+180,no,0,"The AI judge reached the opposite conclusion of the actual court. The actual court found that the entire encounter—including the initial detention and the subsequent search—was unconstitutional and that the evidence must be suppressed. The AI judge, however, ruled that the evidence should not be suppressed, arguing that the illegal pat-down was ""attenuated"" because the defendant was told he was free to go and voluntarily re-engaged the officer.
+
+The reasoning is contradictory. The actual court viewed the officer's actions (retaining the license, summoning backup, and questioning the driver about Philadelphia) as an investigative seizure without reasonable suspicion, whereas the AI judge viewed the encounter as having transitioned into a consensual interaction.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+16,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the dismissal of the State Defendants. The reasoning is highly aligned, as both the AI judge and the gold-standard opinion focus on the applicability of the CBECA, the constitutionality of the CBECA (citing the separation of powers/sovereign immunity context), and the fact that Joki's claims did not fall within the narrow scope of *ISEEO V* (facilities funding). The AI judge also correctly identified the failure to exhaust administrative remedies (notice of claim) as a dispositive factor.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+84,yes,4,"The AI judge reached the correct outcome, dismissing the appeal for lack of jurisdiction. The reasoning is closely aligned with the gold-standard opinion, as both correctly identify the final judgment rule and the three-pronged *Cohen* test. Both the AI and the court focus on the third prong (effective unreviewability), concluding that a change of venue is not a right to avoid trial altogether (unlike double jeopardy) and can be remedied via reversal and a new trial. The AI judge introduces some additional discussion on ""structural error"" and specific case citations (e.g., *Fulminante*), but these do not contradict the core legal logic of the court.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+140,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the denial of the injunction. The reasoning is highly aligned, as the AI judge addressed all four primary arguments raised by Auto-Owners (sudden fire damage, remediation costs, lack of personal inspection, and the insured's inquiry) and applied the correct legal standards (the 50% cost-of-repair presumption and the arbitrariness standard). While the AI judge cited different case names than the gold-standard summary, the legal principles applied—such as the broad definition of ""out of repair"" and the validity of relying on owner-supplied data—perfectly match the court's logic.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+192,yes,2,"The AI judge correctly reached the same outcome as the actual court, affirming the grant of summary judgment. However, the reasoning alignment is poor. The actual court's decision rested on a very specific technical distinction: the statutory term ""town"" is a term of art referring to townships, which excludes ""cities"" (like Ramsey). The AI judge completely missed this ""town vs. city"" distinction, instead arguing that the term ""proximity preference"" is vague or does not explicitly mention cities. While the AI judge reached the correct result, it failed to identify the dispositive legal rule (the technical definition of ""town"") that drove the actual court's opinion.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 2
+}
+```"
+133,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the denial of the Rule 35 motion. The reasoning is closely aligned, correctly identifying the ""plea for leniency"" nature of the motion, the abuse-of-discretion standard, and the primacy of protecting society over rehabilitation. It accurately incorporates the specific factual nuances, such as the ""one-third"" rule for indeterminate sentences and the expert's concession regarding the timing of therapy. While the AI judge includes some additional analysis regarding the constitutional challenge (which the actual court dismissed as untimely), this does not detract from its alignment with the core legal reasoning used to affirm the district court's order.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+125,no,0,"The AI judge reached the opposite conclusion of the actual court. While the actual court held that the Agency was a ""special district"" and the tax was invalid without a two-thirds vote, the AI judge held that the Agency was not a ""special district"" and the tax was valid.
+
+The AI judge's reasoning is fundamentally contradictory to the gold-standard opinion. The AI judge relied exclusively on the majority holding of *Richmond* (which the actual court explicitly rejected as ""aberrational"" and a ""loophole""), whereas the actual court adopted a functional definition of ""special district"" based on later jurisprudence (*Guardino* and *Knox*) to ensure the protections of Proposition 13 were not evaded.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+161,yes,4,"The AI judge correctly identifies that the trial court erred and that the court of appeals should have reversed the decision. Both the AI judge and the gold-standard opinion agree that the ""dispositive"" nature of the motion to suppress did not waive the defendant's right to challenge the informant's reliability and that the defense provided enough specific facts (participation, belongings in the car) to trigger a further inquiry. While the AI judge relies more heavily on federal precedents like *Roviaro* and *Aguilar-Spinelli* whereas the gold-standard focuses on Texas Rule of Evidence 508 and *Bodin*, the core legal logic—that a plausible showing of necessity overrides the State's privilege regardless of the ""dispositive"" agreement—is perfectly aligned.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+8,yes,3,"The AI judge correctly identifies the outcome: affirming the classification of the benefits as nonmarital property and reversing the division of those benefits based on federal preemption. However, the reasoning for the classification differs significantly from the gold-standard opinion. While the actual court relied on an analogy to ""gifts"" and cited persuasive authority from other states (Iowa, Kentucky, Colorado) to fill a statutory gap, the AI judge relies on a specific Minnesota case (*In re Marriage of Johnson*) that is not mentioned in the gold-standard analysis. Despite this, the AI judge correctly identifies the overarching legal framework (rebutting the marital presumption) and the federal anti-attachment statutes.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+45,no,1,"The AI judge failed to match the outcome and reasoning of the actual court opinion. The gold-standard answer focuses exclusively on whether the Court of Appeals erred in finding a lack of evidence for ""malice,"" concluding that the defendant's reckless driving (high speed, running a red light) was sufficient to support a second-degree murder conviction. The actual court's disposition was to reverse the Court of Appeals and remand for further consideration of the defendant's other appeals.
+
+In contrast, the AI judge shifted the focus to the ""defense of unconsciousness,"" ruling that the trial court committed reversible error by excluding that evidence. This resulted in a different legal outcome: the AI judge ordered a new trial based on the exclusion of evidence, whereas the actual court focused on validating the sufficiency of the evidence for malice to reinstate the convictions (subject to other appellate issues).
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 1
+}
+```"
+102,yes,4,"The AI judge correctly reached the same outcome as the actual court, affirming the denial of the motion to withdraw the guilty plea. The reasoning is highly aligned: both the AI judge and the gold-standard opinion distinguish between ""direct"" and ""collateral"" consequences of a plea, correctly identifying the limitation on appellate review as a collateral consequence that does not require admonition. Both also address the ineffective assistance claim by noting that the defendant failed to prove prejudice, as the trial court's correct admonitions regarding the sentencing range superseded any prior misstatements by counsel.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 4
+}
+```"
+32,yes,4,"The AI judge's ruling is an excellent match for the actual court opinion. It correctly identifies and applies the legal standards for all three assignments of error: the ""primary purpose"" test for the Confrontation Clause, the ""qualified witness"" standard under Evidence Rule 803(6) for business records, the flexibility of judges in bench trials under Rule 614(B), and the two-prong test for indictment amendments (abuse of discretion and prejudice). The AI judge's reasoning closely mirrors the court's logic, specifically noting that the conviction was based on the original date, rendering the indictment amendment harmless.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+14,yes,3,"The AI judge correctly reached the same outcome as the gold-standard analysis (affirming the commitment). However, there is a significant discrepancy regarding the standard of review. The gold-standard analysis emphasizes the *Curiel* standard (whether any rational trier of fact could have found the elements beyond a reasonable doubt), whereas the AI judge relies on the ""clearly erroneous"" standard for factual findings. While both are deferential, the *Curiel* standard is the specific controlling authority for sufficiency of evidence in Chapter 980 cases as highlighted in the gold standard.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 3
+}
+```"
+89,yes,4,"The AI judge's ruling is highly accurate. It correctly identifies the core legal issue (the ""perfectly clear"" successor exception under *Burns*), reaches the same disposition as the court (granting the petition in part and vacating the order to restore predecessor terms), and applies the facts to the law in a manner nearly identical to the gold-standard opinion. Both the AI and the court emphasize that the pre-employment communications (cover letters, offer letters, and at-will status) provided sufficient notice to avoid ""perfectly clear"" status, regardless of the lack of exhaustive specificity.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": ""4""
+}
+```"
+13,no,0,"The AI judge's ruling is completely incorrect. The actual court opinion explicitly states, ""We reject each of Auto-Owners' arguments... Accordingly, we affirm,"" meaning the court upheld the raze order. The AI judge, however, reversed the circuit court's decision and granted the injunction in favor of Auto-Owners. Furthermore, the AI judge's reasoning is contradictory to the actual court's findings, as it adopts the very arguments (regarding the ""cost of repair"" and the lack of independent inspection) that the actual court rejected.
+
+```json
+{
+  ""Outcome Match"": ""no"",
+  ""Reasoning Alignment"": 0
+}
+```"
+69,yes,1,"The AI judge reached the correct outcome (affirming the grant of summary judgment), but its reasoning is fundamentally flawed and hallucinatory. The actual court's decision turned on the specific definition of the word ""town"" versus ""city"" within a proximity preference clause that *does* exist in the statute. In contrast, the AI judge claims that the statute is ""devoid of any language granting preference based on city residency"" and argues that the legislature intentionally omitted a proximity preference entirely. By denying the existence of the very clause the court spent its entire opinion interpreting, the AI judge failed to engage with the actual legal issue.
+
+```json
+{
+  ""Outcome Match"": ""yes"",
+  ""Reasoning Alignment"": 1
+}
+```"
