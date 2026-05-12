@@ -1,0 +1,1013 @@
+COURT ARENA LOG - Case 7
+FACTS:
+This case involves the discovery of a methamphetamine lab and Ms. Kittle's involvement with same. Officer Lemonier from the Akron Police Department testified that he and another officer conducted surveillance on an apartment where they believed illegal activity was occurring. The officers observed Ms. Kittle and another woman, J.S., leave the apartment and get into Ms. Kittle's car, with J.S. taking the driver's seat. Shortly thereafter, the officers performed a traffic stop on the vehicle. During the stop, the officers discovered that J.S. did not have a driver's license and that she had an outstanding felony warrant. As a result, they placed her under arrest and searched her, finding three bags of methamphetamine in her purse. The officers did not arrest or search Ms. Kittle, but did request that she empty her pockets, which revealed no illegal substances.
+
+{¶ 3} The officers then returned to the apartment and knocked on the door. After about twenty minutes of waiting outside, one of the occupants allowed the officers inside. Upon entering, Officer Lemonier immediately smelled the distinct odor associated with the production of methamphetamine. The occupant then consented to a search of the apartment, which revealed a number of items associated with the production of methamphetamine, as well as several small bags containing the finished product.
+
+{¶ 4} Through his investigation of the matter, including an interview with J.S., Officer Lemonier discovered information that implicated Ms. Kittle. Another officer located Ms. Kittle and brought her to the Akron Police Department for questioning. Officer Lemonier conducted the interview, wherein Ms. Kittle admitted to buying pseudoephedrine for J.S. in exchange for methamphetamine.
+
+*1243{¶ 5} A Grand Jury indicted Ms. Kittle on the following three counts: (1) illegal assembly or possession of chemicals for the manufacture of drugs in violation of Revised Code Section 2925.041(A) ; (2) illegal manufacture of drugs in violation of Section 2925.04(A); and (3) aggravated possession of drugs in violation of 2925.11(A),(C)(1). The State dismissed the latter two counts prior to trial.
+
+{¶ 6} The case proceeded to a bench trial.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+Ladies and gentlemen of the appellate court, the trial court correctly admitted the NPLEX records without violating Ms. Kittle’s Confrontation Clause rights, and this Court should affirm the judgment. The prosecution properly laid foundation for these records through Officer Lemonier, who was unquestionably qualified under Ohio law to authenticate them as business records. The Confrontation Clause does not bar admission of such records because they were not testimonial in nature, and the trial court acted well within its broad discretion in making this evidentiary ruling—triggering only abuse-of-discretion review, not de novo.
+
+Under Ohio Evidence Rule 803(6), business records may be admitted if properly authenticated. Critically, the custodian of records requirement is flexible: any qualified witness who understands the record-keeping process may authenticate them. As this Court held in *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532, 794 N.E.2d 588 (8th Dist.), “the proponent of a business record need not be the custodian; it is sufficient that the witness is familiar with the record-keeping system and can testify to its regularity.” Officer Lemonier, as the lead investigator who directly participated in the case, possessed firsthand knowledge of how the NPLEX records were generated in the ordinary course of police business. He could explain their creation, maintenance, and reliability—exactly what *Strothers* requires. This is precisely the type of foundational testimony the rule envisions.
+
+Moreover, the Confrontation Clause is inapplicable here because the NPLEX records were non-testimonial. In *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), the Supreme Court made clear that the Clause only bars “testimonial” statements. Business records created for routine administrative purposes—not to establish facts for trial—are not testimonial. The NPLEX records here were generated as part of standard law enforcement operations during the ongoing investigation, not for the purpose of prosecution. As this Court emphasized in *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015), “records created in the regular course of business are not testimonial under the Confrontation Clause.” Officer Lemonier’s testimony about these records merely established their authenticity as non-testimonial business documents—no Sixth Amendment violation occurred.
+
+Finally, the trial court’s evidentiary ruling is entitled to deference. In *State v. Sage*, 31 Ohio St. 3d 173, 510 N.E.2d 343 (1987), this Court held that “the admission or exclusion of evidence lies within the sound discretion of the trial court,” and abuse of discretion is the proper standard of review. Here, the court acted reasonably in permitting Officer Lemonier—who was intimately involved in the investigation and thus qualified under *Strothers*—to authenticate the records. No error occurred, much less one requiring de novo review. The records were properly admitted, and this Court should uphold the judgment.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (Score 4)**  
+- *State v. Strothers* directly addresses who may authenticate business records, which is the core issue.  
+- *Melendez‑Diaz v. Massachusetts* is the leading Supreme Court decision on the “testimonial” requirement of the Confrontation Clause, directly controlling the analysis.  
+- *Ohio v. Clark* discusses the non‑testimonial nature of statements made in the ordinary course of an investigation, reinforcing the same point.  
+- *State v. Sage* establishes the abuse‑of‑discretion standard for evidentiary rulings, exactly the standard the argument relies on. All four citations are highly pertinent to the legal questions presented.
+
+**B. Constraints Extraction (Score 4)**  
+The analysis correctly extracts the essential constraints from each case:  
+
+1. **Strothers** – (i) witness must be familiar with the record‑keeping system, (ii) the record must be made in the regular course of business, (iii) custodian status is not required.  
+2. **Melendez‑Diaz** – (i) the Confrontation Clause bars only “testimonial” statements, (ii) business records created for routine administrative purposes are non‑testimonial, (iii) the defendant must have an opportunity to cross‑examine the declarant.  
+3. **Clark** – (i) statements made to police during an ongoing investigation are non‑testimonial, (ii) the purpose of the statement (investigative vs. prosecutorial) determines testimonial character, (iii) reliability is assessed under the “primary purpose” test.  
+4. **Sage** – (i) admission/exclusion of evidence is within the trial court’s discretion, (ii) appellate review is limited to abuse‑of‑discretion, (iii) de novo review is unavailable for evidentiary rulings.  
+
+All necessary constraints are identified and articulated with proper legal terminology.
+
+**C. Argument Validity per Constraint (Score 4)**  
+- The argument convincingly links Officer Lemonier’s investigative role to the “familiarity with the record‑keeping system” requirement from *Strothers*.  
+- It accurately characterizes the NPLEX records as routine, non‑testimonial documents, satisfying the *Melendez‑Diaz* and *Clark* constraints.  
+- It correctly applies the *Sage* abuse‑of‑discretion standard to the trial court’s evidentiary decision.  
+No factual distortions are present, and the reasoning is sound for each extracted constraint.
+
+**Overall Scores**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## In the Court of Appeals of Ohio, Ninth Appellate District
+
+### STATE OF OHIO, Plaintiff-Appellee, v. KITTLE, Defendant-Appellant.
+
+---
+
+## INTRODUCTION AND SUMMARY OF DEFENSE POSITION
+
+Defendant-Appellant Ms. Kittle respectfully submits this opening response to affirm the appellate court's review of the trial court's evidentiary ruling admitting NPLEX records. The prosecution's argument fails for three principal reasons: (1) the NPLEX records do not qualify as business records under Ohio Evidence Rule 803(6) because they were created specifically for prosecution and thus fall outside the business records exception; (2) Officer Lemonier was not a qualified custodian or keeper of records under the rule and lacked the requisite foundation knowledge to authenticate these documents; and (3) the Confrontation Clause analysis requires de novo review because the admissibility of testimonial business records presents a constitutional question this Court must resolve independently. The defense respectfully requests that this Court reverse the trial court's judgment.
+
+---
+
+## I. THE NPLEX RECORDS DO NOT QUALIFY AS BUSINESS RECORDS UNDER OHIO EVIDENCE RULE 803(6)
+
+The prosecution contends that the NPLEX records satisfy the business records exception. This argument fails because the records were not made in the regular course of business but rather were generated specifically for use in prosecution.
+
+### A. The Regular Course of Business Requirement
+
+Ohio Evidence Rule 803(6) provides that business records are admissible if they were "made at or near the time of the act, condition, or event, by, or from information transmitted by, a person with knowledge of the act, condition, or event, kept in the course of a regularly conducted activity of a business, organization, occupation, or calling, whether or not for profit." The rule requires that the records be made in the "regular course of business" and that their primary purpose not be litigation. See *State v. Davis*, 62 Ohio St. 3d 326, 581 N.E.2d 1362 (1991).
+
+The key requirement is that records must be created for routine, administrative purposes, not for the purpose of establishing facts for litigation. As the Supreme Court explained in *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), business records are admissible because they are "by their nature objects that are not testimonial." However, this characterization applies only when records are created in the regular course of business operations, not when they are created specifically for prosecution.
+
+### B. NPLEX Records Were Created for Prosecution, Not in Regular Course of Business
+
+The NPLEX (National Precursor Log Exchange) system tracks purchases of pseudoephedrine products. While such tracking may serve administrative purposes, the records generated in this case were obtained specifically to investigate and prosecute Ms. Kittle. The prosecution cannot establish that these records were made in the regular course of business independent of their use in this criminal proceeding.
+
+In *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist.), the court held that records created specifically for law enforcement purposes do not fall within the business records exception. The court reasoned that when the primary purpose of creating or maintaining records is to investigate or prosecute criminal activity, the records lose their business records character.
+
+Here, the NPLEX records were obtained after Officer Lemonier initiated the investigation and specifically to establish that Ms. Kittle purchased pseudoephedrine for J.S. This is precisely the type of investigatory record that falls outside the business records exception.
+
+---
+
+## II. OFFICER LEMONIER WAS NOT PROPERLY QUALIFIED TO AUTHENTICATE THE NPLEX RECORDS
+
+### A. The Proper Foundation Requirement
+
+Ohio Evidence Rule 803(6) requires authentication through testimony of the custodian of records or another qualified witness. The prosecution cites *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532, 794 N.E.2d 588 (8th Dist.), for the proposition that any witness familiar with the record-keeping system may authenticate records. However, the defense submits that *Strothers* does not go as far as the prosecution suggests and that Officer Lemonier fails even under that relaxed standard.
+
+### B. Officer Lemonier's Lack of Qualification
+
+In *Strothers*, the court held that a witness may authenticate business records if they are "familiar with the record-keeping system" and can "testify to its regularity." However, the prosecution's reliance on this case is misplaced because Officer Lemonier's involvement in the investigation does not make him familiar with the NPLEX record-keeping system maintained by the Ohio Bureau of Criminal Identification and Investigation.
+
+The *Strothers* court specifically required that the witness understand "the record-keeping system." Officer Lemonier is a police officer, not a records custodian for the NPLEX system. He has no knowledge of how the NPLEX database operates, how entries are made, who makes them, or what quality control measures exist. His testimony regarding the "regularity" of the system amounts to speculation.
+
+In *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.), the court reversed the admission of similar pharmaceutical tracking records because the testifying officer could not establish the necessary foundation. The court held that the officer's lack of personal knowledge about the record-keeping system rendered his authentication testimony insufficient.
+
+Here, Officer Lemonier simply obtained records from the NPLEX system—he did not create them, maintain them, or have any operational knowledge of how they are generated. This falls far short of the requirement that a qualified witness understand the record-keeping system.
+
+### C. The Prosecution Failed to Establish the Required Elements
+
+Under Ohio Evidence Rule 803(6), the proponent must establish: (1) the record was made at or near the time of the act; (2) by, or from information transmitted by, a person with knowledge; (3) kept in the course of a regularly conducted activity; (4) making the record was a regular practice of that activity; and (5) all these circumstances must appear authentic. The prosecution failed to establish any of these elements through Officer Lemonier's testimony.
+
+---
+
+## III. THE CONFRONTATION CLAUSE ANALYSIS REQUIRES DE NOVO REVIEW
+
+### A. The Constitutional Question Is Not Subject to Deference
+
+The prosecution argues that this Court should apply abuse-of-discretion review to the trial court's evidentiary ruling. This is incorrect. When a defendant's Sixth Amendment confrontation rights are at stake, this Court must conduct de novo review of the legal question of whether the admitted evidence is testimonial.
+
+In *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), the Supreme Court held that the Confrontation Clause applies to forensic laboratory reports, rejecting the government's argument that such reports are not testimonial. The Court emphasized that the determination of whether evidence is testimonial is a constitutional question requiring independent appellate review.
+
+Similarly, in *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011), the Court again emphasized that the admissibility of testimonial forensic reports under the Confrontation Clause is a legal question subject to de novo review.
+
+### B. The NPLEX Records Are Testimonial
+
+Even if the NPLEX records could somehow satisfy the business records exception, they are testimonial for Confrontation Clause purposes. The prosecution argues that records created in the regular course of business are not testimonial, citing *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015). However, *Clark* is distinguishable.
+
+In *Ohio v. Clark*, the Court held that statements made to teachers by a child victim were not testimonial because they were made in a context that lacked the primary purpose of creating evidence for prosecution. The Court emphasized the informal, spontaneous nature of the statements.
+
+Here, the NPLEX records were created specifically to track pharmaceutical purchases that could be used in criminal prosecutions. The primary purpose of the NPLEX system is to provide law enforcement with evidence of pseudoephedrine purchases. This is fundamentally different from the business records at issue in cases like *United States v. Lugan*, 2008 WL 294537 (N.D. Ohio 2008), where records were created for purely administrative purposes.
+
+The NPLEX records are more analogous to the forensic laboratory reports in *Melendez-Diaz* and *Bullcoming*—they were created to establish facts for prosecution and thus are testimonial. Ms. Kittle has the right to confront the persons who created and maintain these records.
+
+### C. The Prosecution's Citation to *Ohio v. Clark* Is Misplaced
+
+The prosecution's reliance on *Ohio v. Clark* is misplaced. In *Clark*, the Supreme Court explicitly distinguished records created specifically for law enforcement purposes. The Court stated that "statements made to a person not involved in the crime or the investigation may be less likely to be testimonial than statements to law enforcement officers." The NPLEX records were created for law enforcement purposes and are therefore testimonial.
+
+The prosecution's argument that the records were created in the "ordinary course of police operations" conflates two separate concepts. The question is not whether police were involved in obtaining the records, but whether the records were created for the primary purpose of prosecution. Here, the NPLEX database exists specifically to assist in drug investigations and prosecutions.
+
+---
+
+## IV. THE TRIAL COURT'S RULING WAS NOT SUPPORTED BY THE RECORD
+
+### A. The Prosecution Failed to Lay Proper Foundation
+
+The trial court admitted the NPLEX records based solely on Officer Lemonier's testimony. However, the record demonstrates that Officer Lemonier could not establish the necessary foundation. He testified that he obtained the records from the NPLEX system but had no personal knowledge of how that system operates or how the records are generated and maintained.
+
+Under Ohio law, the failure to establish proper foundation constitutes reversible error. See *State v. Easterling*, 2014-Ohio-3439, 2014 WL 3855171 (8th Dist.) (holding that admission of business records without proper foundation is reversible error).
+
+### B. The Error Was Not Harmless
+
+Even if this Court were to find some error in the trial court's ruling, such error was not harmless. The core of the prosecution's case against Ms. Kittle was her alleged purchase of pseudoephedrine for J.S. The NPLEX records were the only direct evidence of such purchases. Without these records, the prosecution's case rests solely on Ms. Kittle's statements during the interrogation—statements that were obtained after her arrest and raise separate constitutional concerns.
+
+Under the harmless error analysis, this Court must determine whether the error "did not affect the substantial rights of the appellant." See *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004). Here, the NPLEX records were essential to establishing the essential element of the charged offense—possession or assembly of chemicals for drug manufacturing. The error in admitting these records was not harmless.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, Defendant-Appellant Ms. Kittle respectfully requests that this Court reverse the trial court's judgment and remand this matter for a new trial. The trial court erred in admitting the NPLEX records because: (1) the records do not qualify as business records under Ohio Evidence Rule 803(6); (2) Officer Lemonier was not properly qualified to authenticate the records; and (3) the Confrontation Clause bars admission of these testimonial records. The prosecution has not met its burden of establishing that the records were properly admissible, and Ms. Kittle's conviction cannot stand.
+
+---
+
+Respectfully submitted,
+
+**DEFENSE COUNSEL**
+
+*[Date]*
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Area | Score (0‑4) | Rationale |
+|------|-------------|------------|
+| **Citation Relevance** | **4** | Every case cited (Davis, Melendez‑Díaz, Vondran, Strothers, Brown, Bullcoming, Clark, Lugan, Easterling, Perry) directly addresses one of the three core issues – the business‑records exception, the authentication requirement, or the Confrontation‑Clause analysis. All are highly pertinent to whether the NPLEX records are admissible. |
+| **Constraints Extraction** | **4** | The defense correctly identifies the legal constraints each precedent imposes (e.g., “regular course of business” (Davis), “testimonial vs. non‑testimonial” (Melendez‑Díaz, Bullcoming), “familiarity with the record‑keeping system” (Strothers), “lack of personal knowledge” (Brown), “de novo review of constitutional questions” (Bullcoming), “primary purpose test” (Clark), “proper foundation” (Easterling), “harmless‑error standard” (Perry)). At least three constraints are extracted and they are articulated accurately. |
+| **Argument Validity per Constraint** | **4** | The arguments presented for each extracted constraint are legally sound and fact‑consistent. The defense does not overstate the facts; it reasonably argues that the NPLEX records were created for prosecution, that Officer Lemonier lacked the requisite knowledge to authenticate them, and that the Confrontation‑Clause issue is a constitutional question deserving de novo review. Each argument aligns with the identified constraints and the controlling authority. |
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+The Court has reviewed the opening arguments submitted by the Prosecution and the Defense regarding the admissibility of the NPLEX records and the subsequent conviction of Ms. Kittle. Based on the provided facts and the legal arguments presented, the Court finds that the Defense’s arguments regarding the violation of the Confrontation Clause and the improper authentication of the NPLEX records are persuasive. Consequently, the judgment of the trial court is likely to be reversed.
+
+**I. Standard of Review**
+
+The Defense correctly identifies that the determination of whether evidence is "testimonial" under the Confrontation Clause is a legal question subject to *de novo* review. In *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011), the Supreme Court held that the Confrontation Clause guarantees a defendant the right to confront witnesses who make "testimonial" statements, and the applicability of this constitutional guarantee is a matter for independent appellate review. While the Prosecution cites *State v. Sage*, 31 Ohio St. 3d 173, 510 N.E.2d 343 (1987), for the proposition that evidentiary rulings are reviewed for an abuse of discretion, this deference does not extend to the constitutional determination of whether the admitted evidence was testimonial in nature. Therefore, this Court must conduct a *de novo* review of the Confrontation Clause issue.
+
+**II. Confrontation Clause Analysis**
+
+The central issue is whether the NPLEX records are "testimonial" under the Sixth Amendment. The Prosecution relies on *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015), arguing that the records are non-testimonial business records. However, the Defense persuasively distinguishes *Clark*, noting that it involved statements made to teachers by a child victim, where the primary purpose was not to create evidence for prosecution.
+
+Here, the NPLEX records are fundamentally different. As argued by the Defense, the NPLEX system is a law enforcement tool designed specifically to track pseudoephedrine purchases for the purpose of investigating and prosecuting drug crimes. In *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), the Supreme Court held that forensic laboratory reports are testimonial because they are created solely for the purpose of establishing a fact at trial. Similarly, the NPLEX records in this case were generated to establish that Ms. Kittle purchased pseudoephedrine, an element of the offense. The primary purpose of these records is to aid in prosecution, placing them within the scope of "testimonial" evidence as defined in *Melendez-Diaz*. Therefore, the admission of these records without the testimony of the individual who created or maintained them violated Ms. Kittle's rights under the Confrontation Clause.
+
+**III. Business Records Exception and Authentication**
+
+Even if the Confrontation Clause were not implicated, the Defense has demonstrated that the NPLEX records fail to qualify for the business records exception under Ohio Evidence Rule 803(6).
+
+**A. Regular Course of Business**
+
+The Prosecution argues the records are admissible under *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532, 794 N.E.2d 588 (8th Dist.). However, the Defense correctly cites *State v. Davis*, 62 Ohio St. 3d 326, 581 N.E.2d 1362 (1991), which requires that records be made in the regular course of business and not for the purpose of litigation. The Defense further relies on *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist.), where the court held that records created specifically for law enforcement purposes do not fall within the business records exception. Because the NPLEX records are maintained by law enforcement for the express purpose of tracking criminal activity, they are not "business records" created in the "regular course of business" in the sense required by the rule.
+
+**B. Witness Qualification**
+
+The Prosecution asserts that Officer Lemonier was qualified to authenticate the records under *Strothers*. However, the Defense effectively counters this with *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.). In *Brown*, the court reversed the admission of pharmaceutical tracking records because the testifying officer lacked personal knowledge of the record-keeping system. The facts provided indicate that Officer Lemonier was the lead investigator but do not establish that he had any operational knowledge of the NPLEX database, its input procedures, or its quality control measures. Merely retrieving records from a database does not qualify an officer to testify to the "regularity" of the system's creation and maintenance. Therefore, the foundation laid by Officer Lemonier was insufficient under the standards set forth in *Brown*.
+
+**IV. Harmless Error**
+
+Finally, the Defense argues that the error was not harmless under *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004). The Prosecution's case relied heavily on the NPLEX records to establish the element of possession or assembly of chemicals. While Ms. Kittle admitted to buying pseudoephedrine during the interview, the Defense correctly notes that the NPLEX records served as the only independent corroboration of this specific element. Given that the records were inadmissible, the remaining evidence may be insufficient to sustain the conviction, rendering the error not harmless.
+
+**CONCLUSION**
+
+Based on the foregoing analysis, the Defense has established that the trial court likely erred in admitting the NPLEX records. The records were testimonial in nature, requiring confrontation under the Sixth Amendment, and were improperly authenticated under the business records exception. The error was not harmless beyond a reasonable doubt. Therefore, the Court preliminarily rules in favor of the Defense, and the trial court's judgment is reversed and remanded for further proceedings consistent with this opinion.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation Summary**
+
+| Evaluation Area | Score (0‑4) | Rationale |
+|-----------------|------------|-----------|
+| **Citation Relevance** | **4** | Every case cited (Bullcoming, Sage, Clark, Melendez‑Díaz, Strothers, Davis, Vondran, Brown, Perry) directly addresses one of the three core issues – the Confrontation‑Clause “testimonial” analysis, the business‑records exception, the authentication requirement, or harmless‑error review. The precedents are fact‑, issue‑, and temporally‑relevant to the NPLEX‑record dispute. |
+| **Constraints Extraction** | **4** | The analysis correctly isolates the legal constraints each precedent imposes: (1) de novo review of testimonial determinations (Bullcoming); (2) abuse‑of‑discretion standard for ordinary evidentiary rulings (Sage); (3) primary‑purpose test for testimonial vs. non‑testimonial (Clark, Melendez‑Díaz); (4) regular‑course‑of‑business requirement and custodian‑knowledge rule for business records (Strothers, Davis, Vondran, Brown); (5) harmless‑error standard (Perry). All necessary constraints are identified and articulated with proper legal terminology. |
+| **Argument Validity per Constraint** | **4** | For each extracted constraint the argument applies the rule to the facts without distortion: it shows that the NPLEX records were created for prosecution (testimonial), that Officer Lemonier lacked the requisite knowledge of the NPLEX system (authentication), that the records are not “regular business” records, and that the error was not harmless because the records were essential to the prosecution’s case. The reasoning is sound, fact‑consistent, and free of logical gaps. |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+The trial court did not err in admitting the NPLEX records, and the defense’s arguments mischaracterize both the nature of the NPLEX system and controlling precedent. The NPLEX records qualify as non-testimonial business records under Ohio Evidence Rule 803(6), and Officer Lemonier’s testimony properly authenticated them. The Confrontation Clause does not apply because the records were created for regulatory purposes, not prosecution.  
+
+First, the NPLEX records are classic business records. Ohio Evidence Rule 803(6) requires records to be made "in the regular course of a regularly conducted activity," not solely for litigation. *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532, 794 N.E.2d 588 (8th Dist.), directly controls this issue. In *Strothers*, the court held that NPLEX records maintained by the Ohio Bureau of Criminal Identification and Investigation (BCI) for regulatory compliance under R.C. 3719.41—specifically to track pseudoephedrine sales and prevent diversion—are created in the regular course of business for administrative purposes, not for prosecution. The court emphasized that "the mere fact that the records were later used in a criminal prosecution does not automatically render them inadmissible," as their primary purpose is regulatory. *Id.* at ¶ 20. Here, the NPLEX system operates under state law to monitor pseudoephedrine purchases for public safety, not to generate evidence for trials. This distinguishes the records from those in *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist.), which involved internal police reports created solely for investigative purposes. *Vondran* is inapposite because NPLEX is a state-mandated regulatory database, not an investigatory tool.  
+
+Second, Officer Lemonier’s authentication of the records was proper. Under Ohio Evidence Rule 803(6), a qualified witness need not be the custodian of records. *Strothers* explicitly permits a police officer to authenticate NPLEX records by testifying they were obtained from the BCI-maintained database. *Id.* at ¶ 21 ("[T]he officer’s testimony that he obtained the records from the NPLEX database maintained by BCI was sufficient foundation"). This aligns with the rule’s requirement that the witness be "familiar with the record-keeping system," which Officer Lemonier demonstrated by confirming the records were retrieved from the state system. *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.), cited by the defense, is distinguishable because it involved private pharmacy records where the witness lacked any connection to the business’s record-keeping practices. Here, the NPLEX system is a state-operated database, and Lemonier’s role in obtaining the records from BCI satisfies authentication.  
+
+Third, the Confrontation Clause is inapplicable because the records are non-testimonial. In *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015), the Supreme Court clarified that business records created for non-litigation purposes—such as regulatory compliance—are not testimonial. *Id.* at 2180 ("[S]tatements made in the course of regular business operations are not testimonial"). NPLEX records serve this exact function: they are generated to comply with state law requiring pseudoephedrine sales tracking for public safety, not to prove facts at trial. This distinguishes them from forensic reports in *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), which were created solely for prosecution. The defense’s reliance on *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011), is misplaced because *Bullcoming* addressed laboratory reports, not regulatory databases like NPLEX.  
+
+The trial court’s ruling was well within its discretion. Admitting business records is reviewed for abuse of discretion, and *Strothers* directly authorizes such admission. *State v. Sage*, 31 Ohio St. 3d 173, 510 N.E.2d 343 (1987). The defense’s attempt to recast NPLEX as a "law enforcement tool" ignores its statutory purpose: R.C. 3719.41 mandates the system for diversion prevention, not prosecution. As *Strothers* held, "the NPLEX database exists to monitor pseudoephedrine sales for regulatory reasons, and its records are admissible under the business records exception." *Strothers*, 2003-Ohio-3752, at ¶ 22. The trial court properly applied this precedent.  
+
+Finally, even if error occurred—which it did not—the error was harmless. Ms. Kittle admitted during questioning to purchasing pseudoephedrine for J.S. in exchange for methamphetamine. This unchallenged admission independently supports the conviction, rendering any potential error harmless under *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004).  
+
+The defense’s arguments fail to overcome binding precedent. The trial court did not abuse its discretion, and the NPLEX records were properly admitted.
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation Summary**
+
+| Criterion | Score (0‑4) | Explanation |
+|-----------|-------------|-------------|
+| **Citation Relevance** | **4** | Every case cited (Strothers, Vondran, Brown, Clark, Melendez‑Díaz, Bullcoming, Sage, Perry) directly addresses one of the core issues – admissibility of NPLEX records as business records, authentication, the Confrontation Clause, standard of review, or harmless‑error analysis. The citations are highly on‑point. |
+| **Constraints Extraction** | **4** | The rebuttal identifies the essential legal constraints for each authority: (1) regular‑course‑of‑business requirement, (2) non‑prosecutorial purpose, (3) witness familiarity with the record‑keeping system, (4) proper foundation/authentication, (5) non‑testimonial nature, (6) abuse‑of‑discretion standard, (7) harmless‑error threshold. These constraints are clearly articulated in the discussion of each case. |
+| **Argument Validity per Constraint** | **4** | For every extracted constraint the rebuttal supplies a sound argument that aligns with the cited precedent. The reasoning correctly applies Strothers to authentication, distinguishes Vondran and Brown, relies on Clark for non‑testimonial status, and uses Sage and Perry for review standards. No misstatements of law or facts are evident. |
+| **Rebuttal Responsiveness** | **4** | The rebuttal directly tackles each of the defense’s main points: (a) business‑record status, (b) officer’s qualification, (c) Confrontation Clause applicability, (d) standard of review, and (e) harmless‑error claim. All major opposing arguments are addressed. |
+| **Rebuttal Strength / Persuasiveness** | **4** | The rebuttal is cohesive, strategically organized, and persuasively argues that the trial court acted correctly. It leverages binding Ohio authority and Supreme Court precedent, distinguishes contrary cases, and underscores the harmless‑error analysis, making a compelling overall position. |
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## Introduction
+
+The defense respectfully submits this rebuttal to address the prosecution's mischaracterization of both the nature of the NPLEX system and the applicable legal standards. The prosecution's arguments fail to overcome the well-reasoned analysis set forth in the preliminary ruling, and this Court should affirm the reversal of the trial court's judgment.
+
+## I. The Prosecution's Attempt to Distinguish Vondran Fails
+
+The prosecution attempts to distinguish *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist.), by arguing that NPLEX is a "state-mandated regulatory database" rather than an internal police report. This distinction is unpersuasive because it ignores the fundamental nature of the NPLEX system as applied in this case.
+
+The facts establish that Officer Lemonier accessed the NPLEX database specifically to investigate Ms. Kittle's involvement in methamphetamine production. The records were not generated as part of routine regulatory compliance by pharmacists or pharmaceutical companies. Rather, the officers retrieved these records as part of their criminal investigation following the discovery of the methamphetamine lab. The prosecution's argument that the records serve a "regulatory purpose" ignores the reality that in this case, the records were obtained and used solely for prosecution.
+
+As this Court correctly noted in the preliminary ruling, records created specifically for law enforcement purposes do not fall within the business records exception. *Vondran* at ¶ 25. The fact that the database exists pursuant to a statutory scheme does not transform its use in a particular case into a regulatory function. When Officer Lemonier queried the NPLEX system to identify Ms. Kittle's pseudoephedrine purchases, he was engaged in investigative activity, not regulatory oversight.
+
+## II. Strothers Does Not Control This Case
+
+The prosecution's reliance on *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532, 794 N.E.2d 588 (8th Dist.), is misplaced. In *Strothers*, the court addressed whether NPLEX records were admissible, but the facts of that case are distinguishable.
+
+In *Strothers*, the defendant was charged with trafficking in pseudoephedrine, and the court focused on the records' admissibility under the business records exception. However, the preliminary ruling correctly identified the critical distinction: the *Strothers* court did not conduct a thorough Confrontation Clause analysis, as the defendant in that case did not raise a Sixth Amendment challenge. The prosecution cannot bootstrap a case where the Confrontation Clause was not at issue to establish that the Clause is inapplicable here.
+
+Moreover, the prosecution overreads *Strothers* when it claims the court "explicitly permitted" officer authentication. The *Strothers* court found authentication sufficient under the specific facts of that case, where the officer testified about his familiarity with the NPLEX system. Here, the facts establish only that Officer Lemonier "retrieved" records from the database. There is no indication that he had any familiarity with the record-keeping system, its input procedures, or its quality control measures.
+
+The defense maintains that *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.), provides the correct standard. In *Brown*, the court reversed admission of pharmaceutical tracking records because the testifying officer lacked personal knowledge of the record-keeping system. The prosecution's attempt to distinguish *Brown* on the basis that it involved "private pharmacy records" is unavailing. The principle underlying *Brown—that a witness must be familiar with the record-keeping system to establish the foundation required by Evidence Rule 803(6)—applies with equal force to state-operated databases.
+
+## III. The Confrontation Clause Applies to the NPLEX Records
+
+The prosecution's argument that the NPLEX records are non-testimonial because they were created for "regulatory purposes" misapplies the analytical framework established by the Supreme Court.
+
+In *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), the Supreme Court held that forensic laboratory reports are testimonial because they are created "for the purpose of proving" facts at trial. The Court emphasized that the critical inquiry is the "primary purpose" of the statement or record. *Id.* at 2521.
+
+The prosecution relies on *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015), but that case is distinguishable. In *Clark*, the Court held that statements made by a child victim to teachers were not testimonial because their primary purpose was not to create evidence for prosecution but to protect the child. The Court explicitly distinguished business records created in the regular course of business from those created for litigation purposes.
+
+Here, the NPLEX records were generated specifically to track pseudoephedrine purchases—chemicals that can be used to manufacture methamphetamine. The system was created as a tool to investigate and prevent drug crimes. When Officer Lemonier accessed these records, his purpose was to establish that Ms. Kittle purchased pseudoephedrine, an essential element of the charged offense. The primary purpose of these records, as applied in this criminal prosecution, was to prove facts at trial.
+
+The prosecution's argument that "the mere fact that the records were later used in a criminal prosecution does not automatically render them inadmissible" (quoting *Strothers*) conflates the business records analysis with the Confrontation Clause analysis. Even if records satisfy the business records exception, they may still be testimonial and subject to the Sixth Amendment's requirements.
+
+The defense further notes that the prosecution's reliance on *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011), is not "misplaced," as the prosecution suggests. In *Bullcoming*, the Court held that a forensic laboratory report analyzing blood alcohol content was testimonial. The reasoning in *Bullcoming—that reports created to establish facts at trial are testimonial—applies with equal force to NPLEX records created to establish that a defendant purchased pseudoephedrine.
+
+## IV. The Error Was Not Harmless
+
+The prosecution's final argument—that Ms. Kittle's admission renders any error harmless—fails for two reasons.
+
+First, the admission itself must be properly corroborated. Ms. Kittle's statement that she "bought pseudoephedrine for J.S. in exchange for methamphetamine" was corroborated by the NPLEX records. Without those records, the prosecution's evidence of the actual purchase—distinct from the admission—diminishes significantly.
+
+Second, and more importantly, the prosecution conflates sufficiency of evidence with harmless error analysis. Under *Chapman v. California*, 386 U.S. 18, 87 S. Ct. 824, 17 L. Ed. 2d 705 (1967), and Ohio's harmless error standard in *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004), the question is whether the error "did not contribute to the conviction." The prosecution bears the burden of proving beyond a reasonable doubt that the error was harmless.
+
+Here, the NPLEX records established the objective fact of Ms. Kittle's pseudoephedrine purchases. Her admission, while significant, was a subjective statement that required corroboration. The prosecution cannot establish beyond a reasonable doubt that the erroneous admission of the NPLEX records did not contribute to the conviction when those records provided the only independent corroboration of the essential element of the offense.
+
+## Conclusion
+
+For the foregoing reasons, and those set forth in the defense's opening argument, the defense respectfully requests that this Court affirm the preliminary ruling reversing the trial court's judgment. The NPLEX records were testimonial in nature, requiring confrontation under the Sixth Amendment, and were improperly authenticated under the business records exception. The error was not harmless beyond a reasonable doubt.
+
+The prosecution has failed to overcome the persuasive analysis set forth in the preliminary ruling, and its arguments mischaracterize both the nature of the NPLEX system and the controlling precedent. This Court should affirm the reversal and remand for further proceedings.
+
+Respectfully submitted,
+
+**Defense Counsel**
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**A. Citation Relevance (Score 4)**  
+All of the cases cited in the defense rebuttal are directly on point:
+
+* **Vondran** – discusses the business‑records exception for law‑enforcement‑generated records.  
+* **Strothers** – the controlling Ohio decision on the admissibility of NPLEX records.  
+* **Brown** – sets the foundation requirement that the witness be familiar with the record‑keeping system.  
+* **Melendez‑Diaz** – establishes the “primary purpose” test for testimonial (Confrontation‑Clause) analysis.  
+* **Clark** – explains when business‑record statements are non‑testimonial.  
+* **Bullcoming** – reinforces the testimonial nature of reports created to prove facts at trial.  
+* **Chapman** – outlines the harmless‑error standard.  
+* **Perry** – Ohio’s specific harmless‑error burden.
+
+Each citation is highly relevant to the two core issues (business‑records exception and Confrontation‑Clause testimonial analysis). Hence a top‑score.
+
+---
+
+**B. Constraints Extraction (Score 4)**  
+The rebuttal correctly extracts the legal constraints that must be satisfied for each precedent to apply:
+
+| Citation | Extracted Constraint(s) |
+|----------|------------------------|
+| **Vondran** | Records created *specifically* for law‑enforcement investigation are excluded from the business‑records exception. |
+| **Strothers** | (1) The record must be a “regular business record.” (2) The authenticating witness must be familiar with the NPLEX system. (3) The case did not address Confrontation‑Clause issues. |
+| **Brown** | The witness must have personal knowledge of the record‑keeping system to satisfy Rule 803(6). |
+| **Melendez‑Diaz** | A record is testimonial if its *primary purpose* is to prove a fact at trial. |
+| **Clark** | A statement is non‑testimonial when made in the ordinary course of business and not primarily to create evidence. |
+| **Bullcoming** | Forensic‑type reports are testimonial when created to establish facts for prosecution. |
+| **Chapman** | Harmless‑error analysis requires showing the error did **not** contribute to the conviction. |
+| **Perry** | The prosecution bears the burden of proving harmlessness beyond a reasonable doubt. |
+
+All necessary constraints (at least three per case where applicable) are identified and accurately stated, satisfying the rubric.
+
+---
+
+**C. Argument Validity per Constraint (Score 4)**  
+The rebuttal supplies sound arguments that map each constraint onto the facts:
+
+* **Vondran** – Shows the NPLEX query was made *after* the lab discovery, i.e., for investigation, not routine regulatory monitoring.  
+* **Strothers** – Points out the record‑maker was not the officer; the officer only “retrieved” the data, so the familiarity requirement is unmet.  
+* **Brown** – Mirrors the same factual deficiency, reinforcing that the officer lacked personal knowledge.  
+* **Melendez‑Diaz** – Argues the primary purpose of the NPLEX entry was to prove Kittle’s purchase, making it testimonial.  
+* **Clark** – Distinguishes the case because the primary purpose here *was* prosecution, not a neutral business function.  
+* **Bullcoming** – Applies the same primary‑purpose reasoning to NPLEX records.  
+* **Chapman & Perry** – Demonstrates that without the NPLEX corroboration the admission of Kittle’s uncorroborated statement alone is insufficient, so the error cannot be harmless.
+
+Each argument is legally accurate and fact‑consistent, meeting the “valid for each identified constraint” requirement.
+
+---
+
+**D. Rebuttal Responsiveness (Score 4)**  
+The defense rebuttal directly tackles every major point raised in the prosecution’s rebuttal:
+
+1. **Vondran distinction** – Counter‑argued that the records were investigative, not regulatory.  
+2. **Strothers reliance** – Challenged the assumption of officer familiarity and noted the case’s lack of Confrontation‑Clause analysis.  
+3. **Brown citation** – Reinforced the need for personal knowledge, undermining the prosecution’s authentication claim.  
+4. **Confrontation‑Clause analysis** – Refuted the prosecution’s reliance on *Clark* and *Strothers* by applying *Melendez‑Diaz* and *Bullcoming*.  
+5. **Harmless‑error claim** – Showed why the error is not harmless, contrary to the prosecution’s argument.
+
+All major opposing arguments are addressed head‑on, satisfying the responsiveness criterion.
+
+---
+
+**E. Rebuttal Strength / Persuasiveness (Score 4)**  
+The rebuttal is strategically strong:
+
+* It systematically dismantles the prosecution’s reliance on precedent.  
+* It leverages controlling Supreme Court and Ohio authority to show the NPLEX records are testimonial and improperly authenticated.  
+* It ties the legal analysis to the factual record (officer’s limited role, investigative purpose).  
+* It anticipates and neutralizes the harmless‑error argument.  
+
+The reasoning is internally consistent, well‑structured, and compelling, making the rebuttal highly persuasive.
+
+---
+
+### Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+Upon review of the rebuttals submitted by both the Prosecution and the Defense, the Court finds that the Prosecution’s arguments regarding the admissibility of the NPLEX records are persuasive. The preliminary ruling is withdrawn, and the judgment of the trial court is affirmed.
+
+**I. Standard of Review**
+
+The determination of whether evidence is "testimonial" under the Confrontation Clause is a legal question subject to *de novo* review. *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011). However, the admission of evidence under the business records exception to the hearsay rule is reviewed for an abuse of discretion. *State v. Sage*, 31 Ohio St. 3d 173, 510 N.E.2d 343 (1987).
+
+**II. Business Records Exception**
+
+The central issue is whether the NPLEX records qualify as business records under Ohio Evidence Rule 803(6). The Defense relies on *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist.), arguing that records created for law enforcement purposes are inadmissible. However, the Prosecution correctly identifies *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532 (8th Dist.), as the controlling authority regarding NPLEX records.
+
+In *Strothers*, the court held that NPLEX records are maintained by the Ohio Bureau of Criminal Identification and Investigation (BCI) for regulatory compliance under R.C. 3719.41, and are thus created in the regular course of business for administrative purposes rather than solely for litigation. *Strothers*, 2003-Ohio-3752, at ¶ 20. The court explicitly stated that "the mere fact that the records were later used in a criminal prosecution does not automatically render them inadmissible." *Id.* This distinguishes the case at hand from *Vondran*, which involved internal police reports created specifically for investigative purposes. Because the NPLEX system is a state-mandated regulatory database designed to monitor pseudoephedrine sales for public safety, the records fall within the business records exception. The trial court did not abuse its discretion in admitting them.
+
+**III. Confrontation Clause Analysis**
+
+The Defense argues that the NPLEX records are "testimonial" under the Sixth Amendment, citing *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009). However, the Prosecution persuasively argues that the records are non-testimonial under the framework established in *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015).
+
+In *Clark*, the Supreme Court held that statements made in the course of regular business operations—or for the purpose of public safety and regulatory compliance—are not testimonial. *Id.* at 2180. Unlike the forensic laboratory reports in *Melendez-Diaz*, which were created solely for the purpose of establishing a fact at trial, the NPLEX records are generated by pharmacies to comply with statutory obligations regarding the sale of pseudoephedrine. The primary purpose of these records is regulatory, not prosecutorial. Therefore, the Confrontation Clause does not bar their admission. The Defense's attempt to characterize the NPLEX system solely as a law enforcement tool ignores the statutory mandate that drives its creation, as recognized in *Strothers*.
+
+**IV. Authentication**
+
+The Defense contends that Officer Lemonier was unqualified to authenticate the records because he lacked personal knowledge of the record-keeping system, relying on *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.). However, *Strothers* directly addresses this issue and holds otherwise.
+
+In *Strothers*, the court found that an officer’s testimony that he obtained the records from the NPLEX database maintained by BCI was a sufficient foundation for authentication. *Strothers*, 2003-Ohio-3752, at ¶ 21. The rule does not require the witness to be the custodian of records; it only requires the witness to be familiar with the record-keeping system or able to testify that the record was made in the regular course of business. Officer Lemonier’s testimony that he retrieved the records from the state-maintained system satisfies this requirement. *Brown* is distinguishable because it involved private pharmacy records where the officer had no connection to the record-keeping process, whereas NPLEX is a centralized state system.
+
+**V. Harmless Error**
+
+Finally, even if the admission of the NPLEX records was erroneous, the error was harmless beyond a reasonable doubt. Ms. Kittle admitted during the police interview that she purchased pseudoephedrine for J.S. in exchange for methamphetamine. This admission provided independent evidence of the element of possession or assembly of chemicals. Under *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004), the prosecution has met its burden of showing that the error did not contribute to the conviction.
+
+**CONCLUSION**
+
+The trial court properly admitted the NPLEX records under the business records exception, and their admission did not violate the Confrontation Clause. The records were properly authenticated, and any potential error was harmless. Therefore, the judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (0‑4)**  
+All of the cases cited (Bullcoming, Sage, Vondran, Strothers, Melendez‑Díaz, Clark, Brown, Perry) directly address one of the five issues in the ruling – the standard of review, the business‑records exception, whether the NPLEX records are testimonial, authentication of those records, and harmless‑error analysis. None are tangential; each is used to support or distinguish a legal point that is essential to the court’s conclusion. → **4 points**
+
+**B. Constraints Extraction (0‑4)**  
+The analysis identifies the key legal constraints for each precedent:
+
+* Bullcoming – Confrontation‑Clause questions are legal questions reviewed de novo.  
+* Sage – Business‑records admissibility is reviewed for abuse of discretion.  
+* Vondran – Records created for law‑enforcement investigations are not business records.  
+* Strothers – (1) NPLEX records are kept in the regular course of a state‑mandated regulatory activity; (2) later use in prosecution does not defeat the exception; (3) an officer’s testimony that he obtained the record is sufficient for authentication.  
+* Melendez‑Díaz – Reports created solely to prove a fact at trial are testimonial.  
+* Clark – Statements made in the ordinary course of business or for public‑safety purposes are non‑testimonial.  
+* Brown – A witness must have personal knowledge of the record‑keeping system to authenticate.  
+* Perry – Harmless‑error requires the prosecution to show the error did not contribute to the conviction.
+
+Each constraint is correctly formulated and reflects the holding of the cited case. → **4 points**
+
+**C. Argument Validity per Constraint (0‑4)**  
+The ruling provides a reasoned argument for every extracted constraint:
+
+* It correctly applies Bullcoming’s de novo standard.  
+* It accurately states Sage’s abuse‑of‑discretion standard.  
+* It persuasively distinguishes Vondran by emphasizing the regulatory nature of NPLEX.  
+* It relies on Strothers for the regular‑course‑of‑business analysis, the “mere later use” principle, and officer authentication—arguments fully supported by the facts (the database is state‑maintained and the officer testified to its source).  
+* It counters Melendez‑Díaz with Clark, showing the primary purpose of NPLEX records is regulatory, not prosecutorial.  
+* It correctly applies Clark’s non‑testimonial rule.  
+* It distinguishes Brown by noting the officer’s connection to a state‑run system, satisfying the familiarity requirement.  
+* It argues harmless error by pointing to the defendant’s own admission as an independent basis for conviction, satisfying Perry’s burden.
+
+All arguments are logically sound, fact‑consistent, and address the identified constraints without over‑reaching. → **4 points**
+
+---
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+As prosecution counsel, I must forcefully address the defense's flawed arguments and reaffirm that the trial court properly admitted the NPLEX records without violating Ms. Kittle’s Confrontation Clause rights. The defense’s attempt to characterize the NPLEX system as a law enforcement tool ignores the statutory framework governing its creation and operation. Under controlling precedent, NPLEX records are non-testimonial business records admissible under Ohio Evidence Rule 803(6), and Officer Lemonier’s testimony provided sufficient foundation for authentication. The error the defense claims does not exist, and even if it did, it was harmless beyond a reasonable doubt.
+
+The defense argues that *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2d Dist.), controls because NPLEX records were used for investigation. This is a fundamental misreading of the law. In *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532, 794 N.E.2d 588 (8th Dist.), this court explicitly held that NPLEX records are created pursuant to R.C. 3719.41 for regulatory compliance, not law enforcement purposes. The statute mandates pharmacies to report pseudoephedrine sales to monitor public safety, and the records are generated in the ordinary course of business for that regulatory purpose. As *Strothers* stated, "the mere fact that the records were later used in a criminal prosecution does not automatically render them inadmissible." *Strothers*, 2003-Ohio-3752, at ¶ 20. The defense’s claim that NPLEX is "solely for prosecution" ignores the statutory design: it is a state-mandated regulatory system, not an investigative tool. When Officer Lemonier accessed the database, he did so to verify compliance with a public safety law—not to create evidence for trial. This distinction is critical, and *Vondran* is inapposite because it involved internal police reports, not a state regulatory database.
+
+The defense’s reliance on *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.), to challenge authentication fails. *Brown* involved private pharmacy records where the officer had no connection to the record-keeping process. Here, NPLEX is a centralized state system maintained by the Ohio Bureau of Criminal Investigation for regulatory purposes. In *Strothers*, this court confirmed that an officer’s testimony—simply stating he retrieved records from the state-maintained NPLEX database—satisfies the foundation requirement under Evidence Rule 803(6). *Strothers*, 2003-Ohio-3752, at ¶ 21. The rule does not require the witness to be the custodian or to have personal knowledge of the system’s internal operations; it only requires testimony that the record was made in the regular course of business. Officer Lemonier’s testimony that he "obtained the records from the NPLEX database" was sufficient. The defense’s attempt to equate *Brown* with this case is specious—it involves private records, not a state-operated regulatory system.
+
+The defense’s Confrontation Clause argument is equally baseless. They misapply *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), and *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011), by claiming NPLEX records are "testimonial." Those cases addressed forensic laboratory reports created solely to prove facts at trial. Here, the Supreme Court in *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015), squarely rejected such an outcome for records created for regulatory purposes. *Clark* held that "statements made in the course of regular business operations—or for the purpose of public safety and regulatory compliance—are not testimonial." *Clark*, 135 S. Ct. at 2180. NPLEX records exist to enforce R.C. 3719.41’s public safety mandate, not to prosecute crimes. The primary purpose of these records is regulatory—tracking pseudoephedrine sales to prevent diversion—not to establish evidence for trial. Thus, the Confrontation Clause does not apply. The defense’s attempt to force *Melendez-Diaz*’s forensic-report framework onto a regulatory database is legally unsound.
+
+Finally, even if the defense were correct (which it is not), the error would be harmless. Ms. Kittle admitted during police questioning that she "bought pseudoephedrine for J.S. in exchange for methamphetamine." This admission independently corroborated the elements of the charged offense. Under *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004), the prosecution need only show beyond a reasonable doubt that the error did not contribute
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the prosecution’s closing argument**
+
+Below is a step‑by‑step assessment that follows the rubric.
+
+---
+
+### 1. Citation relevance (score 0‑4)
+
+| Citation | Why it is relevant to the issues raised |
+|----------|------------------------------------------|
+| **State v. Vondran** – internal police reports are not business records | Directly addresses the defense’s “records‑are‑investigative” argument; the case is the classic counter‑example to the business‑records exception. |
+| **State v. Strothers** – NPLEX records are regulatory business records | Controlling authority on the very question of whether NPLEX logs qualify under Ohio Evidence Rule 803(6). |
+| **State v. Brown** – authentication of pharmacy records | Used to show that the “lack of personal knowledge” rule does **not** bar admission when the record is a state‑run system. |
+| **Melendez‑Diaz** – when a forensic report is testimonial | Provides the doctrinal test for “testimonial” vs. “non‑testimonial” evidence, which the defense tries to invoke. |
+| **Bullcoming** – same principle as *Melendez‑Diaz* | Reinforces the Supreme Court’s testimonial‑report rule; the prosecution must distinguish it. |
+| **Ohio v. Clark** – statements made in regular business are non‑testimonial | The Supreme Court’s “regular‑business” analysis is the exact framework the prosecution relies on to defeat the Confrontation‑Clause attack. |
+| **State v. Perry** – harmless‑error standard | Governs whether any alleged evidentiary error can be ignored; the prosecution’s final safety‑net. |
+
+All of the cited authorities are directly on point, and none are merely peripheral.  
+**Citation‑relevance score: 4**
+
+---
+
+### 2. Constraints extraction (score 0‑4)
+
+For each case the argument must identify the legal “gate‑keeping” conditions that must be satisfied for the precedent to apply.
+
+| Citation | Extracted constraints (≥ 3 per case) |
+|----------|--------------------------------------|
+| **Vondran** | 1. Record created **specifically** for law‑enforcement investigation. 2. Not part of a neutral, regular‑business activity. 3. Not maintained by a statutory regulatory scheme. |
+| **Strothers** | 1. Record kept pursuant to R.C. 3719.41 (statutory mandate). 2. Maintained in the **regular course** of business by the state bureau. 3. Primary purpose is **regulatory compliance**, not prosecution. |
+| **Brown** | 1. Witness must be **custodian or have personal knowledge** of the record‑keeping system. 2. Must testify to the **regularity** of the record’s creation. 3. Must identify the **source** of the record. |
+| **Melendez‑Diaz** | 1. Statement/report created **for the purpose of proving** a fact at trial. 2. Primary purpose is **prosecution**. 3. Made by a **person/agency** acting at the behest of law‑enforcement. |
+| **Bullcoming** | Same three constraints as *Melendez‑Diaz* (forensic‑report context). |
+| **Clark** | 1. Statement made in the **regular course of business**. 2. Primary purpose is **public‑safety or regulatory** rather than evidentiary. 3. Not intended to create evidence for trial. |
+| **Perry** | 1. Error must be shown **harmless** – it did not contribute to the verdict. 2. Prosecution bears the burden of proving harmlessness **beyond a reasonable doubt**. 3. There must be **independent evidence** of the element(s) at issue. |
+
+The closing argument explicitly mentions each of these conditions (or their functional equivalents) when it discusses the cases. No essential constraint is omitted or misstated.  
+**Constraints‑extraction score: 4**
+
+---
+
+### 3. Argument validity per constraint (score 0‑4)
+
+| Citation / Constraint | How the argument satisfies the constraint |
+|-----------------------|--------------------------------------------|
+| **Vondran** – “records created for investigation” | The prosecution correctly argues that *Vondran* is inapposite because NPLEX logs are **statutory regulatory** records, not internal police notes. The constraint is met and the argument is sound. |
+| **Strothers** – regulatory purpose, regular‑course, statutory basis | The argument cites the statutory mandate (R.C. 3719.41) and the court’s language that “the mere fact the records were later used in prosecution does not render them inadmissible.” All three constraints are satisfied; the reasoning is accurate. |
+| **Brown** – authentication requirement | The prosecution points out that *Brown* involved **private** pharmacy records and that the rule does **not** require the witness to be a custodian, only to testify that the record was obtained from a reliable source. This correctly applies the constraints. |
+| **Melendez‑Diaz / Bullcoming** – testimonial analysis | The argument explains that those cases dealt with **forensic reports** whose primary purpose was prosecution, whereas NPLEX logs serve a **regulatory** purpose. It therefore satisfies the “primary purpose” constraint and correctly distinguishes the cases. |
+| **Clark** – non‑testimonial regular‑business exception | The closing cites the Supreme Court’s holding that “statements made in the course of regular business operations… are not testimonial.” It shows that NPLEX logs meet the regular‑business and public‑safety constraints. |
+| **Perry** – harmless‑error test | The prosecution points to Kittle’s own admission as independent evidence and argues the prosecution has met the burden of proving beyond a reasonable doubt that the error was harmless. The three Perry constraints are addressed. |
+
+All identified constraints are met with legally sound reasoning; there are no misstatements or logical gaps.  
+**Argument‑validity score: 4**
+
+---
+
+### 4. Issue prioritization and synthesis (score 0‑4)
+
+The closing argument:
+
+1. **Prioritizes the dispositive issues** – admissibility of NPLEX records, authentication, Confrontation‑Clause status, and harmless‑error analysis.  
+2. **Integrates the facts** (the meth lab, the traffic stop, the admission) with the controlling law.  
+3. **Directly rebuts each defense point** in the order the defense raised them, avoiding unnecessary repetition.  
+4. **Ends with a unified theory**: the records are admissible, properly authenticated, non‑testimonial, and any alleged error is harmless, so the conviction stands.
+
+The structure is clear, concise, and strategically focused on the strongest arguments.  
+**Issue‑prioritization score: 4**
+
+---
+
+### 5. Closing persuasiveness (score 0‑4)
+
+The argument:
+
+* Clearly explains why judgment should favor the State.  
+* Relies on **controlling precedent** (Strothers, Clark) and **high‑court authority** (Melendez‑Diaz, Bullcoming) to neutralize the defense’s attacks.  
+* Provides **independent corroboration** (the defendant’s own admission) to satisfy the harmless‑error standard.  
+* Anticipates and neutralizes the defense’s reliance on *Vondran* and *Brown*.  
+* Concludes with a forceful, logical “the record is admissible, the error is harmless, the conviction must stand” statement.
+
+The overall effect is compelling and leaves the appellate court with a clear, well‑supported rationale for affirming the trial court.  
+**Closing‑persuasiveness score: 4**
+
+---
+
+## Final scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+**Summary:** The prosecution’s closing argument meets the highest standards in every rubric category. All cited authorities are directly relevant, the necessary legal constraints are correctly identified, the arguments faithfully satisfy those constraints, the issues are prioritized and synthesized into a coherent theory, and the final persuasion is strong and strategically persuasive.
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE CLOSING STATEMENT
+
+## IN THE COURT OF APPEALS OF OHIO
+
+### STATE OF OHIO v. KITTLE
+
+---
+
+## INTRODUCTION AND SUMMARY OF DEFENSE POSITION
+
+May it please the Court, the Defense respectfully submits that the prosecution has failed to meet its burden of proving that the NPLEX records were properly admissible, and that even if such records were admitted, the evidence was insufficient to support Ms. Kittle's conviction. The prosecution's arguments rest on a fundamental mischaracterization of the NPLEX system and ignore critical distinctions between regulatory record-keeping and the business records exception to the hearsay rule. The Defense respectfully requests that this Court reverse the judgment of the trial court and remand for further proceedings consistent with this opinion.
+
+---
+
+## I. THE NPLEX RECORDS DO NOT FALL WITHIN THE BUSINESS RECORDS EXCEPTION
+
+The prosecution argues that NPLEX records qualify as business records under Ohio Evidence Rule 803(6). This Court should reject this argument for several reasons.
+
+### A. The Primary Purpose of NPLEX Records Is Law Enforcement, Not Business Administration
+
+The business records exception under Evidence Rule 803(6) requires that records be made in the "regular course of business." As this Court recognized in *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist.), records created primarily for law enforcement purposes do not fall within the business records exception. In *Vondran*, the Second District Court of Appeals held that internal police reports and records created specifically for investigative purposes are inadmissible because their primary purpose is litigation, not business administration.
+
+The prosecution attempts to distinguish *Vondran* by arguing that NPLEX records are created pursuant to R.C. 3719.41 for regulatory compliance. However, this argument ignores the practical reality of how NPLEX functions. The system was designed and implemented specifically to assist law enforcement in tracking purchases of pseudoephedrine—a precursor chemical used in methamphetamine production. While the statute may provide a regulatory framework, the practical effect and primary function of NPLEX is to gather evidence for criminal prosecutions.
+
+The Defense submits that *State v. Vondran*, 2015-Ohio-1483, controls here. The NPLEX system, while technically maintained by the Ohio Bureau of Criminal Identification and Investigation, serves a fundamentally law enforcement function. Pharmacists are required to report these sales precisely because the information is valuable to law enforcement in combating methamphetamine production. The mere fact that a statutory mandate exists does not transform law enforcement records into business records.
+
+### B. The Prosecution Misreads *State v. Strothers*
+
+The prosecution relies heavily on *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532 (8th Dist.), to support its position. However, the Defense submits that *Strothers* is distinguishable and does not control the instant case.
+
+In *Strothers*, the Eighth District Court of Appeals addressed whether NPLEX records could be admitted as business records. The court in *Strothers* found that because the records were maintained for regulatory compliance under R.C. 3719.41, they were created in the regular course of business. However, the *Strothers* court failed to conduct a thorough analysis of whether the primary purpose of these records was truly administrative or whether it was, in fact, law enforcement.
+
+The Defense submits that *Strothers* was incorrectly decided and that this Court should follow the reasoning in *Vondran* instead. The NPLEX system exists to track purchases of a chemical that is primarily used in the illegal manufacture of drugs. The regulatory framework exists precisely because law enforcement needs this information to investigate and prosecute drug crimes. To hold that such records are "business records" simply because they are mandated by statute ignores the reality of why such mandates exist.
+
+Even if *Strothers* is binding precedent, it is distinguishable on its facts. In *Strothers*, the court was presented with a different factual scenario involving different types of records. The fundamental principle from *Strothers*—that records created solely for litigation are inadmissible—should govern here. The NPLEX records were created for the purpose of aiding law enforcement, not for the administration of a business enterprise.
+
+---
+
+## II. THE NPLEX RECORDS ARE TESTIMONIAL AND VIOLATE THE CONFRONTATION CLAUSE
+
+The prosecution argues that the NPLEX records are non-testimonial under the framework established in *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015). This Court should reject this argument.
+
+### A. The NPLEX Records Are Testimonial Under *Melendez-Diaz* and *Bullcoming*
+
+In *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), the Supreme Court held that forensic laboratory reports are testimonial and that the Confrontation Clause requires that the analyst who created the report testify unless the defendant has an opportunity to cross-examine. Similarly, in *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011), the Court held that a forensic laboratory report analyzing blood alcohol content was testimonial and could not be admitted through the testimony of a different analyst who did not perform the test.
+
+The prosecution attempts to distinguish these cases by arguing that NPLEX records are not forensic reports. However, this distinction is unavailing. The critical question under the Sixth Amendment is whether the statements were made with the primary purpose of establishing or proving past events potentially relevant to a later criminal prosecution. See *Davis v. Washington*, 547 U.S. 813, 126 S. Ct. 2266, 165 L. Ed. 2d 224 (2006).
+
+The NPLEX records are created when a pharmacy reports the sale of pseudoephedrine to a government database. While the prosecution argues this is done for regulatory compliance, the reality is that these records are created precisely because law enforcement needs them to investigate drug crimes. The primary purpose of these records is to establish a paper trail that can be used in criminal prosecutions. Under *Melendez-Diaz* and *Bullcoming*, such records are testimonial.
+
+### B. *Ohio v. Clark* Does Not Authorize Admission of These Records
+
+The prosecution relies on *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015), for the proposition that records created for regulatory purposes are non-testimonial. However, *Clark* is distinguishable.
+
+In *Clark*, the Supreme Court held that statements made to school officials by a student victim were not testimonial because they were made in the context of a crisis involving potential child abuse, not solely for the purpose of establishing facts for trial. The Court emphasized that the statements were made in the context of an ongoing emergency and were aimed at addressing a immediate threat to child welfare.
+
+The NPLEX records are fundamentally different. They are not generated in response to an emergency or to address an immediate threat. Rather, they are routine records created after every transaction involving pseudoephedrine, stored indefinitely in a database accessible to law enforcement. The primary purpose of these records is not public safety in the immediate sense, but rather the generation of evidence for future criminal prosecutions.
+
+The Defense submits that *Clark* should be interpreted narrowly and that the NPLEX records do not fall within its scope. The records were created for the purpose of building criminal cases, not for addressing an immediate public safety crisis.
+
+---
+
+## III. OFFICER LEMONIER WAS NOT PROPERLY QUALIFIED TO AUTHENTICATE THE NPLEX RECORDS
+
+The prosecution argues that Officer Lemonier's testimony was sufficient to authenticate the NPLEX records. The Defense submits that this argument fails.
+
+### A. The Requirements for Authentication Under Ohio Law
+
+Under Ohio Evidence Rule 901(A), authentication requires "evidence sufficient to support a finding that the item is what its proponent claims." To lay a foundation for business records under Rule 803(6), the proponent must show that: (1) the record was made by a person with knowledge of the act, event, or condition recorded; (2) the record was made at or near the time of the act, event, or condition; (3) the record is kept in the regular course of business; and (4) making the record was a regular practice of that person.
+
+As this Court recognized in *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.), a witness must have personal knowledge of the record-keeping system to authenticate records. In *Brown*, the Tenth District Court of Appeals held that an officer who had no connection to the pharmacy's record-keeping process could not authenticate pharmacy records.
+
+### B. Officer Lemonier Lacked the Requisite Knowledge
+
+In this case, Officer Lemonier testified that he obtained the NPLEX records from the database maintained by BCI. However, there is no evidence that Officer Lemonier had any personal knowledge of how the NPLEX system operates, who enters the data, or whether the records are made in the regular course of business.
+
+The prosecution argues that *Strothers* holds that an officer's testimony that he obtained records from the NPLEX database is sufficient. However, the Defense submits that *Strothers* incorrectly applied the authentication standard. Simply retrieving records from a database does not establish that the records were made in the regular course of business or that the person who entered the information had personal knowledge of the transaction.
+
+Officer Lemonier is not a pharmacist. He did not witness the sale of pseudoephedrine. He has no knowledge of the pharmacy's record-keeping practices. Under *Brown*, his testimony is insufficient to authenticate the NPLEX records.
+
+---
+
+## IV. EVEN IF ADMITTED, THE EVIDENCE WAS INSUFFICIENT TO CONVICT
+
+The prosecution argues that even if the NPLEX records were improperly admitted, the error was harmless because Ms. Kittle made an admission. The Defense submits that this argument fails for two reasons.
+
+### A. The Admission Does Not Establish All Elements of the Offense
+
+Ms. Kittle admitted that she "bought pseudoephedrine for J.S. in exchange for methamphetamine." However, this admission, even if credited, does not establish that Ms. Kittle possessed or assembled chemicals for the manufacture of drugs.
+
+Under Ohio Revised Code Section 2925.041(A), the offense of illegal assembly or possession of chemicals for the manufacture of drugs requires that the defendant "possess or have under the person's control any quantity of any" chemical compound that may be used in the manufacture of a controlled substance. The statute requires that the defendant actually possess or control the chemicals.
+
+Ms. Kittle's admission establishes only that she purchased pseudoephedrine for J.S. It does not establish that she possessed the chemicals at any time, that she was present at the methamphetamine lab, or that she participated in the manufacturing process. The prosecution still must prove each element of the offense beyond a reasonable doubt.
+
+### B. The Harmless Error Analysis Is Inappropriate Here
+
+The prosecution argues that any error in admitting the NPLEX records was harmless. However, the harmless error doctrine applies only where the prosecution can prove beyond a reasonable doubt that the error did not contribute to the conviction. See *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004).
+
+Here, the NPLEX records were the only evidence linking Ms. Kittle to the pseudoephedrine purchases. Without these records, the prosecution's case rests entirely on Ms. Kittle's admission—a statement that, standing alone, does not establish all elements of the offense. The prosecution cannot meet its burden of proving harmless error.
+
+---
+
+## V. CONCLUSION AND PRAYER FOR RELIEF
+
+For the foregoing reasons, the Defense respectfully requests that this Court:
+
+1. **Reverse** the judgment of the trial court regarding the admission of the NPLEX records;
+
+2. **Hold** that the NPLEX records do not fall within the business records exception under Ohio Evidence Rule 803(6);
+
+3. **Hold** that the NPLEX records are testimonial and their admission violated Ms. Kittle's Sixth Amendment confrontation rights;
+
+4. **Hold** that Officer Lemonier was not properly qualified to authenticate the NPLEX records;
+
+5. **Remand** this matter to the trial court for further proceedings; and
+
+6. **Grant** any other relief that this Court deems just and proper.
+
+The prosecution has failed to meet its burden of proving that the NPLEX records were properly admissible. The errors in admitting these records were not harmless. Ms. Kittle is entitled to a new trial where the evidence is properly limited to admissible evidence.
+
+The Defense respectfully submits that the judgment of the trial court should be reversed.
+
+---
+
+**Respectfully submitted,**
+
+*[Defense Counsel]*
+
+---
+
+## KEY CITATIONS
+
+- *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist. 2015)
+- *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532 (8th Dist. 2003)
+- *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist. 2014)
+- *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009)
+- *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011)
+- *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015)
+- *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004)
+- Ohio R. Evid. 803(6)
+- Ohio R. Evid. 901(A)
+- R.C. 2925.041(A)
+- R.C. 3719.41
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Defense Closing Statement**
+
+Below is a step‑by‑step assessment that follows the rubric you supplied.
+
+---
+
+### A. Citation Relevance (Score = 4)
+
+| Citation | Why it is relevant |
+|----------|-------------------|
+| *State v. Vondran* (2015) | Directly addresses the “primary‑purpose” test for the business‑records exception – the very issue the defense raises. |
+| *State v. Strothers* (2003) | The controlling Ohio precedent on whether NPLEX records are admissible as business records. |
+| *State v. Brown* (2014) | Discusses the authentication requirement that a witness have personal knowledge of the record‑keeping system – the point the defense attacks. |
+| *Melendez‑Diaz* (2009) & *Bullcoming* (2011) | Supreme Court cases that define “testimonial” evidence under the Sixth‑Amendment Confrontation Clause, which the defense relies on to argue the NPLEX records are testimonial. |
+| *Ohio v. Clark* (2015) | Provides the contrasting “non‑testimonial” analysis that the defense must distinguish from. |
+| *State v. Perry* (2004) | Governs the harmless‑error inquiry the defense uses to rebut the prosecution’s claim of harmless error. |
+| Ohio R. Evid. 803(6) & 901(A) | The statutory rules that frame the business‑records and authentication analyses. |
+| R.C. 2925.041(A) & R.C. 3719.41 | The substantive statute defining the crime and the regulatory scheme that creates the NPLEX database. |
+
+All of the authorities cited speak directly to one of the five legal questions the court must resolve. None are tangential or “remote.” Hence the highest relevance rating.
+
+---
+
+### B. Constraints Extraction (Score = 3)
+
+The defense identifies the **necessary legal constraints** for each authority, but the extraction is sometimes implicit rather than a clean, enumerated list.
+
+| Authority | Constraints identified (or implied) |
+|----------|------------------------------------|
+| *Vondran* | (1) Record must be made in the regular course of **business**, not primarily for law‑enforcement purposes. |
+| *Strothers* | (2) Record must be created for **regulatory compliance** under R.C. 3719.41 (i.e., ordinary business activity). |
+| *Brown* | (3) Witness must have **personal knowledge** of the record‑keeping system to authenticate. |
+| *Melendez‑Diaz / Bullcoming* | (4) A statement is **testimonial** when its primary purpose is to prove past events for prosecution. |
+| *Clark* | (5) A record is **non‑testimonial** when created for an immediate public‑safety emergency, not for prosecution. |
+| *Perry* | (6) Harmless‑error burden: prosecution must show beyond a reasonable doubt the error did **not** contribute to the conviction. |
+| Ohio R. Evid. 803(6) | (7‑10) The four classic elements: (a) made at/near the time, (b) by a person with knowledge, (c) kept in the regular course of business, (d) regular practice. |
+| Ohio R. Evid. 901(A) | (11) Authentication requires a foundation that the item is what it purports to be. |
+
+The defense mentions each of these constraints, but they are woven into narrative prose rather than listed, and a few (e.g., the “near‑time” and “knowledge” prongs of 803(6)) are only hinted at. Because **most** of the required constraints are present, the score is **3** (good but not perfect extraction).
+
+---
+
+### C. Argument Validity per Constraint (Score = 3)
+
+| Constraint | Defense’s argument | Assessment of validity |
+|-----------|-------------------|--------------------------|
+| *Vondran* – primary purpose test | Argues NPLEX’s purpose is law‑enforcement, so it fails the business‑records exception. | **Valid** – correctly applies Vondran’s holding. |
+| *Strothers* – regulatory purpose | Claims Strothers is distinguishable because the records were obtained for prosecution, not mere regulation. | **Partially valid** – the argument correctly identifies the issue but relies on a policy‑based attack on Strothers rather than a clear factual distinction; the precedent actually held the records **were** admissible. |
+| *Brown* – personal knowledge | Shows Officer Lemonier lacks knowledge of the NPLEX system, so authentication fails. | **Valid** – aligns with Brown’s requirement. |
+| *Melendez‑Diaz / Bullcoming* – testimonial | Uses the “primary purpose” test to label NPLEX records testimonial. | **Valid** – correctly applies the Supreme Court’s test. |
+| *Clark* – non‑testimonial exception | Argues Clark does not apply because there was no emergency. | **Valid** – distinguishes the factual context. |
+| *Perry* – harmless error | Shows the records were the only corroboration of the purchase, so error cannot be harmless. | **Valid** – meets Perry’s burden analysis. |
+| Ohio 803(6) – four elements | Implicitly argues the records were not made in the regular course of business and not near‑time. | **Mostly valid** – the defense points to primary purpose but does not fully articulate each element. |
+| Ohio 901(A) – authentication | Same argument as under Brown. | **Valid**. |
+
+Overall, the defense provides **substantive arguments for every identified constraint**, with only minor gaps (e.g., the full articulation of the 803(6) elements). Hence a score of **3**.
+
+---
+
+### D. Issue Prioritization and Synthesis (Score = 3)
+
+The closing statement is organized into five clear sections that mirror the dispositive issues:
+
+1. **Business‑records exception** – the foundation of admissibility.  
+2. **Confrontation‑Clause testimonial analysis** – the constitutional hurdle.  
+3. **Authentication** – the evidentiary foundation.  
+4. **Harmless‑error/insufficiency of the remaining evidence** – the fallback if the records were admitted.  
+5. **Prayer for relief** – concise recap.
+
+The defense consistently ties each point back to the controlling authority and to the facts (e.g., Lemonier’s lack of knowledge, the admission’s limited scope). There is little repetition, and the argument flows logically from the most fundamental admissibility questions to the ultimate remedy. This demonstrates strong synthesis, though the brief could have highlighted the **harmless‑error** issue a little earlier to underscore its importance. Hence a **3**.
+
+---
+
+### E. Closing Persuasiveness (Score = 3)
+
+Strengths:
+
+* Clear, logical structure and a “road‑map” for the court.  
+* Frequent citation of controlling Ohio precedent and Supreme Court authority.  
+* Direct attack on the prosecution’s key evidentiary foundations (business‑records exception, authentication, Confrontation Clause).  
+* Persuasive harmless‑error analysis that shows the conviction rests on the contested records.
+
+Weaknesses:
+
+* The argument that *Strothers* is “wrong” may appear more policy‑driven than fact‑driven, which could diminish credibility.  
+* Some constraints (the full 803(6) prongs) are not fully fleshed out, leaving a small gap that the court could exploit.  
+* The closing does not explicitly pre‑empt the prosecution’s “harmless‑error” claim until the final section, which could be a strategic timing issue.
+
+Overall, the closing is **strong and generally persuasive**, but not flawless. Score **3**.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 3,
+  "Issue Prioritization and Synthesis": 3,
+  "Closing Persuasiveness": 3
+}
+```
+
+These scores reflect a well‑crafted defense argument that is highly relevant, identifies most of the necessary legal constraints, argues them competently, synthesizes the issues effectively, and presents a persuasive overall case, though with a few minor deficiencies.
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+Upon consideration of the closing arguments submitted by both the Prosecution and the Defense, the Court affirms the judgment of the trial court. The Defense’s arguments, while articulating valid concerns regarding the Confrontation Clause and evidentiary foundations, ultimately fail to overcome the controlling precedent established by Ohio appellate courts regarding the NPLEX database and the specific nature of Ms. Kittle’s admission.
+
+**I. BUSINESS RECORDS EXCEPTION**
+
+The Defense contends that the NPLEX records are inadmissible because their primary purpose is law enforcement, relying on *State v. Vondran*, 2015-Ohio-1483, 2015 WL 1383637 (2nd Dist.). In *Vondran*, the court excluded internal police reports created specifically for the purpose of investigating a defendant. However, this distinction is critical. The NPLEX records at issue are not internal police reports; they are pharmacy logs generated pursuant to a statutory mandate under R.C. 3719.41.
+
+As the Prosecution correctly notes, *State v. Strothers*, 2003-Ohio-3752, 153 Ohio App. 3d 532 (8th Dist.), is the controlling authority on this issue. In *Strothers*, the court held that NPLEX records are maintained by the Ohio Bureau of Criminal Identification and Investigation (BCI) for regulatory compliance and are thus created in the regular course of business. *Strothers*, 2003-Ohio-3752, at ¶ 20. The court explicitly rejected the argument that the potential use of these records by law enforcement renders them inadmissible, stating, "the mere fact that the records were later used in a criminal prosecution does not automatically render them inadmissible." *Id.*
+
+The Defense asks this Court to disregard *Strothers* or find it distinguishable based on the "practical reality" that the system aids law enforcement. However, the legal test for the business records exception under Ohio Evidence Rule 803(6) focuses on whether the record was made in the regular course of business. The statutory requirement for pharmacies to log pseudoephedrine sales creates a regularized, administrative duty. The fact that the legislature designed this regulatory scheme to aid law enforcement does not transform the pharmacy’s business records into law enforcement investigatory documents. Therefore, the trial court did not abuse its discretion in admitting the records under the business records exception.
+
+**II. CONFRONTATION CLAUSE**
+
+The Defense argues that the NPLEX records are "testimonial" under the Sixth Amendment, citing *Melendez-Diaz v. Massachusetts*, 557 U.S. 305, 129 S. Ct. 2527, 174 L. Ed. 2d 314 (2009), and *Bullcoming v. New Mexico*, 564 U.S. 647, 131 S. Ct. 2705, 180 L. Ed. 2d 610 (2011). Those cases involved forensic analysts creating reports specifically for use in criminal trials. The NPLEX records, by contrast, are created by third-party pharmacies during the ordinary course of commercial transactions.
+
+The Supreme Court’s decision in *Ohio v. Clark*, 135 S. Ct. 2173, 192 L. Ed. 2d 306 (2015), guides the analysis here. In *Clark*, the Court held that statements made to teachers by a child victim were not testimonial because they were made in the context of an ongoing emergency and for the purpose of public safety, rather than for the primary purpose of establishing evidence for trial. *Id.* at 2180. Similarly, NPLEX records are generated to comply with a public safety regulatory scheme (R.C. 3719.41) aimed at preventing the diversion of pseudoephedrine. The primary purpose of the record-keeping is regulatory compliance and immediate public safety monitoring, not the creation of evidence for a future prosecution. While the Defense correctly notes that *Clark* involved an emergency situation, the broader principle regarding statements made for administrative purposes rather than evidentiary ones applies. The records are non-testimonial business records, and their admission did not violate Ms. Kittle’s Confrontation Clause rights.
+
+**III. AUTHENTICATION**
+
+The Defense challenges the authentication of the records, arguing that Officer Lemonier lacked personal knowledge of the record-keeping system, relying on *State v. Brown*, 2014-Ohio-496, 2014 WL 555380 (10th Dist.). *Brown* involved private pharmacy records where the testifying officer had no connection to the pharmacy or its record-keeping practices.
+
+However, *Strothers* directly addresses the authentication of NPLEX records. The *Strothers* court found that an officer’s testimony that he obtained the records from the NPLEX database maintained by BCI was sufficient to lay a proper foundation. *Strothers*, 2003-Ohio-3752, at ¶ 21. Because NPLEX is a centralized, state-maintained system, the officer’s ability to retrieve the records from that system serves as verification of their authenticity. The rule does not require the witness to be the custodian of the records or to have personal knowledge of the specific transaction, only that the record is identified as one kept in the regular course of business. Officer Lemonier’s testimony met this standard.
+
+**IV. HARMLESS ERROR**
+
+Finally, the Defense argues that even if the records were admissible, the error was not harmless because Ms. Kittle’s admission was insufficient to support the conviction. The Defense contends that the admission—"bought pseudoephedrine for J.S. in exchange for methamphetamine"—does not prove she possessed the chemicals or assembled them for manufacturing.
+
+This argument misinterprets the statute and the evidence. Ohio Revised Code Section 2925.041(A) prohibits the illegal assembly or possession of chemicals for the manufacture of drugs. Ms. Kittle’s admission that she purchased pseudoephedrine (a chemical used in manufacture) in exchange for methamphetamine establishes that she possessed the chemical and did so with the knowledge and intent that it would be used to manufacture drugs. This admission alone is sufficient to establish the elements of the offense.
+
+Under *State v. Perry*, 101 Ohio St. 3d 205, 2004-Ohio-455, 803 N.E.2d 835 (2004), the prosecution must show that the error did not contribute to the conviction. Given Ms. Kittle’s direct admission to the conduct constituting the offense, the exclusion of the NPLEX records would not have changed the outcome of the trial. The admission provided independent evidence of the crime, rendering any error in admitting the records harmless beyond a reasonable doubt.
+
+**CONCLUSION**
+
+The trial court properly admitted the NPLEX records under the business records exception, and their admission did not violate the Confrontation Clause. The records were properly authenticated by Officer Lemonier pursuant to *State v. Strothers*. Furthermore, any potential error was harmless given Ms. Kittle’s admission to the elements of the offense. The judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (4/4)**  
+All of the cases cited (*Vondran*, *Strothers*, *Clark*, *Melendez‑Diaz*, *Bullcoming*, *Brown*, *Perry*) directly address the four issues raised in the ruling – the business‑records exception, the Confrontation Clause, authentication of the NPLEX database, and the harmless‑error analysis. Each precedent is on point and is the leading authority for the specific sub‑issue, so the citation set is highly relevant.
+
+**B. Constraints Extraction (3/4)**  
+The analysis identifies the key legal constraints that must be satisfied for each precedent to apply:
+
+* *Vondran* – records must not be created primarily for law‑enforcement investigation; they must be ordinary business records.  
+* *Strothers* – the record must be (1) made in the regular course of business, (2) created at or near the time of the transaction, (3) kept by a person with knowledge of the transaction, and (4) maintained as a regular practice of the business.  
+* *Clark* – the primary purpose of the statement must be non‑testimonial (public‑safety or administrative) rather than evidentiary.  
+* *Melendez‑Diaz* / *Bullcoming* – a report is testimonial when prepared for the purpose of proving a fact at trial.  
+* *Brown* – the authenticating witness must have personal knowledge of the record‑keeping system.  
+* *Perry* – to deem an error harmless, the prosecution must show an independent source of proof of guilt.
+
+The discussion mentions most of these constraints, but it does not explicitly spell out every element of the *Strothers* business‑records test (e.g., “made by a person with knowledge” and “at or near the time of the act”). Because a few required sub‑elements are omitted, the extraction is not completely exhaustive, resulting in a score of **3**.
+
+**C. Argument Validity per Constraint (4/4)**  
+For each identified constraint the ruling provides a sound legal argument:
+
+* It correctly distinguishes *Vondran* (internal police reports) from NPLEX pharmacy logs.  
+* It relies on *Strothers* to satisfy the business‑records elements and explains why the regulatory purpose does not defeat admissibility.  
+* It applies *Clark*’s “primary purpose” test to show the records are non‑testimonial, while correctly limiting *Melendez‑Diaz* and *Bullcoming* to forensic reports.  
+* It counters *Brown* by citing *Strothers* that an officer’s retrieval of a state‑maintained record is sufficient authentication.  
+* It uses *Perry* to demonstrate that the admission of Kittle’s own statement is an independent source, making any error harmless.
+
+All arguments are fact‑consistent, logically coherent, and grounded in the cited authority, earning the maximum score.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 4
+}
+```

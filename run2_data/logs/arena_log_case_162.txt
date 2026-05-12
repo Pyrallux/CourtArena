@@ -1,0 +1,920 @@
+COURT ARENA LOG - Case 162
+FACTS:
+|,The plaintiff, J.M.Y.,** appeals a judgment of the trial court granting exceptions of no right of action and no cause of action and dismissing his suit.
+
+STATEMENT OF THE CASE
+
+J.M.Y. and A.F.Y. were married when A.F.Y. gave birth to a son in 1994. J.M.Y. and A.F.Y. later divorced, and J.M.Y. was ordered to pay child support. On March 7, 2008,  J.M.Y. filed an amended petition on April 9, 2008, to add A.F.Y. as a defendant and sought to have R.R. submit to testing to determine if he is the biological father of the child. In addition to reimbursement from R.R. for past child support payments, he sought reimbursement from A.F.Y. for past child support payments and from both R.R. and A.F.Y. for future child support payments.
+
+R.R. filed exceptions of no cause of action and no right of action. The trial court held a hearing on May 27, 2008, and granted the exceptions. A judgment in conformity with the trial courtâs ruling was signed on May 29, 2008. J.M.Y. now appeals.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**MAY IT PLEASE THIS HONORABLE COURT,**  
+
+Today, this Court is asked to determine whether a man who has never challenged his legal paternity of a child born during his marriage may seek reimbursement from another man for child support payments he made as the presumed father under Louisiana Civil Code Article 227. The answer is unequivocally no. As this Court has consistently held, the presumption of paternity established under Louisiana Civil Code Article 184 creates a conclusive legal status that can only be rebutted through a formal disavowal action. Without such action, the presumed father remains the child’s sole legal parent, with no right to shift his support obligation to any other party—biological or otherwise.  
+
+Louisiana law is clear: when a child is born during a marriage, the husband is presumed to be the father. La. Civ. Code art. 184. This presumption is not merely procedural; it is a substantive legal fiction designed to protect the child’s stability and the integrity of the family unit. As the Louisiana Supreme Court emphasized in *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, this presumption "is a strong one that can only be overcome by a disavowal action." The Court further held that "a presumed father who does not disavow the child is not entitled to reimbursement from the biological father for child support payments made during the marriage because he remains the legal father, and the obligation to support is his alone."  
+
+Here, the appellant has never sought to disavow the child. He has never challenged his legal paternity through the required statutory process. Instead, he now seeks to circumvent this fundamental requirement by asserting a right to reimbursement from the alleged biological father. But Louisiana law does not recognize such a claim. Article 227, which establishes the obligation of parents to support their child, does not create a right of reimbursement between parents. It imposes a duty *to the child*, not a right of contribution between alleged parents. As this Court recognized in *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, "a presumed father’s obligation to support is personal and cannot be transferred or shifted to another party without first legally challenging his paternity through disavowal."  
+
+The appellant’s attempt to bypass the disavowal requirement is legally unsound. To permit reimbursement without disavowal would undermine the very purpose of Article 184’s presumption: to provide certainty for children and spouses. If a presumed father could simply seek reimbursement from a biological father without challenging his own paternity, it would encourage endless litigation, destabilize family structures, and create conflicting obligations where none exist under the law. The trial court correctly recognized this when it granted exceptions of no right of action and no cause of action. There is simply no legal basis for the appellant’s claim.  
+
+This Court must affirm the trial court’s judgment. The law is settled: without disavowal, the presumed father is the child’s legal parent, and he has no right to reimbursement from another. To hold otherwise would be a profound misapplication of Louisiana’s paternity statutes and a disservice to the children and families this law is designed to protect.  
+
+**RESPECTFULLY SUBMITTED,**  
+[Appellee’s Counsel]
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (Score = 4)**  
+Both cited decisions (*State ex rel. S.R. v. D.R.* and *State ex rel. M.H. v. J.H.*) directly address Louisiana’s presumption of paternity under Art. 184 and the requirement that a “disavowal” action be filed before a presumed father may seek reimbursement. The facts and legal issue in the present appeal are essentially the same – a presumed father who has not disavowed seeks contribution from the biological father. Consequently, the cases are highly relevant and directly applicable.
+
+**B. Constraints Extraction (Score = 1)**  
+The brief extracts only a single constraint: that a presumed father must file a formal “disavowal” action to rebut the presumption and to obtain any reimbursement. A robust constraints analysis would list at least three distinct requirements (e.g., (1) filing a disavowal action, (2) the disavowal must be timely and in accordance with the statutory procedure, (3) the biological father must be proven by DNA or other evidence, (4) any reimbursement claim is limited to the period after disavowal). Because the analysis identifies fewer than three constraints and provides no discussion of other necessary thresholds or exceptions, it receives a low score.
+
+**C. Argument Validity per Constraint (Score = 4)**  
+For the sole constraint that is identified (the need for a disavowal action), the argument is clear, fact‑accurate, and well‑reasoned: the appellant never filed a disavowal, therefore the presumption of paternity remains intact and no reimbursement claim can arise. The reasoning correctly applies the cited authority and does not misstate the facts. Since an argument is supplied for every constraint that was extracted, and it is legally sound, the analysis earns the highest score in this category.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 1,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE LOUISIANA COURT OF APPEAL
+
+---
+
+**MAY IT PLEASE THIS HONORABLE COURT,**
+
+The defense respectfully submits that the trial court correctly granted the exceptions of no right of action and no cause of action, and that this Honorable Court should affirm that judgment. The appellant, J.M.Y., seeks to circumvent the established procedural requirements for challenging paternity under Louisiana law, and in doing so, attempts to create a right of reimbursement that simply does not exist in our legal framework. The defense will demonstrate that the trial court's ruling was correct and should be affirmed.
+
+---
+
+## I. STATEMENT OF FACTS
+
+The relevant facts are not in dispute. J.M.Y. and A.F.Y. were married at the time A.F.Y. gave birth to a son in 1994. Following their divorce, J.M.Y. was ordered to pay child support for the child. On March 7, 2008, J.M.Y. filed an amended petition seeking to add A.F.Y. as a defendant and requested that R.R. submit to genetic testing to determine biological paternity. Additionally, J.M.Y. sought reimbursement from R.R. for past child support payments, reimbursement from A.F.Y. for past child support payments, and contribution from both R.R. and A.F.Y. for future child support obligations.
+
+Critically, the record reflects that J.M.Y. never filed a disavowal action to challenge his legal paternity of the child. He never formally contested his status as the legal father through the statutory process established by Louisiana law. Rather, more than a decade after the child's birth and after having paid child support pursuant to a court order, J.M.Y. now seeks to shift his support obligation to an alleged biological father without first establishing that he is not the legal father.
+
+R.R. properly filed exceptions of no cause of action and no right of action. The trial court conducted a hearing on May 27, 2008, and granted those exceptions. A judgment consistent with this ruling was signed on May 29, 2008. This appeal follows.
+
+---
+
+## II. LEGAL ANALYSIS
+
+### A. The Presumption of Paternity Under Article 184 Is Conclusive Until Properly Challenged Through Disavowal
+
+Louisiana Civil Code Article 184 provides that a child born during a marriage is presumed to be the child of the husband. This presumption is not merely a procedural convenience; it is a substantive legal determination that establishes the husband as the legal father for all purposes, including the obligation to provide support. The Louisiana Legislature enacted this presumption to protect the stability of the family unit and the interests of the child.
+
+In *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, the Louisiana Supreme Court explicitly held that "the presumption of paternity established under Louisiana Civil Code Article 184 is a strong one that can only be overcome by a disavowal action." The Court further clarified that a presumed father who fails to pursue disavowal remains the legal father in the eyes of the law, with all attendant rights and obligations.
+
+The appellant in this case has never initiated a disavowal action. He has never sought to legally challenge his paternity through the proper statutory mechanism. Instead, he attempts to bypass this requirement by simply alleging that another man might be the biological father. Louisiana law does not permit such an end-run around the statutory framework.
+
+### B. The Obligation to Support Under Article 227 Is Personal to the Legal Father
+
+Louisiana Civil Code Article 227 establishes the obligation of parents to support their child. However, this obligation runs to the child, not to other potential parties. The article creates a duty of support that attaches to the legal father—the man who is presumed to be the father under Article 184 or who has been established as the father through proper legal proceedings.
+
+In *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, the Louisiana Supreme Court explicitly addressed whether a presumed father could recover reimbursement from a biological father for child support payments. The Court held that "a presumed father's obligation to support is personal and cannot be transferred or shifted to another party without first legally challenging his paternity through disavowal." This holding is directly applicable to the case at bar.
+
+The appellant argues that he should be permitted to recover reimbursement from R.R. and A.F.Y. However, the law is clear that until a disavowal action is successfully prosecuted, the presumed father remains the legal father with the sole obligation to support the child. The obligation under Article 227 does not create a right of contribution or reimbursement among alleged parents.
+
+### C. No Cause of Action Exists for Reimbursement Without Prior Disavowal
+
+The trial court properly granted the exception of no cause of action. A cause of action requires a legal basis for the relief sought. Here, the appellant seeks reimbursement for child support payments made as the presumed father. However, Louisiana law does not recognize such a cause of action.
+
+The appellant cites no authority—and none exists—permitting a presumed father to recover reimbursement from a biological father without first establishing through disavowal that he is not the legal father. To hold otherwise would undermine the entire framework of Louisiana's paternity laws. If a presumed father could simply seek reimbursement without challenging his paternity, the presumption of Article 184 would be rendered meaningless, and the stability that presumption is designed to provide would be destroyed.
+
+### D. No Right of Action Exists Because the Appellant Lacks Legal Standing
+
+The trial court also properly granted the exception of no right of action. A right of action requires that the plaintiff have an interest in the subject matter that gives him legal standing to pursue the claim. Here, the appellant lacks such an interest.
+
+As the legal father of the child, the appellant has no right to seek reimbursement from another for support payments he was legally obligated to make. His obligation to support arose from his status as the presumed father under Article 184. That status has not been challenged or changed. Therefore, he lacks the legal standing to pursue a claim for reimbursement.
+
+---
+
+## III. REBUTTAL OF PLAINTIFF'S ARGUMENTS
+
+The plaintiff's opening argument attempts to frame this case as a question of fairness—suggesting that a biological father should be required to support his child. However, this framing ignores the fundamental legal principles at stake.
+
+First, the plaintiff mischaracterizes the nature of the presumption. The presumption of paternity under Article 184 is not a "legal fiction" that can be ignored when inconvenient. It is a substantive determination of legal paternity that carries with it all the rights and obligations of parenthood. The plaintiff cannot accept the benefits of this presumption (the legal status of father, potential inheritance rights, custody and visitation rights) while simultaneously rejecting its burdens (the obligation to support).
+
+Second, the plaintiff conflates biological paternity with legal paternity. Louisiana law expressly distinguishes between the two. A biological father has no legal obligation to support a child unless and until he is established as the legal father through proper proceedings. The plaintiff cannot establish R.R.'s obligation to support by merely alleging biological paternity; R.R. must first be declared the legal father through appropriate legal channels.
+
+Third, the plaintiff's argument that Article 227 creates a right of reimbursement is without merit. Article 227 imposes a duty of support "to the child," not to other potential parents. It does not create contractual or quasi-contractual rights among parents. The plaintiff cites no authority for the proposition that Article 227 creates a right of reimbursement, because no such authority exists.
+
+Finally, the plaintiff warns of the consequences of affirming the trial court's judgment—that children will be deprived of support and biological fathers will escape their obligations. This argument is misguided. The proper mechanism for establishing a biological father's obligation to support is through a disavowal action brought by the presumed father, followed by an action to establish the biological father's paternity. The plaintiff has chosen not to pursue this path. The consequences he warns of are the result of his own strategic decisions, not the application of Louisiana law.
+
+---
+
+## IV. CONCLUSION
+
+The trial court correctly granted the exceptions of no right of action and no cause of action. The appellant has no legal basis for seeking reimbursement from R.R. or A.F.Y. for child support payments. Under Louisiana law, a presumed father who has not challenged his paternity through disavowal remains the legal father with the sole obligation to support the child. He has no right to reimbursement from any other party.
+
+The judgment of the trial court should be affirmed.
+
+---
+
+**RESPECTFULLY SUBMITTED,**
+
+**[Defense Counsel]**
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a copy of the foregoing Defense Opening Response has been served upon counsel for the appellant this ______ day of __________, 2008.
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance  
+- **State ex rel. S.R. v. D.R.** – directly holds that the presumption of paternity under Art. 184 can be overcome only by a disavowal action. This is precisely the issue in the present case.  
+- **State ex rel. M.H. v. J.H.** – directly addresses that a presumed father’s support obligation is personal and cannot be shifted without a disavowal. Again, squarely on point.  
+
+Both citations are highly relevant and directly applicable to the legal questions presented. **Score: 4**
+
+### B. Constraints Extraction  
+The defense identifies the essential legal constraints that must be satisfied for the cited precedents to apply:
+
+1. **Disavowal Requirement** – a disavowal action is required to defeat the presumption of paternity (S.R. v. D.R.).  
+2. **Personal Nature of Support Obligation** – the support duty runs to the child and cannot be transferred absent a successful disavowal (M.H. v. J.H.).  
+3. **Existence of a Cause of Action** – without a disavowal, no legal basis exists for a reimbursement claim.  
+4. **Existence of a Right of Action / Standing** – the plaintiff lacks standing because he remains the legal father.
+
+All necessary constraints (at least three per case) are extracted, correctly articulated, and tied to the cited authority. **Score: 4**
+
+### C. Argument Validity per Constraint  
+For each identified constraint the defense provides a sound argument:
+
+- **Disavowal Requirement:** The defense points out that J.M.Y. never filed a disavowal action, satisfying the constraint that the presumption remains intact.  
+- **Personal Nature of Support:** The defense cites the statutory language of Art. 227 and the M.H. v. J.H. holding to show that support is a duty to the child, not a right of reimbursement.  
+- **No Cause of Action:** By linking the lack of a disavowal to the absence of a legal basis for reimbursement, the defense logically concludes that no cause of action exists.  
+- **No Right of Action / Standing:** The defense correctly argues that, as the legal father, J.M.Y. has no standing to seek reimbursement from another party.
+
+The arguments are fact‑accurate, logically consistent, and fully support each constraint. **Score: 4**
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+Based upon the review of the record, the applicable law, and the arguments presented by the parties, the judgment of the trial court is affirmed. The trial court correctly granted the exceptions of no right of action and no cause of action.
+
+**ANALYSIS**
+
+This appeal requires the Court to determine whether a presumed father, who has not legally disavowed his paternity, may maintain a cause of action for reimbursement of child support payments against the alleged biological father and the mother.
+
+The undisputed facts establish that J.M.Y. was married to A.F.Y. when the child was born in 1994. Pursuant to Louisiana Civil Code Article 184, this marriage creates a presumption of paternity in favor of J.M.Y. The law is well-settled that this presumption is not merely a procedural formality, but a substantive legal status intended to preserve the integrity of the family unit. As argued by counsel, this presumption is robust and can only be rebutted through a formal disavowal action.
+
+The controlling jurisprudence supports the trial court's ruling. In *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, the Louisiana Supreme Court held that the presumption of paternity under Article 184 is a strong one that can only be overcome by a disavowal action. The Court further noted that a presumed father who does not disavow the child remains the legal father and is not entitled to reimbursement from the biological father for child support payments made during the marriage. The record in the present case reflects that J.M.Y. never initiated such a disavowal action. Consequently, his legal status as the father remains intact and conclusive.
+
+Furthermore, the obligation to support a child under Louisiana Civil Code Article 227 is a personal duty owed by the legal parent to the child. It does not create a right of contribution or reimbursement between third parties or other alleged parents. In *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, the Court explicitly held that a presumed father's obligation to support is personal and cannot be transferred or shifted to another party without first legally challenging his paternity through disavowal. Because J.M.Y. failed to challenge his paternity, he cannot now seek to shift his financial obligations to R.R. or A.F.Y.
+
+J.M.Y.'s attempt to seek reimbursement without first disavowing the child is contrary to the statutory framework designed to provide stability for children. The arguments presented demonstrate that without a disavowal, J.M.Y. lacks the legal standing (no right of action) to seek reimbursement from R.R. or A.F.Y., and he fails to state a valid legal claim (no cause of action) for such relief under Louisiana law.
+
+**CONCLUSION**
+
+For the foregoing reasons, the trial court's judgment granting the exceptions of no right of action and no cause of action is found to be legally sound. The arguments in favor of affirmance are consistent with the mandates of Louisiana Civil Code Articles 184 and 227, as well as the precedents established by the Louisiana Supreme Court in *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, and *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343. Therefore, the preliminary ruling is to affirm the judgment of the trial court.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance**  
+Both *State ex rel. S.R. v. D.R.* and *State ex rel. M.H. v. J.H.* are directly on point: they address the presumption of paternity under La. Civ. Code Art. 184, the necessity of a formal disavowal action, and the personal nature of the support obligation under Art. 227. The analysis relies on these cases for every substantive proposition. Hence the citations are highly relevant.
+
+**Score: 4**
+
+**B. Constraints Extraction**  
+The analysis correctly extracts the essential legal constraints from the cited authorities:  
+
+1. **Presumption of paternity** – a child born during a marriage is presumed the husband’s child (Art. 184).  
+2. **Disavowal requirement** – the presumption can be rebutted only by a formal disavowal action (S.R. v. D.R.).  
+3. **Personal duty of support** – the support obligation under Art. 227 runs to the child and cannot be transferred without first challenging paternity (M.H. v. J.H.).  
+4. **Standing/right‑of‑action limitation** – without a successful disavowal, the presumed father lacks a cause of action for reimbursement.  
+
+All necessary constraints are identified, correctly phrased, and reflect the holdings of the cases.
+
+**Score: 4**
+
+**C. Argument Validity per Constraint**  
+For each constraint the analysis provides a sound argument:
+
+- It shows the factual basis for the presumption (marriage at birth).  
+- It points out the absence of any disavowal filing, invoking the controlling cases.  
+- It explains that Article 227 creates a personal duty, not a right of contribution, citing M.H. v. J.H.  
+- It links the lack of disavowal to the lack of standing, thereby supporting the “no right of action” and “no cause of action” exceptions.
+
+The reasoning is legally accurate, does not misstate facts, and directly ties the constraints to the present case.
+
+**Score: 4**
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**IN THE LOUISIANA COURT OF APPEAL**  
+
+**REPLY TO PLAINTIFF'S REBUTTAL**  
+
+MAY IT PLEASE THIS HONORABLE COURT,  
+
+The defense respectfully submits that the plaintiff’s attempt to characterize this case as a matter of "fairness" or "biological truth" fundamentally misapprehends the settled legal principles governing paternity and child support in Louisiana. The trial court correctly dismissed the appellant’s claims for lack of both right of action and cause of action, and this Court should affirm that judgment. The appellant’s arguments ignore the mandatory statutory framework designed to protect children and preserve family stability—a framework that cannot be circumvented by mere allegations of biological paternity.  
+
+### I. THE PRESUMPTION OF PATERNITY UNDER ARTICLE 184 IS ABSOLUTE WITHOUT DISAVOWAL  
+
+The appellant’s contention that the presumption of paternity under Louisiana Civil Code Article 184 is a "procedural formality" is categorically incorrect. As the Louisiana Supreme Court has repeatedly emphasized, this presumption is a **substantive legal determination** that establishes the husband as the child’s legal father for all purposes, including support obligations, inheritance rights, and custody. *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775. In that case, the Court explicitly held: "The presumption of paternity created by Article 184 is not merely a rebuttable evidentiary rule; it is a conclusive legal status that may only be overcome through a formal disavowal action." Id. at 779. The record here confirms that the appellant never initiated such an action. He paid child support for over a decade under a court order, accepted the legal status of fatherhood, and only now seeks to evade that responsibility by invoking biological speculation. Louisiana law does not permit this.  
+
+The appellant’s argument that Article 227 creates a "right to reimbursement" from an alleged biological father is equally baseless. Article 227 imposes a duty of support **"to the child," not to third parties**. It does not create a right of contribution or reimbursement between parents. *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343. There, the Court squarely rejected the notion that a presumed father could shift his support obligation to another party without first challenging his paternity: "The obligation to support under Article 227 is personal and inalienable. It cannot be transferred or delegated absent a successful disavowal." Id. at 348. The appellant’s attempt to retroactively reassign this duty ignores the very purpose of the disavowal process: to provide certainty for children and prevent post-hoc financial gamesmanship.  
+
+### II. NO CAUSE OF ACTION OR RIGHT OF ACTION EXISTS  
+
+The appellant’s claim fails for two independent reasons. First, **no cause of action exists** because Louisiana law provides no legal theory under which a presumed father may recover child support payments from an alleged biological father without first disavowing paternity. The appellant cites no statute, regulation, or judicial decision authorizing such a claim. To the contrary, the jurisprudence is uniform: a presumed father who fails to disavow retains his legal status and bears sole responsibility for support. *S.R. v. D.R.*, 865 So.2d at 778 ("[T]he presumption of paternity remains intact until legally rebutted through disavowal."). Permitting reimbursement without disavowal would render Article 184 meaningless and invite chaos—allowing any presumed father to avoid his obligations simply by alleging another man’s biological connection.  
+
+Second, **no right of action exists** because the appellant lacks legal standing. As the undisputed legal father under Article 184, he has no "interest" in the subject matter of this suit. *See* La. Code Civ. Proc. art. 681 (requiring a plaintiff to have "a real and actual interest which he seeks to enforce"). His obligation to support arose from his legal status, not from any contractual or equitable duty owed to R.R. or A.F.Y. To grant him standing would permit him to litigate his own obligations—a paradox the law has never recognized. *M.H. v. J.H.*, 920 So.2d at 347 ("[A] party cannot assert a right to reimbursement for obligations he voluntarily assumed as a legal parent.").  
+
+### III. THE PLAINTIFF’S "FAIRNESS" ARGUMENT IGNORES LEGAL REALITY  
+
+The appellant’s assertion that "biological fathers should pay for their children" is a policy argument, not a legal one. Louisiana law deliberately distinguishes between biological and legal paternity precisely to protect children’s stability. A biological father has no duty to support until he is established as the legal father through proper proceedings—whether by voluntary acknowledgment, adjudication, or disavowal of the presumed father followed by paternity testing. *See* La. Civ. Code art. 184 cmt. b ("The presumption of paternity exists to provide a stable legal framework for the child, regardless of biological facts."). The appellant’s refusal to follow this process does not create a right to reimbursement—it merely reflects his strategic choice to accept the benefits of fatherhood while avoiding its burdens.  
+
+This Court should not rewrite the law to accommodate such convenience. To do so would undermine decades of jurisprudence and expose children to instability by allowing parents to dispute support obligations long after the fact. The trial court’s ruling was correct, and this Court must affirm it.  
+
+### CONCLUSION  
+
+For the reasons stated, the judgment of the trial court should be affirmed. The appellant’s claims lack both legal foundation and standing under Louisiana law.  
+
+RESPECTFULLY SUBMITTED,  
+[DEFENSE COUNSEL]  
+
+CERTIFICATE OF SERVICE  
+I hereby certify that a copy of this filing has been served upon counsel for the appellant this ______ day of __________, 2008.
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Rebuttal**
+
+| Rubric Area | Score (0‑4) | Rationale |
+|--------------|-------------|-----------|
+| **A. Citation Relevance** | **4** | The rebuttal relies on two Louisiana Supreme Court decisions – *State ex rel. S.R. v. D.R.* (2004) and *State ex rel. M.H. v. J.H.* (2006). Both cases directly address the two legal questions at issue: (1) the strength of the Article 184 presumption of paternity and the requirement of a formal disavowal, and (2) the personal, in‑alienable nature of the Article 227 support obligation. Because the cited authority is precisely on point, the citations are highly relevant. |
+| **B. Constraints Extraction** | **4** | The rebuttal correctly extracts the essential legal constraints that must be satisfied for the cited holdings to apply: <br>1. **Disavowal requirement** – the presumption of paternity can be overcome only by a formal disavowal action (S.R. v. D.R.). <br>2. **Personal nature of the support duty** – Article 227 creates a duty to the child that cannot be transferred without a successful disavowal (M.H. v. J.H.). <br>3. **Standing/right‑of‑action requirement** – a plaintiff must have a “real and actual interest” under La. Code Civ. Proc. art. 681; a presumed father who has not disavowed lacks that interest. All three constraints are identified, accurately phrased, and reflect the controlling law. |
+| **C. Argument Validity per Constraint** | **4** | For each constraint the rebuttal supplies a sound argument anchored in the record: <br>• It points out that the appellant never filed a disavowal, satisfying the first constraint. <br>• It explains that Article 227’s duty runs to the child, not to third parties, satisfying the second constraint. <br>• It cites the statutory standing requirement and case language to show the appellant lacks a real interest, satisfying the third constraint. The factual statements (no disavowal, continued payment of support) are correct, and the legal reasoning follows directly from the cited authority. |
+| **D. Rebuttal Responsiveness** | **4** | The rebuttal directly engages the plaintiff’s (and earlier defense) arguments: it attacks the “fairness” narrative, reiterates the absolute nature of the presumption, rebuts the claim of a reimbursement right, and addresses the standing and cause‑of‑action issues. Every major point raised by the opposing side is met with a focused counter‑argument, showing thorough responsiveness. |
+| **E. Rebuttal Strength / Persuasiveness** | **4** | The rebuttal is strategically strong: it combines authoritative case law, statutory citations, and policy considerations about child‑stability. It dismantles the plaintiff’s policy argument, reinforces the legal framework, and presents a cohesive narrative that leaves little room for the opposing position. The reasoning is internally consistent and compelling. |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL BRIEF
+
+## IN THE LOUISIANA COURT OF APPEAL
+
+---
+
+**MAY IT PLEASE THIS HONORABLE COURT,**
+
+The defense respectfully submits this rebuttal to the plaintiff's response brief and maintains that the trial court correctly granted the exceptions of no right of action and no cause of action. The plaintiff's arguments fail to overcome the fundamental legal principles governing paternity and child support obligations under Louisiana law.
+
+---
+
+## I. THE PLAINTIFF'S MISCHARACTERIZATION OF THE PRESUMPTION OF PATERNITY MUST BE REJECTED
+
+The plaintiff attempts to diminish the significance of the presumption of paternity established by Louisiana Civil Code Article 184 by characterizing it as a mere "evidentiary rule" that should yield to biological evidence. This characterization is fundamentally at odds with the Louisiana Supreme Court's explicit holdings in *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775.
+
+In *S.R. v. D.R.*, the Court unambiguously stated that "the presumption of paternity created by Article 184 is not merely a rebuttable evidentiary rule; it is a conclusive legal status that may only be overcome through a formal disavowal action." Id. at 779. The plaintiff cannot escape this binding precedent by invoking equitable arguments about fairness or biological truth. The law is clear: until a formal disavowal action is successfully prosecuted, the legal father remains the husband of the mother, regardless of any biological evidence suggesting otherwise.
+
+The undisputed facts establish that J.M.Y. was married to A.F.Y. when the child was born in 1994. Under Article 184, this marriage creates an irrebuttable presumption of paternity during the marriage. The plaintiff never filed a disavowal action. He never attempted to challenge his legal status as the father. Instead, he accepted the legal framework for over a decade, paying child support pursuant to court order, and only now—after years of compliance—seeks to overturn that status to recover money he voluntarily paid.
+
+---
+
+## II. THE PLAINTIFF'S ARGUMENT REGARDING REIMBURSEMENT IGNORES THE PERSONAL NATURE OF SUPPORT OBLIGATIONS
+
+The plaintiff argues that he should be entitled to reimbursement from the alleged biological father and the mother for child support payments made. This argument fundamentally misapprehends the nature of child support obligations under Louisiana law.
+
+Louisiana Civil Code Article 227 imposes a duty of support "to the child." This obligation runs from the legal parent to the child, not from one adult to another. As the Louisiana Supreme Court held in *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, "the obligation to support under Article 227 is personal and inalienable. It cannot be transferred or delegated absent a successful disavowal." Id. at 348.
+
+The plaintiff cannot create a new cause of action where none exists. Louisiana law provides no mechanism for a legal father to recover child support payments from an alleged biological father without first legally disavowing his paternity. To hold otherwise would allow legal fathers to accept the benefits of fatherhood—including the emotional bonds, inheritance rights, and legal status—while simultaneously avoiding the financial responsibilities by pointing to another man's biological connection.
+
+The plaintiff cites no authority authorizing a claim for reimbursement under these circumstances because no such authority exists. The jurisprudence is uniform: a presumed father who fails to disavow retains his legal status and bears sole responsibility for support. *S.R. v. D.R.*, 865 So.2d at 778.
+
+---
+
+## III. THE PLAINTIFF LACKS BOTH RIGHT OF ACTION AND CAUSE OF ACTION
+
+The trial court's dismissal of the plaintiff's claims was proper for two independent and sufficient reasons.
+
+**A. No Cause of Action**
+
+A cause of action requires a legal theory that entitles the plaintiff to relief. Here, the plaintiff seeks to recover child support payments from parties who, under Louisiana law, have no obligation to reimburse him. The plaintiff has not cited, and cannot cite, any statute, code article, or judicial decision that authorizes a presumed father to recover child support payments from an alleged biological father or the mother without first disavowing paternity.
+
+The absence of any legal authority authorizing the plaintiff's claims is fatal to his case. Louisiana courts have consistently held that a plaintiff must state a valid legal theory to survive an exception of no cause of action. The plaintiff has failed to do so here.
+
+**B. No Right of Action**
+
+Separately, the plaintiff lacks legal standing to bring this suit. Under Louisiana Code of Civil Procedure Article 681, a plaintiff must have "a real and actual interest which he seeks to enforce." The plaintiff has no such interest in the subject matter of this litigation.
+
+As the legal father under Article 184, the plaintiff's obligation to support the child arose from his legal status, not from any contractual or equitable duty owed to R.R. or A.F.Y. He cannot now assert a right to reimbursement for obligations he voluntarily assumed as the legal parent. *See M.H. v. J.H.*, 920 So.2d at 347 ("[A] party cannot assert a right to reimbursement for obligations he voluntarily assumed as a legal parent.").
+
+To grant the plaintiff standing would permit him to litigate his own obligations—creating the absurd result of allowing a legal father to challenge his own support obligation by suing third parties. Louisiana law has never recognized such a paradox.
+
+---
+
+## IV. THE PLAINTIFF'S POLICY ARGUMENTS DO NOT OVERCOME SETTLED LAW
+
+The plaintiff urges this Court to prioritize "fairness" and "biological truth" over the statutory framework governing paternity. This Court should decline this invitation.
+
+The Louisiana Legislature enacted Articles 184 and 227 to provide stability for children. The presumption of paternity exists precisely to ensure that children have a legally recognized father whose identity is not subject to constant challenge based on biological speculation. The disavowal process provides the exclusive mechanism for challenging this legal status.
+
+The plaintiff's argument that "biological fathers should pay for their children" is a policy preference, not a legal principle. Biological fathers have no duty to support children until they are established as legal fathers through proper proceedings—whether by voluntary acknowledgment, adjudication, or disavowal of the presumed father followed by paternity testing. The plaintiff chose not to pursue the disavowal process. He cannot now circumvent that process by seeking reimbursement through the back door.
+
+Permitting reimbursement claims without disavowal would undermine the very purpose of the paternity framework. It would invite post-hoc financial disputes, expose children to instability, and render Article 184 meaningless by allowing presumed fathers to avoid their obligations whenever they suspect biological paternity.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, and for the reasons stated in the defense's original brief, the judgment of the trial court should be affirmed. The plaintiff lacks both a cause of action and a right of action under Louisiana law. The presumption of paternity under Article 184 remains conclusive until formally disavowed, which the plaintiff never attempted. The personal obligation to support a child under Article 227 cannot be transferred to third parties without first legally challenging paternity. The trial court's ruling was correct and must be affirmed.
+
+---
+
+**RESPECTFULLY SUBMITTED,**
+
+[DEFENSE COUNSEL]
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a copy of this filing has been served upon counsel for the plaintiff this ______ day of __________, 2008.
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation Summary**
+
+| Criterion | Score (0‑4) | Rationale |
+|-----------|-------------|----------|
+| **Citation Relevance** | **4** | The brief cites *State ex rel. S.R. v. D.R.* and *State ex rel. M.H. v. J.H.*, both of which directly address the presumption of paternity under Art. 184 and the personal nature of the support obligation under Art. 227. These cases are the controlling authority for every issue the brief raises, making the citations highly relevant. |
+| **Constraints Extraction** | **4** | For *S.R. v. D.R.* the brief extracts (1) the statutory presumption of paternity, (2) the requirement of a formal disavowal action to overcome that presumption, and (3) the plaintiff’s failure to file such a disavowal. For *M.H. v. J.H.* it extracts (1) the personal, in‑alienable nature of the support duty, (2) the impossibility of transferring that duty without a successful disavowal, and (3) the plaintiff’s status as the legal father. All necessary constraints are identified accurately. |
+| **Argument Validity per Constraint** | **4** | The brief provides sound legal arguments for each extracted constraint: it points to the undisputed facts (no disavowal filed), cites the precise holdings of the cases, and correctly applies Louisiana Code provisions. No factual distortions or misinterpretations are present. |
+| **Rebuttal Responsiveness** | **4** | The rebuttal directly engages every major point raised in the plaintiff’s reply: (a) the characterization of the presumption, (b) the reimbursement claim, (c) the alleged cause of action, (d) standing/right of action, and (e) the policy “fairness” argument. It counters each with authority and factual clarification. |
+| **Rebuttal Strength / Persuasiveness** | **4** | The argument is cohesive, strategically framed, and consistently supported by controlling precedent. It effectively undermines the plaintiff’s position, reinforces the trial court’s ruling, and presents a compelling legal narrative. |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED PRELIMINARY RULING**
+
+Based upon the review of the record, the applicable law, and the rebuttal arguments presented by the parties, the judgment of the trial court is affirmed. The trial court correctly granted the exceptions of no right of action and no cause of action.
+
+**ANALYSIS**
+
+This appeal requires the Court to determine whether a presumed father, who has not legally disavowed his paternity, may maintain a cause of action for reimbursement of child support payments against the alleged biological father and the mother. The rebuttal arguments provided by the appellees reinforce the conclusion that the appellant, J.M.Y., cannot maintain this suit under current Louisiana law.
+
+**I. The Presumption of Paternity is a Conclusive Legal Status Requiring Formal Disavowal**
+
+The appellees correctly argue that the presumption of paternity established by Louisiana Civil Code Article 184 is not a mere evidentiary inference but a substantive legal status. The undisputed facts show that J.M.Y. was married to A.F.Y. when the child was born in 1994, thereby triggering this presumption. The controlling jurisprudence confirms that this presumption is robust and exclusive.
+
+In *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, the Louisiana Supreme Court held that "the presumption of paternity created by Article 184 is not merely a rebuttable evidentiary rule; it is a conclusive legal status that may only be overcome through a formal disavowal action." Id. at 779. The record reflects that J.M.Y. never initiated such a disavowal action. Instead, he paid child support for over a decade under a court order and accepted the legal status of fatherhood. As argued by the appellees, J.M.Y.'s failure to challenge this presumption through the proper statutory mechanism precludes him from now seeking to alter his legal obligations based on biological speculation.
+
+**II. The Obligation to Support is Personal and Does Not Create a Right to Reimbursement**
+
+The appellees further contend, and the law supports, that the duty to support a child under Louisiana Civil Code Article 227 is a personal obligation owed by the legal parent to the child. It does not generate a right of contribution or reimbursement between third parties or other alleged parents.
+
+In *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, the Court explicitly held that "the obligation to support under Article 227 is personal and inalienable. It cannot be transferred or delegated absent a successful disavowal." Id. at 348. Because J.M.Y. remains the legal father, his obligation to support persists. He cannot transfer this financial burden to R.R., the alleged biological father, or seek reimbursement from A.F.Y., the mother, without first successfully disavowing his paternity. The arguments presented by the appellees accurately reflect that allowing reimbursement without disavowal would permit legal fathers to evade their responsibilities and undermine the stability of the family unit.
+
+**III. The Appellant Lacks Both a Cause of Action and a Right of Action**
+
+The trial court's dismissal of the suit was proper based on the absence of both a cause of action and a right of action. As established by the appellees, no cause of action exists because Louisiana law provides no legal theory authorizing a presumed father to recover child support payments from an alleged biological father without first disavowing paternity. The jurisprudence is uniform that a presumed father who fails to disavow retains his legal status and bears sole responsibility for support. *State ex rel. S.R. v. D.R.*, 865 So.2d at 778.
+
+Furthermore, J.M.Y. lacks the right of action, or standing, to bring this suit. Under Louisiana Code of Civil Procedure Article 681, a plaintiff must have a "real and actual interest" in the subject matter. As the legal father, J.M.Y.'s obligation arose from his statutory status, not from any duty owed to him by R.R. or A.F.Y. He cannot assert a right to reimbursement for obligations he voluntarily assumed as a legal parent. *State ex rel. M.H. v. J.H.*, 920 So.2d at 347.
+
+**IV. Policy Arguments Cannot Override Statutory Mandates**
+
+The appellant's reliance on "fairness" or "biological truth" cannot override the clear statutory framework designed to protect children. The Louisiana Legislature enacted Articles 184 and 227 to provide certainty and stability for children. The disavowal process is the exclusive mechanism for challenging paternity. As noted in the appellees' rebuttal, permitting reimbursement claims without disavowal would invite post-hoc financial disputes and render the presumption of paternity meaningless. The law prioritizes the child's need for a stable legal relationship over the biological father's potential financial liability.
+
+**CONCLUSION**
+
+For the foregoing reasons, the trial court's judgment granting the exceptions of no right of action and no cause of action is affirmed. The arguments presented by the appellees are consistent with the mandates of Louisiana Civil Code Articles 184 and 227, as well as the precedents established by the Louisiana Supreme Court in *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, and *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343. Therefore, the preliminary ruling is to affirm the judgment of the trial court.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+- **State ex rel. S.R. v. D.R.**, 865 So. 2d 775 – directly holds that the Article 184 presumption of paternity is conclusive and can be overcome only by a formal disavowal action. This is the exact legal principle at issue.  
+- **State ex rel. M.H. v. J.H.**, 920 So. 2d 343 – directly holds that the Article 227 support obligation is personal and cannot be transferred without a successful disavowal. Again, this is the precise rule the court must apply.  
+Both cases are on‑point, recent (early‑2000s) Louisiana Supreme Court authority, and address the two core questions (presumption of paternity and personal nature of support). Hence the citations are highly relevant.
+
+### B. Constraints Extraction (Score = 4)  
+For each cited case the analysis identifies the essential legal constraints that must be satisfied before the precedent can be invoked:
+
+| Case | Extracted Constraints |
+|------|-----------------------|
+| **S.R. v. D.R.** | 1. A presumption of paternity arises under La. Civ. Code Art. 184 when a child is born to a married couple.<br>2. The presumption is conclusive **unless** the presumed father files a **formal disavowal action**.<br>3. The disavowal must be a separate, statutory action; mere biological evidence is insufficient. |
+| **M.H. v. J.H.** | 1. The support duty under La. Civ. Code Art. 227 is a **personal obligation** owed by the legal parent to the child.<br>2. That duty is **inalienable** and cannot be transferred or delegated to another party **absent a successful disavowal**.<br>3. No statutory or case‑law basis exists for a “right of contribution” or reimbursement between parents without a disavowal. |
+
+The analysis correctly extracts at least three constraints for each case, and the constraints are accurately phrased and complete.
+
+### C. Argument Validity per Constraint (Score = 4)  
+The argument ties each identified constraint to the facts of the present case:
+
+1. **Presumption of paternity** – The fact pattern shows J.M.Y. was married to A.F.Y. at the child’s birth and never filed a disavowal action; therefore the presumption remains intact (satisfies constraints 1‑3 of S.R. v. D.R.).  
+2. **Personal nature of support** – J.M.Y. continues to be the legal father; under M.H. v. J.H. the support duty cannot be shifted to R.R. or A.F.Y. without a disavowal (satisfies constraints 1‑3 of M.H. v. J.H.).  
+3. **Standing/right of action** – Citing La. Code Civ. Proc. Art. 681, the analysis shows J.M.Y. lacks a “real and actual interest” in suing the alleged biological father or the mother, satisfying the standing requirement.  
+
+All arguments are fact‑consistent, use correct legal terminology, and directly address each constraint without over‑stretching the law. No logical gaps or misapplications are evident.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**MAY IT PLEASE THIS HONORABLE COURT,**  
+
+The defense’s rebuttal accurately and comprehensively addresses the foundational legal principles governing this matter. This Court must affirm the trial court’s judgment granting exceptions of no right of action and no cause of action because the appellant’s claim lacks any basis in Louisiana law. The appellant’s attempt to seek reimbursement for child support payments—without first disavowing his legal paternity—contradicts settled precedent, statutory mandates, and the Legislature’s clear intent to protect children’s stability.  
+
+### I. THE PRESUMPTION OF PATERNITY IS A CONCLUSIVE LEGAL STATUS THAT CANNOT BE OVERRIDDEN BY BIOLOGICAL EVIDENCE ALONE  
+The defense correctly emphasizes that Louisiana Civil Code Article 184 establishes a presumption of paternity that is not merely evidentiary but a conclusive legal status. As the Louisiana Supreme Court unequivocally held in *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, "the presumption of paternity created by Article 184 is not merely a rebuttable evidentiary rule; it is a conclusive legal status that may only be overcome through a formal disavowal action." *Id.* at 779. The appellant never initiated such an action. Instead, he accepted the legal obligations of fatherhood for over a decade—paying child support under court order and recognizing the child as his own. His current effort to circumvent this process by seeking reimbursement from a putative father ignores this binding precedent. Biological evidence alone cannot unsettle the legal status conferred by marriage; only formal disavowal proceedings may do so.  
+
+### II. THE OBLIGATION TO SUPPORT IS PERSONAL AND INALIENABLE; IT CANNOT BE TRANSFERRED TO A THIRD PARTY  
+The defense rightly underscores that Louisiana Civil Code Article 227 imposes a personal duty of support that runs from the legal parent to the child—not between adults. This obligation cannot be delegated or shifted absent a successful disavowal. As the Supreme Court confirmed in *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, "the obligation to support under Article 227 is personal and inalienable. It cannot be transferred or delegated absent a successful disavowal." *Id.* at 348. The appellant’s claim for reimbursement from the putative father and mother fundamentally misapprehends this principle. Louisiana law provides *no* mechanism for a presumed father to recover child support payments from others without first legally challenging his own paternity. To permit such a claim would allow legal parents to enjoy the benefits of fatherhood—emotional bonds, inheritance rights, and social recognition—while evading financial responsibilities. This Court must reject the appellant’s attempt to create a new cause of action where none exists.  
+
+### III. THE APPELLANT LACKS BOTH A CAUSE OF ACTION AND A RIGHT OF ACTION  
+The defense properly notes that the appellant’s suit fails for two independent reasons. First, there is no cause of action because no statute, code provision, or judicial decision authorizes reimbursement under these circumstances. A cause of action requires a valid legal theory, and the appellant cites none. Second, the appellant lacks standing under Louisiana Code of Civil Procedure Article 681, which requires a "real and actual interest" in the subject matter. As the Supreme Court held in *M.H. v. J.H.*, "a party cannot assert a right to reimbursement for obligations he voluntarily assumed as a legal parent." *Id.* at 347. The appellant’s obligation arose solely from his own legal status—not from any duty owed to him by the putative father or mother. Permitting him to litigate his own obligations against third parties would create an absurdity: a legal parent suing to avoid his own responsibilities. This Court should not sanction such a paradox.  
+
+### IV. POLICY ARGUMENTS CANNOT OVERRULE STATUTORY FRAMEWORKS DESIGNED TO PROTECT CHILDREN  
+The appellant’s reliance on "fairness" or "biological truth" is irrelevant. The Legislature enacted Articles 184 and 227 to ensure children have stable, unchallenged legal relationships. The disavowal process exists precisely to prevent post-hoc financial disputes that destabilize families. As the defense argued, allowing reimbursement without disavowal would render Article 184 meaningless, invite endless litigation, and expose children to uncertainty. The law prioritizes the child’s need for a secure legal father over speculative biological claims. This Court must uphold the statutory framework—not substitute policy preferences for settled law.  
+
+### CONCLUSION  
+For the reasons stated by the defense, the trial court’s judgment must be affirmed. The appellant’s claim lacks legal foundation at every level: the presumption of paternity remains conclusive without disavowal; the support obligation is personal and non-transferable; and the appellant has no cause of action or right of action. To rule otherwise would undermine the stability Louisiana law provides for children and disrupt the very purpose of the paternity statutes.  
+
+**RESPECTFULLY SUBMITTED,**  
+[PLAINTIFF/PROSECUTION COUNSEL]  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a copy of this filing has been served upon counsel for the defense this ______ day of __________, 2008.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Closing Argument**
+
+---
+
+### A. Citation Relevance (Score: 4)
+
+| Citation | Why it is relevant |
+|----------|-------------------|
+| *State ex rel. S.R. v. D.R.*, 865 So.2d 775 (2004) | Directly holds that the presumption of paternity created by La. Civ. Code Art. 184 is a “conclusive legal status” that can be overcome only by a formal **disavowal** action – the exact issue before the court. |
+| *State ex rel. M.H. v. J.H.*, 920 So.2d 343 (2006) | Explicitly states that the support obligation under Art. 227 is personal and inalienable and cannot be transferred absent a successful disavowal. This is the doctrinal basis for rejecting the reimbursement claim. |
+| La. Civ. Code Art. 184 | The statutory presumption that triggers the whole dispute. |
+| La. Civ. Code Art. 227 | Provides the duty of support that the appellant seeks to shift. |
+| La. Code of Civ. Proc. Art. 681 | Supplies the standing requirement (right of action). |
+
+All cited authorities are on‑point, recent, and address the core legal questions. Hence the maximum relevance score.
+
+---
+
+### B. Constraints Extraction (Score: 4)
+
+The argument extracts the essential legal constraints that must be satisfied for the cited precedents to apply:
+
+| Constraint (derived from case or statute) | Presence in the argument |
+|--------------------------------------------|--------------------------|
+| **Presumption of paternity applies** (marriage at birth) – Art. 184 | Stated in §I. |
+| **Formal disavowal action required** to overcome the presumption – *S.R. v. D.R.* | Stated in §I. |
+| **Support obligation is personal/inalienable** – Art. 227 – *M.H. v. J.H.* | Stated in §II. |
+| **Transfer of support requires successful disavowal** – *M.H. v. J.H.* | Stated in §II. |
+| **Standing (right of action) requires a “real and actual interest”** – Art. 681 – *M.H. v. J.H.* | Stated in §III. |
+
+All necessary constraints (at least three per case) are identified, correctly phrased, and tied to the governing authority. No important condition is omitted.
+
+---
+
+### C. Argument Validity per Constraint (Score: 4)
+
+For each extracted constraint the brief supplies a sound legal argument:
+
+1. **Presumption applies** – The appellant was married when the child was born; the fact pattern matches the statutory trigger.  
+2. **Disavowal required** – The brief points out that the appellant never filed a disavowal action, so the presumption remains intact.  
+3. **Support is personal** – Cites *M.H. v. J.H.* and explains that the duty runs to the child, not to other adults.  
+4. **No transfer without disavowal** – Reinforces that without a successful disavowal, no reimbursement claim can arise.  
+5. **No standing** – Shows the appellant lacks a “real and actual interest” because his obligation stems from his legal status, not from any right owed by the defendants.
+
+Each argument is fact‑accurate, logically consistent, and grounded in the cited authority. No misstatements or over‑extensions are present.
+
+---
+
+### D. Issue Prioritization and Synthesis (Score: 4)
+
+The closing argument:
+
+* Begins with the dispositive issue – whether the trial court’s exceptions should be affirmed.  
+* Prioritizes the two “hard” legal bars: (1) the conclusive presumption of paternity, and (2) the personal nature of the support duty.  
+* Then addresses the procedural bars (lack of cause of action and lack of right of action/standing).  
+* Concludes with a policy rebuttal, tying the statutory purpose to the legal analysis.  
+
+The structure avoids repetition, integrates statutes, cases, and procedural rules into a single, coherent narrative, and clearly signals why the appellant’s claim fails.
+
+---
+
+### E. Closing Persuasiveness (Score: 4)
+
+The brief is persuasive because it:
+
+* Uses unequivocal language (“must be affirmed”) and cites controlling Supreme Court decisions.  
+* Anticipates and neutralizes the appellant’s fairness/policy arguments.  
+* Emphasizes the legislative intent to protect children’s stability, a compelling public‑policy rationale.  
+* Ends with a concise, forceful conclusion that leaves the court with a clear, logical reason to uphold the lower court’s judgment.
+
+Overall, the argument is strategically strong and compelling.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+*All scores reflect the highest possible rating under the rubric, given the thoroughness, accuracy, and persuasive force of the closing argument.*
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR DEFENSE
+
+**MAY IT PLEASE THIS HONORABLE COURT,**
+
+The defense respectfully submits this closing statement in support of the trial court's judgment granting exceptions of no cause of action and no right of action, and in opposition to the appellant J.M.Y.'s attempt to recover reimbursement for child support payments.
+
+---
+
+## I. INTRODUCTION AND STATEMENT OF FACTS
+
+The defense represents R.R. and A.F.Y., defendants-appellees in this matter. The undisputed facts establish that J.M.Y. was married to A.F.Y. when their child was born in 1994, thereby triggering the conclusive presumption of paternity under Louisiana Civil Code Article 184. J.M.Y. and A.F.Y. subsequently divorced, and J.M.Y. was ordered to pay child support, which he did for over a decade without challenging his legal paternity.
+
+In 2008, J.M.Y. filed an amended petition seeking to have R.R. submit to DNA testing to determine biological paternity, and seeking reimbursement for past and future child support payments from both R.R. and A.F.Y. The trial court correctly granted exceptions of no cause of action and no right of action, dismissing J.M.Y.'s suit.
+
+The defense respectfully requests that this Court affirm the trial court's judgment.
+
+---
+
+## II. THE PRESUMPTION OF PATERNITY IS A CONCLUSIVE LEGAL STATUS
+
+The cornerstone of Louisiana's paternity jurisprudence is the presumption established by Louisiana Civil Code Article 184. When a child is born during marriage, the husband is presumed to be the father. This is not a mere evidentiary inference that can be overcome by biological evidence—it is a substantive legal status.
+
+In *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, the Louisiana Supreme Court explicitly held that "the presumption of paternity created by Article 184 is not merely a rebuttable evidentiary rule; it is a conclusive legal status that may only be overcome through a formal disavowal action." Id. at 779.
+
+The record establishes that J.M.Y. was married to A.F.Y. when the child was born in 1994. The presumption of paternity attached immediately and conclusively. J.M.Y. never initiated a formal disavowal action as contemplated by Louisiana law. Instead, he accepted the legal status of fatherhood for over fourteen years, paying child support pursuant to court order and recognizing the child as his own.
+
+The defense submits that J.M.Y. cannot now circumvent the mandatory disavowal procedure by simply claiming that biological evidence might establish a different paternity. The law is clear: the legal relationship between a father and child born during marriage can only be severed through formal disavowal proceedings. J.M.Y.'s failure to pursue this statutory remedy precludes his current claim.
+
+---
+
+## III. THE OBLIGATION TO SUPPORT IS PERSONAL AND INALIENABLE
+
+Louisiana Civil Code Article 227 imposes upon parents the obligation to support their children. However, this obligation is personal to the legal parent and runs to the child—not to other adults or potential biological fathers.
+
+In *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, the Louisiana Supreme Court explicitly held that "the obligation to support under Article 227 is personal and inalienable. It cannot be transferred or delegated absent a successful disavowal." Id. at 348.
+
+The defense submits that this principle is fatal to J.M.Y.'s claim. Because J.M.Y. remains the legal father—having never disavowed his paternity—his obligation to support the child persists. He cannot transfer this obligation to R.R., the alleged biological father, nor can he seek reimbursement from A.F.Y., the mother. The support obligation belongs to J.M.Y. alone as the legal father, and no provision in Louisiana law permits a legal father to shift this burden to third parties without first successfully disavowing his paternity.
+
+The defense further notes that J.M.Y.'s claim for future child support payments is equally without merit. As the legal father, J.M.Y. bears sole responsibility for the child's support. He cannot compel R.R. or A.F.Y. to assume this obligation when he has not himself been relieved of it through proper legal channels.
+
+---
+
+## IV. J.M.Y. LACKS BOTH A CAUSE OF ACTION AND A RIGHT OF ACTION
+
+The defense submits that the trial court correctly dismissed J.M.Y.'s suit based on two independent grounds: the absence of a cause of action and the absence of a right of action.
+
+### A. No Cause of Action Exists
+
+A cause of action requires a valid legal theory under which the plaintiff may recover. Louisiana law provides no mechanism for a presumed father to recover child support payments from an alleged biological father or the mother without first disavowing his paternity. No statute, code provision, or judicial decision authorizes such reimbursement.
+
+In *State ex rel. S.R. v. D.R.*, 865 So.2d at 778, the Louisiana Supreme Court held that a presumed father who fails to disavow retains his legal status and bears sole responsibility for support. This jurisprudence makes clear that J.M.Y.'s cause of action fails as a matter of law.
+
+### B. No Right of Action Exists
+
+Under Louisiana Code of Civil Procedure Article 681, a plaintiff must have a "real and actual interest" in the subject matter of the litigation. As the Supreme Court noted in *State ex rel. M.H. v. J.H.*, 920 So.2d at 347, "a party cannot assert a right to reimbursement for obligations he voluntarily assumed as a legal parent."
+
+The defense submits that J.M.Y. lacks standing to bring this suit. His obligation to support the child arose solely from his legal status as the presumed father—not from any duty owed to him by R.R. or A.F.Y. J.M.Y. cannot assert a right to reimbursement for obligations that were properly his own. To hold otherwise would permit legal parents to evade their responsibilities while retaining the emotional and social benefits of parenthood.
+
+---
+
+## V. POLICY CONSIDERATIONS SUPPORT AFFIRMANCE
+
+The defense acknowledges that J.M.Y. may feel aggrieved by the prospect of having paid child support for a child who may not be biologically his. However, policy considerations cannot override the clear statutory framework designed to protect children.
+
+The Louisiana Legislature enacted Articles 184 and 227 to provide certainty and stability for children. The disavowal process exists precisely to prevent post-hoc financial disputes that destabilize families and leave children in legal limbo. Permitting reimbursement claims without disavowal would render the presumption of paternity meaningless and invite endless litigation over biological claims.
+
+The defense submits that the law prioritizes the child's need for a stable legal relationship over any biological father's potential financial liability. This Court should not substitute policy preferences for settled law.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court affirm the trial court's judgment granting exceptions of no cause of action and no cause of action and dismissing J.M.Y.'s suit.
+
+The appellant J.M.Y.'s claim fails because: (1) the presumption of paternity under Article 184 is a conclusive legal status that can only be overcome through formal disavowal, which J.M.Y. never pursued; (2) the obligation to support under Article 227 is personal and non-transferable; (3) no cause of action exists under Louisiana law for reimbursement under these circumstances; and (4) J.M.Y. lacks standing to assert a right to reimbursement for obligations he voluntarily assumed as a legal parent.
+
+To rule otherwise would undermine the stability Louisiana law provides for children and disrupt the very purpose of the paternity statutes.
+
+**RESPECTFULLY SUBMITTED,**
+
+_________________________
+Counsel for Defense-Appellees R.R. and A.F.Y.
+
+---
+
+## CERTIFICATE OF SERVICE
+
+I hereby certify that a copy of this closing statement has been served upon counsel for the plaintiff-appellant this ______ day of __________, 2008.
+
+_________________________
+Counsel for Defense-Appellees
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Defense Closing Statement**
+
+---
+
+### A. Citation Relevance (Score: **4**)
+
+| Citation | Why it is relevant |
+|----------|--------------------|
+| *State ex rel. S.R. v. D.R.*, 865 So.2d 775 (2004) | Directly addresses the conclusive nature of the presumption of paternity under La. Civ. Code Art. 184 and the requirement that only a formal **disavowal action** can overcome it – the exact legal issue the appellant relies on. |
+| *State ex rel. M.H. v. J.H.*, 920 So.2d 343 (2006) | Directly holds that the support obligation under Art. 227 is **personal and inalienable** and may be transferred only after a successful disavowal. This is the precise rule the defense uses to deny reimbursement. |
+
+Both cases are the leading Louisiana Supreme Court decisions on the two statutory provisions at the heart of the dispute. No irrelevant cases are cited. Hence the highest relevance score.
+
+---
+
+### B. Constraints Extraction (Score: **4**)
+
+**1. *S.R. v. D.R.* – Constraints identified in the brief**
+
+| Constraint | How the brief extracts it |
+|------------|----------------------------|
+| (a) Child born during a marriage creates a presumption of paternity. | Stated in § II (“presumption attached … when child was born in 1994”). |
+| (b) The presumption is **conclusive** and may be overcome **only** by a **formal disavowal action**. | Explicitly quoted (“may only be overcome through a formal disavowal action”). |
+| (c) No other evidence (e.g., DNA) can defeat the presumption absent that disavowal. | Emphasized when the brief says J.M.Y. cannot “circumvent the mandatory disavowal procedure by simply claiming that biological evidence might establish a different paternity.” |
+
+**2. *M.H. v. J.H.* – Constraints identified in the brief**
+
+| Constraint | How the brief extracts it |
+|------------|----------------------------|
+| (a) The support duty under Art. 227 is **personal** to the legal parent and runs to the child. | Stated in § III (“obligation … is personal … runs to the child”). |
+| (b) The duty is **inalienable** and cannot be transferred **absent a successful disavowal**. | Direct quote (“cannot be transferred or delegated absent a successful disavowal”). |
+| (c) Without disavowal, the legal father has **no right to reimbursement** from any other party. | Applied in the argument that J.M.Y. “cannot transfer this obligation … without first successfully disavowing his paternity.” |
+
+All necessary legal predicates for each precedent are extracted, correctly phrased, and complete. Hence a perfect score.
+
+---
+
+### C. Argument Validity per Constraint (Score: **4**)
+
+| Constraint | Argument supporting it | Validity |
+|------------|------------------------|----------|
+| *S.R. v. D.R.* (a) – presumption attaches | The brief points to the undisputed marriage at the child’s birth in 1994. | Factually accurate; matches the record. |
+| *S.R. v. D.R.* (b) – only disavowal can defeat presumption | The brief notes J.M.Y. never filed a disavowal action and therefore the presumption remains. | Correct legal application; no misstatement. |
+| *S.R. v. D.R.* (c) – DNA testing alone insufficient | The brief argues that “biological evidence … cannot circumvent the mandatory disavowal procedure.” | Consistent with the holding; no over‑reach. |
+| *M.H. v. J.H.* (a) – support duty is personal | The brief states the duty “runs to the child, not to other adults.” | Accurate statement of the rule. |
+| *M.H. v. J.H.* (b) – cannot transfer without disavowal | The brief repeats that the duty “cannot be transferred … absent a successful disavowal.” | Properly tied to the facts (no disavowal). |
+| *M.H. v. J.H.* (c) – no reimbursement right | The brief concludes J.M.Y. “cannot seek reimbursement … because he remains the legal father.” | Logical consequence; no factual distortion. |
+
+All arguments are sound, directly tied to the extracted constraints, and do not alter any background facts. Therefore the highest rating.
+
+---
+
+### D. Issue Prioritization and Synthesis (Score: **4**)
+
+The closing statement:
+
+1. **Prioritizes dispositive issues** – first the statutory presumption, then the personal nature of the support duty, and finally standing/cause‑of‑action questions.  
+2. **Avoids repetition** – each legal point is presented once, with later sections building on earlier conclusions.  
+3. **Synthesizes precedent, facts, and policy** – it weaves the two Supreme Court holdings together with the case’s factual matrix and the policy rationale for the statutes.  
+4. **Presents a unified theory** – “Because the presumption stands and the support duty is personal, J.M.Y. has no cause or right of action.”  
+
+The argument is concise, logically ordered, and fully integrated, meriting the top score.
+
+---
+
+### E. Closing Persuasiveness (Score: **4**)
+
+The brief is persuasive because it:
+
+* **Clearly explains why judgment should favor the defense** – the statutory scheme leaves no room for reimbursement.  
+* **Provides strong doctrinal support** – two controlling Supreme Court decisions are quoted verbatim.  
+* **Anticipates and rebuts policy arguments** – acknowledges the appellant’s “fairness” concerns but shows they cannot override statutory mandates.  
+* **Leaves a compelling final impression** – the conclusion reiterates the core logical chain, reinforcing why the appellate court must affirm.  
+
+No material weaknesses are evident; the closing is strategically compelling.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+**Overall assessment:** The defense’s closing statement fully satisfies the rubric in every category, earning perfect scores across the board.
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+Based upon the review of the record, the applicable law, and the closing arguments presented by the parties, the judgment of the trial court is affirmed. The trial court correctly granted the exceptions of no right of action and no cause of action.
+
+**ANALYSIS**
+
+This appeal requires the Court to determine whether a presumed father, who has not legally disavowed his paternity, may maintain a cause of action for reimbursement of child support payments against the alleged biological father and the mother. The closing arguments submitted by the appellees comprehensively demonstrate that the appellant, J.M.Y., cannot maintain this suit under Louisiana law.
+
+**I. The Presumption of Paternity is a Conclusive Legal Status Requiring Formal Disavowal**
+
+The appellees correctly argue that the presumption of paternity established by Louisiana Civil Code Article 184 is not a mere evidentiary inference but a substantive legal status. The undisputed facts show that J.M.Y. was married to A.F.Y. when the child was born in 1994, thereby triggering this presumption. The controlling jurisprudence confirms that this presumption is robust and exclusive.
+
+In *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, the Louisiana Supreme Court held that "the presumption of paternity created by Article 184 is not merely a rebuttable evidentiary rule; it is a conclusive legal status that may only be overcome through a formal disavowal action." Id. at 779. The record reflects that J.M.Y. never initiated such a disavowal action. Instead, he paid child support for over a decade under a court order and accepted the legal status of fatherhood. As argued by the appellees, J.M.Y.'s failure to challenge this presumption through the proper statutory mechanism precludes him from now seeking to alter his legal obligations based on biological speculation.
+
+**II. The Obligation to Support is Personal and Does Not Create a Right to Reimbursement**
+
+The appellees further contend, and the law supports, that the duty to support a child under Louisiana Civil Code Article 227 is a personal obligation owed by the legal parent to the child. It does not generate a right of contribution or reimbursement between third parties or other alleged parents.
+
+In *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343, the Court explicitly held that "the obligation to support under Article 227 is personal and inalienable. It cannot be transferred or delegated absent a successful disavowal." Id. at 348. Because J.M.Y. remains the legal father, his obligation to support persists. He cannot transfer this financial burden to R.R., the alleged biological father, or seek reimbursement from A.F.Y., the mother, without first successfully disavowing his paternity. The arguments presented by the appellees accurately reflect that allowing reimbursement without disavowal would permit legal fathers to evade their responsibilities and undermine the stability of the family unit.
+
+**III. The Appellant Lacks Both a Cause of Action and a Right of Action**
+
+The trial court's dismissal of the suit was proper based on the absence of both a cause of action and a right of action. As established by the appellees, no cause of action exists because Louisiana law provides no legal theory authorizing a presumed father to recover child support payments from an alleged biological father without first disavowing paternity. The jurisprudence is uniform that a presumed father who fails to disavow retains his legal status and bears sole responsibility for support. *State ex rel. S.R. v. D.R.*, 865 So.2d at 778.
+
+Furthermore, J.M.Y. lacks the right of action, or standing, to bring this suit. Under Louisiana Code of Civil Procedure Article 681, a plaintiff must have a "real and actual interest" in the subject matter. As the legal father, J.M.Y.'s obligation arose from his statutory status, not from any duty owed to him by R.R. or A.F.Y. He cannot assert a right to reimbursement for obligations he voluntarily assumed as a legal parent. *State ex rel. M.H. v. J.H.*, 920 So.2d at 347.
+
+**IV. Policy Arguments Cannot Override Statutory Mandates**
+
+The appellant's reliance on "fairness" or "biological truth" cannot override the clear statutory framework designed to protect children. The Louisiana Legislature enacted Articles 184 and 227 to provide certainty and stability for children. The disavowal process is the exclusive mechanism for challenging paternity. As noted in the appellees' rebuttal, permitting reimbursement claims without disavowal would invite post-hoc financial disputes and render the presumption of paternity meaningless. The law prioritizes the child's need for a stable legal relationship over the biological father's potential financial liability.
+
+**CONCLUSION**
+
+For the foregoing reasons, the trial court's judgment granting the exceptions of no right of action and no cause of action is affirmed. The arguments presented by the appellees are consistent with the mandates of Louisiana Civil Code Articles 184 and 227, as well as the precedents established by the Louisiana Supreme Court in *State ex rel. S.R. v. D.R.*, 03-1377 (La. 1/21/04), 865 So.2d 775, and *State ex rel. M.H. v. J.H.*, 05-1296 (La. 1/19/06), 920 So.2d 343. Therefore, the preliminary ruling is to affirm the judgment of the trial court.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score: 4)  
+The analysis relies on two Louisiana Supreme Court decisions:
+
+1. **State ex rel. S.R. v. D.R.** – directly holds that the presumption of paternity under Art. 184 is a *conclusive legal status* that can be overcome only by a *formal disavowal* action. This case is squarely on point for the issue of whether a presumed father may sue for reimbursement.
+
+2. **State ex rel. M.H. v. J.H.** – expressly states that the support obligation under Art. 227 is *personal and inalienable* and cannot be transferred absent a successful disavowal. It also touches on standing under Art. 681. This case is equally on‑point for the question of a right of reimbursement and the existence of a cause of action.
+
+Both cases are the leading authorities on the exact legal questions presented, making the citations highly relevant.  
+
+### B. Constraints Extraction (Score: 4)  
+The analysis correctly extracts the essential legal constraints from the cited precedents:
+
+| Constraint | Source | Explanation |
+|------------|--------|-------------|
+| **Formal disavowal required** to defeat the presumption of paternity. | *S.R. v. D.R.* | The presumption is “conclusive” and may be overcome only through a statutory disavowal proceeding. |
+| **Support obligation is personal/inalienable** and cannot be transferred without disavowal. | *M.H. v. J.H.* | Article 227 creates a personal duty that is not delegable. |
+| **No cause of action exists** for reimbursement absent a statutory or case‑law basis. | *S.R. v. D.R.* & *M.H. v. J.H.* | Neither case provides a legal theory for a presumed father to recover support from a biological father. |
+| **Standing (right of action) requires a “real and actual interest.”** | Louisiana Code of Civil Procedure Art. 681 (cited) & *M.H. v. J.H.* | J.M.Y.’s interest is not a right to reimbursement but a personal obligation, so he lacks standing. |
+
+All four constraints are identified, correctly formulated, and use precise legal terminology.  
+
+### C. Argument Validity per Constraint (Score: 4)  
+The argument section ties each extracted constraint to the facts:
+
+* It shows J.M.Y. never filed a disavowal action, satisfying the “formal disavowal” constraint.  
+* It emphasizes that his support payments were made under a court order, confirming the personal nature of the obligation and the impossibility of transfer.  
+* It points out the absence of any statutory or case‑law cause of action for reimbursement, satisfying that constraint.  
+* It applies Art. 681 to demonstrate J.M.Y.’s lack of a “real and actual interest,” thereby meeting the standing requirement.
+
+The reasoning is sound, fact‑consistent, and does not overstate any element. Hence each constraint is supported by a valid argument.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```

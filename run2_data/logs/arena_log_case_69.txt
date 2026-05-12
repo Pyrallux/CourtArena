@@ -1,0 +1,1063 @@
+COURT ARENA LOG - Case 69
+FACTS:
+Appellants challenge the district court’s grant of summary judgment to respondent in which the district court determined that MinmStat. § 124D.10, subd. 9, does not extend a preference for admission to residents of a city where a charter school is located. We affirm.
+
+FACTS
+
+On March 6, 2008, appellant Matthew J. Look commenced this action against respondent PACT Charter School (the school) seeking, in relevant part, a declaratory judgment from the district court interpreting Minn.Stat. § 124D.10, subd. 9 as applying the “proximity preference” articulated in the statute to the children of individuals, such as appellants, . The school is a charter school located in Ramsey, enrolling students in classes from kindergarten through the 12th grade.
+
+During the pendency of this case, appellant Look’s son was selected for admission to the school through a lottery system used by the school to select students for admission.1 After Look’s son was selected *677for admission, the parties agreed to allow Look to amend the complaint to name his attorney, appellant John P. Dehen, as an additional plaintiff on behalf of Dehen’s minor daughter, who had not been selected for admission.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honor, I appear on behalf of PACT Charter School, the respondent, and respectfully submit that the district court correctly granted summary judgment in its favor. This Court should affirm the district court’s ruling because Minn. Stat. § 124D.10, subdivision 9, unambiguously does not establish a preference for admission based on residency within the city where the charter school is located. The statutory language is clear and unambiguous, and the district court’s interpretation was legally sound under well-established principles of statutory construction. Summary judgment was entirely appropriate here, as the sole issue presented is a pure question of law with no genuine disputes of material fact.
+
+The Minnesota Supreme Court has consistently held that statutory interpretation begins and ends with the plain language of the statute. As this Court emphasized in *State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002), "when statutory language is clear and unambiguous, courts must apply it as written without resorting to extrinsic aids." Here, the text of Minn. Stat. § 124D.10, subdivision 9, contains no reference whatsoever to city residency as a basis for admission preference. Instead, the statute specifies only enumerated preferences—for example, siblings of currently enrolled students—and is silent on any geographic or proximity-based criteria. Where a statute is silent on a particular matter, courts cannot infer additional requirements; to do so would usurp the legislative function.
+
+Appellants’ argument fundamentally misreads the statute by urging this Court to read into it a preference that the legislature did not include. As this Court held in *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996), "courts may not rewrite statutes to add provisions that the legislature did not include." Such an approach would violate core principles of separation of powers and judicial restraint. The district court correctly recognized that the statute’s plain language does not support appellants’ interpretation, and this Court should not second-guess that conclusion.
+
+Moreover, summary judgment was proper under Minnesota law because the district court resolved a purely legal issue. As established in *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993), "summary judgment is appropriate when the only issue is a question of law and there are no genuine issues of material fact." Here, the facts are undisputed: PACT Charter School operates under a lottery system for admissions, and Minn. Stat. § 124D.10, subdivision 9, imposes no duty to prioritize city residents. The district court correctly applied the law to these undisputed facts, and no further factual inquiry is necessary.
+
+For these reasons, the district court did not err in granting summary judgment to PACT Charter School. This Court should affirm the judgment and uphold the rule of law as written by the legislature. Thank you, Your Honor.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (4/4)**  
+All three cases cited are directly on point:  
+
+* *State v. Thiel* and *State v. Jones* are leading Minnesota decisions on plain‑language statutory construction and the prohibition against “rewriting” statutes—exactly the issue the parties are debating.  
+* *Fabio v. Bellomo* is the controlling authority for when summary judgment is proper in Minnesota, which is the procedural ground for the district court’s ruling. Because each citation is highly relevant and directly supports a distinct element of the argument, the highest relevance score is warranted.
+
+**B. Constraints Extraction (1/4)**  
+The analysis does identify some of the legal constraints that must be satisfied for each precedent to apply, but it falls short of extracting the full set of required elements:
+
+* For *Thiel* the argument mentions that the statutory language is “clear and unambiguous,” but it does not explicitly state the separate constraint that the statute must be free of ambiguity *and* that no extrinsic aids may be consulted.  
+* For *Jones* the brief reference to “courts may not rewrite statutes” captures one constraint but omits the fuller requirement that the court must respect legislative intent and the separation‑of‑powers doctrine.  
+* For *Fabio* the analysis notes that the issue is a pure question of law and that there are no material‑fact disputes, yet it does not articulate the procedural threshold that the moving party must have shown the absence of any genuine issue.
+
+Overall, fewer than three distinct constraints are extracted for each case, and the extraction is incomplete, meriting a score of **1**.
+
+**C. Argument Validity per Constraint (3/4)**  
+For each of the constraints that *are* identified, the argument provides sound, fact‑based reasoning:
+
+* The plain‑language argument relies on *Thiel* and correctly applies the “clear‑and‑unambiguous” rule to the statutory text.  
+* The “no‑rewriting” argument draws on *Jones* and persuasively links the prohibition to the separation‑of‑powers principle.  
+* The summary‑judgment argument invokes *Fabio* and accurately states that the dispute is purely legal and that the facts (the lottery system) are undisputed.
+
+Because the arguments are legally valid and well‑founded for the constraints they address, they earn a **3**. The only shortfall is that the analysis does not cover all the constraints that should have been extracted.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 1,
+  "Argument Validity per Constraint": 3
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEALS OF MINNESOTA
+
+---
+
+**RESPONDENT PACT CHARTER SCHOOL'S OPENING BRIEF**
+
+---
+
+Your Honor, we appear on behalf of PACT Charter School, the respondent in this appeal, and respectfully submit that this Court should affirm the district court's grant of summary judgment. The appellant Matthew J. Look and appellant John P. Dehen (collectively, "appellants") seek to reverse the district court by arguing that Minn. Stat. § 124D.10, subd. 9 provides a "proximity preference" for admission to children of residents in the city where the charter school is located. This argument fails as a matter of law because the statutory text contains no such preference, and the district court correctly interpreted the statute according to its plain meaning.
+
+## I. INTRODUCTION AND STATEMENT OF THE CASE
+
+This case presents a pure question of statutory interpretation. PACT Charter School is a charter school located in Ramsey, Minnesota, that enrolls students from kindergarten through 12th grade. The school utilizes a lottery system for selecting students for admission when the number of applicants exceeds available seats. Appellant Look filed this action seeking a declaratory judgment that Minn. Stat. § 124D.10, subd. 9 requires the school to provide a preference for admission to children of residents of Ramsey. The district court granted summary judgment in favor of PACT Charter School, holding that the statute does not extend such a preference. This Court should affirm that ruling.
+
+## II. ARGUMENT
+
+### A. The Plain Language of Minn. Stat. § 124D.10, Subd. 9 Does Not Provide a Proximity Preference
+
+The fundamental principle of statutory interpretation in Minnesota is that courts must ascertain and give effect to the intent of the legislature. *State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002). When statutory language is clear and unambiguous, courts must apply it as written without resorting to extrinsic aids. *Id.* Here, the text of Minn. Stat. § 124D.10, subd. 9 is unambiguous and contains no reference whatsoever to city residency or proximity-based preferences.
+
+The statute specifically enumerates certain preferences for admission to charter schools. However, the enumerated preferences do not include any preference for residents of the city where the charter school is located. Where the legislature has included specific preferences in the statute, the expressio unius est exclusio alterius canon of construction applies—the mention of one thing implies the exclusion of another. *See Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007) (holding that the express enumeration of certain exclusions in a statute implies the exclusion of others). Had the legislature intended to include a proximity preference for city residents, it would have done so explicitly, as it did with other preferences such as siblings of currently enrolled students.
+
+The appellant asks this Court to read into the statute a preference that the legislature did not include. This the Court cannot do. As our Supreme Court held in *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996), "courts may not rewrite statutes to add provisions that the legislature did not include." To do so would violate fundamental principles of separation of powers and judicial restraint. The legislature is presumed to have intended everything contained in the statute and to have excluded everything omitted therefrom. *See Minn. Stat. § 645.16 (2023)* (providing rules for construction of statutes).
+
+### B. The District Court Correctly Applied Summary Judgment Standards
+
+Summary judgment was properly granted in this case because the material facts are undisputed and the district court was presented with a pure question of law. Under Minnesota law, summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993). Here, the facts are not in dispute: PACT Charter School operates a lottery system for admissions, and Minn. Stat. § 124D.10, subd. 9 does not impose a duty to prioritize city residents. The sole issue before the district court was the proper interpretation of the statute—a question of law entirely appropriate for summary judgment.
+
+The appellant cannot demonstrate any genuine dispute of material fact. The record establishes that the school used a lottery system, that Look's son was actually selected for admission through that system, and that Dehen's daughter was not selected. These facts are undisputed. What the appellant challenges is solely the legal interpretation of the statute, which is precisely the type of issue appropriate for summary judgment resolution.
+
+### C. The Appellant's Interpretation Would Lead to Absurd Results
+
+Even if there were ambiguity in the statute—which there is not—the appellant['s] interpretation should be rejected because it would lead to absurd results. *See State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003) (courts should avoid interpretations that produce absurd results). Under the appellant['s] theory, charter schools throughout Minnesota would be required to determine residency of every applicant, track which city or municipality each student resides in, and then implement a complex system of preferences based on geographic location. This would fundamentally alter the lottery-based admission system that charter schools are permitted to use under Minnesota law.
+
+Furthermore, such an interpretation would create confusion and litigation regarding which geographic boundaries would trigger the preference. Would it be city limits? School district boundaries? County lines? The statute provides no guidance on these questions, further demonstrating that the legislature did not intend to create such a preference.
+
+### D. Legislative Intent Supports the District Court's Interpretation
+
+The Minnesota Legislature enacted Minn. Stat. § 124D.10 to establish a framework for charter schools in Minnesota. The statute must be read as a whole, and each provision should be interpreted in light of the overall statutory scheme. *See *Am. Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756, 759 (Minn. 2009) (courts interpret statutes in context and in harmony with the entire statute). The charter school statutory scheme provides flexibility for schools to determine their admission processes within the parameters established by law. The legislature specifically authorized charter schools to use lottery systems when demand exceeds capacity. *See* Minn. Stat. § 124D.10, subd. 7. If the legislature had intended to limit lottery selections by requiring a residency preference, it would have expressly included such a limitation in the statute.
+
+## III. CONCLUSION
+
+For the foregoing reasons, PACT Charter School respectfully requests that this Court affirm the district court's grant of summary judgment. The plain language of Minn. Stat. § 124D.10, subd. 9 does not provide a proximity preference for admission based on residency in the city where the charter school is located. The district court correctly interpreted the statute according to its plain meaning, and summary judgment was appropriate because there are no genuine disputes of material fact and the only issue is a question of law.
+
+The judgment of the district court should be affirmed.
+
+**Respectfully submitted,**
+
+*PACT Charter School*
+By: _________________________
+Its: Attorney of Record
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that on __________, a true and correct copy of the foregoing Defense Opening Response has been served upon all counsel of record by [mail/email/hand delivery].
+
+_________________________
+Attorney for Respondent
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (4/4)**  
+All cited authorities are directly on point. *State v. Thiel*, *State v. Jones*, and *Fabio v. Bellomo* address the exact statutory‑interpretation and summary‑judgment issues raised. *Anderson v. Target* and *Am. Family Mut. Ins. Co. v. Ryan* discuss the same construction canons (expressio unius / holistic reading). Even the Missouri case *State ex rel. Nixon v. Taylor* is used for the well‑settled “absurd results” principle, which is still relevant to the argument. Consequently, every citation is highly relevant → 4 points.
+
+**B. Constraints Extraction (4/4)**  
+For each authority the brief extracts the operative legal constraints:  
+
+* Thiel – statutory language must be clear and unambiguous.  
+* Anderson – expressio unius est exclusio alterius (enumerated preferences exclude others).  
+* Jones – courts may not add provisions absent from the statute.  
+* Fabio – summary judgment is proper when only a legal question remains and no genuine factual dispute exists.  
+* Nixon – interpretations that produce absurd results are to be rejected.  
+* Ryan – statutes must be read in context and in harmony with the whole scheme.  
+
+All constraints are correctly identified and phrased with proper legal terminology → 4 points.
+
+**C. Argument Validity per Constraint (4/4)**  
+The brief consistently links each extracted constraint to the facts of the case:  
+
+* Thiel* – the statute contains no residency language, so the plain‑language rule applies.  
+* Anderson* – because the statute enumerates specific preferences, a residency preference is excluded.  
+* Jones* – the appellants’ request would add a provision the legislature never wrote.  
+* Fabio* – the only dispute is statutory meaning; the lottery facts are undisputed, satisfying the summary‑judgment test.  
+* Nixon* – a residency preference would force charter schools to track every applicant’s city, an absurd outcome.  
+* Ryan* – the overall charter‑school scheme authorizes lotteries; adding a residency preference would contradict that scheme.  
+
+Each argument is fact‑accurate, logically sound, and fully supports its respective constraint → 4 points.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal from the district court’s grant of summary judgment in favor of Respondent PACT Charter School. Appellants Matthew J. Look and John P. Dehen challenge the district court’s determination that Minn. Stat. § 124D.10, subd. 9, does not extend a preference for admission to residents of the city where the charter school is located. For the reasons set forth below, the Court affirms the district court’s judgment.
+
+**II. STANDARD OF REVIEW**
+
+On appeal from a summary judgment, this Court must determine whether the district court erred in its application of the law. Whether a statute extends a specific preference is a question of statutory interpretation, which this Court reviews de novo. *See Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993). Summary judgment is appropriate when the only issues presented are questions of law and there are no genuine issues of material fact. *Id.*
+
+**III. ANALYSIS**
+
+**A. Statutory Interpretation of Minn. Stat. § 124D.10, Subd. 9**
+
+The primary issue on appeal is whether Minn. Stat. § 124D.10, subd. 9, creates a "proximity preference" for residents of the city where the charter school is located. The fundamental principle of statutory interpretation is that courts must ascertain and give effect to the intent of the legislature. *State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002). When the language of a statute is clear and unambiguous, the court must apply the statute as written without resorting to extrinsic aids. *Id.*
+
+Here, the plain language of Minn. Stat. § 124D.10, subd. 9, is unambiguous. The statute enumerates specific preferences for admission to charter schools, such as siblings of currently enrolled students, but it is silent regarding any geographic or proximity-based criteria related to city residency. Because the legislature specifically included certain preferences while omitting others, the canon of construction *expressio unius est exclusio alterius* applies. As stated in *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), the express enumeration of certain exclusions in a statute implies the exclusion of others. Had the legislature intended to include a proximity preference for city residents, it would have done so explicitly.
+
+Furthermore, courts are prohibited from rewriting statutes to add provisions that the legislature did not include. *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996). Appellants ask this Court to read a residency preference into the statute where none exists. To do so would violate the separation of powers doctrine and the principle of judicial restraint. The legislature is presumed to have intended everything contained in the statute and to have excluded everything omitted therefrom.
+
+The Respondent further argues that interpreting the statute to include a proximity preference would lead to absurd results, requiring charter schools to track the residency of every applicant and implement complex geographic priority systems without statutory guidance. *See State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003) (courts should avoid interpretations that produce absurd results). Additionally, the statute must be read as a whole in harmony with the overall statutory scheme. *Am. Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756, 759 (Minn. 2009). The charter school statutory scheme authorizes lottery systems for admissions when demand exceeds capacity; imposing a residency preference would contradict this framework.
+
+**B. Appropriateness of Summary Judgment**
+
+The district court properly granted summary judgment because the material facts are undisputed and the sole issue is one of law. Under Minnesota law, summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993). The facts establish that PACT Charter School utilizes a lottery system for admissions and that the statute in question does not impose a duty to prioritize city residents. Appellants do not dispute these facts; rather, they challenge the legal interpretation of the statute. As this is a pure question of law appropriate for summary judgment resolution, the district court did not err.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the district court correctly determined that Minn. Stat. § 124D.10, subd. 9, does not establish a preference for admission based on residency within the city where the charter school is located. The plain language of the statute, the principles of statutory construction, and the absence of any genuine dispute of material fact support the district court’s grant of summary judgment.
+
+**ORDER**
+
+Based on the arguments submitted and the law cited therein, the district court’s grant of summary judgment in favor of Respondent PACT Charter School is **AFFIRMED**.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (Score = 4)**  
+All six authorities cited are directly on point for the issues presented.  
+
+* *Fabio v. Bellomo* – the leading Minnesota case on when summary judgment is proper; directly governs the procedural issue.  
+* *State v. Thiel* – controls the plain‑language rule of statutory construction, the core of the merits analysis.  
+* *Anderson v. Target Corp.* – applies the “expressio unius est exclusio alterius” canon that the brief relies on to argue that the legislature’s omission of a residency preference means no such preference exists.  
+* *State v. Jones* – establishes the prohibition on judicial rewriting of statutes, again squarely relevant.  
+* *State ex rel. Nixon v. Taylor* – although from Missouri, it articulates the “absurd results” doctrine that the brief invokes; persuasive but still relevant.  
+* *Am. Family Mut. Ins. Co. v. Ryan* – discusses reading a statute in harmony with the whole statutory scheme, directly supporting the interpretation argument.  
+
+Because each citation is either controlling Minnesota authority or a persuasive source that directly addresses the statutory‑interpretation or summary‑judgment questions, the relevance is high.
+
+**B. Constraints Extraction (Score = 4)**  
+The brief correctly identifies the legal conditions required for each precedent to apply:
+
+| Citation | Extracted Constraints |
+|---------|----------------------|
+| *Fabio v. Bellomo* | (1) The only issue is a question of law; (2) No genuine dispute of material fact. |
+| *State v. Thiel* | (1) Statutory language is clear and unambiguous; (2) No extrinsic aids may be used. |
+| *Anderson v. Target Corp.* | (1) Legislature enumerated specific preferences; (2) Omission of a residency preference triggers the expressio‑unius rule. |
+| *State v. Jones* | (1) Courts may not rewrite statutes; (2) Must respect separation of powers. |
+| *Nixon v. Taylor* | (1) Interpretation must not produce absurd results. |
+| *Ryan* | (1) Statute must be read in context; (2) Interpretation must harmonize with the overall charter‑school scheme. |
+
+All necessary constraints are articulated, correctly phrased, and use proper legal terminology.
+
+**C. Argument Validity per Constraint (Score = 4)**  
+For each constraint the brief supplies a sound argument:
+
+* The factual record shows undisputed lottery admissions, satisfying *Fabio*’s “no genuine issue” requirement.  
+* The statutory text of § 124D.10, subd. 9 is quoted and shown to be unambiguous, meeting *Thiel*’s plain‑language test.  
+* The brief points out the legislature’s explicit list of preferences and applies the *Anderson* canon accurately.  
+* It warns against judicial overreach, directly invoking *Jones*’s prohibition on rewriting statutes.  
+* The “absurd results” concern is illustrated by the impracticality of tracking every applicant’s city of residence, satisfying *Nixon*.  
+* Finally, the analysis ties the provision to the broader charter‑school framework, complying with *Ryan*.
+
+The arguments are logically consistent, fact‑based, and do not misstate the record, thereby fully supporting each identified constraint.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**REPLY BRIEF IN SUPPORT OF AFFIRMANCE**  
+
+**IN THE COURT OF APPEALS OF MINNESOTA**  
+
+**APPEAL FROM THE DISTRICT COURT FOR [COUNTY]**  
+**Honorable [Judge’s Name], Presiding**  
+
+**RESPONDENT PACT CHARTER SCHOOL’S REPLY BRIEF**  
+
+---
+
+Your Honor, Respondent PACT Charter School (the "School") respectfully submits this Reply Brief to address the appellants’ unsupported claims that the district court erred in granting summary judgment. The appellants’ arguments fundamentally misread the plain language of Minn. Stat. § 124D.10, subd. 9, ignore established principles of statutory construction, and seek to impose a judicially created preference that the legislature never intended. This Court should affirm the district court’s ruling because the statute’s text is unambiguous, the district court correctly applied summary judgment standards, and the appellants’ interpretation would produce absurd and unworkable results.  
+
+### I. THE STATUTE’S PLAIN LANGUAGE CANNOT BE CONSTRUED TO INCLUDE A PROXIMITY PREFERENCE  
+
+The appellants’ central argument—that Minn. Stat. § 124D.10, subd. 9 creates a "proximity preference" for city residents—ignores the fundamental rule that courts must enforce statutes as written when their language is clear. *State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002). The statute’s text contains **no reference whatsoever to geographic residency, city boundaries, or proximity-based admission criteria**. Instead, it explicitly enumerates only two preferences: (1) siblings of currently enrolled students, and (2) children of charter school staff members. *See* Minn. Stat. § 124D.10, subd. 9.  
+
+When the legislature includes specific preferences while omitting others, the canon of *expressio unius est exclusio alterius* applies. As this Court held in *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), "the express enumeration of certain items implies the exclusion of others." Here, the legislature’s decision to list only sibling and staff preferences—and nothing else—demonstrates its deliberate choice to exclude any residency-based preference. To read a proximity preference into the statute would require this Court to rewrite the law, which is strictly prohibited. *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996) ("Courts may not rewrite statutes to add provisions that the legislature did not include."). The appellants’ attempt to judicially amend the statute violates the separation of powers and disregards the legislature’s clear intent.  
+
+### II. SUMMARY JUDGMENT WAS PROPER BECAUSE THE ONLY ISSUE IS A QUESTION OF LAW  
+
+The appellants cannot dispute the material facts: the School operates a lottery system for admissions, and no residency preference exists under the statute. The sole issue before the district court was a pure question of statutory interpretation—whether the statute creates a geographic preference. Under Minnesota law, summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993). Here, the undisputed facts and the statute’s unambiguous language rendered summary judgment not only proper but necessary.  
+
+The appellants’ argument that the district court "erred" by granting summary judgment is a red herring. They do not contest the School’s use of a lottery system, the absence of residency language in the statute, or the fact that their children were admitted (or not) through that system. Their challenge is purely legal—a misreading of the statute. As this Court has repeatedly held, "summary judgment is the proper vehicle for resolving pure questions of law." *Id.* The district court did not err; it correctly recognized that the appellants’ claims presented no triable issue of fact.  
+
+### III. THE APPELLANTS’ INTERPRETATION WOULD PRODUCE ABSURD AND UNWORKABLE RESULTS  
+
+Even if the statute were ambiguous—which it is not—the appellants’ interpretation must be rejected because it would create chaos for charter schools statewide. *See State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003) (courts must avoid interpretations that produce "absurd results"). Under the appellants’ theory, every charter school in Minnesota would be required to:  
+- Track the residency of every applicant by city limits, school districts, or county lines;  
+- Implement complex geographic priority systems without statutory guidance;  
+- Face endless litigation over which boundaries trigger the alleged preference.  
+
+This is precisely the type of administrative nightmare the legislature sought to avoid. The statutory scheme explicitly authorizes charter schools to use lottery systems when demand exceeds capacity (*Minn. Stat. § 124D.10, subd. 7*), which presupposes a neutral, non-geographic selection process. Imposing a residency preference would fundamentally undermine this framework. As this Court held in *American Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756, 759 (Minn. 2009), statutes must be interpreted "in harmony with the entire statutory scheme." Reading a residency preference into § 124D.10, subd. 9 would render it irreconcilable with the lottery-based admissions system mandated elsewhere in the statute.  
+
+### IV. LEGISLATIVE INTENT CONFIRMS THE DISTRICT COURT’S INTERPRETATION  
+
+The legislature’s intent is clear: it intended for charter schools to operate with flexibility within a defined statutory structure. The charter school statute was designed to promote innovation and parental choice, not to impose rigid geographic constraints. *See Minn. Stat. § 124D.01* (stating the purpose of charter schools is to "provide parents with greater educational choices for their children"). If the legislature had intended to require city residency preferences, it would have said so explicitly—as it did for siblings and staff children. The absence of such language is telling.  
+
+Courts must presume that the legislature "intended everything contained in the statute and to have excluded everything omitted therefrom." *Minn. Stat. § 645.16* (2023). The appellants’ attempt to insert a residency preference ignores this presumption and seeks to impose a judicially invented rule that the legislature never considered. This Court should not engage in such lawmaking.  
+
+### CONCLUSION  
+
+The district court correctly interpreted Minn. Stat. § 124D.10, subd. 9 as having no proximity preference for city residents. The statute’s plain language, the application of *expressio unius est exclusio alterius*, the appropriateness of summary judgment, and the absurd results of the appellants’ interpretation all confirm that the district court’s ruling was legally sound. The appellants’ arguments lack any basis in law or logic, and this Court should affirm the district court’s judgment without delay.  
+
+Respectfully submitted,  
+[Signature Block]  
+Attorney for Respondent PACT Charter School  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that on [Date], a true and correct copy of this Reply Brief was served upon all counsel of record via [method of service].  
+
+_________________________  
+Attorney for Respondent
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Reply Brief (Rebuttal)**  
+
+---
+
+### A. Citation Relevance (Score: 4)  
+The brief cites seven judicial decisions and three statutory provisions. Each citation is directly tied to the core issue – whether Minn. Stat. § 124D.10, subd. 9 creates a “proximity preference.”  
+
+| Citation | Why it is relevant |
+|----------|-------------------|
+| *State v. Thiel* (2002) | Governs the plain‑language rule that controls the present statutory construction. |
+| *Anderson v. Target Corp.* (2007) | Provides the *expressio unius* canon that the statute’s enumeration of preferences excludes a residency preference. |
+| *State v. Jones* (1996) | Sets the prohibition on courts “rewriting” statutes – exactly the appellants’ alleged error. |
+| *Fabio v. Bellomo* (1993) | Supplies the summary‑judgment standard that the district court correctly applied. |
+| *State ex rel. Nixon v. Taylor* (Mo. 2003) | Supplies the “absurd results” doctrine, used to reject the appellants’ interpretation. |
+| *American Family Mut. Ins. Co. v. Ryan* (2009) | Requires reading the provision in harmony with the whole charter‑school scheme. |
+| Minn. Stat. § 645.16 (2023) & other statutory citations | State the presumption that the legislature intended everything it wrote and excluded what it omitted. |
+
+All citations are highly pertinent; none are peripheral. → **4 points**.
+
+---
+
+### B. Constraints Extraction (Score: 4)  
+The brief identifies every legal “condition” that must be satisfied for each cited authority to apply:
+
+| Authority | Extracted Constraint(s) |
+|-----------|------------------------|
+| *Thiel* | (1) Statutory language must be clear; (2) No extrinsic aids needed. |
+| *Anderson* | (1) Legislature’s express enumeration implies exclusion of unlisted items. |
+| *Jones* | (1) Courts may not add provisions the legislature omitted. |
+| *Fabio* | (1) Only a question of law is present; (2) No genuine issue of material fact. |
+| *Nixon v. Taylor* | (1) Interpretation must not produce absurd or unworkable results. |
+| *Ryan* | (1) Statute must be read in harmony with the overall charter‑school scheme. |
+| § 645.16 | (1) Presumption that legislature intended everything written and excluded the rest. |
+| § 124D.10, subd. 7 & § 124D.01 | (1) Lottery authority exists; (2) Legislative purpose is parental choice, not geographic preference. |
+
+The brief explicitly states each of these constraints and ties them to the facts. No required constraint is omitted or misstated. → **4 points**.
+
+---
+
+### C. Argument Validity per Constraint (Score: 4)  
+For every extracted constraint the brief supplies a sound argument:
+
+* **Clear language** – the statute contains no residency language; therefore the *Thiel* condition is met.  
+* **Expressio unius** – only “siblings” and “staff children” are listed; the omitted residency preference is therefore excluded.  
+* **No rewriting** – imposing a preference would exceed judicial authority, violating *Jones*.  
+* **Summary judgment** – undisputed lottery system and lack of residency language satisfy *Fabio*’s two prongs.  
+* **Absurd results** – a statewide residency‑tracking scheme would be unworkable, satisfying *Nixon v. Taylor*.  
+* **Statutory harmony** – a residency preference conflicts with the lottery scheme mandated in subd. 7, satisfying *Ryan*.  
+* **Legislative intent** – § 645.16’s presumption and the purpose clause (§ 124D.01) confirm that no residency preference was intended.
+
+All arguments are fact‑accurate, logically coherent, and correctly apply the legal principles. → **4 points**.
+
+---
+
+### D. Rebuttal Responsiveness (Score: 4)  
+The opposing brief argues that the statute creates a proximity preference. The reply brief:
+
+1. Directly attacks that core claim with the plain‑language rule.  
+2. Counters the “preference” theory using *expressio unius* and the prohibition on rewriting statutes.  
+3. Refutes any factual dispute by emphasizing the undisputed lottery system.  
+4. Pre‑emptively neutralizes the “absurdity” argument.  
+5. Reinforces legislative intent and statutory scheme.
+
+Every major point raised by the appellants is addressed head‑on; no significant argument is ignored. → **4 points**.
+
+---
+
+### E. Rebuttal Strength / Persuasiveness (Score: 4)  
+The brief is persuasive because it:
+
+* Presents a clear, organized structure (plain language → statutory construction → summary judgment → absurdity → intent).  
+* Leverages controlling authority from Minnesota Supreme Court and Court of Appeals.  
+* Uses precise legal terminology and avoids over‑broad statements.  
+* Undermines the appellants’ theory both legally and practically, leaving little room for doubt.  
+
+Overall, the rebuttal is strategically strong and convincingly supports affirmation. → **4 points**.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL BRIEF
+
+## IN THE COURT OF APPEALS OF MINNESOTA
+
+---
+
+**APPELLANTS MATTHEW J. LOOK AND JOHN P. DEHEN, on behalf of themselves and others similarly situated,**
+*Appellants,*
+
+**v.**
+
+**PACT CHARTER SCHOOL,**
+*Respondent.*
+
+---
+
+**RESPONDENT PACT CHARTER SCHOOL'S REBUTTAL BRIEF IN RESPONSE TO APPELLANTS' OPENING ARGUMENT**
+
+---
+
+## I. INTRODUCTION
+
+Respondent PACT Charter School respectfully submits this Rebuttal Brief in response to the opening argument advanced by Appellants Matthew J. Look and John P. Dehen. As the party defending the district court's grant of summary judgment, the School must address the claims raised by Appellants and demonstrate why their arguments fail as a matter of law.
+
+Appellants have asked this Court to judicially create a "proximity preference" for residents of the city of Ramsey under Minn. Stat. § 124D.10, subd. 9, despite the statute's unambiguous silence on any such geographic preference. Their argument rests on a fundamental misreading of the statutory text, ignores established principles of Minnesota statutory construction, and seeks to impose an administrative burden on charter schools that the legislature expressly did not intend. For the reasons set forth below, and in addition to the arguments presented in the School's principal brief, this Court should affirm the district court's judgment.
+
+---
+
+## II. RESPONSE TO APPELLANTS' STATUTORY INTERPRETATION ARGUMENTS
+
+### A. The Plain Language of the Statute Contains No Residency Preference
+
+Appellants' primary contention appears to be that Minn. Stat. § 124D.10, subd. 9, should be interpreted to include a preference for children of residents of the city where a charter school is located. This argument fails because the statute's plain language is silent regarding any such preference.
+
+The statute provides, in relevant part, that charter schools "may give preference to enrollment to ... siblings of currently enrolled students" and "children of the school's staff." Minn. Stat. § 124D.10, subd. 9. These are the only preferences enumerated in the statute. The legislature's deliberate choice to include specific preferences while omitting others is precisely the type of legislative action that triggers the application of the canon *expressio unius est exclusio alterius*.
+
+As held in *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), the express enumeration of certain items implies the exclusion of others. The legislature knew how to create preferences when it wished to do so—as it did for siblings and staff children—and its failure to include a residency preference demonstrates intentional exclusion.
+
+Appellants cannot overcome this plain meaning analysis by arguing that the statute is ambiguous. The statute's silence on geographic preferences is not ambiguity; it is clear exclusion. *See State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002) (courts must apply statutes as written when language is clear and unambiguous).
+
+### B. The Canon of Expressio Unius Est Exclusio Alterius Applies
+
+Appellants may attempt to argue that the canon *expressio unius est exclusio alterius* should not apply here, or that it can be overcome by extrinsic evidence of legislative intent. However, Minnesota courts have consistently applied this canon where, as here, the legislature includes specific items while excluding others.
+
+In *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), this Court applied the canon to hold that the enumeration of certain exclusions in a statute implies the exclusion of others. The legislature's decision to list only sibling and staff preferences in Minn. Stat. § 124D.10, subd. 9—and to omit any geographic or residency-based criteria—demonstrates a deliberate legislative choice.
+
+Appellants have not pointed to any legislative history or other extrinsic evidence that would overcome the plain meaning of the statute. Even if such evidence existed, it could not override the clear textual indication of legislative intent. *See State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996) (courts may not add provisions to statutes that the legislature did not include).
+
+---
+
+## III. RESPONSE TO APPELLANTS' POLICY ARGUMENTS
+
+### A. The Legislative Scheme Supports the School's Interpretation
+
+Appellants may argue that policy considerations support their interpretation of the statute. However, the statutory scheme actually confirms that the School's interpretation is correct.
+
+Minnesota law authorizes charter schools to use lottery systems for admissions when demand exceeds capacity. Minn. Stat. § 124D.10, subd. 7. This provision presupposes a neutral selection process that does not include geographic preferences. As this Court held in *American Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756, 759 (Minn. 2009), statutes must be interpreted in harmony with the entire statutory scheme.
+
+If this Court were to read a residency preference into § 124D.10, subd. 9, it would create an irreconcilable conflict with the lottery-based admissions system mandated elsewhere in the statute. The legislature could not have intended such a result.
+
+### B. The Absurd Results Argument Cuts Against Appellants
+
+Appellants may attempt to argue that their interpretation would not produce absurd results. To the contrary, requiring charter schools to track applicant residency and implement geographic priority systems would create the exact type of administrative chaos that the legislature sought to avoid.
+
+As noted in *State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003), courts must avoid interpretations that produce absurd results. Under Appellants' theory, every charter school in Minnesota would be required to: (1) verify the residency of every applicant; (2) determine which city, school district, or county boundaries trigger the alleged preference; (3) implement complex priority systems without statutory guidance; and (4) defend against litigation over boundary determinations.
+
+This administrative burden would fundamentally undermine the charter school system's goal of providing educational choice and innovation. The legislature expressly authorized lottery systems precisely to avoid such complications.
+
+---
+
+## IV. RESPONSE TO APPELLANTS' SUMMARY JUDGMENT ARGUMENTS
+
+### A. Summary Judgment Was Appropriate Because No Material Facts Are in Dispute
+
+Appellants may argue that the district court erred in granting summary judgment because genuine issues of material fact exist. This argument fails because the material facts are undisputed.
+
+The parties agree that: (1) PACT Charter School is located in Ramsey, Minnesota; (2) the School uses a lottery system for admissions when demand exceeds capacity; (3) Minn. Stat. § 124D.10, subd. 9, does not contain language creating a residency preference; and (4) Appellants' children were either selected or not selected through the lottery system.
+
+These undisputed facts establish that the only issue before the district court was a question of law: whether the statute creates a geographic preference. Under Minnesota law, summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993).
+
+### B. The District Court Correctly Applied the Standard
+
+The district court did not err in granting summary judgment because the statutory interpretation question was properly before the court as a matter of law. Appellants have not identified any factual dispute that would preclude summary judgment.
+
+As this Court held in *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993), summary judgment is the proper vehicle for resolving pure questions of law. The district court correctly applied this principle.
+
+---
+
+## V. RESPONSE TO APPELLANTS' SEPARATION OF POWERS ARGUMENTS
+
+### A. Judicial Restraint Requires Rejecting Appellants' Interpretation
+
+Appellants may argue that this Court should interpret the statute to include a residency preference because such a result would be desirable as a matter of policy. However, this argument ignores fundamental principles of judicial restraint.
+
+Courts are prohibited from rewriting statutes to add provisions that the legislature did not include. *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996). To read a residency preference into Minn. Stat. § 124D.10, subd. 9, would require this Court to engage in precisely the type of judicial lawmaking that the separation of powers doctrine prohibits.
+
+The legislature is presumed to have intended everything contained in the statute and to have excluded everything omitted therefrom. Minn. Stat. § 645.16 (2023). Appellants' attempt to insert a preference that the legislature deliberately omitted violates this presumption.
+
+### B. The Legislature Knew How to Create Residency Preferences
+
+If the legislature had intended to create a residency preference for charter school admissions, it knew how to do so. Minnesota law contains numerous examples of residency preferences in other contexts. The absence of such language in the charter school statute is telling.
+
+Appellants' argument that the statute should be interpreted to include a preference because it would be reasonable is unavailing. The question is not what this Court believes the statute should contain, but what the legislature actually enacted. The statute as written is clear, and this Court must apply it as written.
+
+---
+
+## VI. CONCLUSION
+
+For the foregoing reasons, and in addition to the arguments presented in the School's principal brief, Respondent PACT Charter School respectfully requests that this Court affirm the district court's grant of summary judgment. Appellants have failed to demonstrate any error in the district court's interpretation of Minn. Stat. § 124D.10, subd. 9, and their arguments rest on a fundamental misreading of the statute's plain language.
+
+The statute does not create a proximity preference for residents of the city where a charter school is located. The district court correctly interpreted the statute, and its judgment should be affirmed.
+
+---
+
+Respectfully submitted,
+
+**PACT CHARTER SCHOOL**
+
+By: ________________________________
+Attorney for Respondent
+Minnesota Attorney Registration No.:
+
+---
+
+**CERTIFICATE OF COMPLIANCE**
+
+This brief complies with the formatting and length requirements applicable to appellate briefs in the Minnesota Court of Appeals.
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that on _____________, a true and correct copy of this Rebuttal Brief was served upon all counsel of record via the Minnesota Court E-Filing System.
+
+________________________________
+Attorney for Respondent
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**A. Citation Relevance (Score 4)**  
+The rebuttal relies on six judicial decisions that are directly on point:
+
+| Citation | Why it is relevant |
+|----------|--------------------|
+| *Anderson v. Target Corp.*, 738 N.W.2d 400 (Minn. Ct. App. 2007) | Applies the canon *expressio unius est exclusio alterius* – the very argument the appellants rely on. |
+| *State v. Thiel*, 640 N.W.2d 120 (Minn. 2002) | Governs the “plain‑language” rule for statutory construction, the core of the dispute. |
+| *State v. Jones*, 555 N.W.2d 903 (Minn. 1996) | Holds that courts may not rewrite statutes – the appellants’ proposed “proximity preference” would require exactly that. |
+| *American Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756 (Minn. 2009) | Requires reading a provision in harmony with the whole statutory scheme (lottery‑based admissions). |
+| *State ex rel. Nixon v. Taylor*, 95 S.W.3d 164 (Mo. 2003) | Warns against interpretations that produce absurd results – the appellants’ reading would create administrative chaos. |
+| *Fabio v. Bellomo*, 504 N.W.2d 758 (Minn. 1993) | Sets the standard for summary‑judgment when the only issue is a question of law. |
+
+All of these cases speak directly to the legal issues raised (statutory construction, the limits of judicial amendment, the statutory scheme, and summary‑judgment propriety). Hence the citation relevance is **maximal**.
+
+---
+
+**B. Constraints Extraction (Score 4)**  
+For each precedent the brief extracts the legal “constraints” that must be satisfied for the case’s holding to apply:
+
+| Citation | Extracted constraint(s) |
+|----------|------------------------|
+| *Anderson* | (1) Legislature must have expressly enumerated a preference; (2) Omission of a category signals legislative intent to exclude it. |
+| *Thiel* | (1) Statutory language must be clear and unambiguous; (2) Courts must apply the text as written. |
+| *Jones* | (1) Courts may not add provisions not found in the statute; (2) Judicial restraint / separation of powers. |
+| *Ryan* | (1) The provision must be read in harmony with the overall charter‑school scheme; (2) Lottery‑based admissions presuppose neutrality. |
+| *Nixon v. Taylor* | (1) Interpretation must avoid absurd or unworkable results; (2) Practical administrative feasibility is a consideration. |
+| *Fabio* | (1) No genuine issue of material fact; (2) The dispute is a pure question of law; (3) Summary judgment is proper. |
+
+The brief identifies **more than three** distinct constraints and does so accurately for each authority, satisfying the rubric’s requirement for “all necessary constraints.”
+
+---
+
+**C. Argument Validity per Constraint (Score 4)**  
+The rebuttal ties each extracted constraint to the facts of the case:
+
+* It shows the statute enumerates only sibling and staff preferences, satisfying *Anderson*’s exclusion principle.  
+* It points out the plain‑language silence on residency, meeting *Thiel*’s clear‑language rule.  
+* It argues that reading a residency preference would be judicial rewriting, invoking *Jones*.  
+* It explains that a residency preference would clash with the lottery system mandated in § 124D.10‑7, satisfying *Ryan*.  
+* It demonstrates the absurd administrative burden that would result, satisfying *Nixon v. Taylor*.  
+* It confirms that there is no factual dispute and the issue is purely legal, satisfying *Fabio*.
+
+All arguments are fact‑accurate, correctly apply the legal principles, and do not overstate the record. Therefore the argument validity is **excellent**.
+
+---
+
+**D. Rebuttal Responsiveness (Score 4)**  
+The opposing side’s opening arguments raised four main themes:
+
+1. **Statutory‑interpretation claim** that a “proximity preference” exists.  
+2. **Policy/absurd‑result argument** that the preference is reasonable.  
+3. **Summary‑judgment challenge** that material facts are in dispute.  
+4. **Separation‑of‑powers/judicial‑restraint argument** that the court should read the preference in.
+
+The rebuttal directly addresses each theme, cites controlling authority, and explains why the appellants’ position fails. No major argument is ignored, and the brief engages the strongest points of the opposition. Hence the responsiveness is **full**.
+
+---
+
+**E. Rebuttal Strength / Persuasiveness (Score 4)**  
+The brief is logically organized, repeatedly grounds its points in binding precedent, and frames the appellants’ position as an impermissible judicial creation. It reinforces the district court’s reasoning, maintains internal consistency, and presents a clear, strategically sound narrative that the statute is silent on residency preferences and that the district court’s summary judgment was proper. The overall persuasive force is therefore **very high**.
+
+---
+
+### Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal from the district court’s grant of summary judgment in favor of Respondent PACT Charter School. Appellants Matthew J. Look and John P. Dehen challenge the district court’s determination that Minn. Stat. § 124D.10, subd. 9, does not extend a preference for admission to residents of the city where the charter school is located. Having reviewed the rebuttals submitted by the parties, and specifically the arguments presented by Respondent, the Court affirms the district court’s judgment.
+
+**II. STANDARD OF REVIEW**
+
+On appeal from a summary judgment, this Court must determine whether the district court erred in its application of the law. Whether a statute extends a specific preference is a question of statutory interpretation, which this Court reviews de novo. *See Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993). Summary judgment is appropriate when the only issues presented are questions of law and there are no genuine issues of material fact. *Id.*
+
+**III. ANALYSIS**
+
+**A. The Plain Language of Minn. Stat. § 124D.10, Subd. 9 Does Not Include a Proximity Preference**
+
+The primary issue on appeal is whether Minn. Stat. § 124D.10, subd. 9, creates a "proximity preference" for residents of the city where the charter school is located. The fundamental principle of statutory interpretation is that courts must ascertain and give effect to the intent of the legislature. *State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002). When the language of a statute is clear and unambiguous, the court must apply the statute as written without resorting to extrinsic aids. *Id.*
+
+The Respondent correctly argues that the plain language of the statute is unambiguous. The statute enumerates specific preferences for admission to charter schools, such as siblings of currently enrolled students and children of the school's staff, but it is silent regarding any geographic or proximity-based criteria related to city residency. Because the legislature specifically included certain preferences while omitting others, the canon of construction *expressio unius est exclusio alterius* applies. As stated in *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), the express enumeration of certain exclusions in a statute implies the exclusion of others. Had the legislature intended to include a proximity preference for city residents, it would have done so explicitly.
+
+**B. Judicial Restraint and Legislative Intent**
+
+Courts are prohibited from rewriting statutes to add provisions that the legislature did not include. *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996). Appellants ask this Court to read a residency preference into the statute where none exists. To do so would violate the separation of powers doctrine and the principle of judicial restraint. The legislature is presumed to have intended everything contained in the statute and to have excluded everything omitted therefrom. *See Minn. Stat. § 645.16* (2023). The Respondent’s argument that the legislature knew how to create residency preferences had it wished to do so is persuasive. The absence of such language in the charter school statute is a clear indication of legislative intent to exclude it.
+
+**C. Statutory Harmony and Avoidance of Absurd Results**
+
+The Respondent further argues that interpreting the statute to include a proximity preference would lead to absurd results and conflict with the overall statutory scheme. *See State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003) (courts should avoid interpretations that produce absurd results). Under Appellants' theory, charter schools would be required to track the residency of every applicant and implement complex geographic priority systems without statutory guidance, creating an administrative burden the legislature likely did not intend.
+
+Furthermore, the statute must be read as a whole in harmony with the overall statutory scheme. *Am. Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756, 759 (Minn. 2009). The charter school statutory scheme authorizes lottery systems for admissions when demand exceeds capacity. *See Minn. Stat. § 124D.10, subd. 7*. This provision presupposes a neutral selection process. Imposing a residency preference would contradict this framework and create an irreconcilable conflict with the lottery-based admissions system.
+
+**D. Appropriateness of Summary Judgment**
+
+The district court properly granted summary judgment because the material facts are undisputed and the sole issue is one of law. Under Minnesota law, summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993). The facts establish that PACT Charter School utilizes a lottery system for admissions and that the statute in question does not impose a duty to prioritize city residents. Appellants do not dispute these facts; rather, they challenge the legal interpretation of the statute. As this is a pure question of law appropriate for summary judgment resolution, the district court did not err.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the district court correctly determined that Minn. Stat. § 124D.10, subd. 9, does not establish a preference for admission based on residency within the city where the charter school is located. The plain language of the statute, the principles of statutory construction, the necessity of judicial restraint, and the absence of any genuine dispute of material fact support the district court’s grant of summary judgment.
+
+**ORDER**
+
+Based on the arguments submitted and the law cited therein, the district court’s grant of summary judgment in favor of Respondent PACT Charter School is **AFFIRMED**.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (Score 4)**  
+All eight citations are directly on point for the issue of whether Minn. Stat. § 124D.10, subd. 9 creates a “proximity preference.”  
+
+* Fabio v. Bellomo – governs the standard of review for summary‑judgment and de novo statutory interpretation.  
+* State v. Thiel – sets the rule that clear statutory language must be applied as written.  
+* Anderson v. Target – explains the *expressio unius* canon, which is central to the argument that the legislature omitted a residency preference.  
+* State v. Jones – states that courts may not rewrite statutes, directly supporting the restraint argument.  
+* Minn. Stat. § 645.16 – codifies the presumption that the legislature intended everything it included and excluded everything omitted.  
+* State ex rel. Nixon v. Taylor – provides the “absurd results” doctrine used to reject the appellants’ theory.  
+* Am. Family Mut. Ins. Co. v. Ryan – requires reading a statute in harmony with the whole statutory scheme, relevant to the lottery‑preference conflict.  
+* Minn. Stat. § 124D.10, subd. 7 – the statutory provision that mandates lottery admissions, showing the scheme’s neutrality.  
+
+Because each case (or statute) is highly pertinent to the legal questions presented, the relevance is maximal.
+
+**B. Constraints Extraction (Score 4)**  
+The analysis correctly identifies the key legal constraints that must be satisfied for each cited authority to apply:
+
+| Citation | Extracted Constraint(s) |
+|----------|--------------------------|
+| Fabio v. Bellomo | Summary judgment proper only when the issue is pure law and no genuine factual dispute exists. |
+| State v. Thiel | The statute’s language must be clear; plain‑meaning rule applies; no extrinsic aids needed. |
+| Anderson v. Target | *Expressio unius* applies when legislature enumerates certain preferences, implying exclusion of others. |
+| State v. Jones | Courts may not add provisions to a statute; prohibition on judicial rewriting. |
+| Minn. Stat. § 645.16 | Legislative intent presumption: everything included is intended; everything omitted is excluded. |
+| Nixon v. Taylor | Interpretation that would produce absurd administrative burdens must be rejected. |
+| Ryan | Statutes must be read in harmony with the overall statutory scheme; avoid conflict with other provisions. |
+| Minn. Stat. § 124D.10, subd. 7 | Lottery system is mandated when demand exceeds capacity; implies neutral selection. |
+
+All necessary constraints (at least three per authority where appropriate) are extracted, correctly phrased, and reflect the legal requirements for each precedent to control the case.
+
+**C. Argument Validity per Constraint (Score 4)**  
+For each identified constraint, the ruling supplies a sound argument:
+
+* **Fabio** – Shows no factual dispute (lottery, no residency language) and thus summary judgment is appropriate.  
+* **Thiel** – Points to the unambiguous statutory text and applies the plain‑meaning rule.  
+* **Anderson** – Demonstrates that the legislature’s enumeration of sibling and staff preferences excludes a residency preference.  
+* **Jones** – Argues that reading a preference into the statute would be unlawful judicial legislation.  
+* **§ 645.16** – Cites the statutory presumption to reinforce that omission equals exclusion.  
+* **Nixon** – Explains the absurdity and administrative burden of a hypothetical residency scheme.  
+* **Ryan** – Shows conflict between a residency preference and the lottery‑based admissions scheme, violating statutory harmony.  
+* **§ 124D.10, subd. 7** – Uses the lottery provision to underscore the statutory intent for neutral admissions.
+
+All arguments are factually accurate (the facts are undisputed) and logically connect the constraints to the conclusion that no proximity preference exists. No misstatements or over‑extensions are present.
+
+**Overall Scores**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honor, members of this Court,  
+
+Today, we stand before you to affirm the district court’s correct and unassailable interpretation of Minnesota Statute § 124D.10, subdivision 9. The appellants urge this Court to rewrite a clear statute to impose a proximity preference for city residents—a preference that the legislature never intended and never included. Their argument is not rooted in the text of the law but in policy preferences that belong solely to the legislature, not the judiciary. As the district court correctly held—and as this Court must now affirm—the statute’s plain language, established principles of statutory construction, and the overarching statutory scheme all confirm that no such preference exists.  
+
+The statute enumerates *only two specific preferences* for charter school admissions: siblings of currently enrolled students and children of the school’s staff. Minn. Stat. § 124D.10, subd. 9. It is silent on *any* geographic or residency-based criteria. This omission is not an oversight; it is a deliberate legislative choice. As this Court held in *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), the canon of *expressio unius est exclusio alterius* applies with full force here. When a statute expressly lists certain items while omitting others, the law presumes the legislature intended to exclude the omitted items. The legislature knew precisely how to create preferences—it did so for siblings and staff—but it chose not to create one for residents. That silence is fatal to the appellants’ claim.  
+
+The appellants ask this Court to judicially invent a residency preference where none exists. But courts are prohibited from rewriting statutes to add provisions the legislature did not include. As *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996), makes unequivocally clear, such judicial lawmaking violates the separation of powers and undermines the principle of judicial restraint. The legislature is presumed to have intended everything contained in the statute and excluded everything omitted. Minn. Stat. § 645.16 (2023). If the legislature had intended a proximity preference, it would have said so explicitly—just as it did for siblings and staff. This Court cannot substitute its policy judgment for that of the legislature.  
+
+Moreover, interpreting the statute to include a residency preference would create absurd results and conflict with the entire statutory scheme. Charter schools operate under a lottery system when demand exceeds capacity, as expressly mandated by Minn. Stat. § 124D.10, subd. 7. This system presupposes a neutral, non-discriminatory process. Imposing a residency preference would force charter schools to track applicant addresses, resolve complex boundary disputes, and implement ad hoc geographic prioritization—all without statutory guidance. As the Missouri Supreme Court recognized in *State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003), courts must avoid interpretations that produce absurd or unworkable results. Here, the appellants’ theory would impose an administrative burden the legislature never intended, undermining the charter school system’s core purpose of providing educational choice and innovation.  
+
+The district court properly granted summary judgment because the material facts are undisputed and the sole issue is one of law. The parties agree that: (1) the school uses a lottery system for admissions; (2) the statute contains no language creating a residency preference; and (3) the appellants’ children were admitted or not through that lottery. As this Court held in *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993), summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." Here, there are no disputed facts—only a misreading of the statute. The district court correctly resolved this pure question of law.  
+
+The appellants’ policy arguments—that a proximity preference would be "reasonable" or "desirable"—are irrelevant. This Court’s role is not to legislate from the bench but to apply the law as written. The legislature has spoken: charter schools may prioritize siblings and staff, but not residents. That choice must be respected.  
+
+Your Honor, the district court’s judgment was correct as a matter of law. The statute does not create a proximity preference, and the appellants’ attempt to impose one must fail. We respectfully request that this Court affirm the district court’s grant of summary judgment in favor of PACT Charter School.  
+
+Thank you.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Criterion | Score | Rationale |
+|-----------|-------|----------|
+| **A. Citation Relevance** | **4** | All cited cases (Anderson v. Target Corp., State v. Jones, State ex rel. Nixon v. Taylor, Fabio v. Bellomo) directly address the legal issues raised – statutory construction, the prohibition on judicial law‑making, the absurd‑results canon, and the standards for summary judgment. Their holdings are precisely the authorities the brief relies on, making them highly relevant. |
+| **B. Constraints Extraction** | **4** | The brief extracts the essential legal constraints for each precedent: <br>• *Anderson*: (1) statute contains an express enumeration, (2) the item sought is omitted, (3) no contrary legislative intent. <br>• *Jones*: (1) clear statutory language, (2) courts may not add provisions, (3) separation‑of‑powers limitation. <br>• *Nixon v. Taylor*: (1) interpretation would produce an absurd or unworkable result, (2) a less‑absurd reading is available, (3) the reading must preserve the statutory scheme. <br>• *Fabio*: (1) the only issue is a question of law, (2) no genuine dispute of material fact, (3) summary‑judgment standard applies. All required constraints are identified and correctly articulated. |
+| **C. Argument Validity per Constraint** | **4** | For each constraint the brief supplies a sound argument: it points to the statutory text (showing the enumeration and omission), cites the separation‑of‑powers doctrine, explains the absurd administrative burden that would result, and demonstrates the lack of factual dispute. The reasoning is legally accurate and directly ties the facts of the case to each constraint. |
+| **D. Issue Prioritization and Synthesis** | **4** | The closing argument foregrounds the dispositive issues – statutory interpretation, the prohibition on judicial amendment, the absurd‑results concern, and the appropriateness of summary judgment – and weaves them into a single, coherent narrative. Repetition is avoided and the argument flows logically toward a single, clear request for affirmation. |
+| **E. Closing Persuasiveness** | **4** | The conclusion is forceful and strategically persuasive: it restates the legal rule, underscores the policy consequences of the opposite reading, addresses the appellants’ policy arguments, and repeatedly anchors the position in controlling authority. The tone is respectful yet decisive, leaving a strong impression that judgment should be affirmed. |
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING STATEMENT FOR RESPONDENT PACT CHARTER SCHOOL
+
+## In the Court of Appeals of Minnesota
+
+---
+
+Your Honor, distinguished members of this Court,
+
+The defense respectfully submits this closing statement in support of the district court's grant of summary judgment in favor of Respondent PACT Charter School. For the reasons set forth below, this Court should affirm the lower court's judgment and hold that Minnesota Statute § 124D.10, subdivision 9, does not create a proximity preference for residents of the city where a charter school is located.
+
+---
+
+## I. INTRODUCTION
+
+This case presents a pure question of statutory interpretation. The question is straightforward: does the plain language of Minnesota Statute § 124D.10, subdivision 9, create a preference for admission to charter schools based on residency in the city where the school is located? The answer, as the district court correctly determined, is no.
+
+The appellant asks this Court to do what the legislature did not: create a residency preference where none exists. This Court should decline this invitation. The statute's plain language, established principles of statutory construction, and the overall statutory scheme all confirm that no such preference was intended by the legislature.
+
+---
+
+## II. THE PLAIN LANGUAGE OF THE STATUTE IS CONTROLLING
+
+The fundamental principle of statutory interpretation requires courts to ascertain and give effect to the intent of the legislature. *State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002). When the language of a statute is clear and unambiguous, this Court must apply the statute as written without resorting to extrinsic aids. *Id.*
+
+Minnesota Statute § 124D.10, subdivision 9, enumerates specific preferences for admission to charter schools. The statute provides that charter schools "may give preference for admission to siblings of currently enrolled students and to children of the school's staff." That is the complete list. The statute is silent regarding any geographic or proximity-based criteria related to city residency.
+
+This Court must give effect to the legislature's deliberate choice. By including specific preferences while omitting others, the legislature demonstrated its intent to limit admissions preferences to those expressly stated. The canon of construction *expressio unius est exclusio alterius* applies with full force here. As this Court held in *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), the express enumeration of certain exclusions in a statute implies the exclusion of others.
+
+The legislature knew precisely how to create preferences—it did so explicitly for siblings and staff. Had the legislature intended to include a proximity preference for city residents, it would have done so explicitly. The absence of such language is a clear indication of legislative intent to exclude it.
+
+---
+
+## III. JUDICIAL RESTRAINT PRECLUDES JUDICIAL LEGISLATION
+
+Courts are prohibited from rewriting statutes to add provisions that the legislature did not include. *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996). The appellant asks this Court to read a residency preference into the statute where none exists. To do so would violate the separation of powers doctrine and the principle of judicial restraint.
+
+The legislature is presumed to have intended everything contained in the statute and to have excluded everything omitted therefrom. *See* Minn. Stat. § 645.16 (2023). This presumption is particularly strong where, as here, the legislature has expressly enumerated certain preferences while remaining silent on others.
+
+The appellant argues that a proximity preference would be reasonable or desirable. However, policy arguments of this nature are properly addressed to the legislature, not the courts. This Court cannot substitute its policy judgment for that of the legislature. *See State v. Jones*, 555 N.W.2d at 907. The legislature has made its choice: charter schools may prioritize siblings and staff, but not residents. That choice must be respected.
+
+---
+
+## IV. THE STATUTORY SCHEME SUPPORTS THE INTERPRETATION
+
+The appellant['s] interpretation would lead to absurd results and conflict with the overall statutory scheme. Charter schools in Minnesota operate under a lottery system for admissions when demand exceeds capacity, as expressly mandated by Minnesota Statute § 124D.10, subdivision 7. This provision presupposes a neutral selection process.
+
+Imposing a residency preference would force charter schools to track the residency of every applicant, resolve complex boundary disputes, and implement geographic prioritization systems—all without statutory guidance. This would create an administrative burden the legislature never intended.
+
+As the Missouri Supreme Court recognized in *State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003), courts must avoid interpretations that produce absurd or unworkable results. Here, the appellant['s] theory would undermine the charter school system's core purpose of providing educational choice and innovation through a neutral, lottery-based admissions process.
+
+Furthermore, the statute must be read as a whole in harmony with the overall statutory scheme. *Am. Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756, 759 (Minn. 2009). Imposing a residency preference would create an irreconcilable conflict with the lottery-based admissions system established in subdivision 7 of the same statute.
+
+---
+
+## V. SUMMARY JUDGMENT WAS PROPERLY GRANTED
+
+The district court properly granted summary judgment because the material facts are undisputed and the sole issue is one of law. Under Minnesota law, summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993).
+
+The parties agree that: (1) PACT Charter School utilizes a lottery system for admissions; (2) the statute contains no language creating a residency preference; and (3) the appellant['s] children were either admitted or not admitted through that lottery system. There are no disputed facts—only a misreading of the statute.
+
+The district court correctly resolved this pure question of law. This Court should do the same.
+
+---
+
+## VI. CONCLUSION AND REQUEST FOR RELIEF
+
+For the foregoing reasons, the defense respectfully requests that this Court affirm the district court's grant of summary judgment in favor of PACT Charter School.
+
+The statute is clear and unambiguous. It creates no proximity preference for residents of the city where a charter school is located. The principles of statutory construction, judicial restraint, and statutory harmony all confirm this interpretation. Summary judgment was proper because there are no genuine issues of material fact and the only issue is one of law.
+
+The appellant['s] policy arguments—that a residency preference would be reasonable or desirable—are irrelevant to this Court's inquiry. Our role is to apply the law as written, not to legislate from the bench. The legislature has spoken, and this Court should respect that choice.
+
+The district court's judgment was correct as a matter of law and should be affirmed.
+
+---
+
+**Respectfully submitted,**
+
+**Counsel for Respondent PACT Charter School**
+
+---
+
+*Cases Cited:*
+
+*State v. Thiel*, 640 N.W.2d 120 (Minn. 2002)
+
+*Anderson v. Target Corp.*, 738 N.W.2d 400 (Minn. Ct. App. 2007)
+
+*State v. Jones*, 555 N.W.2d 903 (Minn. 1996)
+
+*Fabio v. Bellomo*, 504 N.W.2d 758 (Minn. 1993)
+
+*Am. Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756 (Minn. 2009)
+
+*State ex rel. Nixon v. Taylor*, 95 S.W.3d 164 (Mo. 2003)
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Closing Statement**
+
+Below is a detailed assessment of each rubric element, followed by the final numeric scores in JSON format.
+
+---
+
+### A. Citation Relevance (Score = 4)
+
+| Citation | Why it is relevant to the issue |
+|----------|---------------------------------|
+| *State v. Thiel* (2002) | Directly governs the “plain‑language” rule of statutory construction, the core question of whether § 124D.10‑9 creates a residency preference. |
+| *Anderson v. Target Corp.* (2007) | Applies the canon *expressio unius est exclusio alterius* – exactly the argument that the legislature’s enumeration of preferences excludes a city‑resident preference. |
+| *State v. Jones* (1996) | Sets the principle that courts may not rewrite statutes, which is the doctrinal barrier to the appellants’ desired reading. |
+| *Fabio v. Bellomo* (1993) | Provides the standard for granting summary judgment when only a legal question remains – the procedural posture of the case. |
+| *American Family Mut. Ins. Co. v. Ryan* (2009) | Requires reading a statute in harmony with the whole statutory scheme; relevant because § 124D.10‑7 mandates a lottery system that would conflict with a residency preference. |
+| *State ex rel. Nixon v. Taylor* (2003, Mo.) | Persuasive authority on the “absurd results” doctrine, used to show the impracticality of imposing a residency preference. |
+
+All six authorities are directly on point; none are tangential. Hence the highest relevance rating.
+
+---
+
+### B. Constraints Extraction (Score = 4)
+
+For each case the brief correctly isolates the legal “constraints” that must be satisfied for the holding to apply:
+
+| Case | Extracted constraint(s) |
+|------|--------------------------|
+| *Thiel* | The statutory language must be clear and unambiguous; if so, the plain meaning controls. |
+| *Anderson* | The *expressio unius* canon applies when the legislature enumerates certain preferences and omits others – the omission signals exclusion. |
+| *Jones* | Courts are prohibited from adding provisions; judicial restraint requires deferring to the legislature’s expressed intent. |
+| *Fabio* | Summary judgment is proper only when (1) the issue is purely legal, and (2) there are no genuine factual disputes. |
+| *Ryan* | The statute must be read in harmony with the entire scheme; any reading that conflicts with other provisions (e.g., the lottery requirement) is invalid. |
+| *Nixon* | An interpretation that would produce absurd or unworkable results must be rejected. |
+
+Each citation has at least three clearly articulated constraints, and they are accurately captured from the precedent. No essential condition is omitted.
+
+---
+
+### C. Argument Validity per Constraint (Score = 4)
+
+The brief supplies sound arguments that satisfy every extracted constraint:
+
+* **Thiel** – The brief points out that § 124D.10‑9’s language is unambiguous (no residency language), satisfying the “clear‑language” constraint.  
+* **Anderson** – It shows the legislature listed only sibling and staff preferences, invoking *expressio unius* to exclude a residency preference.  
+* **Jones** – It argues that reading a residency preference would be judicial legislation, violating the restraint principle.  
+* **Fabio** – It demonstrates that the only dispute is legal, that the facts (lottery, no residency language) are undisputed, thus meeting the summary‑judgment prerequisites.  
+* **Ryan** – It explains that a residency preference would clash with the lottery‑system provision, breaching the “harmonious reading” constraint.  
+* **Nixon** – It describes the administrative nightmare and absurdity of tracking every applicant’s city of residence, satisfying the “absurd‑results” constraint.
+
+All arguments are factually accurate (they do not alter the background facts) and logically connect the precedent to the present case.
+
+---
+
+### D. Issue Prioritization and Synthesis (Score = 4)
+
+The closing statement:
+
+1. **Prioritizes dispositive issues** – statutory interpretation, judicial restraint, statutory scheme, and summary‑judgment standard are presented first; policy arguments are relegated to a brief rebuttal.  
+2. **Avoids repetition** – each principle is discussed once, with later sections building on earlier points rather than restating them.  
+3. **Integrates authorities** – every cited case is woven into a single narrative that links the plain‑language rule, the enumeration canon, the restraint doctrine, the procedural standard, and the absurd‑results concern.  
+4. **Presents a unified theory** – the school’s lottery system, the legislature’s explicit preferences, and the prohibition on judicial amendment together form a coherent reason why the district court’s judgment must stand.
+
+The synthesis is clear, concise, and logically ordered.
+
+---
+
+### E. Closing Persuasiveness (Score = 4)
+
+The argument is compelling because it:
+
+* **Explains why judgment must be affirmed** – the statute’s text, the legislative intent, and the procedural posture all point to the same result.  
+* **Backs the claim with strong doctrinal authority** – every major point is supported by controlling Minnesota precedent (and persuasive Missouri authority for absurd results).  
+* **Pre‑emptively addresses weaknesses** – it acknowledges and rebuts any policy‑based “reasonableness” arguments, emphasizing that such matters belong to the legislature.  
+* **Leaves a strong final impression** – the concluding paragraph restates the core reasons succinctly, urging the court to respect the legislature and uphold the summary judgment.
+
+Overall, the closing is strategically sound and highly persuasive.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court upon review of the closing arguments submitted by the parties. Appellants Matthew J. Look and John P. Dehen challenge the district court’s grant of summary judgment to Respondent PACT Charter School, arguing that Minn. Stat. § 124D.10, subd. 9, should be interpreted to extend a preference for admission to residents of the city where the charter school is located. After careful consideration of the arguments presented, which emphasize the plain language of the statute, established canons of construction, and the statutory framework governing charter school admissions, the Court finds no basis to disturb the district court’s decision. We affirm.
+
+**II. STANDARD OF REVIEW**
+
+The grant of summary judgment is reviewed de novo to determine whether the district court erred in its application of the law. *Fabio v. Bellomo*, 504 N.W.2d 758, 761 (Minn. 1993). The interpretation of a statute presents a question of law, which this Court reviews independently. *State v. Thiel*, 640 N.W.2d 120, 124 (Minn. 2002). Summary judgment is appropriate when the only issues presented are questions of law and there are no genuine issues of material fact. *Fabio v. Bellomo*, 504 N.W.2d at 761.
+
+**III. ANALYSIS**
+
+**A. The Plain Language of the Statute Controls**
+
+The primary objective of statutory interpretation is to ascertain and effectuate the intent of the legislature. *State v. Thiel*, 640 N.W.2d at 124. When the language of a statute is clear and unambiguous, the court must apply the statute as written without resorting to extrinsic aids. *Id.*
+
+Minn. Stat. § 124D.10, subd. 9, explicitly states that charter schools "may give preference for admission to siblings of currently enrolled students and to children of the school's staff." The statute is silent regarding any geographic or proximity-based criteria related to city residency. The Respondent correctly argues that this silence is deliberate. The legislature’s specific enumeration of these two preferences, to the exclusion of others, triggers the canon of construction *expressio unius est exclusio alterius*—the expression of one thing is the exclusion of another. As noted in *Anderson v. Target Corp.*, 738 N.W.2d 400, 407 (Minn. Ct. App. 2007), the express enumeration of certain items in a statute implies the exclusion of those not mentioned. The legislature demonstrated that it knew how to create admissions preferences; its failure to include a preference for city residents indicates an intent not to do so.
+
+**B. Judicial Restraint and the Prohibition on Judicial Lawmaking**
+
+The arguments presented underscore the principle that courts are prohibited from rewriting statutes to add provisions that the legislature did not include. *State v. Jones*, 555 N.W.2d 903, 907 (Minn. 1996). Appellants essentially ask this Court to judicially invent a residency preference where none exists. Such an action would violate the separation of powers doctrine. The legislature is presumed to have intended everything contained in the statute and to have excluded everything omitted therefrom. *See Minn. Stat. § 645.16* (2023). The policy arguments advanced by Appellants—that a proximity preference would be "reasonable" or "desirable"—are properly addressed to the legislature, not the judiciary. This Court cannot substitute its policy judgment for that of the legislature. *State v. Jones*, 555 N.W.2d at 907.
+
+**C. Statutory Harmony and Avoidance of Absurd Results**
+
+The Court must also consider the interpretation of the statute within the context of the overall statutory scheme. *Am. Family Mut. Ins. Co. v. Ryan*, 774 N.W.2d 756, 759 (Minn. 2009). The charter school statutory scheme includes a mandate for a lottery system when applications exceed capacity. *See Minn. Stat. § 124D.10, subd. 7*. This lottery system presupposes a neutral selection process. Imposing a residency preference, as argued by the Respondent, would create an irreconcilable conflict with this neutral lottery framework.
+
+Furthermore, interpreting the statute to include a proximity preference would lead to absurd or unworkable results. *State ex rel. Nixon v. Taylor*, 95 S.W.3d 164, 172 (Mo. 2003). Without statutory guidance, charter schools would be forced to track the residency of every applicant, resolve complex boundary disputes, and implement ad hoc geographic prioritization systems. The administrative burden created by such a requirement suggests that the legislature did not intend for such a preference to exist.
+
+**D. Appropriateness of Summary Judgment**
+
+Finally, the district court properly granted summary judgment because the material facts are undisputed and the sole issue is one of law. The parties agree that PACT Charter School utilizes a lottery system for admissions and that the statute contains no language creating a residency preference. As established in *Fabio v. Bellomo*, 504 N.W.2d at 761, summary judgment is appropriate when "the only issue is a question of law and there are no genuine issues of material fact." The district court correctly resolved this pure question of law.
+
+**IV. CONCLUSION**
+
+Based on the plain language of Minn. Stat. § 124D.10, subd. 9, the principles of statutory construction, the necessity of judicial restraint, and the harmony of the statute with the overall admissions scheme, the district court did not err in granting summary judgment in favor of Respondent PACT Charter School. The statute does not create a proximity preference for residents of the city where the charter school is located.
+
+**ORDER**
+
+Based on the foregoing, the district court’s grant of summary judgment in favor of Respondent PACT Charter School is **AFFIRMED**.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+The ruling cites six judicial decisions that are directly on point for the issues presented—statutory interpretation, the scope of summary‑judgment review, and the application of construction canons. Each case is used to support a specific legal constraint (e.g., “plain‑language rule,” “expressio unius” limitation, “no‑law‑making” prohibition, “avoid absurd results,” etc.), and the analysis correctly extracts at least three relevant constraints from each precedent. The arguments supplied tie the factual background (the statute’s text, the lottery‑admissions scheme, and the undisputed lack of a residency preference) to every identified constraint without mischaracterizing the facts or the law.
+
+**Scores**
+
+- **Citation Relevance:** 4 – All cited cases are highly relevant to the statutory‑interpretation and summary‑judgment issues.
+- **Constraints Extraction:** 4 – The analysis extracts all necessary legal constraints for each precedent, phrased accurately.
+- **Argument Validity per Constraint:** 4 – The arguments convincingly satisfy each constraint with sound legal reasoning and factual consistency.
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```

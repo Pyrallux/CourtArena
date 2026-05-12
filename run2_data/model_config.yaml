@@ -1,0 +1,12 @@
+arena_agents:
+  prosecution: qwen3-next:80b-cloud
+  defense: minimax-m2.5:cloud
+  judge: glm-4.7:cloud
+  evaluator: gpt-oss:120b-cloud
+
+ollama_models:
+  - gemma4:31b-cloud
+  - glm-4.7:cloud
+  - qwen3-next:80b-cloud
+  - minimax-m2.5:cloud
+  - gpt-oss:120b-cloud

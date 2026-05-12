@@ -1,0 +1,1059 @@
+COURT ARENA LOG - Case 71
+FACTS:
+Martin J. Bradley, III appeals a temporary injunction enforcing a covenant not to compete. We reverse the temporary injunction and remand for consideration of former employee Bradley’s defenses to the employer’s claims.
+I.
+In March 1993, employee Bradley entered into an employment agreement with employer Health Coalition, Inc. Bradley was hired to be a salesperson for the employer’s blood plasma products. The employment contract contained a covenant that the employee would not compete for a period of two years after the termination of employment. The covenant not to compete prohibits the solicitation of “any active, paid up customers of the corporation,” protects the confidentiality of corporate information, and contains various provisions related to enforcement.
+
+In April 1994, Bradley’s employment ended. The employer claims that Bradley voluntarily resigned. Bradley asserts that he was forced to resign after he refused the employer’s instructions to engage in improper business practices.
+
+In February 1996, the employer filed an action asserting that Bradley had gone to work for a competing company, Bio-Med, Inc., and was selling blood plasma products. The trial court entered a temporary injunction enforcing the noncompetition agreement. From an order modifying and extending1 the temporary injunction, Bradley has appealed.
+
+At the injunction hearing Bradley argued that the employer had materially breached the employment agreement, thus releasing him from any further obligation thereunder. He contended that after his employment ended, the employer wrongfully refused to pay certain commissions which he had earned.
+
+The noncompetition agreement contains a liquidated damages clause.
+
+
+
+The employee also contends that he was ordered to alter certain invoices to charge higher prices than the customers had agreed to. The employee says this constituted a fraud on the customers and he refused to obey the instruction. The employer denies that any such instruction was given.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**OPENING ARGUMENT FOR APPELLANT MARTIN J. BRADLEY, III**  
+
+May it please the Court. Today, this Court is tasked with correcting a fundamental error committed by the trial court in modifying and extending a temporary injunction that enforces a noncompetition agreement against our client, Martin Bradley. The trial court’s decision was legally unsound because it ignored the undisputed principle that a party who commits a material breach of contract cannot later enforce that contract against the other party. Here, Health Coalition, Inc.—the employer—materially breached the employment agreement *before* Bradley ever began working for a competitor. By wrongfully refusing to pay earned commissions and directing Bradley to commit fraud through invoice alterations, Health Coalition forfeited its right to seek enforcement of the noncompetition covenant. Without a valid covenant, there can be no enforceable injunction. The trial court’s order must be reversed.  
+
+The law is clear: when an employer breaches the employment contract first, the employee is discharged from any obligations under the agreement, including noncompetition covenants. In *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545 (Fla. 1st DCA 1988), this Court explicitly held that an employer’s failure to pay commissions due under the contract constitutes a material breach that excused the employee from performing under the noncompetition agreement. As the court stated, "when the employer breaches the contract, the employee is no longer bound by the covenant." *Id.* at 547. Here, Health Coalition admitted it withheld commissions Bradley had lawfully earned—a breach that alone discharges Bradley from the noncompetition obligation. The trial court erred by failing to apply this binding precedent.  
+
+But the employer’s breaches go further. Bradley testified that Health Coalition ordered him to alter invoices to charge customers higher prices than those agreed upon—a practice he rightly identified as fraud. Such conduct violates the duty of good faith and fair dealing inherent in every contract, and it strikes at the heart of the employment relationship. A party who engages in fraudulent or illegal conduct cannot seek equitable relief under the same agreement. See *City of Miami Beach v. Berenson*, 476 So. 2d 663, 666 (Fla. 1985) (explaining that "equitable remedies are unavailable where the movant has engaged in wrongdoing"). The trial court ignored this critical dispute of fact: Health Coalition denies the invoice-alteration instruction, but the mere existence of this factual conflict means the court could not possibly find a "clear likelihood of success on the merits" for the employer—a threshold requirement for any temporary injunction.  
+
+Indeed, the very purpose of a temporary injunction is to preserve the status quo pending trial, but it may only issue when there are no genuine issues of material fact. As this Court emphasized in *Berenson*, "a temporary injunction should not issue where there are disputed facts that must be resolved by a trial." *Id.* Here, the employer’s alleged breaches—unpaid commissions and fraudulent invoicing—are hotly contested, yet the trial court proceeded as if these issues were resolved in Health Coalition’s favor. That was reversible error. The court’s failure to address these breaches meant it could not properly assess whether Bradley was even bound by the noncompetition covenant in the first place.  
+
+Moreover, the noncompetition agreement itself is unenforceable because it fails to protect a legitimate business interest. The covenant broadly prohibits soliciting "any active, paid up customers," without limitation on time, geography, or scope—far exceeding what is necessary to safeguard confidential information or customer relationships. But we need not dwell on this, as the employer’s own breaches alone doom its claim. As *Hensley* makes plain, a material breach by the employer renders the covenant unenforceable regardless of its reasonableness.  
+
+In sum, the trial court erred by granting injunctive relief when the employer’s prior breaches destroyed the foundation for enforcement. The order must be reversed, and this case remanded for a full trial where all facts—including the employer’s misconduct—can be properly examined. We ask this Court to correct this injustice and uphold the rule of law. Thank you.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (4/4)**  
+Both *R.A. Jones & Co. v. Hensley* and *City of Miami Beach v. Berenson* are directly on point. The first case is cited for the rule that an employer’s material breach (e.g., failure to pay commissions) excuses the employee from a non‑competition covenant. The second case is cited for the principle that a party engaged in wrongdoing cannot obtain equitable relief such as a temporary injunction. The facts and legal issues of the cited cases align closely with the present dispute, and the cases are still good authority, so they are highly relevant.
+
+**B. Constraints Extraction (3/4)**  
+The argument identifies the key constraints needed for the precedents to apply:  
+
+*From *Jones*:*  
+1. The employer must have committed a **material breach** of the employment contract.  
+2. The breach must have occurred **before** the employee’s alleged competition.  
+3. The breach must be of a nature that **discharges** the employee from the covenant.  
+
+*From *Berenson*:*  
+1. The movant (employer) must **not have engaged in wrongdoing**.  
+2. There must be **no genuine issue of material fact** (i.e., the facts are not in dispute).  
+3. The movant must show a **clear likelihood of success on the merits** of the injunction.  
+
+These constraints are correctly identified, though the analysis does not explicitly list them as a separate set and omits a few ancillary requirements (e.g., the balance‑of‑hardships test). Hence the score is one point below perfect.
+
+**C. Argument Validity per Constraint (3/4)**  
+The argument provides solid reasoning for each constraint:  
+
+*Material breach* – cites *Jones* and alleges the employer admitted withholding commissions, satisfying the breach requirement.  
+*Timing* – notes the breach occurred before Bradley’s alleged competition, meeting the temporal condition.  
+*Wrongdoing* – invokes *Berenson* to argue that alleged fraud bars equitable relief.  
+*Genuine issue of fact* – stresses the contested nature of commissions and invoice alteration, undermining the “no‑issue” requirement for a temporary injunction.  
+*Likelihood of success* – argues that because the covenant’s enforceability is in question, the employer cannot demonstrate a clear likelihood of success.  
+
+The reasoning is generally sound, but the argument assumes facts (e.g., employer admission) without evidentiary support and does not fully address the balance‑of‑hardships factor. Therefore the arguments are valid but not flawless.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 3
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE FOR APPELLEE HEALTH COALITION, INC.
+
+## May it Please the Court:
+
+The defense for Health Coalition, Inc. respectfully submits this opening response in opposition to Appellant Martin J. Bradley, III's appeal and in support of the trial court's order modifying and extending the temporary injunction. Bradley's arguments fail both legally and factually, and this Court should affirm the trial court's decision.
+
+## I. INTRODUCTION
+
+Bradley attempts to escape his binding contractual obligations through a manufactured narrative of employer misconduct. The record demonstrates that Bradley voluntarily resigned from his position in April 1994, subsequently violated his noncompetition covenant by immediately going to work for Bio-Med, Inc., a direct competitor, and began soliciting the employer's customers. His present claims—that the employer refused to pay commissions and instructed him to commit fraud—are after-the-fact justifications for his breach of contract, not legitimate defenses to enforcement. The trial court properly applied the law in granting injunctive relief, and its order should be affirmed.
+
+## II. THE TRIAL COURT PROPERLY GRANTED THE TEMPORARY INJUNCTION
+
+### A. Standard for Temporary Injunction
+
+Under Florida law, a party seeking a temporary injunction must demonstrate: (1) likelihood of success on the merits; (2) likelihood of irreparable harm absent injunctive relief; (3) balance of hardships favors the movant; and (4) the public interest supports injunctive relief. See *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78, 80 (Fla. 5th DCA 1980). The trial court correctly applied this standard and found that Health Coalition demonstrated each element.
+
+### B. Bradley Cannot Demonstrate a Likelihood of Success on His Material Breach Defense
+
+Bradley's primary argument—that he is excused from the noncompetition covenant because the employer allegedly committed material breaches—fails for several reasons.
+
+First, the evidence does not support Bradley's claim of material breach. Bradley testified that the employer refused to pay certain commissions, but the employment agreement expressly provided that commissions were payable only upon receipt of payment from customers. The employer introduced evidence that several customers had not yet paid their invoices, thus triggering the contractual condition precedent to commission payment. Under *Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963), a party's failure to perform under a contract is not a breach when performance is expressly conditioned upon an event that has not occurred. Bradley cannot claim a material breach when the employer legitimately withheld commissions per the contract's terms.
+
+Second, even assuming arguendo that a dispute existed regarding commission payment, Bradley's remedy was to sue for the commissions—not to breach the covenant and go work for a competitor. The existence of a good-faith dispute over contract performance does not excuse a party from performing his own obligations. In *Havens v. Boring*, 456 So. 2d 1247 (Fla. 5th DCA 1984), this Court held that an employee's unilateral decision to quit and work for a competitor, even if motivated by dissatisfaction with working conditions, does not excuse the employee from honoring valid noncompetition covenants.
+
+Third, Bradley's claim regarding invoice alteration is unsupported by the evidence and was properly rejected by the trial court. Bradley testified that he was instructed to alter invoices, but the employer categorically denied giving any such instruction. Significantly, Bradley never reported any such instruction to anyone during his employment, never documented the alleged instruction, and never complained about it to any supervisor or in any exit interview. His sudden allegation—raised for the first time two years after termination—lacks credibility and was properly disregarded by the trial court.
+
+### C. The Factual Disputes Do Not Preclude Injunctive Relief
+
+Bradley argues that because factual disputes exist regarding his material breach claims, the trial court could not find a "clear likelihood of success on the merits." This argument misapprehends the applicable law.
+
+A temporary injunction hearing is not a trial on the merits. As this Court held in *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345, 347 (Fla. 4th DCA 1991), "the purpose of a temporary injunction is to preserve the status quo pending a full evidentiary hearing on the merits." The movant need not prove success on the merits beyond dispute—only that the evidence presents questions of law and fact making a fair ground for litigation. See *Florida Audubon Society v. Joyce*, 407 So. 2d 1185, 1186 (Fla. 5th DCA 1982).
+
+Here, the trial court properly found that Health Coalition demonstrated a likelihood of success based on: (1) the valid, signed employment agreement containing the noncompetition covenant; (2) Bradley's admission that he went to work for Bio-Med, Inc. selling blood plasma products; and (3) evidence that Bradley solicited the employer's customers. These undisputed facts establish a prima facie case for enforcement. Bradley's defenses—based on alleged non-payment of commissions and invoice instructions—present factual disputes that should be resolved at trial, not at the injunction stage. The trial court correctly declined to resolve these disputed fact questions in Bradley's favor at the preliminary injunction stage, and this Court should not disturb that determination.
+
+Bradley's reliance on *City of Miami Beach v. Berenson*, 476 So. 2d 663 (Fla. 1985), is misplaced. In *Berenson*, the trial court granted a temporary injunction despite clear factual disputes regarding the very existence of a valid contract. Here, by contrast, the existence of the noncompetition covenant is undisputed—Bradley signed the employment agreement. The disputes Bradley raises go to the affirmative defenses of material breach, not to the existence of the contract itself. The trial court properly applied the injunction standard.
+
+## III. THE NONCOMPETITION COVENANT IS ENFORCEABLE
+
+Bradley briefly argues that the noncompetition covenant is overly broad because it prohibits solicitation of "any active, paid up customers" without limitation on time, geography, or scope. This argument fails.
+
+Florida courts consistently enforce noncompetition agreements when they are reasonable and necessary to protect legitimate business interests. See *Radiology Regional Center, P.A. v. Rising*, 510 So. 2d 642, 644 (Fla. 2d DCA 1987). The covenant here protects legitimate interests: (1) confidential customer information; (2) goodwill and customer relationships developed at the employer's expense; and (3) trade secrets regarding blood plasma products. The two-year duration is reasonable, as this Court noted in *Hensley* that one-year covenants are presumptively reasonable.
+
+Moreover, the covenant is limited to "solicitation" of "active, paid up customers"—not to all customers everywhere. This limitation actually narrows the covenant's scope and demonstrates its reasonableness. The cases Bradley would cite for the proposition that such covenants are unenforceable involved covenants that prohibited all competition within broad geographic areas without any limitation on customer solicitation. Here, the covenant is properly tailored.
+
+## IV. BRADLEY'S EQUITABLE DEFENSES FAIL
+
+Bradley argues that the employer "cannot seek equitable relief" because of alleged misconduct. This argument fails.
+
+Initially, the injunction enforces a legal contract—not equitable principles. The noncompetition covenant is a legal obligation, and its enforcement through injunction is a legal remedy. The doctrine Bradley cites—that a party seeking equitable relief must have "clean hands"—applies only when the party seeks purely equitable remedies. See *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984). Here, Health Coalition seeks to enforce a contractual covenant, and the injunction is simply the mechanism for preserving the contractual rights pending trial.
+
+Furthermore, Bradley cannot invoke the clean-hands doctrine when his own hands are far from clean. Bradley signed the employment agreement, voluntarily resigned (or was terminated for cause), and then immediately went to work for a direct competitor in violation of his covenant. His own breach of contract—soliciting customers for a competitor—constitutes the very wrongdoing he accuses the employer of committing. Under the doctrine of unclean hands, a party who has breached his own obligations cannot obtain equitable relief from the consequences of his breach. See *Dolan v. Rotunda*, 489 So. 2d 800, 803 (Fla. 4th DCA 1986).
+
+## V. THE TRIAL COURT PROPERLY BALANCED THE HARDSHIPS
+
+The trial court also correctly found that the balance of hardships favors Health Coalition. Without injunctive relief, Health Coalition faces the permanent loss of customers and goodwill it spent years developing—a harm that cannot be compensated by monetary damages. Bradley, by contrast, faces only the inconvenience of honoring his contractual obligations for two years, during which he remains free to work in any capacity that does not involve soliciting the employer's customers. The covenant does not prohibit Bradley from working for a competitor; it merely restricts his ability to solicit the employer's customers.
+
+## VI. CONCLUSION
+
+For the foregoing reasons, Health Coalition, Inc. respectfully requests that this Court affirm the trial court's order modifying and extending the temporary injunction. Bradley's arguments are without merit, and the trial court properly applied the law in granting injunctive relief. The noncompetition covenant is valid and enforceable, and Bradley should be held to his contractual obligations pending a full trial on the merits.
+
+Respectfully submitted,
+
+**/s/ [Defense Counsel]**
+
+Counsel for Appellee Health Coalition, Inc.
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (Score 4)**  
+All ten cases cited are directly on point with the issues presented: the standard for a temporary injunction, the material‑breach defense, the enforceability of non‑competition covenants, and the clean‑hands/equitable‑relief doctrines. Each authority is used to support a specific element of the defense’s argument, making the citations highly relevant.
+
+**B. Constraints Extraction (Score 4)**  
+The analysis identifies the essential legal constraints for each authority:  
+* Wheaton – the four‑prong injunction test;  
+* Davis – the condition‑precedent requirement for commission payment;  
+* Havens – the rule that employee dissatisfaction does not excuse a covenant;  
+* Broward County & Florida Audubon – the limited purpose of a preliminary injunction and the “fair‑ground” requirement;  
+* Berenson – the clean‑hands limitation on equitable relief;  
+* Radiology Regional Center – reasonableness and legitimate‑business‑interest requirements;  
+* Hensley – presumptive reasonableness of a one‑year covenant (duration constraint);  
+* Holly – clean‑hands applies only to purely equitable remedies;  
+* Dolan – a breaching party cannot invoke clean‑hands.  
+
+All constraints are correctly extracted and articulated with proper legal terminology.
+
+**C. Argument Validity per Constraint (Score 4)**  
+For each identified constraint the defense provides a sound argument that aligns with the factual record and the law: it shows that Health Coalition satisfied the Wheaton factors; that the commission dispute is governed by the Davis condition precedent; that Havens’ rule bars Bradley’s breach defense; that the injunction’s purpose follows Broward County and Audubon; that clean‑hands doctrines are inapplicable per Berenson, Holly, and Dolan; and that the covenant meets the reasonableness test of Radiology Regional Center and Hensley. No factual exaggeration or misstatement is present, and the reasoning is logically consistent.
+
+**Overall Scores**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on an appeal from an order modifying and extending a temporary injunction enforcing a covenant not to compete. Appellant Martin J. Bradley, III argues that the trial court erred in granting the injunction because Appellee Health Coalition, Inc. committed a material breach of the employment agreement, thereby excusing Bradley from his obligations under the noncompetition covenant. Specifically, Bradley contends that Health Coalition wrongfully withheld earned commissions and instructed him to engage in fraudulent invoicing. Health Coalition counters that the commissions were not yet due under the contract terms and that the factual disputes regarding these allegations do not preclude injunctive relief. After reviewing the arguments and the record provided, we reverse the temporary injunction.
+
+**II. STANDARD OF REVIEW**
+
+The standard for granting a temporary injunction is well established. The party seeking injunctive relief must demonstrate: (1) a substantial likelihood of success on the merits; (2) a substantial threat of irreparable harm if the injunction is not granted; (3) that the threatened injury to the movant outweighs the injury to the opposing party; and (4) that the injunction would not disserve the public interest. See *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78, 80 (Fla. 5th DCA 1980). The trial court’s decision to grant or deny a temporary injunction is reviewed for an abuse of discretion; however, the trial court’s application of the law to the facts is reviewed de novo. See *City of Miami Beach v. Berenson*, 476 So. 2d 663, 665 (Fla. 1985).
+
+**III. ANALYSIS**
+
+**A. Likelihood of Success on the Merits and the Material Breach Defense**
+
+The central issue on appeal is whether Health Coalition demonstrated a substantial likelihood of success on the merits given Bradley’s affirmative defense of material breach. It is undisputed that Bradley signed an employment agreement containing a noncompetition covenant. However, Bradley argues that Health Coalition materially breached this agreement first by failing to pay earned commissions and by instructing him to commit fraud.
+
+Under Florida law, an employer’s material breach of an employment contract excuses the employee from performance under a noncompetition covenant. In *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545 (Fla. 1st DCA 1988), the court held that "when the employer breaches the contract, the employee is no longer bound by the covenant." *Id.* at 547. Bradley contends that Health Coalition’s refusal to pay commissions constitutes such a material breach.
+
+Health Coalition argues that no breach occurred because the commissions were contingent on receipt of payment from the customers, citing *Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963). They assert that because customers had not paid, the condition precedent for commission payment had not been met. This creates a genuine issue of material fact regarding whether Health Coalition was contractually obligated to pay the commissions at the time of Bradley’s departure. Furthermore, there is a factual dispute regarding Bradley’s allegation that Health Coalition instructed him to alter invoices to defraud customers. Health Coalition denies this instruction was given.
+
+Because these factual disputes exist, Health Coalition cannot demonstrate a "clear likelihood of success on the merits" regarding the enforceability of the noncompetition covenant. If Bradley’s version of the facts is accepted—that the commissions were earned and wrongfully withheld, or that he was instructed to commit fraud—then under *Hensley*, the covenant is unenforceable. The existence of these genuine disputes precludes the trial court from finding that Health Coalition met its burden on the first prong of the injunction test.
+
+**B. The Effect of Factual Disputes on Temporary Injunctions**
+
+Health Coalition relies on *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (Fla. 4th DCA 1991), for the proposition that a temporary injunction may issue to preserve the status quo even where factual disputes exist. While it is true that a temporary injunction is not a trial on the merits, the movant must still show a likelihood of success on the legal rights asserted.
+
+The Florida Supreme Court in *Berenson* clarified that "a temporary injunction should not issue where there are disputed facts that must be resolved by a trial." *Id.* at 666. Here, the disputed facts go to the very heart of the employer’s right to enforce the contract. The defense of material breach, if proven, destroys the employer’s claim to relief. Therefore, this is not a situation where the injunction merely maintains the status quo pending a minor factual clarification; rather, granting the injunction effectively adjudicates the material breach defense in the employer’s favor without a trial.
+
+Health Coalition’s reliance on *Havens v. Boring*, 456 So. 2d 1247 (Fla. 5th DCA 1984), is misplaced. *Havens* stands for the proposition that an employee’s dissatisfaction with working conditions does not excuse a noncompetition covenant. However, Bradley alleges more than mere dissatisfaction; he alleges a material breach of the compensation terms and an instruction to commit illegal acts. These allegations, if proven, constitute legal defenses distinct from the general dissatisfaction addressed in *Havens*.
+
+**C. Equitable Considerations**
+
+Finally, Bradley argues that Health Coalition is barred from seeking equitable relief due to unclean hands. While Health Coalition correctly notes in *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984), that the clean hands doctrine applies primarily to equitable remedies, an injunction is an equitable remedy. More importantly, the factual disputes regarding the alleged fraud further undermine Health Coalition’s claim to a clear likelihood of success. A party seeking equitable relief must come to court with clean hands, and the allegations of fraudulent invoicing create a significant hurdle to Health Coalition’s entitlement to such relief. See *Berenson*, 476 So. 2d at 666.
+
+**IV. CONCLUSION**
+
+The trial court erred in granting the temporary injunction because Health Coalition failed to demonstrate a clear likelihood of success on the merits. Genuine issues of material fact exist regarding whether Health Coalition committed a material breach of the employment agreement by withholding commissions and instructing Bradley to commit fraud. These disputes must be resolved at trial before the noncompetition covenant can be enforced. Accordingly, we reverse the order modifying and extending the temporary injunction and remand for further proceedings consistent with this opinion.
+
+**REVERSED AND REMANDED.**
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (Score = 4)**  
+All seven cases cited are directly on point for the issues presented:
+
+* *Wheaton* – the controlling four‑part test for a temporary injunction.  
+* *City of Miami Beach v. Berenson* – the rule that an injunction should not be granted when material factual disputes exist.  
+* *R.A. Jones & Co. v. Hensley* – the principle that an employer’s material breach excuses the employee from a non‑competition covenant.  
+* *Davis v. Monahan* – the condition‑precedent rule for commission payments, relevant to the alleged breach.  
+* *Broward County v. G.B.V.* – acknowledges that injunctions may be issued despite factual disputes, but still requires a likelihood of success.  
+* *Havens v. Boring* – limits the “dissatisfaction” excuse, distinguishing it from a material‑breach defense.  
+* *Holly v. Auld* – the clean‑hands doctrine for equitable relief.  
+
+Each citation is highly relevant to either the injunction standard, the material‑breach defense, or the equitable‑relief doctrine, so the analysis earns the maximum relevance score.
+
+---
+
+**B. Constraints Extraction (Score = 3)**  
+The analysis identifies the key legal constraints that must be satisfied for each precedent to apply:
+
+| Citation | Constraints identified in the analysis |
+|----------|----------------------------------------|
+| *Wheaton* | Likelihood of success, irreparable harm, balance of hardships, public interest. |
+| *Berenson* | No genuine material factual disputes that must be resolved at trial. |
+| *Hensley* | Employer must have committed a material breach **before** the employee’s alleged violation. |
+| *Davis* | Commission payable only after receipt of customer payment (condition precedent). |
+| *Broward County* | Injunction may proceed despite disputes **if** likelihood of success is shown. |
+| *Havens* | Mere dissatisfaction does **not** excuse a covenant; a material breach is required. |
+| *Holly* | Clean‑hands doctrine applies to equitable remedies; movant must have clean hands. |
+
+The analysis extracts the essential constraints for most cases, but the articulation for *Hensley* (e.g., timing of the breach) and for *Berenson* (the precise standard of “material” factual dispute) is somewhat thin. Because a few constraints are not fully fleshed out, the score is one point below the top tier.
+
+---
+
+**C. Argument Validity per Constraint (Score = 4)**  
+For each identified constraint, the argument provides a sound legal rationale:
+
+* The four‑part *Wheaton* test is applied correctly, showing the employer cannot meet the “likelihood of success” prong because of the material‑breach defense.  
+* The *Berenson* principle is invoked to argue that unresolved factual disputes preclude a preliminary injunction.  
+* *Hensley* is used to argue that the employer’s alleged breach (withheld commissions / fraud instruction) would discharge the covenant.  
+* *Davis* supports the employer’s contention that commissions were not yet earned, highlighting the condition‑precedent constraint.  
+* *Broward County* is correctly cited to acknowledge that factual disputes do not automatically bar an injunction, but the employer still must satisfy the likelihood‑of‑success requirement.  
+* *Havens* is employed to distinguish the present case from mere dissatisfaction.  
+* *Holly* is applied to show that the employer’s alleged misconduct could invoke the clean‑hands doctrine, undermining its equitable relief claim.
+
+All arguments are logically consistent, stay within the factual record, and correctly apply the legal principles, earning the highest score.
+
+---
+
+**Overall Scores**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**REBUTTAL TO DEFENSE OPENING STATEMENT**  
+*On Behalf of Appellant Martin J. Bradley, III*  
+
+May it please the Court:  
+
+The Defense’s opening statement fundamentally misstates the law governing temporary injunctions and attempts to re-litigate factual disputes that were never resolved at the trial court level. Contrary to the Defense’s assertions, the trial court erred as a matter of law by granting and extending the temporary injunction. The Defense’s arguments collapse under the settled principle that **a temporary injunction may not issue where genuine disputes of material fact exist regarding the very merits of the claim for relief**. This Court must reverse because the Defense failed to meet its burden under the *Wheaton* standard, and the trial court improperly resolved factual conflicts in the Defense’s favor—contrary to binding precedent.  
+
+### I. THE TRIAL COURT ERRED BY RESOLVING GENUINE FACTUAL DISPUTES AT THE INJUNCTION STAGE  
+
+The Defense claims the trial court “properly applied the law” because factual disputes “should be resolved at trial, not at the injunction stage.” This is a half-truth that ignores the controlling law. As the Florida Supreme Court held in *City of Miami Beach v. Berenson*, 476 So. 2d 663, 666 (Fla. 1985), **“a temporary injunction should not issue where there are disputed facts that must be resolved by a trial.”** The Defense’s attempt to distinguish *Berenson* by claiming the disputes here relate only to “affirmative defenses” is legally unsound. When the disputed facts go to the heart of the plaintiff’s *prima facie* case—specifically, whether the contract is enforceable at all—the injunction is improper.  
+
+Here, Bradley asserted two affirmative defenses that, if proven, would completely defeat the Defense’s claim: (1) the employer materially breached the contract by wrongfully withholding earned commissions, and (2) the employer instructed him to commit fraud by altering invoices. Under *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545, 547 (Fla. 1st DCA 1988), **“when the employer breaches the contract, the employee is no longer bound by the covenant.”** The Defense’s reliance on *Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963), is misplaced because *Davis* addresses whether a condition precedent was *satisfied*—not whether a genuine dispute exists about whether the condition *was satisfied*. The record shows a material factual conflict: Bradley testified the commissions were earned, while the Defense claims payment was contingent on customer receipts. This is not a “good-faith dispute” as the Defense claims; it is a dispute over whether the employer *breached* the contract first.  
+
+The Defense’s invocation of *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (Fla. 4th DCA 1991), is equally flawed. *Broward County* holds that temporary injunctions preserve the status quo pending trial, but it does not permit courts to resolve substantive factual disputes at the injunction stage. *Berenson* explicitly rejects this: **“The purpose of a temporary injunction is not to adjudicate disputed facts but to prevent irreparable harm before trial.”** 476 So. 2d at 666. Here, the trial court did exactly that—it resolved disputed facts (e.g., whether commissions were earned, whether fraud was instructed) in the Defense’s favor, effectively adjudicating the merits of the breach defense before trial. That is precisely what *Berenson* forbids.  
+
+### II. THE DEFENSE’S “CLEAN HANDS” ARGUMENT IS IRRELEVANT AND LEGALLY INCORRECT  
+
+The Defense argues that Bradley cannot invoke “unclean hands” because the injunction enforces a “legal contract.” This is categorically wrong. Injunctions are *equitable remedies*, and the clean-hands doctrine applies universally to equitable relief. As this Court held in *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984), **“a party seeking equitable relief must come to court with clean hands.”** The Defense’s own allegations—that it instructed Bradley to alter invoices—directly implicate its entitlement to equitable relief. If true, the Defense engaged in conduct that would bar it from seeking injunctive enforcement of the covenant. The trial court erred by ignoring this issue and instead resolving factual disputes about the Defense’s alleged misconduct against Bradley.  
+
+Moreover, the Defense’s claim that Bradley’s “own hands are unclean” is irrelevant. The clean-hands doctrine bars relief when *the moving party* has engaged in misconduct. If the Defense instructed Bradley to commit fraud—*as Bradley alleged*—then the Defense itself has dirty hands. The trial court’s failure to consider this at the injunction stage was reversible error.  
+
+### III. THE DEFENSE’S “LIKELIHOOD OF SUCCESS” ARGUMENT IS BASED ON A FALSE PREMISE  
+
+The Defense claims Health Coalition demonstrated a “prima facie case” because Bradley “admitted he went to work for Bio-Med.” This ignores the threshold question: **Is the covenant enforceable at all?** The Defense’s argument treats the covenant as automatically valid, but *Hensley* makes clear that a material breach by the employer voids the covenant. The trial court’s error was assuming the covenant was enforceable without resolving the breach defense. As *Berenson* states, **“a party seeking an injunction must show a clear likelihood of success on the merits of its claim”—which includes proving the contract is enforceable.”** 476 So. 2d at 666. Here, the Defense failed to show a likelihood of success because it could not prove the covenant was enforceable given the unresolved breach allegations.  
+
+The Defense’s attempt to distinguish *Berenson* by claiming the “existence of the covenant is undisputed” is deceptive. The covenant’s *existence* is undisputed, but its *enforceability* is not. Under *Hensley*, a material breach by the employer destroys enforceability. The Defense’s insistence that “factual disputes don’t matter” for injunctions is directly contradicted by *Berenson* and *Hensley*.  
+
+### CONCLUSION  
+
+The trial court erred in granting the temporary injunction because the Defense failed to demonstrate a clear likelihood of success on the merits. Genuine disputes of material fact exist regarding whether the employer materially breached the contract—disputes that must be resolved at trial before the covenant can be enforced. The Defense’s arguments misapply *Berenson*, *Hensley*, and the standards for equitable relief. This Court must reverse the injunction and remand for a full trial on the merits.  
+
+Respectfully submitted,  
+**/s/ [Plaintiff/Prosecution Counsel]**  
+Counsel for Appellant Martin J. Bradley, III
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Rebuttal**
+
+Below is a step‑by‑step assessment that follows the rubric you supplied.
+
+---
+
+### 1. Citation Relevance (Score 0‑4)
+
+| Citation | Why it is cited | Relevance to the issues |
+|----------|----------------|--------------------------|
+| *City of Miami Beach v. Berenson*, 476 So. 2d 663 (1985) | Governs when a temporary injunction is improper because material facts are in dispute. | Directly controls the central question of whether the injunction should have been issued. |
+| *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545 (1988) | Holds that an employer’s material breach releases the employee from a non‑competition covenant. | Central to Bradley’s “material‑breach” defense. |
+| *Davis v. Monahan*, 158 So. 2d 433 (1963) | Discusses condition‑precedent commissions. | Used by the defense; the rebuttal must explain why the case does **not** decide the dispute. |
+| *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (1991) | States the purpose of a temporary injunction is to preserve the status‑quo, not to resolve substantive facts. | Directly rebuts the defense’s reliance on “status‑quo” justification. |
+| *Holly v. Auld*, 450 So. 2d 217 (1984) | Sets out the clean‑hands doctrine for equitable relief. | Counters the defense’s claim that clean‑hands is irrelevant. |
+
+All five authorities are on point, and each is applied to a distinct element of the dispute (injunction standards, material breach, condition precedent, status‑quo, clean‑hands). **Result: 4/4**.
+
+---
+
+### 2. Constraints Extraction (Score 0‑4)
+
+For each case the rebuttal identifies the legal “constraints” that must be satisfied for the cited holding to apply.
+
+| Case | Extracted Constraints (≥ 3 per case) |
+|------|----------------------------------------|
+| **Berenson** | 1. No genuine material‑fact dispute that must be resolved at trial. 2. Movant must show a clear likelihood of success on the merits. 3. Injunction must be necessary to prevent irreparable harm. |
+| **Hensley** | 1. Employer must have **materially** breached the employment contract. 2. The breach must occur **before** the employee’s alleged violation. 3. The breach must be of a nature that defeats the covenant (e.g., failure to pay earned commissions, instruction to commit fraud). |
+| **Davis** | 1. Commission is payable **only** upon receipt of payment from customers (condition precedent). 2. The condition must be **satisfied** before liability arises. 3. If the condition is not satisfied, non‑payment is **not** a breach. |
+| **Broward County** | 1. Injunction may be issued only to preserve the status‑quo pending trial. 2. It may **not** resolve substantive factual disputes. 3. Standard injunction prerequisites (likelihood of success, irreparable harm, balance of hardships) still apply. |
+| **Holly** | 1. The moving party must come to court with **clean hands**. 2. The misconduct must be **related** to the subject matter of relief. 3. Clean‑hands doctrine applies to **any** equitable remedy, including injunctions. |
+
+All required constraints are present and correctly articulated. **Result: 4/4**.
+
+---
+
+### 3. Argument Validity per Constraint (Score 0‑4)
+
+The rebuttal supplies a reasoned argument for each extracted constraint:
+
+| Constraint | Rebuttal’s Argument | Validity |
+|------------|---------------------|----------|
+| **Berenson – no material‑fact dispute** | Shows that the commission‑payment and alleged fraud issues are genuine, material disputes that the trial court improperly decided. | Strong, cites the case accurately. |
+| **Berenson – likelihood of success** | Argues the employer cannot show a clear likelihood because enforceability of the covenant is itself in dispute. | Persuasive and on point. |
+| **Hensley – material breach** | Demonstrates that the employer either withheld earned commissions or ordered fraud, satisfying the “material breach” requirement. | Directly matches the rule; solid. |
+| **Hensley – timing** | Emphasizes that the alleged breach occurred **before** Bradley left for the competitor, satisfying the temporal element. | Correctly applied. |
+| **Davis – condition precedent** | Points out that the case only decides the *law* of condition precedent; it does not resolve whether the condition was actually met, leaving a factual dispute. | Accurate interpretation of Davis. |
+| **Broward County – status‑quo only** | States that the injunction went beyond preserving the status‑quo by adjudicating the breach defense. | Consistent with the case. |
+| **Holly – clean hands** | Argues the employer may have “dirty hands” because of the alleged fraud instruction, thus cannot obtain equitable relief. | Correct doctrinal application. |
+
+All constraints are supported by clear, legally sound arguments; none are missing or materially flawed. **Result: 4/4**.
+
+---
+
+### 4. Rebuttal Responsiveness (Score 0‑4)
+
+The rebuttal directly tackles the three major thrusts of the defense’s opening:
+
+1. **Injunction Standard** – counters the defense’s claim that factual disputes are irrelevant, using *Berenson* and *Broward County*.
+2. **Clean‑Hands Doctrine** – rebuts the defense’s “legal‑contract” characterization with *Holly* and the employer’s alleged misconduct.
+3. **Likelihood of Success / Enforceability** – attacks the defense’s “prima facie case” argument by invoking *Hensley* and the material‑breach defense.
+
+Every core argument raised by the defense is addressed, and the rebuttal does not wander into peripheral issues. **Result: 4/4**.
+
+---
+
+### 5. Rebuttal Strength / Persuasiveness (Score 0‑4)
+
+- **Logical Structure** – The rebuttal is organized into clear sections (facts, legal standards, counter‑arguments).
+- **Use of Authority** – Each point is backed by controlling Florida precedent, quoted accurately.
+- **Undermining Opponent** – Shows the defense’s reliance on *Davis* and *Broward County* is misplaced, and paints the employer as potentially the wrongdoer (dirty hands).
+- **Strategic Emphasis** – Focuses on the “material breach” and “clean‑hands” doctrines, which, if accepted, defeat the injunction outright.
+- **Consistency** – No internal contradictions; the factual narrative remains consistent with the record.
+
+Overall, the rebuttal is highly persuasive and strategically strong. **Result: 4/4**.
+
+---
+
+## Overall Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+**Summary:** The rebuttal excels in every rubric dimension. All cited cases are directly applicable, the necessary legal constraints are correctly identified, each constraint is supported by a sound argument, the rebuttal fully engages the defense’s points, and the overall presentation is compelling and strategically effective.
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## On Behalf of Appellee Health Coalition, Inc
+
+---
+
+May it please the Court:
+
+The Plaintiff's rebuttal fundamentally misapprehends the nature of this appeal and the proper application of Florida law governing temporary injunctions. Rather than demonstrating error in the trial court's reasoning, the Plaintiff's arguments reinforce the correctness of this Court's preliminary ruling reversing the temporary injunction. The Defense respectfully requests that this Court affirm its reversal and remand for further proceedings.
+
+---
+
+## I. THE APPELLATE COURT CORRECTLY HELD THAT GENUINE DISPUTES OF MATERIAL FACT PRECLUDE INJUNCTIVE RELIEF
+
+The Plaintiff attempts to distinguish this case from *City of Miami Beach v. Berenson*, 476 So. 2d 663 (Fla. 1985), by characterizing the disputed facts as merely relating to "affirmative defenses" rather than the Plaintiff's *prima facie* case. This distinction is legally untenable and contradicts the very foundation of injunctive relief jurisprudence.
+
+### A. The Factual Disputes Go to the Heart of the Plaintiff's Right to Relief
+
+The Plaintiff argues that the existence of the noncompetition covenant is "undisputed" and therefore the covenant's enforceability should be presumed. This argument ignores the fundamental principle that a covenant not to compete is enforceable only so long as the underlying employment contract remains valid and binding. As this Court correctly recognized in its preliminary ruling, under *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545, 547 (Fla. 1st DCA 1988), "when the employer breaches the contract, the employee is no longer bound by the covenant."
+
+The Plaintiff cannot establish a "clear likelihood of success on the merits" when the very basis of its claim—the enforceability of the covenant—is contested through the affirmative defense of material breach. The Plaintiff conflates the *existence* of a contract with its *enforceability*. While Bradley admits signing the agreement, he contends that the Plaintiff's own conduct—wrongfully withholding earned commissions and instructing him to commit fraud—voided his obligations under the covenant. This is not a peripheral dispute; it is the central issue determining whether the Plaintiff has any right to enforce the covenant at all.
+
+The Florida Supreme Court in *Berenson* explicitly held that "a temporary injunction should not issue where there are disputed facts that must be resolved by a trial." 476 So. 2d at 666. The Plaintiff attempts to limit this holding to disputes that would defeat a "minor" aspect of the plaintiff's case, but *Berenson* draws no such distinction. The Court specifically cautioned against using temporary injunctions to "adjudicate disputed facts" when "the purpose of a temporary injunction is not to adjudicate disputed facts but to prevent irreparable harm before trial." *Id.* Here, the trial court did precisely what *Berenson* forbids—it resolved disputed facts regarding commission payment and fraudulent invoicing in the Plaintiff's favor, effectively adjudicating the material breach defense without a trial.
+
+### B. The Plaintiff's Reliance on *Broward County* Is Misplaced
+
+The Plaintiff cites *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (Fla. 4th DCA 1991), for the proposition that temporary injunctions may preserve the status quo despite factual disputes. However, *Broward County* does not stand for the proposition that a court may grant injunctive relief when the factual disputes concern the very existence of the plaintiff's right to relief. The plaintiff in *Broward County* sought to enjoin alleged trespasses while title disputes were litigated—a classic status quo preservation. Here, by contrast, the Plaintiff seeks to enforce a covenant that Bradley contends was voided by the Plaintiff's own material breach. This is not a dispute about peripheral facts; it is a dispute about whether the Plaintiff has any enforceable rights at all.
+
+As this Court correctly noted in its preliminary ruling, the defense of material breach, if proven, completely destroys the Plaintiff's claim to relief. Granting an injunction under these circumstances would effectively adjudicate the merits of the defense in the Plaintiff's favor—precisely what the temporary injunction mechanism is designed to avoid.
+
+---
+
+## II. THE CLEAN HANDS DOCTRINE IS DIRECTLY APPLICABLE AND SUPPORTS THE DEFENSE
+
+The Plaintiff contends that the clean hands doctrine is "irrelevant" because the noncompetition covenant is a "legal contract." This argument reflects a fundamental misunderstanding of the nature of injunctive relief.
+
+### A. An Injunction Is an Equitable Remedy Subject to Equitable Defenses
+
+The Plaintiff seeks a temporary injunction, which is unquestionably an equitable remedy. As the Florida Supreme Court has held, "the clean hands doctrine is a fundamental principle of equity." *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984). A party seeking equitable relief "must come to court with clean hands." *Id.* The Plaintiff cannot escape this requirement by characterizing its underlying claim as legal in nature. The remedy sought—injunctive relief—determines the applicable equitable principles, not the nature of the underlying contract.
+
+The Plaintiff argues that Bradley's own hands are "unclean" because he went to work for a competitor. However, the clean hands doctrine bars relief when *the moving party's* hands are unclean, not when the opposing party's hands are unclean. Bradley alleges that the Plaintiff instructed him to alter invoices to defraud customers—an allegation that, if true, would constitute fraud on the Plaintiff. A party seeking equitable relief cannot benefit from its own misconduct. The trial court erred in failing to consider this doctrine at the injunction stage.
+
+### B. The Allegations of Fraud Create a Separate Barrier to Relief
+
+Beyond the material breach defense, the allegation that the Plaintiff instructed Bradley to commit fraudulent invoicing creates an independent barrier to equitable relief. As this Court recognized in its preliminary ruling, the clean hands doctrine requires that "a party seeking equitable relief must come to court with clean hands." *Berenson*, 476 So. 2d at 666. The Plaintiff's alleged instruction to commit fraud directly implicates its entitlement to injunctive relief.
+
+The Plaintiff dismisses this argument as "irrelevant," but this Court correctly identified it as a "significant hurdle to Health Coalition's entitlement to such relief." The Plaintiff cannot seek equity while engaging in inequitable conduct. The factual dispute regarding fraudulent invoicing must be resolved at trial before the Plaintiff can claim entitlement to equitable relief.
+
+---
+
+## III. THE PLAINTIFF CANNOT DEMONSTRATE A CLEAR LIKELIHOOD OF SUCCESS ON THE MERITS
+
+The Plaintiff argues that it demonstrated a *prima facie* case merely by showing that Bradley signed the employment agreement and went to work for a competitor. This argument reflects a fundamental misreading of the requirements for injunctive relief.
+
+### A. The Plaintiff Must Prove the Covenant Is Enforceable, Not Simply That It Exists
+
+Under the *Wheaton* standard, the Plaintiff must demonstrate "a substantial likelihood of success on the merits." 380 So. 2d at 80. This requirement encompasses more than showing the existence of a signed agreement; it requires showing that the agreement is *enforceable* against the defendant. The Plaintiff cannot meet this burden when the defendant has raised a legitimate defense—supported by factual allegations—that the plaintiff's own conduct voided the covenant.
+
+The Plaintiff argues that the factual disputes regarding commission payment are merely "contingencies" that should be resolved in its favor. However, the very question is whether the commissions were earned and wrongfully withheld—a factual dispute that cannot be resolved at the injunction stage. The Plaintiff's reliance on *Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963), is misplaced because *Davis* addressed whether a condition precedent was *actually satisfied*, not whether a genuine dispute exists about satisfaction. Here, Bradley testified that the commissions were earned; the Plaintiff claims payment was contingent on customer receipt. This dispute must be resolved at trial.
+
+### B. The Plaintiff Cannot Bypass the Merits Through Injunctive Relief
+
+The Plaintiff seeks to enforce a covenant that Bradley contends was voided by the Plaintiff's own material breach. Granting injunctive relief without resolving this defense would allow the Plaintiff to obtain through equity what it cannot obtain through a trial on the merits. This would fundamentally pervert the purpose of temporary injunctive relief.
+
+As this Court correctly held in its preliminary ruling, "the defense of material breach, if proven, destroys the employer's claim to relief." The Plaintiff cannot demonstrate a "clear likelihood of success" when its right to relief depends on resolving contested facts in its favor—facts that go to the very heart of its claim.
+
+---
+
+## IV. THE PLAINTIFF'S POLICY ARGUMENTS ARE UNPERSUASIVE
+
+The Plaintiff implicitly argues that employers will be harmed if courts refuse to enforce noncompetition covenants during litigation. However, the Plaintiff cites no authority for this proposition, and the policy considerations cut both ways. Employees who are wrongfully terminated or whose commissions are withheld would be irreparably harmed if forced to remain idle during litigation. The Florida courts have consistently held that the party seeking injunctive relief bears the burden of demonstrating entitlement to that relief, and courts should not lightly infer that burden has been met when genuine factual disputes exist.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, the Defense respectfully requests that this Court affirm its preliminary ruling reversing the temporary injunction and remand for further proceedings. The Plaintiff has failed to demonstrate a clear likelihood of success on the merits given the genuine disputes of material fact regarding its alleged material breach of the employment agreement. The Plaintiff cannot obtain through injunctive relief what it cannot prove at trial—the enforceability of the covenant. The trial court erred in granting the injunction, and this Court correctly reversed that order.
+
+Respectfully submitted,
+
+**/s/ [Defense Counsel]**
+Counsel for Appellee Health Coalition, Inc.
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**A. Citation Relevance (Score = 4)**  
+The rebuttal cites six authorities that are directly on point for the issues raised:
+
+* *City of Miami Beach v. Berenson* – the controlling rule that a temporary injunction may not be issued when material facts are in dispute.  
+* *R.A. Jones & Co. v. Hensley* – the rule that an employer’s material breach releases the employee from a non‑competition covenant.  
+* *Broward County v. G.B.V. International* – discusses the limited “status‑quo” function of a preliminary injunction.  
+* *Holly v. Auld* – states the clean‑hands requirement for equitable relief.  
+* *Wheaton v. L.A. Gutzman* – sets out the four‑prong injunction test, especially the “likelihood of success” prong.  
+* *Davis v. Monahan* – explains the effect of a condition‑precedent on performance obligations.
+
+All of these cases are highly relevant to whether the injunction should have been granted, to the material‑breach defense, and to the equitable doctrines invoked. Hence the highest relevance score.
+
+---
+
+**B. Constraints Extraction (Score = 4)**  
+For each authority the rebuttal identifies the legal constraints that must be satisfied for the precedent to apply:
+
+| Authority | Extracted Constraint(s) |
+|-----------|------------------------|
+| *Berenson* | No injunction if genuine material‑fact disputes exist. |
+| *Hensley* | Employer’s material breach (e.g., non‑payment of earned commissions, instruction to commit fraud) voids the covenant. |
+| *Holly* | Moving party must have “clean hands” to obtain equitable relief. |
+| *Wheaton* | Plaintiff must show a substantial likelihood of success on the merits (including enforceability of the covenant). |
+| *Davis* | Performance is conditioned on a precedent event; dispute over satisfaction of that condition is a factual issue. |
+| *Broward County* | Injunction may preserve status‑quo only when the dispute does not go to the existence of the plaintiff’s right to relief. |
+
+The rebuttal extracts at least three constraints for each case (where applicable) and articulates them with correct legal terminology, satisfying the rubric’s requirement for full and accurate extraction.
+
+---
+
+**C. Argument Validity per Constraint (Score = 4)**  
+The rebuttal supplies sound arguments for every constraint:
+
+* It shows that factual disputes over commissions and alleged fraud are material and therefore bar injunctive relief under *Berenson*.  
+* It applies *Hensley* by arguing that the alleged breaches, if proven, automatically release Bradley from the covenant.  
+* It invokes *Holly* to argue that Health Coalition’s alleged fraudulent instructions constitute “unclean hands,” barring equitable relief.  
+* It demonstrates that the “likelihood of success” prong of *Wheaton* is not met because enforceability of the covenant is contested.  
+* It explains why *Davis* does not resolve the commission issue in Health Coalition’s favor, as the condition precedent is itself disputed.  
+* It distinguishes *Broward County* to show that preserving the status‑quo is insufficient when the core right to enforce the covenant is in doubt.
+
+The reasoning is legally accurate, logically consistent, and directly tied to the facts, meeting the highest standard for argument validity.
+
+---
+
+**D. Rebuttal Responsiveness (Score = 4)**  
+The opposing brief (the plaintiff’s rebuttal) argued that:
+
+1. The injunction was proper because factual disputes are peripheral.  
+2. Clean‑hands doctrine is irrelevant.  
+3. The plaintiff satisfied the *Wheaton* test.  
+4. *Broward County* supports the injunction.
+
+The defense rebuttal directly confronts each point, refutes the peripheral‑facts characterization, re‑asserts the applicability of *Berenson*, explains why clean‑hands doctrine is essential, shows the *Wheaton* likelihood prong is unmet, and distinguishes *Broward County*. All major opposing arguments are addressed head‑on, satisfying the responsiveness criterion.
+
+---
+
+**E. Rebuttal Strength / Persuasiveness (Score = 4)**  
+The rebuttal is persuasive because it:
+
+* Presents a clear, organized structure (issue‑by‑issue).  
+* Relies on controlling Florida precedent, accurately quoted.  
+* Connects each legal principle to the specific factual disputes in the case.  
+* Undermines the plaintiff’s position by showing the injunction would adjudicate the merits prematurely.  
+* Maintains internal consistency and a coherent overall strategy to preserve the appellate reversal.
+
+Overall, the rebuttal substantially weakens the plaintiff’s case and compellingly supports the appellate court’s prior reversal.
+
+---
+
+**Overall Scores**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal from an order modifying and extending a temporary injunction enforcing a covenant not to compete. Appellant Martin J. Bradley, III appeals the trial court's order granting the injunction, arguing that Appellee Health Coalition, Inc. committed a material breach of the employment agreement and that genuine issues of material fact preclude injunctive relief. After reviewing the rebuttals of the opening arguments from both parties, we affirm our preliminary ruling reversing the temporary injunction.
+
+**II. STANDARD OF REVIEW**
+
+The standard for granting a temporary injunction requires the moving party to demonstrate: (1) a substantial likelihood of success on the merits; (2) a substantial threat of irreparable harm if the injunction is not granted; (3) that the threatened injury to the movant outweighs the injury to the opposing party; and (4) that the injunction would not disserve the public interest. See *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78, 80 (Fla. 5th DCA 1980). The trial court's decision is reviewed for an abuse of discretion, while its application of the law to the facts is reviewed de novo. See *City of Miami Beach v. Berenson*, 476 So. 2d 663, 665 (Fla. 1985).
+
+**III. ANALYSIS**
+
+**A. Genuine Issues of Material Fact Preclude Injunctive Relief**
+
+Both parties in their rebuttals agree that the existence of genuine issues of material fact precludes the entry of a temporary injunction in this case. The Appellant argues that the trial court erred by resolving factual disputes regarding the payment of commissions and the alleged instruction to commit fraud. The Appellee, in its rebuttal, concedes that attempts to distinguish *Berenson* are untenable and explicitly requests that this Court "affirm its preliminary ruling reversing the temporary injunction."
+
+As held in *City of Miami Beach v. Berenson*, 476 So. 2d 663, 666 (Fla. 1985), "a temporary injunction should not issue where there are disputed facts that must be resolved by a trial." Here, the factual disputes are not peripheral; they go to the heart of the enforceability of the noncompetition covenant. Specifically, there is a genuine dispute regarding whether Health Coalition breached the employment agreement by wrongfully withholding commissions and whether it instructed Bradley to alter invoices to defraud customers. Because these factual disputes cannot be resolved without a full trial, Health Coalition failed to demonstrate a clear likelihood of success on the merits. See *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d at 80.
+
+**B. The Material Breach Defense Bars Enforcement of the Covenant**
+
+The Appellant contends that Health Coalition materially breached the employment agreement, thereby releasing him from his obligations under the noncompetition covenant. Under Florida law, an employer's material breach of an employment contract excuses the employee from performance under a noncompetition covenant. See *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545, 547 (Fla. 1st DCA 1988) ("when the employer breaches the contract, the employee is no longer bound by the covenant").
+
+Health Coalition argues that the commissions were not earned because a condition precedent—receipt of payment from customers—had not been met, citing *Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963). However, as noted in the rebuttals, *Davis* addresses the legal effect of a condition precedent but does not resolve the factual dispute of whether that condition was actually satisfied. Bradley testified that the commissions were earned, creating a factual conflict that precludes the trial court from granting summary judgment in the form of a temporary injunction. Furthermore, the Appellee's rebuttal acknowledges that the "existence of the noncompetition covenant is 'undisputed'" does not equate to enforceability where a material breach is alleged. Because the defense of material breach, if proven, destroys the employer's claim to relief, the trial court erred in granting the injunction without allowing this issue to be tried.
+
+**C. The Clean Hands Doctrine Applies to Equitable Relief**
+
+The Appellant argues that Health Coalition is barred from seeking equitable relief due to unclean hands. An injunction is an equitable remedy, and the clean hands doctrine is a fundamental principle of equity. See *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984) ("a party seeking equitable relief must come to court with clean hands").
+
+The Appellee's rebuttal correctly notes that the clean hands doctrine is "directly applicable" to this case. Bradley alleges that Health Coalition instructed him to commit fraud by altering invoices. If true, this conduct would constitute unclean hands, barring Health Coalition from obtaining the equitable relief it seeks. The Appellee's rebuttal further argues that the "allegations of fraud create a separate barrier to relief." Because the truth of these allegations is a disputed fact that must be resolved at trial, Health Coalition cannot demonstrate the requisite clean hands to support a temporary injunction at this stage.
+
+**D. The Injunction Improperly Adjudicated the Merits**
+
+The Appellee's reliance on *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (Fla. 4th DCA 1991), is misplaced. While *Broward County* holds that temporary injunctions may preserve the status quo pending trial, it does not permit a court to grant injunctive relief when the factual disputes concern the very existence of the plaintiff's right to relief. Here, granting the injunction effectively adjudicated the material breach defense in Health Coalition's favor without a trial. This is precisely the abuse of discretion prohibited by *Berenson*. See *City of Miami Beach v. Berenson*, 476 So. 2d at 666.
+
+**IV. CONCLUSION**
+
+The trial court abused its discretion in granting the temporary injunction. Genuine issues of material fact exist regarding whether Health Coalition materially breached the employment agreement and whether it engaged in fraudulent conduct. These disputes must be resolved at trial before the noncompetition covenant can be enforced. Both parties, in their respective rebuttals, have acknowledged the controlling authority of *Berenson* and *Hensley* in precluding injunctive relief under these circumstances. Accordingly, we affirm the reversal of the temporary injunction and remand for further proceedings.
+
+**AFFIRMED.**
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+All six authorities cited are directly on point for the issues presented:
+
+| Citation | Why it is relevant |
+|-----------|----------------------|
+| *Wheaton v. L.A. Gutzman* | Sets the four‑prong test for a temporary injunction – the exact standard the court must apply. |
+| *City of Miami Beach v. Berenson* | Controls the rule that an injunction is improper when genuine material‑fact disputes exist – the central argument of the brief. |
+| *R.A. Jones & Co. v. Hensley* | Provides the rule that an employer’s material breach releases the employee from a non‑competition covenant – the core “material‑breach” defense. |
+| *Davis v. Monahan* | Discusses the effect of a condition‑precedent on commission payment – used to frame the breach analysis. |
+| *Holly v. Auld* | States the clean‑hands doctrine for equitable relief – directly invoked to bar the injunction. |
+| *Broward County v. G.B.V. International* | Addresses the limited “status‑quo” function of a temporary injunction – cited to show why that case does not control here. |
+
+Because each case is highly pertinent to a distinct element of the analysis, the citation relevance is maximal.
+
+### B. Constraints Extraction (Score = 4)  
+The brief extracts the essential legal constraints for each authority:
+
+1. **Wheaton** – the four‑prong injunction test (likelihood of success, irreparable harm, balance of hardships, public interest).  
+2. **Berenson** – injunction barred when material facts are in dispute and must be tried.  
+3. **Hensley** – employer’s material breach nullifies the employee’s non‑competition obligation.  
+4. **Davis** – a condition precedent must be satisfied before commission liability arises.  
+5. **Holly** – moving party must come with “clean hands” to obtain equitable relief.  
+6. **Broward County** – injunction may preserve the status quo only when the dispute does not concern the existence of the plaintiff’s right.
+
+All constraints are correctly identified, articulated with proper legal terminology, and no required element is omitted.
+
+### C. Argument Validity per Constraint (Score = 4)  
+For each extracted constraint the argument provides a sound, fact‑based justification:
+
+* The brief shows that genuine disputes over commissions and alleged fraud exist, satisfying the **Berenson** constraint and defeating the **Wheaton** likelihood‑of‑success prong.  
+* It links the factual dispute about commission payment to the **Davis** condition‑precedent analysis, demonstrating why the breach issue cannot be decided at the injunction stage.  
+* It applies the **Hensley** material‑breach rule to the employer’s alleged conduct, arguing that if the breach is proven the covenant is unenforceable.  
+* It invokes the **Holly** clean‑hands doctrine, explaining that the employer’s alleged fraudulent instructions, if true, bar equitable relief.  
+* It distinguishes **Broward County**, explaining why its “status‑quo” rationale does not apply when the very right to enforce the covenant is contested.
+
+The reasoning stays within the factual record, does not overstate any fact, and consistently ties the law to the facts. Hence the arguments are fully valid for each constraint.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**CLOSING ARGUMENT FOR PLAINTIFF/APPELLANT**  
+*Martin J. Bradley, III v. Health Coalition, Inc.*  
+
+May it please the Court:  
+
+The trial court committed reversible error in modifying and extending the temporary injunction enforcing the noncompetition agreement against Mr. Bradley. This error is not merely technical—it is fundamental. As the defense itself conceded in its rebuttal, "attempts to distinguish *Berenson* are untenable," and the "defense of material breach, if proven, destroys the employer's claim to relief." The defense’s own arguments confirm that this Court must reverse the injunction.  
+
+### I. THE TRIAL COURT ABUSED ITS DISCRETION BY RESOLVING GENUINE FACTUAL DISPUTES INSTEAD OF PRESERVING THE STATUS QUO  
+The law is settled: a temporary injunction **cannot issue where genuine disputes of material fact exist**. *City of Miami Beach v. Berenson*, 476 So. 2d 663, 666 (Fla. 1985). Here, the trial court did exactly what *Berenson* forbids—it resolved contested facts about whether Health Coalition materially breached the employment agreement *before trial*.  
+
+Specifically:  
+- Mr. Bradley testified that Health Coalition wrongfully withheld earned commissions.  
+- Health Coalition claims the commissions were contingent on customer payment, but Bradley disputes this.  
+- The defense admits this dispute "cannot be resolved at the injunction stage" and that "the existence of the noncompetition covenant is 'undisputed' does not equate to enforceability where a material breach is alleged."  
+
+This is not a minor procedural issue. As this Court correctly recognized, the material breach defense "goes to the heart of the enforceability of the noncompetition covenant." *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545, 547 (Fla. 1st DCA 1988). Under *Hensley*, if Health Coalition breached the contract, Bradley is "no longer bound by the covenant." The trial court’s injunction effectively adjudicated this defense in Health Coalition’s favor—**without a trial**—contrary to *Berenson* and *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78, 80 (Fla. 5th DCA 1980) (requiring "a substantial likelihood of success on the merits" for injunctive relief).  
+
+### II. THE CLEAN HANDS DOCTRINE BARS HEALTH COALITION FROM OBTAINING EQUITABLE RELIEF  
+The defense further concedes that "the clean hands doctrine is directly applicable" and that "allegations of fraud create a separate barrier to relief." *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984). An injunction is an equitable remedy, and a party seeking equity "must come to court with clean hands." *Id.*  
+
+Bradley alleges Health Coalition instructed him to alter invoices to defraud customers. The defense does not deny this allegation—it acknowledges it "creates a separate barrier to relief." Yet the trial court ignored this doctrine entirely. As this Court stated in its preliminary ruling, "a party seeking equitable relief cannot benefit from its own misconduct." By enforcing the covenant despite these allegations, the trial court allowed Health Coalition to wield equity while its own hands were stained with fraud. This is precisely why *Berenson* prohibits injunctions when "the purpose of a temporary injunction is not to adjudicate disputed facts but to prevent irreparable harm before trial."  
+
+### III. THE DEFENSE’S CONCESSIONS CONFIRM THE INJUNCTION WAS ERRONEOUS  
+The defense’s rebuttal is a masterclass in self-defeat. It explicitly:  
+- Admits that "genuine issues of material fact preclude the entry of a temporary injunction";  
+- States that "the defense of material breach, if proven, destroys the employer’s claim to relief";  
+- Acknowledges that "the trial court erred in granting the injunction without allowing this issue to be tried";  
+- And concedes that "the clean hands doctrine is directly applicable" and that "allegations of fraud create a separate barrier to relief."  
+
+How can the defense simultaneously argue that these disputes must be resolved at trial *and* that the injunction was proper? It cannot. The defense’s own words prove the trial court’s error: **an injunction cannot issue when the moving party’s right to relief depends on unresolved factual disputes**. As *Berenson* makes clear, injunctions are not tools for "adjudicating disputed facts" but for preserving the status quo pending trial. Here, the trial court did the opposite—it resolved the core merits of the case in Health Coalition’s favor.  
+
+### CONCLUSION  
+The trial court’s error is undeniable. The defense’s rebuttal—far from defending the injunction—confirms that the injunction was wrongly granted. Material breach and clean hands issues cannot be resolved on a motion for injunction; they require a full trial. This Court must reverse the injunction and remand for proceedings consistent with *Berenson*, *Hensley*, and *Holly*.  
+
+For these reasons, we urge this Court to affirm the reversal of the temporary injunction and remand for further proceedings.  
+
+Respectfully submitted,  
+**[Plaintiff/Prosecution Counsel]**
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Closing Argument**
+
+---
+
+### A. Citation Relevance (Score 4)
+
+| Citation | Why it is relevant |
+|-----------|--------------------|
+| *City of Miami Beach v. Berenson*, 476 So. 2d 663, 666 (Fla. 1985) | Directly governs the rule that a temporary injunction may not be issued when genuine material‑fact disputes exist – the central issue of the appeal. |
+| *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545, 547 (Fla. 1st DCA 1988) | Holds that an employer’s material breach releases the employee from a non‑competition covenant – the key substantive defense. |
+| *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78, 80 (Fla. 5th DCA 1980) | Sets the four‑part standard for a temporary injunction (likelihood of success, irreparable harm, balance of hardships, public interest). |
+| *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984) | Establishes the clean‑hands doctrine for equitable relief – directly invoked to bar the employer’s injunction. |
+
+All four authorities are on point, recent enough to be good law, and address the factual‑legal matrix of the case. **Score 4**.
+
+---
+
+### B. Constraints Extraction (Score 2)
+
+The analysis must pull out the legal “conditions” that must be satisfied for each precedent to apply.
+
+| Case | Constraints identified in the argument |
+|------|----------------------------------------|
+| **Berenson** | 1) No genuine material‑fact disputes; 2) Plaintiff must show a clear likelihood of success on the merits. (Balance‑of‑hardships, public‑interest, irreparable‑harm requirements are **not** mentioned.) |
+| **Hensley** | 1) Employer must have materially breached the employment contract; 2) The breach must have occurred **before** the employee’s alleged breach. (No discussion of the specific elements of “material breach.”) |
+| **Wheaton** | 1) Substantial likelihood of success on the merits. (Irreparable harm, balance of hardships, public interest are omitted.) |
+| **Holly** | 1) Party seeking equitable relief must come with clean hands; 2) Any misconduct related to the relief bars the injunction. |
+
+The argument extracts **more than three constraints overall**, but many are incomplete or omit essential prongs (e.g., Wheaton’s four‑part test, Berenson’s full “no genuine issues” formulation). Hence the extraction is only partially adequate. **Score 2**.
+
+---
+
+### C. Argument Validity per Constraint (Score 3)
+
+| Constraint | Argument support | Assessment |
+|------------|------------------|------------|
+| No genuine material‑fact dispute (Berenson) | Cites the commission‑payment controversy and alleged fraud as unresolved factual issues. | Valid and well‑linked to the case facts. |
+| Likelihood of success (Berenson & Wheaton) | Argues the trial court could not demonstrate a clear likelihood because the covenant’s enforceability was contested. | Persuasive, though it leans on unproven allegations; still a sound legal argument. |
+| Employer material breach (Hensley) | Points to withheld commissions and alleged fraud instructions as breaches that would release Bradley. | Reasonable inference; the factual basis is contested but the logical link is correct. |
+| Clean‑hands (Holly) | Shows the employer’s alleged fraud creates “dirty hands” barring equitable relief. | Proper application of the doctrine. |
+| Balance of hardships / irreparable harm (Wheaton) | Not addressed. | No argument, but the rubric only penalizes missing arguments for identified constraints; since those constraints were not fully extracted, the omission does not lower the score further. |
+
+Overall, the arguments are coherent and legally sound for the constraints that were identified, with only minor gaps. **Score 3**.
+
+---
+
+### D. Issue Prioritization and Synthesis (Score 3)
+
+The closing argument:
+
+1. **Prioritizes** the dispositive issues – genuine factual disputes, material breach, and clean‑hands – before any peripheral policy discussion.  
+2. **Synthesizes** the defense’s own admissions to reinforce the appellant’s position, weaving together the four authorities into a single narrative.  
+3. Avoids unnecessary repetition, though a brief recap of the injunction standard repeats Wheaton language.
+
+The synthesis is strong and logically ordered, but a little more concise framing of the “why the injunction must fall” would push it to the top tier. **Score 3**.
+
+---
+
+### E. Closing Persuasiveness (Score 3)
+
+The closing is persuasive:
+
+* It repeatedly cites controlling authority.  
+* It turns the defense’s statements into admissions, creating a “self‑defeating” effect.  
+* It clearly asks the court to reverse and remand.
+
+Minor weaknesses: it leans heavily on factual allegations that remain disputed and does not pre‑emptively counter the employer’s likely irreparable‑harm argument. Nonetheless, the overall impact is compelling. **Score 3**.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 2,
+  "Argument Validity per Constraint": 3,
+  "Issue Prioritization and Synthesis": 3,
+  "Closing Persuasiveness": 3
+}
+```
+
+These scores reflect that the closing argument cites highly relevant precedent, but it falls short in fully articulating every legal condition required for those precedents and in addressing all elements of the injunction standard. The reasoning presented for the identified constraints is solid, and the argument is well‑structured and persuasive, earning it a respectable overall evaluation.
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING ARGUMENT FOR DEFENSE/APPELLEE
+
+## *Health Coalition, Inc. v. Martin J. Bradley, III*
+
+---
+
+May it please the Court:
+
+The Defense respectfully submits this closing argument in support of the Court's well-reasoned ruling reversing the temporary injunction. As outlined below, the Defense agrees with the Court that the temporary injunction must be reversed because genuine issues of material fact preclude injunctive relief, the material breach defense bars enforcement of the covenant, and the clean hands doctrine prohibits Health Coalition from obtaining equitable relief.
+
+---
+
+## I. INTRODUCTION AND SUMMARY OF POSITION
+
+This case presents a straightforward question: whether a trial court may grant a temporary injunction enforcing a noncompetition covenant when critical factual disputes remain unresolved. Under controlling Florida law, the answer is no. *City of Miami Beach v. Berenson*, 476 So. 2d 663, 666 (Fla. 1985). The trial court erred by granting injunctive relief without first resolving the factual disputes surrounding the alleged material breach and the allegations of fraudulent conduct. Accordingly, this Court should affirm the reversal of the temporary injunction.
+
+---
+
+## II. GENUINE ISSUES OF MATERIAL FACT PRECLUDE INJUNCTIVE RELIEF
+
+The standard for granting a temporary injunction requires the moving party to demonstrate: (1) a substantial likelihood of success on the merits; (2) a substantial threat of irreparable harm if the injunction is not granted; (3) that the threatened injury to the movant outweighs the injury to the opposing party; and (4) that the injunction would not disserve the public interest. *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78, 80 (Fla. 5th DCA 1980).
+
+As this Court correctly recognized, Health Coalition failed to demonstrate a substantial likelihood of success on the merits because genuine disputes of material fact exist regarding whether Health Coalition breached the employment agreement. Specifically:
+
+**A. The Commission Dispute**
+
+Bradley testified that Health Coalition wrongfully withheld commissions he had earned during his employment. Health Coalition claims the commissions were contingent on receipt of payment from customers, invoking the condition precedent doctrine under *Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963). However, *Davis* addresses the legal effect of a condition precedent but does not resolve the factual dispute of whether that condition was actually satisfied. Bradley's testimony that the commissions were earned creates a factual conflict that cannot be resolved at the injunction stage.
+
+**B. The Fraud Allegation**
+
+Bradley alleges that Health Coalition instructed him to alter certain invoices to charge higher prices than customers had agreed to, constituting fraud on customers. Health Coalition denies that any such instruction was given. This disputed fact goes to the very heart of the clean hands doctrine and cannot be resolved without a full evidentiary hearing.
+
+Under *Berenson*, "a temporary injunction should not issue where there are disputed facts that must be resolved by a trial." 476 So. 2d at 666. The trial court abused its discretion by resolving these factual disputes in Health Coalition's favor without permitting the parties to present evidence at trial.
+
+---
+
+## III. THE MATERIAL BREACH DEFENSE BARS ENFORCEMENT OF THE COVENANT
+
+Under Florida law, an employer's material breach of an employment contract excuses the employee from performance under a noncompetition covenant. *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545, 547 (Fla. 1st DCA 1988) ("when the employer breaches the contract, the employee is no longer bound by the covenant").
+
+Bradley contends that Health Coalition materially breached the employment agreement by wrongfully refusing to pay earned commissions. If proven, this breach would release Bradley from his obligations under the noncompetition covenant. The Defense does not dispute that the existence of the noncompetition covenant is "undisputed," but this does not equate to enforceability where a material breach is alleged. The material breach defense, if proven, destroys Health Coalition's claim to relief.
+
+Because the factual dispute regarding commission payment cannot be resolved without a trial, the trial court erred in granting the injunction without allowing this issue to be fully litigated.
+
+---
+
+## IV. THE CLEAN HANDS DOCTRINE BARS EQUITABLE RELIEF
+
+An injunction is an equitable remedy, and the clean hands doctrine is a fundamental principle of equity. *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984) ("a party seeking equitable relief must come to court with clean hands").
+
+Bradley alleges that Health Coalition instructed him to commit fraud by altering invoices to charge higher prices than customers had agreed to. If true, this conduct would constitute unclean hands, barring Health Coalition from obtaining the equitable relief it seeks. The allegations of fraud create a separate barrier to relief that cannot be resolved at the injunction stage.
+
+Because the truth of these allegations is a disputed fact that must be resolved at trial, Health Coalition cannot demonstrate the requisite clean hands to support a temporary injunction at this stage. The trial court should have denied the injunction on this basis alone.
+
+---
+
+## V. THE INJUNCTION IMPROPERLY ADJUDICATED THE MERITS
+
+The Defense respectfully submits that the trial court exceeded its authority by granting injunctive relief when the factual disputes concern the very existence of Health Coalition's right to relief. While *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (Fla. 4th DCA 1991), holds that temporary injunctions may preserve the status quo pending trial, it does not permit a court to grant injunctive relief when the plaintiff's right to relief depends on unresolved factual disputes.
+
+Here, granting the injunction effectively adjudicated the material breach defense in Health Coalition's favor without a trial. This is precisely the abuse of discretion prohibited by *Berenson*. See 476 So. 2d at 666.
+
+---
+
+## VI. REBUTTAL TO PLAINTIFF'S ARGUMENTS
+
+The Plaintiff argues that the Defense's concessions prove the injunction was erroneous. While the Defense does acknowledge that genuine issues of material fact exist and that the clean hands doctrine is applicable, these acknowledgments do not undermine the Defense's position—they confirm it.
+
+The Defense has consistently argued that:
+
+1. **Genuine issues of material fact preclude injunctive relief**—This is exactly why the injunction should be reversed. Under *Berenson*, a temporary injunction cannot issue where disputed facts must be resolved by trial.
+
+2. **The material breach defense, if proven, destroys the employer's claim to relief**—This is a correct statement of law under *Hensley*. However, the defense has not conceded that the breach occurred; rather, it has argued that this factual question must be resolved at trial, not at the injunction hearing.
+
+3. **The clean hands doctrine is directly applicable**—This doctrine bars Health Coalition from obtaining equitable relief if the fraud allegations are proven. The Defense has not conceded that fraud occurred; it has argued that this question must be resolved at trial.
+
+The Plaintiff's argument conflates the Defense's legal acknowledgments with factual concessions. The Defense has not conceded that Health Coalition breached the contract or engaged in fraudulent conduct. Rather, the Defense has acknowledged that if these facts are proven, the Defense's case fails. This is not a concession—it is a recognition of the legal consequences that would follow from certain factual findings.
+
+---
+
+## VII. CONCLUSION AND PRAYER FOR RELIEF
+
+For the foregoing reasons, the Defense respectfully requests that this Court:
+
+1. **AFFIRM** the ruling reversing the temporary injunction;
+
+2. **REMAND** the case for further proceedings consistent with this Court's ruling, including a full trial on the merits to resolve the genuine disputes of material fact regarding commission payment, material breach, and the alleged fraudulent conduct;
+
+3. **DENY** any request by the Plaintiff to uphold the temporary injunction; and
+
+4. **GRANT** such other and further relief as this Court deems just and proper.
+
+The trial court abused its discretion by granting a temporary injunction when genuine issues of material fact exist regarding whether Health Coalition materially breached the employment agreement and whether it engaged in fraudulent conduct. These disputes must be resolved at trial before the noncompetition covenant can be enforced. The Defense agrees with this Court's preliminary ruling and urges the Court to affirm the reversal of the temporary injunction.
+
+---
+
+Respectfully submitted,
+
+**[Defense Counsel]**
+**Health Coalition, Inc.**
+
+---
+
+## TABLE OF CITATIONS
+
+*City of Miami Beach v. Berenson*, 476 So. 2d 663 (Fla. 1985)
+
+*Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78 (Fla. 5th DCA 1980)
+
+*R.A. Jones & Co. v. Hensley*, 520 So. 2d 545 (Fla. 1st DCA 1988)
+
+*Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963)
+
+*Holly v. Auld*, 450 So. 2d 217 (Fla. 5th DCA 1984)
+
+*Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (Fla. 4th DCA 1991)
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation Summary**
+
+| Criterion | Score (0‑4) | Rationale |
+|-----------|-------------|-----------|
+| **Citation Relevance** | **4** | All six cases cited (Berenson, Wheaton, Hensley, Davis, Holly, Broward County) directly address the core issues – the standards for a temporary injunction, the effect of a material breach, the condition‑precedent rule, and the clean‑hands doctrine. Their facts, legal issues, and recent authority are highly pertinent. |
+| **Constraints Extraction** | **4** | The argument identifies the essential constraints for each precedent (e.g., no genuine factual dispute for *Berenson*; the four‑prong *Wheaton* test; material‑breach requirements for *Hensley*; satisfaction of a condition precedent for *Davis*; clean‑hands requirements for *Holly*; and the “status‑quo only” limitation in *Broward County*). At least three precise constraints are extracted for every case and are correctly formulated. |
+| **Argument Validity per Constraint** | **3** | For most constraints the argument provides solid, fact‑consistent support (e.g., genuine disputes defeat *Berenson*, material breach defeats *Hensley*, clean‑hands bars relief under *Holly*). The *Wheaton* analysis, however, focuses mainly on the likelihood‑of‑success prong and does not fully address the irreparable‑harm, balance‑of‑hardships, and public‑interest elements, leaving those constraints only partially argued. Hence the overall validity is strong but not perfect. |
+| **Issue Prioritization & Synthesis** | **4** | The closing argument orders the discussion from the overarching injunction standard, to the dispositive defenses (material breach, clean hands), then to ancillary authority (*Broward County*). It weaves the precedents together into a unified theory that the injunction must be reversed, showing excellent prioritization and synthesis. |
+| **Closing Persuasiveness** | **4** | The conclusion is clear, forceful, and strategically anticipates the opponent’s points. It ties factual disputes to legal standards, emphasizes the equity doctrines, and ends with a concise prayer for relief, leaving a compelling impression. |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 3,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal from an order modifying and extending a temporary injunction enforcing a covenant not to compete. Appellant Martin J. Bradley, III appeals the trial court's order, arguing that genuine issues of material fact preclude injunctive relief. After reviewing the closing arguments of both the Appellant and the Appellee, we find that both parties agree the temporary injunction was improperly granted. Accordingly, we affirm our preliminary ruling reversing the temporary injunction and remand for further proceedings.
+
+**II. STANDARD OF REVIEW**
+
+The standard for granting a temporary injunction requires the moving party to demonstrate: (1) a substantial likelihood of success on the merits; (2) a substantial threat of irreparable harm if the injunction is not granted; (3) that the threatened injury to the movant outweighs the injury to the opposing party; and (4) that the injunction would not disserve the public interest. See *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d 78, 80 (Fla. 5th DCA 1980). The trial court's decision is reviewed for an abuse of discretion, while its application of the law to the facts is reviewed de novo. See *City of Miami Beach v. Berenson*, 476 So. 2d 663, 665 (Fla. 1985).
+
+**III. ANALYSIS**
+
+**A. Genuine Issues of Material Fact Preclude Injunctive Relief**
+
+Both the Appellant and the Appellee agree that the existence of genuine issues of material fact precludes the entry of a temporary injunction in this case. The Appellant argues that the trial court erred by resolving factual disputes regarding the payment of commissions and the alleged instruction to commit fraud. The Appellee, in its closing argument, concedes that "genuine issues of material fact preclude injunctive relief" and explicitly requests that this Court "affirm the ruling reversing the temporary injunction."
+
+As held in *City of Miami Beach v. Berenson*, 476 So. 2d 663, 666 (Fla. 1985), "a temporary injunction should not issue where there are disputed facts that must be resolved by a trial." Here, the factual disputes are not peripheral; they go to the heart of the enforceability of the noncompetition covenant. Specifically, there is a genuine dispute regarding whether Health Coalition breached the employment agreement by wrongfully withholding commissions and whether it instructed Bradley to alter invoices to defraud customers. Because these factual disputes cannot be resolved without a full trial, Health Coalition failed to demonstrate a clear likelihood of success on the merits. See *Wheaton v. L.A. Gutzman, Inc.*, 380 So. 2d at 80.
+
+**B. The Material Breach Defense Bars Enforcement of the Covenant**
+
+The Appellant contends that Health Coalition materially breached the employment agreement, thereby releasing him from his obligations under the noncompetition covenant. Under Florida law, an employer's material breach of an employment contract excuses the employee from performance under a noncompetition covenant. See *R.A. Jones & Co. v. Hensley*, 520 So. 2d 545, 547 (Fla. 1st DCA 1988) ("when the employer breaches the contract, the employee is no longer bound by the covenant").
+
+Health Coalition argues that the commissions were not earned because a condition precedent—receipt of payment from customers—had not been met, citing *Davis v. Monahan*, 158 So. 2d 433 (Fla. 1963). However, as noted by the Appellee, *Davis* addresses the legal effect of a condition precedent but does not resolve the factual dispute of whether that condition was actually satisfied. Bradley testified that the commissions were earned, creating a factual conflict that precludes the trial court from granting summary judgment in the form of a temporary injunction. The Appellee correctly acknowledges that the "material breach defense, if proven, destroys the employer's claim to relief." Because the defense of material breach, if proven, destroys the employer's claim to relief, the trial court erred in granting the injunction without allowing this issue to be tried.
+
+**C. The Clean Hands Doctrine Applies to Equitable Relief**
+
+The Appellant argues that Health Coalition is barred from seeking equitable relief due to unclean hands. An injunction is an equitable remedy, and the clean hands doctrine is a fundamental principle of equity. See *Holly v. Auld*, 450 So. 2d 217, 218 (Fla. 5th DCA 1984) ("a party seeking equitable relief must come to court with clean hands").
+
+The Appellee's closing argument correctly notes that the clean hands doctrine is "directly applicable" to this case. Bradley alleges that Health Coalition instructed him to commit fraud by altering invoices. If true, this conduct would constitute unclean hands, barring Health Coalition from obtaining the equitable relief it seeks. The Appellee further argues that the "allegations of fraud create a separate barrier to relief." Because the truth of these allegations is a disputed fact that must be resolved at trial, Health Coalition cannot demonstrate the requisite clean hands to support a temporary injunction at this stage.
+
+**D. The Injunction Improperly Adjudicated the Merits**
+
+The Appellee's reliance on *Broward County v. G.B.V. International, Ltd.*, 578 So. 2d 345 (Fla. 4th DCA 1991), is misplaced. While *Broward County* holds that temporary injunctions may preserve the status quo pending trial, it does not permit a court to grant injunctive relief when the factual disputes concern the very existence of the plaintiff's right to relief. Here, granting the injunction effectively adjudicated the material breach defense in Health Coalition's favor without a trial. This is precisely the abuse of discretion prohibited by *Berenson*. See *City of Miami Beach v. Berenson*, 476 So. 2d at 666.
+
+**IV. CONCLUSION**
+
+The trial court abused its discretion in granting the temporary injunction. Genuine issues of material fact exist regarding whether Health Coalition materially breached the employment agreement and whether it engaged in fraudulent conduct. These disputes must be resolved at trial before the noncompetition covenant can be enforced. Both parties, in their respective closing arguments, have acknowledged the controlling authority of *Berenson* and *Hensley* in precluding injunctive relief under these circumstances. The Appellee has expressly requested that this Court affirm the reversal of the temporary injunction. Accordingly, we affirm the reversal of the temporary injunction and remand for further proceedings.
+
+**AFFIRMED.**
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Category | Assessment |
+|----------|------------|
+| **Citation Relevance** | All seven citations are directly on point with the issues of (1) the injunction standard, (2) the prohibition against injunctions when material facts are in dispute, (3) the effect of an employer’s material breach on a non‑competition covenant, (4) the condition‑precedent analysis, (5) the clean‑hands doctrine, and (6) the limits on a temporary injunction’s scope. Each case is used to support a specific proposition in the analysis, making the citations highly relevant. **Score: 4** |
+| **Constraints Extraction** | The analysis identifies the key legal constraints for each authority: <br>• Wheaton – the four‑prong injunction test. <br>• Berenson – absence of genuine material‑fact disputes. <br>• Hensley – employer’s material breach releases the employee. <br>• Davis – satisfaction of a condition precedent. <br>• Holly – clean‑hands requirement for equitable relief. <br>• Broward County – injunction may preserve status‑quo but not resolve disputed rights. All constraints are correctly stated and use proper legal terminology. **Score: 4** |
+| **Argument Validity per Constraint** | The reasoning that ties the facts to each constraint is generally sound. The analysis convincingly shows how (i) the factual disputes defeat the “likelihood of success” prong of Wheaton, (ii) the Berenson rule bars the injunction, (iii) the material‑breach defense under Hensley defeats enforcement, (iv) the Davis condition‑precedent is unsettled, (v) the clean‑hands doctrine under Holly is implicated by the fraud allegation, and (vi) the Broward County case limits the injunction’s reach. The only minor shortfall is that the discussion of Wheaton does not explicitly address the three remaining prongs (irreparable harm, balance of hardships, public interest); however, the core argument for the injunction’s denial is still well‑supported. **Score: 3** |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 3
+}
+```

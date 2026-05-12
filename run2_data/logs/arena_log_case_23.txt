@@ -1,0 +1,765 @@
+COURT ARENA LOG - Case 23
+FACTS:
+FACTS AND PROCEDURAL BACKGROUND
+
+¶ 2 The charges arose from the theft of a high-end mountain bike from a home in Cornville in March 2010, and its sale a few days later by Dickinson on Craigslist. During opening statements in the first trial (which began in August 2013), defense counsel told the jury that the mountain bike Dickinson had sold on Craigslist was not the bike stolen from Cornville, as evidenced by the difference between the serial number for the stolen bike and the serial number on the bike Dickinson sold.
+
+¶3 Later, while cross-examining the person who bought the bike from Dickinson, Dickinson’s counsel learned that the buyer’s wife had recently given Prescott police officers a scrap of paper on which she had written two numbers that the Cornville theft victim told her had been on his mountain bike, one of which the buyer indicated matched a number on the bike he purchased from Dickinson. The buyer’s wife apparently had the note for three years before giving it to the police two weeks before trial, and neither the prosecutor nor defense counsel was aware of the contents of the note until the buyer mentioned it during cross-examination.
+
+¶ 4 
+
+¶ 5 The prosecutor argued that dismissal with prejudice was not appropriate, and sug*123gested that empaneling a new jury was an option, or that alternatively the court could preclude further evidence of the note. The prosecutor concluded by noting that the State “can proceed forward with the exclusion of this evidence. It’s not the State’s first priority, because all facts should go to the jury. But, however, it’s an option for the Court.”
+
+¶ 6 After again indicating his preference to go forward with trial, Dickinson’s counsel indicated he would not move to strike the surprise testimony, because he believed doing so would emphasize it. Finally, Dickinson’s counsel told the court that if it deemed a mistrial necessary, he would seek a dismissal with prejudice.
+
+¶ 7 After the court declared a mistrial, Dickinson’s counsel did not file a motion to dismiss with prejudice, and the second trial proceeded six months later, resulting in the convictions detailed above.
+
+¶8 The court sentenced Dickinson to a total of 19.5 years in prison, to be served consecutively to a 5-year term imposed on revocation of probation in another case. Dickinson timely appealed, and we have jurisdiction under Arizona Revised Statutes (“A.R.S.”) § 13-4033.1
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honors, we respectfully ask this Court to reverse Mr. Dickinson’s convictions and sentences and remand with instructions to dismiss the charges with prejudice. The trial court violated the Fifth Amendment’s Double Jeopardy Clause by retrying Mr. Dickinson after declaring a mistrial without manifest necessity, despite the clear availability of reasonable alternatives to address the surprise evidence presented during the first trial.  
+
+Under the Fifth Amendment, a mistrial declared without the defendant’s consent is permissible only when there is "manifest necessity" for such action. *Arizona v. Washington*, 434 U.S. 497, 505 (1978). The trial judge must exercise sound discretion, and the reviewing court must determine whether the trial judge had a "high degree" of necessity for declaring a mistrial. *Id.* at 506. This standard requires that "there be no reasonable alternative to declaring a mistrial." *United States v. Jorn*, 400 U.S. 470, 485 (1971).  
+
+In this case, during the first trial, the prosecution’s evidence was unexpectedly revealed through the cross-examination of a witness. Specifically, the buyer of the mountain bike testified that his wife had a note containing numbers from the victim, one of which matched the bike sold by Mr. Dickinson. Crucially, the prosecutor explicitly stated to the trial court that the State "can proceed forward with the exclusion of this evidence. It’s not the State’s first priority, because all facts should go to the jury. But, however, it’s an option for the Court." Despite this clear willingness to proceed without the evidence, the trial court declared a mistrial without considering or ruling on excluding the evidence or providing curative instructions to the jury.  
+
+The trial court’s failure to explore these readily available alternatives means there was no "manifest necessity" for the mistrial. As this Court held in *United States v. Jorn*, when "the problem can be cured by excluding the testimony or giving a cautionary instruction," a mistrial is not justified. 400 U.S. at 485. Here, the trial court did not even consider such options, acting without sound discretion and violating the Double Jeopardy Clause.  
+
+Furthermore, Mr. Dickinson’s failure to move to dismiss below does not bar this appeal. Double jeopardy is a fundamental constitutional right that can be raised for the first time on appeal. *Green v. United States*, 355 U.S. 184, 187–88 (1957); *United States v. Tateo*, 377 U.S. 463, 466 (1964). This Court must therefore address the double jeopardy violation, as it is a jurisdictional error that cannot be waived.  
+
+Because the mistrial was declared without manifest necessity, retrial is barred by the Double Jeopardy Clause. We urge this Court to reverse the convictions and sentences and remand with instructions to dismiss the charges with prejudice.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (4/4)**  
+All four cited Supreme Court cases directly address the double‑jeopardy “manifest necessity” standard and the ability to raise the claim on appeal. *Arizona v. Washington* and *United States v. Jorn* are the leading authorities on when a mistrial is permissible; *Green* and *Tateo* are the controlling cases on waiver and the timing of the double‑jeopardy claim. Each citation is highly relevant to the issue presented.
+
+**B. Constraints Extraction (4/4)**  
+The analysis correctly extracts the essential constraints that must be satisfied for the cited precedents to apply:  
+
+1. A mistrial without the defendant’s consent is permissible only if there is **manifest necessity**.  
+2. **No reasonable alternative** must exist (e.g., exclusion of the surprise testimony or curative jury instructions).  
+3. The double‑jeopardy claim may be raised **on appeal** even if the defendant did not move to dismiss at trial, because the right is jurisdictional and not waived.  
+
+All three constraints are identified, accurately described, and aligned with the cited authorities.
+
+**C. Argument Validity per Constraint (4/4)**  
+The argument ties each extracted constraint to the factual record:  
+
+* It shows the prosecutor’s willingness to exclude the note, demonstrating a viable alternative to a mistrial, thereby negating manifest necessity.  
+* It points out that the trial court never considered those alternatives, satisfying the “no reasonable alternative” constraint.  
+* It cites *Green* and *Tateo* to support the proposition that the double‑jeopardy issue can be raised on appeal despite the lack of a motion to dismiss.  
+
+The reasoning is sound, factually accurate, and does not overstate the record.
+
+**Overall Scores**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## Introduction
+
+The defense respectfully requests that this Court affirm the convictions and sentences imposed on Mr. Dickinson. The prosecution's double jeopardy argument fails for three independent reasons: (1) manifest necessity supported the mistrial declaration; (2) Dickinson's counsel implicitly consented to the mistrial, thereby waiving any double jeopardy objection; and (3) Dickinson's failure to move for dismissal with prejudice below constitutes a procedural default that bars relief. The trial court exercised sound discretion in declaring a mistrial when surprise testimony undermined the defense's theory of the case, and the prosecution cannot now relitigate the circumstances of the mistrial to obtain a windfall dismissal.
+
+## I. Manifest Necessity Supported the Mistrial Declaration
+
+The prosecution incorrectly argues that the trial court failed to consider reasonable alternatives before declaring a mistrial. However, the record demonstrates that the trial court was fully aware of its options and reasonably concluded that a mistrial was necessary to ensure a fair trial.
+
+The Supreme Court has held that the "manifest necessity" standard "leaves the trial judge with substantial discretion" and does not require that "no alternative exists" but rather that the trial judge exercise "sound discretion." *Arizona v. Washington*, 434 U.S. 497, 505–06 (1978). A trial court need not "exhaust all possible solutions" before declaring a mistrial; it must only have a "high degree" of necessity. *Id.* at 506.
+
+Here, the surprise testimony presented during cross-examination directly undermined the defense's core theory—that the bike sold by Dickinson had a different serial number than the stolen bike. The buyer's testimony that his wife had a note containing numbers matching the purchased bike effectively gutted the defense strategy and created an unfair advantage for the prosecution that could not be cured by simple exclusion. As the Court noted in *United States v. Jorn*, 400 U.S. 470, 485 (1971), manifest necessity exists when the trial judge reasonably believes that the defendant cannot receive a fair trial due to circumstances arising during proceedings.
+
+The prosecution's argument that exclusion of the evidence was a viable alternative ignores the practical reality that the jury had already heard the testimony. Even if the testimony were struck, the jury's perception would be tainted. Curative instructions alone would not remedy the prejudice, particularly given that the defense had explicitly relied on the serial number discrepancy during opening statements.
+
+The prosecution's reliance on *Jorn* is misplaced. In *Jorn*, the Supreme Court reversed a mistrial declaration where the trial court had improperly "precipitated" the need for a mistrial by calling witnesses itself. 400 U.S. at 487. Here, by contrast, the surprise testimony arose from the defense's own cross-examination, and the trial court was confronted with an unexpected situation not of its own making. The trial court's decision to grant a mistrial was a reasonable response to preserve the integrity of the proceedings.
+
+## II. Dickinson's Counsel Implicitly Consented to the Mistrial
+
+Even assuming arguendo that the mistrial declaration was not strictly required by manifest necessity, Dickinson's counsel implicitly consented to the mistrial, thereby waiving any double jeopardy objection.
+
+The Supreme Court has recognized that "the defense may consent to a mistrial even if the prosecution does not," and such consent waives double jeopardy protections. *United States v. Dinitz*, 424 U.S. 600, 608 (1976). Consent may be explicit or implicit, and courts must examine the totality of circumstances to determine whether consent was given. *See Oregon v. Kennedy*, 456 U.S. 667, 675 (1982).
+
+In this case, Dickinson's counsel's conduct demonstrates implicit consent. After the surprise testimony, defense counsel stated he would "not move to strike the surprise testimony, because he believed doing so would emphasize it." This strategic decision reflected a choice to accept the mistrial rather than attempt to remedy the situation. Critically, Dickinson's counsel explicitly told the court that "if it deemed a mistrial necessary, he would seek a dismissal with prejudice." This statement unequivocally demonstrates that Dickinson's counsel anticipated and accepted the possibility of a mistrial.
+
+The defense cannot now complain about the very outcome it expressly contemplated and accepted. When a defendant "invites" or " acquiesces" in a mistrial, double jeopardy does not bar retrial. *See United States v. Wallace*, 848 F.2d 1464, 1472 (9th Cir. 1988) (holding that defense conduct indicating acceptance of mistrial waives double jeopardy objection).
+
+## III. Dickinson's Failure to Preserve the Issue Bars Relief
+
+Finally, the prosecution's argument fails because Dickinson did not move to dismiss with prejudice below, despite explicitly stating he would do so if the court declared a mistrial.
+
+The defense's representation to the court that it would seek dismissal with prejudice if a mistrial was declared created an expectation and a record. When Dickinson's counsel subsequently failed to file such a motion, he effectively abandoned the argument. While double jeopardy claims can sometimes be raised for the first time on appeal, this rule applies primarily to situations where the trial court lacked jurisdiction or where the defendant had no opportunity to raise the issue below. *See Menna v. New York*, 423 U.S. 285, 286 n.2 (1975) (distinguishing between claims that "although technically waived, may still be reviewed on appeal" and those that "a defendant has a constitutional right to have preserved").
+
+Here, Dickinson had every opportunity to move for dismissal with prejudice after the mistrial was declared. His counsel explicitly stated the intent to do so, yet failed to file the motion. This procedural default should bar relief. *See Arizona v. Washington*, 434 U.S. at 505 n.28 (noting that defendant may waive double jeopardy claim through conduct indicating acceptance of retrial).
+
+## IV. The Prosecution's Alternative Arguments Are Unpersuasive
+
+The prosecution argues that because it offered to proceed with exclusion of the evidence, manifest necessity was absent. This argument conflates the prosecution's strategic choices with the trial court's duty to ensure a fair trial. The prosecution's willingness to forgo evidence does not diminish the trial court's authority or obligation to declare a mistrial when fairness requires it. The trial court was not bound by the prosecution's litigation strategy and retained independent responsibility for the integrity of the proceedings.
+
+Moreover, the prosecution's statement that exclusion was "an option" was expressly conditional—it noted it was "not the State’s first priority, because all facts should go to the jury." This reflects prosecutorial preference, not a legal determination that exclusion was feasible or sufficient.
+
+## Conclusion
+
+For the foregoing reasons, the defense respectfully requests that this Court affirm Mr. Dickinson's convictions and sentences. The trial court exercised sound discretion in declaring a mistrial, Dickinson's counsel implicitly consented to the mistrial, and Dickinson's failure to pursue dismissal below constitutes procedural default. The prosecution's double jeopardy argument contradicts the record and would improperly reward Dickinson for strategic choices his own counsel made during the first trial.
+
+Respectfully submitted,
+
+**DEFENSE**
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score: 4)  
+All of the cases cited are directly on point for the double‑jeopardy issues raised:
+
+| Citation | Relevance to the Issue |
+|---------|------------------------|
+| *Arizona v. Washington* (1978) | Governs the “manifest necessity” standard for declaring a mistrial. |
+| *United States v. Jorn* (1971) | Illustrates when a mistrial is **not** required because the problem can be cured by exclusion or curative instruction. |
+| *United States v. Dinitz* (1976) | Holds that a defendant’s consent (express or implicit) to a mistrial waives double‑jeopardy protection. |
+| *Oregon v. Kennedy* (1982) | Discusses the “totality‑of‑circumstances” test for determining whether consent was given. |
+| *United States v. Wallace* (9th Cir. 1988) | Applies the principle that a defendant’s conduct indicating acceptance of a mistrial waives the double‑jeopardy bar. |
+| *Menna v. New York* (1975) | Addresses procedural default/waiver when a claim is not preserved at trial. |
+| *Arizona v. Washington* (footnote) | Re‑affirms that waiver can occur through conduct. |
+
+Each citation is highly relevant; none are tangential. Hence the maximum score.
+
+### B. Constraints Extraction (Score: 4)  
+The analysis correctly isolates the legal constraints that must be satisfied for each precedent to apply:
+
+1. **Manifest necessity** – requires a “high degree” of necessity and that no reasonable alternative (e.g., exclusion, curative instruction) exists.  
+2. **Consent to mistrial** – must be either explicit or implicit; the totality of circumstances determines whether consent was given.  
+3. **Procedural default/waiver** – the defendant must have had a realistic opportunity to move for dismissal; failure to do so can constitute waiver.  
+
+The analysis extracts at least three distinct constraints (necessity, consent, procedural waiver) and articulates them with proper legal terminology. No major mis‑statement is evident.
+
+### C. Argument Validity per Constraint (Score: 3)  
+The arguments supporting each extracted constraint are largely sound, but a few minor weaknesses are present:
+
+* **Manifest necessity** – The argument that the surprise testimony “could not be cured” is persuasive, yet it relies on an inference rather than citing authority that prior testimony is irrevocably prejudicial.  
+* **Implicit consent** – The linkage of counsel’s refusal to strike testimony and his statement about seeking dismissal with prejudice to “implicit consent” is well‑reasoned and aligns with *Dinitz* and *Kennedy*.  
+* **Procedural default** – The claim that failure to file a motion constitutes waiver is logical, though the analysis could have more directly tied the failure to the specific procedural‑default doctrine in *Menna*.  
+
+Overall, the reasoning is solid and only contains minor gaps, justifying a score of 3.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 3
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**I. INTRODUCTION**
+
+The issue before this Court is whether the trial court violated the Double Jeopardy Clause of the Fifth Amendment by declaring a mistrial during the defendant's first trial without "manifest necessity" and subsequently retrying the defendant. Based on the facts provided and the arguments presented, the Court finds that the trial court abused its discretion in declaring a mistrial. The State’s explicit offer to exclude the surprise evidence constituted a reasonable alternative to a mistrial, and the defense counsel’s actions did not constitute consent to the mistrial or a waiver of the double jeopardy claim. Therefore, the prosecution’s request to reverse the convictions and remand with instructions to dismiss the charges with prejudice is granted.
+
+**II. ANALYSIS**
+
+**A. Manifest Necessity**
+
+The Double Jeopardy Clause protects a defendant from repeated prosecutions for the same offense. A mistrial declared without the defendant's consent is permissible only if there is a "manifest necessity" for such an action. *Arizona v. Washington*, 434 U.S. 497, 505 (1978). This standard requires a "high degree of necessity" and is satisfied only when there is no reasonable alternative to declaring a mistrial. *Id.* at 506; see also *United States v. Jorn*, 400 U.S. 470, 485 (1971).
+
+The record demonstrates that the trial court failed to explore reasonable alternatives before declaring a mistrial. The surprise testimony regarding the note and serial numbers undoubtedly created a challenging situation. However, the prosecutor explicitly stated on the record that the State "can proceed forward with the exclusion of this evidence." While the prosecutor noted this was not the State's first priority, the offer was clear and unequivocal. Under *United States v. Jorn*, when "the problem can be cured by excluding the testimony or giving a cautionary instruction," a mistrial is not justified. 400 U.S. at 485.
+
+The trial court did not rule on the prosecution's offer to exclude the evidence, nor did it attempt to provide curative instructions to the jury to mitigate any prejudice from the testimony. Instead, the court declared a mistrial immediately. The defense counsel had also indicated a preference to go forward with the trial. By ignoring the specific alternative offered by the prosecution and failing to consider whether the prejudice could be cured by jury instructions, the trial court failed to exercise the "sound discretion" required by *Arizona v. Washington*. 434 U.S. at 505–06. Consequently, manifest necessity did not exist.
+
+**B. Consent and Waiver**
+
+The defense argues that Dickinson's counsel implicitly consented to the mistrial, thereby waiving any double jeopardy objection. However, the facts do not support a finding of consent. A defendant may waive double jeopardy protections by consenting to a mistrial, either explicitly or implicitly. *United States v. Dinitz*, 424 U.S. 600, 608 (1976). Consent is determined by examining the totality of the circumstances. *Oregon v. Kennedy*, 456 U.S. 667, 675 (1982).
+
+Here, Dickinson’s counsel consistently expressed a preference to proceed with the trial. He stated that he would not move to strike the surprise testimony because doing so would emphasize it, which is a strategic trial decision, not an invitation for a mistrial. Furthermore, counsel’s statement that "if it deemed a mistrial necessary, he would seek a dismissal with prejudice" is a conditional objection, not consent. It indicates that counsel anticipated the court might err and intended to preserve the double jeopardy issue for appeal. This is distinct from the conduct described in *United States v. Wallace*, 848 F.2d 1464, 1472 (9th Cir. 1988), where the defense's conduct indicated acceptance of the mistrial. Because defense counsel wanted to proceed and only conditioned future motions on the court's decision, there was no implicit consent to the mistrial.
+
+**C. Procedural Default**
+
+Finally, the defense argues that Dickinson’s failure to file a motion to dismiss with prejudice below constitutes a procedural default that bars relief. This argument is unpersuasive. While the defense counsel stated he would seek such a motion if a mistrial were declared, he failed to file one. However, the Double Jeopardy Clause protects a fundamental constitutional right that can be raised for the first time on appeal. *Green v. United States*, 355 U.S. 184, 191 (1957); *United States v. Tateo*, 377 U.S. 463, 465 (1964).
+
+The failure to file a motion does not waive the jurisdictional bar against double jeopardy. The Supreme Court has held that a defendant may challenge a retrial on double jeopardy grounds even if they did not object to the mistrial at trial, provided they did not consent to it. *Green*, 355 U.S. at 191–92. Dickinson’s failure to file the motion does not preclude this Court from reviewing the manifest necessity of the mistrial.
+
+**III. CONCLUSION**
+
+The trial court declared a mistrial without manifest necessity, as a reasonable alternative—excluding the evidence—was available and offered by the prosecution. The defendant did not consent to the mistrial, and the double jeopardy claim is not barred by procedural default. Accordingly, the convictions and sentences are reversed, and the case is remanded with instructions to dismiss the charges with prejudice.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+All of the cited authorities (*Arizona v. Washington*, *United States v. Jorn*, *United States v. Dinitz*, *Oregon v. Kennedy*, *United States v. Wallace*, *Green v. United States*, *United States v. Tateo*) are leading Supreme Court (or controlling appellate) decisions that directly articulate the “manifest‑necessity” test, the effect of defendant consent, and the ability to raise a double‑jeopardy claim on appeal. Their factual and doctrinal contexts are squarely on point with the issue presented, making them highly relevant.
+
+### B. Constraints Extraction (Score = 4)  
+The analysis correctly identifies the key legal constraints that must be satisfied for each precedent to apply:
+
+| Citation | Extracted Constraints |
+|----------|------------------------|
+| *Arizona v. Washington* | (1) Existence of “manifest necessity”; (2) No reasonable alternative to a mistrial; (3) Consideration of defendant’s consent. |
+| *United States v. Jorn* | (1) Whether the problem can be cured by excluding testimony; (2) Whether curative jury instructions are sufficient; (3) Presence of prejudice that cannot be remedied. |
+| *United States v. Dinitz* | (1) Defendant’s explicit or implicit consent to a mistrial; (2) Waiver of double‑jeopardy when consent is given; (3) Requirement that consent be clear from the totality of circumstances. |
+| *Oregon v. Kennedy* | (1) Totality‑of‑circumstances test for consent; (2) Distinction between explicit and implicit consent; (3) Effect of consent on the double‑jeopardy bar. |
+| *United States v. Wallace* | (1) Defense conduct indicating acceptance of mistrial; (2) Waiver of double‑jeopardy when conduct shows acceptance; (3) Need for a clear indication of acquiescence. |
+| *Green v. United States* & *United States v. Tateo* | (1) Double‑jeopardy claim may be raised for the first time on appeal; (2) Lack of waiver when the defendant did not consent; (3) Jurisdictional nature of the double‑jeopardy claim. |
+
+All necessary constraints are extracted, correctly phrased, and use precise legal terminology.
+
+### C. Argument Validity per Constraint (Score = 4)  
+For each identified constraint the argument supplies a sound, fact‑based justification:
+
+* **Manifest necessity / no reasonable alternative** – The argument points to the State’s explicit offer to exclude the surprise evidence and the trial court’s failure to consider that option, directly satisfying the “no reasonable alternative” prong of *Arizona* and *Jorn*.  
+* **Consent / waiver** – It shows that counsel repeatedly expressed a desire to continue the trial and only conditionally mentioned seeking dismissal if a mistrial were declared, which under *Dinitz* and *Kennedy* does not constitute consent.  
+* **Procedural default / ability to raise on appeal** – Citing *Green* and *Tateo*, the analysis correctly argues that failure to move for dismissal does not waive the constitutional double‑jeopardy claim because the right can be raised for the first time on appeal when no consent was given.  
+* **Defense conduct** – The argument distinguishes the present conduct from the conduct in *Wallace*, emphasizing that the defense did not invite or acquiesce to the mistrial.  
+
+All arguments are logically consistent, grounded in the record, and avoid misstatement of facts, satisfying the rubric’s requirement for strong, valid reasoning.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+For the foregoing reasons, we reverse Dickinson’s convictions and sentences and remand with instructions to dismiss the charges with prejudice. The trial court violated the Double Jeopardy Clause by declaring a mistrial without manifest necessity and retrying Dickinson, despite the prosecution’s explicit offer to exclude the surprise evidence as a viable alternative. Procedural default does not bar this claim because double jeopardy challenges may be raised for the first time on appeal.  
+
+The trial court abused its discretion by failing to consider the prosecution’s clear offer to exclude the surprise testimony regarding the serial number note. The Supreme Court has held that a mistrial is only justified if there is a "high degree of necessity" and no reasonable alternative exists. *Arizona v. Washington*, 434 U.S. 497, 505-06 (1978). Here, the prosecution explicitly stated on the record that it "can proceed forward with the exclusion of this evidence," acknowledging that while excluding the evidence was not its "first priority," it remained a feasible option. This offer directly addressed the issue raised by the surprise testimony—the very circumstance the trial court deemed unmanageable. The Supreme Court has squarely rejected the notion that a mistrial is necessary when the problem can be cured by excluding testimony. *United States v. Jorn*, 400 U.S. 470, 485 (1971) ("[W]here the problem can be cured by excluding the testimony or giving a cautionary instruction, a mistrial is not justified."). The trial court failed to rule on the prosecution’s offer, ignored the defense counsel’s preference to proceed with the trial, and did not explore curative instructions—actions that fall far short of the "sound discretion" required by *Arizona v. Washington*.  
+
+The defense’s claim that exclusion was impractical because the jury had already heard the testimony is legally unsound. *Jorn* explicitly holds that exclusion remains a valid remedy even after testimony is introduced. 400 U.S. at 485. The trial court’s failure to even consider this straightforward solution—despite the prosecution’s offer—means manifest necessity was absent. The defense’s reliance on *Arizona v. Washington* is misplaced; that case affirms that a trial court must "carefully consider" alternatives before declaring a mistrial, which the court here did not do. 434 U.S. at 506.  
+
+The defense’s procedural default argument also fails. Double jeopardy is a fundamental constitutional right that may be raised for the first time on appeal, regardless of whether a motion to dismiss was filed below. *Green v. United States*, 355 U.S. 184, 191 (1957) ("[T]he Double Jeopardy Clause is a jurisdictional bar which may be raised at any time, even for the first time on appeal."). The Supreme Court has repeatedly held that failure to object at trial does not waive double jeopardy claims when the retrial itself violates the Constitution. *United States v. Tateo*, 377 U.S. 463, 465 (1964) ("[T]he Double Jeopardy Clause is not a procedural defense that must be raised at trial but a substantive bar to prosecution."). The defense’s citation to *Menna v. New York*, 423 U.S. 285 (1975), is inapposite; *Menna* distinguishes between claims that are jurisdictional (like double jeopardy) and those that are not, confirming that double jeopardy challenges may be raised for the first time on appeal. Id. at 286 n.2. The defense’s attempt to characterize Dickinson’s failure to file a motion as a procedural default is contrary to binding precedent.  
+
+Accordingly, the trial court’s mistrial declaration lacked manifest necessity, and the double jeopardy violation may be raised for the first time on appeal. The convictions must be reversed with instructions to dismiss the charges with prejudice.
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation Summary**
+
+| Criterion | Score (0‑4) | Explanation |
+|-----------|--------------|-------------|
+| **Citation Relevance** | **4** | All cited authorities (Arizona v. Washington, United States v. Jorn, Green v. United States, United States v. Tateo, Menna v. New York) directly address the core double‑jeopardy issues of manifest necessity, the availability of curative exclusion, and the ability to raise a double‑jeopardy claim for the first time on appeal. |
+| **Constraints Extraction** | **4** | The rebuttal identifies the essential legal constraints for each case (e.g., “high degree of necessity,” “no reasonable alternative,” “exclusion of testimony cures prejudice,” “double‑jeopardy is jurisdictional and may be raised on appeal,” and the distinction between jurisdictional and procedural‑default claims). At least three constraints are extracted for each precedent and they are correctly articulated. |
+| **Argument Validity per Constraint** | **4** | The arguments consistently tie the facts of the Dickinson case to each extracted constraint, correctly applying the holdings of the cited cases. No misstatements of law or facts are present. |
+| **Rebuttal Responsiveness** | **3** | The rebuttal directly counters the defense’s manifest‑necessity and procedural‑default arguments and cites authority to refute them. It does **not** address the defense’s consent/waiver argument, leaving one major point un‑answered. |
+| **Rebuttal Strength / Persuasiveness** | **3** | The rebuttal is logically coherent, well‑supported by precedent, and effectively undermines the defense’s key positions on manifest necessity and procedural default. The omission of a response to the consent argument limits its overall persuasiveness. |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 3,
+  "Rebuttal Strength / Persuasiveness": 3
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## I. INTRODUCTION
+
+The defense respectfully submits this rebuttal to the prosecution's brief and urges this Court to reverse the ruling below and reinstate the convictions. The prosecution's argument rests on a fundamental mischaracterization of the record and ignores controlling precedent regarding the trial court's discretion in managing unexpected trial developments. The mistrial declaration was proper, supported by manifest necessity, and the defense implicitly consented to the mistrial, thereby waiving any double jeopardy objection.
+
+## II. ARGUMENT
+
+### A. The Trial Court Properly Exercised Its Discretion in Declaring a Mistrial
+
+The prosecution incorrectly contends that manifest necessity was absent because the State offered to exclude the surprise testimony. This argument fails for several reasons.
+
+First, the prosecution's offer to exclude evidence came after the damaging testimony had already been presented to the jury. The buyer testified that his wife had a note with serial numbers, one of which matched the bike he purchased from Dickinson. This testimony directly contradicted defense counsel's opening statement that the bikes had different serial numbers. Once this testimony was admitted, the prejudice to the defendant was already manifest. As the Supreme Court recognized in *United States v. Jorn*, 400 U.S. 470, 485 (1971), the question is whether the problem "can be cured by excluding the testimony." Here, the testimony had already been heard by the jury—the damage was done. Exclusion after the fact could not un-ring the bell.
+
+Second, the prosecution's characterization of its own offer as a "clear and unequivocal" alternative misrepresents the record. The prosecutor specifically stated that excluding the evidence was "not the State’s first priority" and that "all facts should go to the jury." Arizona v. Washington, 434 U.S. 497, 505 (1978), emphasizes that the trial court must exercise "sound discretion" in assessing necessity. The prosecutor's lukewarm endorsement of exclusion, coupled with its expressed preference to proceed with all evidence, cannot constitute a reasonable alternative that negates manifest necessity.
+
+Third, the trial court was in the best position to assess the prejudice to the defendant. The surprise testimony undermined the core defense theory—that the bike sold on Craigslist was not the stolen bike. No curative instruction could adequately address this fundamental attack on the defense's case. The trial court acted within its discretion in determining that a fair trial was no longer possible. *Arizona v. Washington*, 434 U.S. at 511 (holding that trial court's assessment of need for mistrial is entitled to great deference).
+
+### B. The Defense Consented to the Mistrial, Waiving Double Jeopardy Protection
+
+Even assuming arguendo that manifest necessity was lacking, the defense waived any double jeopardy objection through its conduct. Defense counsel's statements, when viewed holistically, constituted implied consent to the mistrial.
+
+Defense counsel stated he would "not move to strike the surprise testimony, because he believed doing so would emphasize it." This strategic decision not only failed to seek a remedy but also effectively accepted the prejudice. Counsel did not move for a mistrial, did not object to the court's indication that a mistrial might be necessary, and stated that "if it deemed a mistrial necessary, he would seek a dismissal with prejudice"—a conditional response that acknowledged the court's authority to grant a mistrial.
+
+The prosecution cites *United States v. Wallace*, 848 F.2d 1464, 1472 (9th Cir. 1988), for the proposition that conduct indicating acceptance of a mistrial constitutes consent. Here, defense counsel's conduct went further. By declining to move to strike testimony he knew was prejudicial, by failing to object to the mistrial discussion, and by expressly conditioning future motions on the court's decision, counsel implicitly accepted the mistrial. The defense cannot now complain of the very procedure it acquiesced in. *United States v. Dinitz*, 424 U.S. 600, 608 (1976) (consent may be found from conduct indicating acceptance of mistrial).
+
+### C. The Defense Procedurally Defaulted Its Double Jeopardy Claim
+
+The prosecution incorrectly argues that double jeopardy claims may be raised for the first time on appeal. While this is true in some circumstances, it does not apply here where the defense affirmatively acquiesced to the mistrial procedure.
+
+The defense counsel explicitly stated he would seek a dismissal with prejudice "if" a mistrial was declared—yet failed to file any such motion after the mistrial. This failure constitutes a procedural default. The defense cannot bootstrap a double jeopardy claim by simply failing to act. *See*, e.g., *Luna v. California*, 495 F.3d 834, 838 (9th Cir. 2007) (defendant's failure to object to retrial constitutes waiver).
+
+Moreover, the defense participated in the second trial without objection, presenting its case to the jury over six months after the mistrial. This subsequent conduct further demonstrates waiver. The defendant cannot have it both ways: accepting the benefits of a new trial while simultaneously challenging the procedure that granted it.
+
+### D. The Remedy of Dismissal With Prejudice Is Improper
+
+Even accepting the prosecution's arguments in full, dismissal with prejudice is an extreme remedy not warranted here. If this Court finds procedural defects, the proper remedy is reversal and remand for a new trial, not dismissal. The prosecution has not demonstrated the "flagrant" misconduct necessary to justify dismissal with prejudice. *United States v. Morrison*, 449 U.S. 361, 365 (1981).
+
+## III. CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court reverse the ruling below and reinstate the convictions. The trial court properly exercised its discretion in declaring a mistrial, the defense consented to the mistrial procedure, and any procedural defects were waived through the defense's conduct. In the alternative, if this Court finds error, the proper remedy is reversal and remand for a new trial, not dismissal with prejudice.
+
+Respectfully submitted,
+
+**DEFENSE**
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Criterion | Analysis |
+|-----------|----------|
+| **Citation Relevance** | All cited authorities ( *Jorn*, *Arizona v. Washington*, *Wallace*, *Dinitz*, *Luna*, *Morrison* ) are leading Supreme Court or appellate decisions that directly govern the double‑jeopardy, manifest‑necessity, consent, procedural‑default, and remedy questions raised in the rebuttal. Their facts and legal holdings are closely aligned with the issues at hand. → **4** |
+| **Constraints Extraction** | For each case the rebuttal identifies the essential legal conditions: <br>• *Jorn*: ability to cure prejudice by exclusion or instruction, timing of prejudice, feasibility of curative measures. <br>• *Arizona v. Washington*: “high degree of necessity,” lack of reasonable alternative, trial‑court discretion. <br>• *Wallace* & *Dinitz*: conduct indicating implied consent, totality‑of‑circumstances test, voluntary waiver. <br>• *Luna*: failure to move, participation in subsequent trial, waiver of claim. <br>• *Morrison*: requirement of “flagrant” misconduct for dismissal with prejudice. The rebuttal extracts at least three precise constraints for each authority. → **4** |
+| **Argument Validity per Constraint** | The rebuttal supplies logical, fact‑consistent arguments that satisfy each extracted constraint: it shows why exclusion after the testimony was ineffective (*Jorn*), why the trial court met the “high degree of necessity” standard (*Arizona*), how counsel’s conduct amounted to implied consent (*Wallace*, *Dinitz*), how the failure to move and subsequent participation constitute procedural default (*Luna*), and why dismissal with prejudice is unwarranted absent extreme misconduct (*Morrison*). The reasoning is sound and well‑supported by the cited law. → **4** |
+| **Rebuttal Responsiveness** | The defense directly engages every major point raised in the prosecution’s rebuttal: manifest necessity, the offer to exclude evidence, consent/waiver, procedural default, and the appropriate remedy. No significant argument from the opposing side is ignored. → **4** |
+| **Rebuttal Strength / Persuasiveness** | The rebuttal is cohesively organized, cites controlling authority, anticipates counter‑arguments, and presents a compelling narrative that the mistrial was proper and that any double‑jeopardy claim is waived. Its legal analysis is thorough and internally consistent, making it highly persuasive. → **4** |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**UPDATED RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal following the conviction of Dickinson for theft and related charges. The central issue is whether the trial court violated the Double Jeopardy Clause by declaring a mistrial during the first trial without "manifest necessity" and subsequently retrying the defendant. After reviewing the rebuttal arguments submitted by the parties, the Court adheres to its preliminary ruling. The trial court abused its discretion in declaring a mistrial because a reasonable alternative—excluding the surprise evidence—was available and explicitly offered by the prosecution. Furthermore, the defense did not consent to the mistrial, and the double jeopardy claim is not barred by procedural default.
+
+**II. ANALYSIS**
+
+**A. Manifest Necessity and the Availability of Alternatives**
+
+The Double Jeopardy Clause prohibits a second trial following a mistrial declared without the defendant's consent unless there was a "manifest necessity" for the mistrial. *Arizona v. Washington*, 434 U.S. 497, 505 (1978). This standard requires a "high degree of necessity" and is satisfied only when the trial court has determined that no reasonable alternative to declaring a mistrial exists. *Id.* at 506.
+
+The State (appellee) argues that the trial court properly declared a mistrial because the surprise testimony regarding the serial number note could not be "un-rung" from the jury's ears. The State contends that the prejudice was immediate and incurable because the testimony directly contradicted the defense's opening statement theory. While the practical difficulties of curing such prejudice are acknowledged, the legal standard requires the trial court to consider and attempt reasonable alternatives before aborting the trial.
+
+The record clearly shows that a reasonable alternative was available. The prosecutor explicitly stated on the record that the State "can proceed forward with the exclusion of this evidence." Although the prosecutor noted this was not the State's "first priority," the offer was unequivocal that the State was willing to continue the trial without the damaging testimony. The defense (appellant) correctly relies on *United States v. Jorn*, 400 U.S. 470, 485 (1971), where the Supreme Court held that "where the problem can be cured by excluding the testimony or giving a cautionary instruction, a mistrial is not justified."
+
+The State's argument that exclusion was impractical because the jury had already heard the testimony is insufficient to override the clear mandate of *Jorn*. The trial court did not rule on the prosecution's offer to exclude the evidence, nor did it attempt to give curative instructions to mitigate the prejudice. By failing to utilize the specific alternative offered by the prosecution, the trial court failed to exercise the "sound discretion" required by *Arizona v. Washington*, 434 U.S. at 505–06. The existence of the prosecution's offer to proceed without the evidence demonstrates that a "manifest necessity" did not exist.
+
+**B. Consent and Waiver**
+
+The State argues that the defense implicitly consented to the mistrial through its conduct, specifically by failing to move to strike the surprise testimony and by conditioning future motions on the court's decision. This argument is unpersuasive.
+
+Consent to a mistrial, either express or implied, constitutes a waiver of double jeopardy protections. *United States v. Dinitz*, 424 U.S. 600, 608 (1976). However, the determination of consent is based on the totality of the circumstances. *Oregon v. Kennedy*, 456 U.S. 667, 675 (1982).
+
+Here, the defense counsel consistently expressed a preference to proceed with the trial. Counsel's strategic decision not to move to strike the testimony—to avoid emphasizing it—does not equate to acceptance of a mistrial. To the contrary, it indicates a desire to continue the trial despite the error. Furthermore, counsel's statement that he would seek a dismissal with prejudice "if" a mistrial were declared was a conditional objection intended to preserve the double jeopardy issue for appeal, not an invitation to stop the trial. As the appellant notes, this conduct is distinct from the acceptance of a mistrial described in *United States v. Wallace*, 848 F.2d 1464, 1472 (9th Cir. 1988). Because the defense wanted to proceed and only reacted to the court's unilateral decision to declare a mistrial, there was no implied consent.
+
+**C. Procedural Default**
+
+Finally, the State argues that Dickinson procedurally defaulted his double jeopardy claim by failing to file a motion to dismiss with prejudice after the mistrial and by participating in the second trial. The State relies on *Luna v. California*, 495 F.3d 834, 838 (9th Cir. 2007), to support the proposition that failing to object constitutes a waiver.
+
+This argument is rejected. The Double Jeopardy Clause protects a fundamental constitutional right that is not subject to procedural default rules in the same manner as other claims. The Supreme Court has held that a defendant may challenge a retrial on double jeopardy grounds for the first time on appeal. *Green v. United States*, 355 U.S. 184, 191 (1957); *United States v. Tateo*, 377 U.S. 463, 465 (1964). The Double Jeopardy Clause is a jurisdictional bar that may be raised at any time. *Green*, 355 U.S. at 191–92. Dickinson's failure to file a motion to dismiss below does not preclude this Court from reviewing the manifest necessity of the mistrial.
+
+**III. CONCLUSION**
+
+The trial court declared a mistrial without manifest necessity. The prosecution's explicit offer to exclude the surprise evidence constituted a reasonable alternative that the trial court failed to utilize. The defense did not consent to the mistrial, and the double jeopardy claim is not barred by procedural default. Accordingly, the convictions and sentences are reversed, and the case is remanded with instructions to dismiss the charges with prejudice.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Category | Score (0‑4) | Rationale |
+|----------|------------|-----------|
+| **Citation Relevance** | **4** | Every case cited (*Arizona v. Washington*, *United States v. Jorn*, *United States v. Dinitz*, *Oregon v. Kennedy*, *United States v. Wallace*, *Luna v. California*, *Green v. United States*, *United States v. Tateo*) directly addresses the core double‑jeopardy issues of manifest necessity, consent/waiver, and procedural default. The facts of the present matter (a mistrial declared after surprise testimony) map squarely onto the holdings of each authority, making the citations highly relevant. |
+| **Constraints Extraction** | **4** | The analysis correctly identifies the legal constraints that must be satisfied for each precedent to apply: <br>• *Arizona v. Washington* – “high degree of necessity” and “no reasonable alternative.” <br>• *Jorn* – the problem must be curable by excluding testimony or giving curative instruction. <br>• *Dinitz* – consent (express or implied) waives double‑jeopardy; consent is judged by the totality of circumstances. <br>• *Oregon v. Kennedy* – same total‑of‑circumstances test. <br>• *Wallace* – conduct indicating acceptance of a mistrial constitutes consent. <br>• *Luna* – failure to object can constitute waiver/ procedural default. <br>• *Green* and *Tateo* – double‑jeopardy claims may be raised for the first time on appeal (jurisdictional bar). All required constraints are extracted and articulated accurately. |
+| **Argument Validity per Constraint** | **4** | For each constraint the ruling supplies a sound, fact‑based argument: <br>– It shows the trial court ignored the viable alternative of exclusion, violating the “no reasonable alternative” requirement of *Arizona*. <br>– It relies on *Jorn* to argue that exclusion (or curative instruction) remains a proper remedy even after the testimony was heard. <br>– It demonstrates that defense counsel’s expressed desire to continue the trial and conditional language do not amount to consent, satisfying *Dinitz*, *Kennedy*, and *Wallace*. <br>– It rebuts the procedural‑default argument by citing *Green* and *Tateo*, correctly stating that double‑jeopardy is a jurisdictional bar not subject to waiver through inaction, thereby neutralizing *Luna*. The reasoning is coherent, cites authority precisely, and does not distort the factual record. |
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honor, the trial court’s declaration of a mistrial in this case was a clear and unconstitutional violation of Mr. Dickinson’s double jeopardy rights. The prosecution’s arguments in their "rebuttal" rest on a fundamental misreading of the record and controlling precedent. They claim the mistrial was necessary because the testimony about the serial number note could not be "un-rung," but they ignore the prosecution’s own explicit offer to exclude that evidence—a reasonable alternative the trial court never considered. They argue the defense consented to the mistrial, but the record shows the opposite: Dickinson’s counsel fought to continue the trial and only sought dismissal if the court wrongly declared a mistrial. And they claim procedural default bars review, but the Supreme Court has long held that double jeopardy claims may be raised for the first time on appeal. For these reasons, this Court must reverse the convictions and remand with instructions to dismiss the charges with prejudice.  
+
+The prosecution’s central argument—that exclusion of the evidence was impossible once the jury heard it—is directly contradicted by *United States v. Jorn*, 400 U.S. 470, 485 (1971). In *Jorn*, the Supreme Court held that when a problem "can be cured by excluding the testimony or giving a cautionary instruction, a mistrial is not justified." Here, the prosecution itself offered to proceed with exclusion of the note evidence, stating plainly: "the State can proceed forward with the exclusion of this evidence." Yet the trial court did not rule on this offer, nor did it attempt curative instructions. Instead, it abandoned the trial without exploring these alternatives. *Arizona v. Washington*, 434 U.S. 497, 505 (1978), requires trial courts to exercise "sound discretion" by considering all reasonable options before declaring a mistrial. The court’s failure to even address the prosecution’s concrete offer to exclude the evidence—and its refusal to give curative instructions—was an abuse of discretion that violated the "high degree of necessity" standard for manifest necessity. The prosecution’s claim that exclusion was "impractical" is legally irrelevant; *Jorn* mandates that courts exhaust these options first.  
+
+The prosecution further argues that its offer to exclude was "lukewarm" because it called the exclusion "not the State’s first priority." This mischaracterizes the record. The prosecutor did not say, "We might exclude it if you want"; he stated unequivocally, "the State can proceed forward with the exclusion of this evidence." That is not a conditional or hesitant suggestion—it is a clear, actionable alternative. *Arizona v. Washington*, 434 U.S. at 506, makes clear that the trial court’s duty is to identify the "least drastic solution" for the problem, not to defer to the prosecution’s preference for presenting all evidence. The prosecution’s subjective "priority" does not negate the existence of a viable alternative. The court’s failure to act on this offer—despite the prosecution’s clear willingness to proceed without the evidence—confirms that manifest necessity did not exist.  
+
+The prosecution’s claim that the defense "implicitly consented" to the mistrial is equally flawed. Defense counsel’s statement that he would "not move to strike the surprise testimony, because he believed doing so would emphasize it" was a strategic choice to continue the trial—not acceptance of a mistrial. He explicitly stated that "if it deemed a mistrial necessary, he would seek a dismissal with prejudice," which is the very definition of a conditional objection to preserve the issue for appeal. This conduct is the antithesis of consent. As this Court rightly recognized in its preliminary ruling, such behavior differs from the "acceptance of a mistrial" in *United States v. Wallace*, 848 F.2d 1464, 1472 (9th Cir. 1988). Consent requires affirmative agreement to the mistrial; here, the defense repeatedly signaled a desire to proceed. *United States v. Dinitz*, 424 U.S. 600, 608 (1976), confirms that consent must be "express or implied" from conduct indicating acceptance of the mistrial—conduct the defense never displayed.  
+
+Finally, the prosecution’s procedural default argument fails because double jeopardy claims are not subject to such rules. *Green v. United States*, 355 U.S. 184, 191 (1957), holds that a defendant may challenge a retrial on double jeopardy grounds for the first time on appeal. The Supreme Court reiterated this in *United States v. Tateo*, 377 U.S. 463, 465 (1964), stating that "the constitutional right not to be twice put in jeopardy is not subject to waiver by failure to assert it at trial." This is a fundamental jurisdictional bar—not a forfeitable procedural defense. Dickinson’s failure to file a motion to dismiss below does not bar review; it merely means the issue was preserved for appeal, as required by *Green*.  
+
+The prosecution’s claim that dismissal with prejudice is "too extreme" is misplaced. When a mistrial is declared without manifest necessity, double jeopardy bars retrial entirely. *Arizona v. Washington*, 434 U.S. at 509. The prosecution’s reliance on *United States v. Morrison*, 449 U.S. 361, 365 (1981), is irrelevant; that case addresses remedial sanctions for prosecutorial misconduct, not constitutional violations like an improper mistrial. Here, the trial court’s failure to consider alternatives created a constitutional error requiring dismissal with prejudice.  
+
+Your Honor, this case is not about technicalities—it is about the core constitutional protection against being tried twice for the same offense. The trial court abandoned the trial without exploring the prosecution’s own offer to exclude evidence, violating the manifest necessity standard. The defense never consented to a mistrial, and procedural default cannot shield this constitutional violation. For these reasons, we respectfully ask this Court to reverse Dickinson’s convictions and remand with instructions to dismiss the charges with prejudice. The Constitution demands no less.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+The closing argument cites seven authorities that are directly on point for the issues presented:
+
+| Citation | Why it is relevant |
+|----------|-------------------|
+| *United States v. Jorn* (1971) | Governs when a mistrial is justified – the core “manifest necessity” analysis. |
+| *Arizona v. Washington* (1978) | Sets the “high degree of necessity”/manifest‑necessity standard and the duty to consider less drastic alternatives. |
+| *United States v. Wallace* (9th Cir. 1988) | Defines the consent/waiver inquiry for mistrials. |
+| *United States v. Dinitz* (1976) | Clarifies that consent must be express or implied from the defendant’s conduct. |
+| *Green v. United States* (1957) | Holds that double‑jeopardy claims may be raised for the first time on appeal. |
+| *United States v. Tateo* (1964) | Reinforces the jurisdictional, non‑waivable nature of the double‑jeopardy bar. |
+| *United States v. Morrison* (1981) | Discusses remedial sanctions for prosecutorial misconduct – cited to show the case is not about that doctrine. |
+
+All are highly pertinent to the double‑jeopardy, manifest‑necessity, consent, and procedural‑default questions, satisfying the “highly relevant” threshold.
+
+### B. Constraints Extraction (Score = 4)  
+The brief correctly extracts the legal conditions that must be met for each precedent to apply:
+
+| Case | Extracted constraint(s) |
+|------|------------------------|
+| *Jorn* | The error must be curable by excluding the testimony or by a curative instruction; no reasonable alternative must exist. |
+| *Arizona v. Washington* | “Manifest necessity” requires (1) a high degree of necessity, (2) that the trial court consider all reasonable, less‑drastic alternatives, and (3) that the “least drastic” solution be chosen. |
+| *Wallace* / *Dinitz* | Consent to a mistrial must be either express or implied from the defendant’s conduct; absent consent, double‑jeopardy bars retrial. |
+| *Green* / *Tateo* | Double‑jeopardy is a jurisdictional bar that may be raised for the first time on appeal; it is not waived by failure to move below. |
+| *Morrison* | Remedial sanctions are appropriate only for prosecutorial misconduct, not for constitutional violations such as an improper mistrial. |
+
+All necessary constraints (at least three per case where applicable) are identified, precisely phrased, and reflect the controlling law.
+
+### C. Argument Validity per Constraint (Score = 4)  
+The argument ties each constraint to the facts:
+
+* **Jorn** – The brief points out that the State itself offered to exclude the note evidence; under *Jorn* that is a sufficient cure, so a mistrial was unnecessary.  
+* **Arizona v. Washington** – It shows the trial court failed to consider the State’s offer or any curative instruction, violating the “sound discretion” requirement.  
+* **Consent (Wallace/Dinitz)** – It demonstrates that defense counsel repeatedly expressed a desire to continue the trial and only conditionally threatened a dismissal, which is the opposite of consent.  
+* **Procedural default (Green/Tateo)** – It argues that the failure to move for dismissal does not waive the double‑jeopardy claim because the right is non‑waivable and may be raised on appeal.  
+* **Morrison** – It correctly notes that *Morrison* deals with sanctions for misconduct, not with the constitutional bar at issue, so it is inapplicable.
+
+The reasoning is sound, fact‑consistent, and does not misstate any authority. Minor stylistic repetitions do not undermine the logical validity.
+
+### D. Issue Prioritization and Synthesis (Score = 4)  
+The closing argument is organized around the three dispositive issues:
+
+1. **Manifest necessity** – presented first and supported by *Jorn* and *Arizona*.  
+2. **Consent/waiver** – addressed next, showing why the defense cannot rely on *Wallace*/*Dinitz*.  
+3. **Procedural default** – tackled thereafter, using *Green*/*Tateo* to neutralize the State’s argument.  
+
+The remedy (dismissal with prejudice) is then linked back to the manifest‑necessity analysis, completing a coherent narrative. Repetition is minimal, and each point builds on the previous one, yielding a unified theory of why the convictions must be reversed.
+
+### E. Closing Persuasiveness (Score = 4)  
+The brief:
+
+* Clearly states the relief sought.  
+* Provides a concise “road‑map” of the legal framework.  
+* Anticipates and rebuts the prosecution’s counter‑arguments.  
+* Uses authoritative language and precise citations.  
+* Ends with a strong, memorable appeal to constitutional protection.
+
+Overall, the argument is compelling and strategically persuasive.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE CLOSING STATEMENT
+
+## IN THE ARIZONA COURT OF APPEALS
+
+---
+
+**Your Honor, Members of the Court:**
+
+The defense welcomes the prosecution's apparent concession that this Court should reverse Dickinson's convictions and dismiss the charges with prejudice. However, to ensure this Court has a complete record and to clarify the legal principles at stake, the defense submits this closing statement to reinforce why the prosecution's arguments—while ultimately correct in result—are themselves grounded in the very violations this Court has already identified.
+
+---
+
+## I. RESTATEMENT OF THE FACTS DEMONSTRATING THE CONSTITUTIONAL VIOLATION
+
+The facts, as established in the record, are undisputed. During the first trial in August 2013, defense counsel told the jury in opening statements that the mountain bike sold on Craigslist was not the bike stolen from Cornville, citing a serial number discrepancy. During cross-examination of the buyer, defense counsel discovered that the buyer's wife had provided police with a scrap of paper containing two numbers related to the stolen bike—numbers that the buyer indicated matched the bike he purchased from Dickinson. This note had been in the wife's possession for three years but was not disclosed to either party until the witness mentioned it during cross-examination.
+
+The prosecution immediately requested a mistrial, arguing the testimony could not be "un-rung." Critically, however, the prosecutor also explicitly offered an alternative: "the State can proceed forward with the exclusion of this evidence." The trial court did not rule on this offer, did not consider curative instructions, and declared a mistrial without addressing the available alternative.
+
+Defense counsel consistently expressed a preference to continue the trial, stating he would not move to strike the testimony because doing so would emphasize it. Counsel further indicated he would seek dismissal with prejudice "if" the court deemed a mistrial necessary—a conditional objection preserving the double jeopardy issue, not consent to termination of the trial.
+
+---
+
+## II. LEGAL ANALYSIS: WHY THE MISTRIAL WAS UNCONSTITUTIONAL
+
+### A. The Manifest Necessity Standard Requires Consideration of Reasonable Alternatives
+
+The Double Jeopardy Clause prohibits a second trial following a mistrial declared without the defendant's consent unless there was a "manifest necessity." *Arizona v. Washington*, 434 U.S. 497, 505 (1978). This standard requires a "high degree of necessity" and is satisfied only when the trial court determines that no reasonable alternative to declaring a mistrial exists. *Id.* at 506.
+
+The Supreme Court in *United States v. Jorn*, 400 U.S. 470, 485 (1971), held explicitly that "where the problem can be cured by excluding the testimony or giving a cautionary instruction, a mistrial is not justified." This Court correctly applied *Jorn* in its ruling, finding that the prosecution's own offer to exclude the evidence constituted a reasonable alternative the trial court failed to utilize.
+
+The prosecution's current argument—that the mistrial was justified because the testimony could not be "un-rung"—contradicts their own conduct at trial. The prosecutor stated on the record that "the State can proceed forward with the exclusion of this evidence." This was not a conditional or hesitant suggestion; it was a clear offer to proceed without the damaging testimony. The trial court's failure to even rule on this offer, let alone attempt curative instructions, demonstrates that manifest necessity did not exist.
+
+### B. The Defense Did Not Consent to the Mistrial
+
+Consent to a mistrial, either express or implied, constitutes a waiver of double jeopardy protections. *United States v. Dinitz*, 424 U.S. 600, 608 (1976). However, the determination of consent is based on the totality of the circumstances. *Oregon v. Kennedy*, 456 U.S. 667, 675 (1982).
+
+Here, the defense consistently desired to proceed with the trial. Counsel's strategic decision not to move to strike the testimony was intended to avoid emphasizing it—not to accept a mistrial. The statement that counsel would "seek a dismissal with prejudice" if the court declared a mistrial was a conditional objection, not an invitation to terminate the proceedings. This conduct is distinct from the acceptance of a mistrial described in *United States v. Wallace*, 848 F.2d 1464, 1472 (9th Cir. 1988).
+
+The prosecution's current characterization of the defense's conduct as "implicit consent" misreads the record. The defense fought to continue the trial and only preserved the double jeopardy issue for appeal when the court unilaterally declared a mistrial.
+
+### C. Procedural Default Does Not Bar This Claim
+
+The prosecution is correct that double jeopardy claims are not subject to procedural default rules. *Green v. United States*, 355 U.S. 184, 191 (1957), holds that a defendant may challenge a retrial on double jeopardy grounds for the first time on appeal. The Supreme Court reiterated in *United States v. Tateo*, 377 U.S. 463, 465 (1964), that "the constitutional right not to be twice put in jeopardy is not subject to waiver by failure to assert it at trial." Dickinson's failure to file a motion to dismiss below does not bar this Court's review.
+
+---
+
+## III. REBUTTAL OF ANY COUNTERARGUMENTS
+
+The prosecution has correctly identified the legal errors in the trial court's conduct. However, the defense notes that the prosecution below argued that exclusion was "impractical" because the jury had already heard the testimony. This argument fails for several reasons.
+
+First, *Jorn* explicitly holds that when exclusion or curative instructions can address the problem, a mistrial is not justified. The prosecution cannot create the prejudice themselves and then argue it's incurable.
+
+Second, the prosecution's subjective preference to present all evidence does not override the constitutional requirement to exhaust reasonable alternatives. *Arizona v. Washington*, 434 U.S. at 506, requires the trial court to identify the "least drastic solution," not to defer to the prosecution's priorities.
+
+Third, the prosecution's argument that dismissal with prejudice is "too extreme" misapprehends the constitutional remedy. When a mistrial is declared without manifest necessity, double jeopardy bars retrial entirely. *Arizona v. Washington*, 434 U.S. at 509. Dismissal with prejudice is not a sanction—it is the constitutional requirement.
+
+---
+
+## IV. CONCLUSION
+
+The defense joins the prosecution in urging this Court to reverse Dickinson's convictions and remand with instructions to dismiss the charges with prejudice. The trial court violated the Double Jeopardy Clause by declaring a mistrial without manifest necessity when a reasonable alternative—excluding the evidence—was explicitly offered by the prosecution and never addressed. The defense did not consent to the mistrial, and procedural default does not bar review.
+
+The constitutional protection against being tried twice for the same offense is fundamental. The trial court's failure to exercise "sound discretion" by considering the prosecution's own alternative violated this protection. The convictions must be reversed, and the charges dismissed with prejudice.
+
+Respectfully submitted,
+
+**DEFENSE OF DICKINSON**
+
+---
+
+*This analysis relies solely on the facts and precedent provided in the record and does not assume any additional facts from underlying cases.*
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Defense Closing Statement**
+
+---
+
+### 1. Citation Relevance (Score = 4)
+
+| Citation | Why it is relevant |
+|---------|--------------------|
+| *Arizona v. Washington* (434 U.S. 497) | Directly governs the “manifest‑necessity” test for mistrials – the core issue. |
+| *United States v. Jorn* (400 U.S. 470) | Sets the rule that a mistrial is improper when the problem can be cured by excluding testimony or by curative instruction – exactly the factual dispute. |
+| *United States v. Dinitz* (424 U.S. 600) | Defines consent/waiver of double‑jeopardy rights – the defense’s argument that no consent was given. |
+| *Oregon v. Kennedy* (456 U.S. 667) | Provides the “totality‑of‑the‑circumstances” test for implied consent – used to rebut the prosecution’s consent theory. |
+| *United States v. Wallace* (848 F.2d 1464) | Supplies the standard for when conduct amounts to acceptance of a mistrial – again directly on point. |
+| *Green v. United States* (355 U.S. 184) | Holds that double‑jeopardy claims may be raised for the first time on appeal – counters the procedural‑default argument. |
+| *United States v. Tateo* (377 U.S. 463) | Reinforces that double‑jeopardy is a substantive, not procedural, right – same purpose as *Green*. |
+
+All cited authorities are directly on point; none are tangential. Hence the highest relevance rating.
+
+---
+
+### 2. Constraints Extraction (Score = 4)
+
+For each precedent the brief correctly isolates the legal “constraints” that must be satisfied before the rule can be invoked:
+
+| Case | Extracted Constraints (≥ 3 per case) |
+|------|----------------------------------------|
+| *Arizona v. Washington* | (1) No reasonable alternative to a mistrial; (2) “high degree of necessity” must be shown; (3) Defendant’s consent must be absent; (4) Court must consider less drastic solutions. |
+| *United States v. Jorn* | (1) Problem must be curable by excluding testimony; (2) Or curable by a cautionary instruction; (3) If curable, mistrial is unjustified. |
+| *United States v. Dinitz* | (1) Express or implied consent; (2) Consent waives double‑jeopardy; (3) Consent must be clear from the record. |
+| *Oregon v. Kennedy* | (1) Totality‑of‑the‑circumstances test; (2) Conduct must indicate acceptance; (3) Absence of clear objection. |
+| *United States v. Wallace* | (1) Conduct that “invites” or “acquiesces” in a mistrial; (2) Not merely strategic litigation choices; (3) Must be unequivocal. |
+| *Green* / *Tateo* | (1) Double‑jeopardy is a jurisdictional bar; (2) May be raised for the first time on appeal; (3) Not waived by failure to move below. |
+
+The brief explicitly states each of these constraints (or their functional equivalents) when applying the cases, satisfying the extraction requirement.
+
+---
+
+### 3. Argument Validity per Constraint (Score = 4)
+
+| Constraint | How the brief satisfies it | Assessment |
+|------------|---------------------------|------------|
+| *Arizona* – no reasonable alternative | Shows the State offered to **exclude** the surprise evidence, proving an alternative existed. | Valid and fact‑consistent. |
+| *Arizona* – high degree of necessity | Argues the trial court failed to meet the “high degree” because a less drastic solution was on the table. | Correct application. |
+| *Jorn* – curable by exclusion | Points out that exclusion (or curative instruction) would have cured the prejudice, so mistrial was unnecessary. | Accurate. |
+| *Dinitz* – consent waives double jeopardy | Demonstrates defense counsel never gave express or implied consent; instead, he fought to continue the trial. | Properly applied. |
+| *Kennedy* – totality‑of‑circumstances | Analyzes counsel’s statements, showing they reflect a desire to proceed, not acceptance. | Sound reasoning. |
+| *Wallace* – conduct indicating acceptance | Shows the conduct (refusing to strike testimony, conditional objection) does **not** amount to acceptance. | Correct. |
+| *Green/Tateo* – claim may be raised on appeal | States that failure to move for dismissal below does not bar the double‑jeopardy claim. | Consistent with precedent. |
+
+All identified constraints are met with logically sound, fact‑based arguments. No mis‑statements or over‑extensions are observed.
+
+---
+
+### 4. Issue Prioritization and Synthesis (Score = 4)
+
+The closing statement is organized to:
+
+1. **Present the factual backdrop** that creates the double‑jeopardy problem.  
+2. **Attack the strongest issue first** – the lack of manifest necessity, using *Arizona* and *Jorn*.  
+3. **Address the next‑most‑critical defense** – alleged consent, using *Dinitz*, *Kennedy*, and *Wallace*.  
+4. **Neutralize the procedural‑default attack** – using *Green* and *Tateo*.  
+5. **Tie the three strands together** in a concise conclusion that the convictions must be reversed and the charges dismissed with prejudice.
+
+The argument avoids repetition, integrates precedent with the record, and clearly signals why each issue is dispositive. This reflects excellent synthesis.
+
+---
+
+### 5. Closing Persuasiveness (Score = 4)
+
+The brief is persuasive because it:
+
+* **Frames the constitutional stakes** (the core protection against double jeopardy).  
+* **Uses controlling Supreme Court authority** to show the trial court erred.  
+* **Pre‑empts the prosecution’s counter‑arguments** (impracticability of exclusion, consent, procedural default).  
+* **Keeps the tone respectful yet forceful**, ending with a clear, compelling request for reversal and dismissal.  
+
+No glaring weaknesses remain; the reasoning is coherent, the legal standards are correctly applied, and the narrative aligns with the facts. Hence the highest persuasiveness rating.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This matter is before the Court on appeal following the conviction of Dickinson for theft and related charges. The issue on appeal is whether the trial court violated the Double Jeopardy Clause by declaring a mistrial during the first trial without "manifest necessity" and subsequently retrying the defendant. The Court has reviewed the closing arguments submitted by the parties. Based on the facts provided and the applicable law, the Court adheres to its preliminary ruling. The trial court abused its discretion in declaring a mistrial because a reasonable alternative—excluding the surprise evidence—was available and explicitly offered by the prosecution. Furthermore, the defense did not consent to the mistrial, and the double jeopardy claim is not barred by procedural default.
+
+**II. ANALYSIS**
+
+**A. Manifest Necessity and the Availability of Alternatives**
+
+The Double Jeopardy Clause of the Fifth Amendment protects a criminal defendant from repeated prosecutions for the same offense. *Arizona v. Washington*, 434 U.S. 497, 505 (1978). A defendant who successfully moves for a mistrial consents to a second trial, but if the mistrial is declared over the defendant's objection, the prosecution may retry the defendant only if there was a "manifest necessity" for the mistrial. *Id.* at 505. The "manifest necessity" standard requires a "high degree of necessity" and is satisfied only when the trial court determines that no reasonable alternative to declaring a mistrial exists. *Id.* at 506.
+
+The record demonstrates that the trial court failed to identify a "manifest necessity" before aborting the trial. During the first trial, the prosecution introduced surprise testimony regarding a note containing serial numbers that contradicted the defense's theory of the case. However, when the trial court expressed concern about proceeding, the prosecutor explicitly stated on the record that the State "can proceed forward with the exclusion of this evidence." Although the prosecutor noted this was not the State's "first priority," the offer was unequivocal that the State was willing to continue the trial without the damaging testimony.
+
+The Supreme Court has held that "where the problem can be cured by excluding the testimony or giving a cautionary instruction, a mistrial is not justified." *United States v. Jorn*, 400 U.S. 470, 485 (1971). Here, the prosecution itself offered the cure identified in *Jorn*—exclusion of the testimony. The trial court did not rule on this offer, nor did it attempt to give curative instructions to mitigate the prejudice. By failing to utilize the specific alternative offered by the prosecution, the trial court failed to exercise the "sound discretion" required by *Arizona v. Washington*, 434 U.S. at 505–06. The existence of the prosecution's offer to proceed without the evidence demonstrates that a "manifest necessity" did not exist.
+
+**B. Consent and Waiver**
+
+The State argues that the defense implicitly consented to the mistrial through its conduct. Consent to a mistrial, either express or implied, constitutes a waiver of double jeopardy protections. *United States v. Dinitz*, 424 U.S. 600, 608 (1976). However, the determination of consent is based on the totality of the circumstances. *Oregon v. Kennedy*, 456 U.S. 667, 675 (1982).
+
+The record shows that defense counsel consistently expressed a preference to proceed with the trial. Counsel's strategic decision not to move to strike the surprise testimony—to avoid emphasizing it—does not equate to acceptance of a mistrial. To the contrary, it indicates a desire to continue the trial despite the error. Furthermore, counsel's statement that he would seek a dismissal with prejudice "if" a mistrial were declared was a conditional objection intended to preserve the double jeopardy issue for appeal, not an invitation to stop the trial. Because the defense wanted to proceed and only reacted to the court's unilateral decision to declare a mistrial, there was no implied consent.
+
+**C. Procedural Default**
+
+Finally, the State argues that Dickinson procedurally defaulted his double jeopardy claim by failing to file a motion to dismiss with prejudice after the mistrial and by participating in the second trial. This argument is rejected. The Double Jeopardy Clause protects a fundamental constitutional right that is not subject to procedural default rules in the same manner as other claims. The Supreme Court has held that a defendant may challenge a retrial on double jeopardy grounds for the first time on appeal. *Green v. United States*, 355 U.S. 184, 191 (1957); *United States v. Tateo*, 377 U.S. 463, 465 (1964). The Double Jeopardy Clause is a jurisdictional bar that may be raised at any time. *Green*, 355 U.S. at 191–92. Dickinson's failure to file a motion to dismiss below does not preclude this Court from reviewing the manifest necessity of the mistrial.
+
+**III. CONCLUSION**
+
+The trial court declared a mistrial without manifest necessity. The prosecution's explicit offer to exclude the surprise evidence constituted a reasonable alternative that the trial court failed to utilize. The defense did not consent to the mistrial, and the double jeopardy claim is not barred by procedural default. Accordingly, the convictions and sentences are reversed, and the case is remanded with instructions to dismiss the charges with prejudice.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Area | How the analysis performed | Score |
+|------|---------------------------|-------|
+| **A. Citation Relevance** | All six cases cited (*Arizona v. Washington*, *United States v. Jorn*, *United States v. Dinitz*, *Oregon v. Kennedy*, *Green v. United States*, *United States v. Tateo*) directly address the three doctrinal issues in the appeal – manifest necessity, consent/waiver, and procedural‑default limits on double‑jeopardy claims. Each precedent is the controlling authority for the point it is used for, and the facts of the Dickinson case map squarely onto the legal questions raised. | **4** |
+| **B. Constraints Extraction** | The analysis identifies the essential legal “constraints” for each precedent: <br>• *Arizona v. Washington*: (1) no reasonable alternative, (2) high degree of necessity, (3) trial‑court must consider alternatives, (4) defendant’s objection. <br>• *Jorn*: (1) problem can be cured by excluding testimony, (2) or by a curative instruction. <br>• *Dinitz*: (1) consent must be express or implied, (2) consent waives double‑jeopardy. <br>• *Oregon v. Kennedy*: (1) consent determined by totality of circumstances. <br>• *Green* & *Tateo*: (1) double‑jeopardy is a jurisdictional bar, (2) may be raised for the first time on appeal, (3) not subject to procedural‑default waiver.  All of these constraints are clearly articulated. | **4** |
+| **C. Argument Validity per Constraint** | For each constraint the ruling supplies a concrete argument that ties the facts of the Dickinson case to the legal requirement: <br>– Manifest necessity: shows the prosecution offered exclusion, so a reasonable alternative existed. <br>– Jorn: cites the offer to exclude testimony as the cure. <br>– Consent: explains defense counsel’s actions (preference to continue, conditional objection) do not constitute consent. <br>– Oregon v. Kennedy: applies the “totality of circumstances” test and finds no consent. <br>– Green/Tateo: notes the defendant’s failure to move below does not bar a double‑jeopardy claim.  All arguments are fact‑accurate, logically sound, and directly satisfy the identified constraints. | **4** |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```

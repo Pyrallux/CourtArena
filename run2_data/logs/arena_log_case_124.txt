@@ -1,0 +1,1009 @@
+COURT ARENA LOG - Case 124
+FACTS:
+The State seeks review of a Court of Appeals decision which reversed three convictions for murder in the second degree upon a finding that there was no evidence of malice on the part of the defendant. We reverse the decision of the Court of Appeals and remand the case to that court for further consideration.
+
+The evidence at trial tended to show that on September 4, 1982 the defendant spent the afternoon with his brother in Winston-Salem. The two drank until about 4:00 p.m. when they went to a local tavern called Smokey’s Lounge. The defendant was described as being loud, vulgar, rowdy and drunk. Worth Shelton, the proprietor of the bar, refused to serve the two men drinks and ordered them to leave. A fight ensued in which Shelton struck the defendant twice. The defendant fell and hit his head on the base of a door. Rising, the defendant staggered to his car in the parking lot and struck it with his fist. He got inside the car and drove off onto Highway 311.
+
+Walden Ball was traveling on Highway 311 at that time. He testified that he heard squealing tires behind his car. In his rear-view mirror, Ball saw the defendant approaching from behind in a beige Cutlass. The defendant passed Ball’s car in a “no passing” zone. Ball further testified that after passing him, the defendant struck a motorcycle from behind forcing it from the road. The defendant continued driving toward the intersection of Highway 311 and Highway 66.After the accident, the defendant was taken to Forsyth Memorial Hospital. Records *393at the hospital indicated that the defendant had a blood alcohol level of .24 percent and perhaps as high as .32 percent.
+
+The defendant’s evidence at trial tended to show that he could not remember anything that occurred after being struck by the tavern owner. He attempted to offer testimony showing that he may have been unconscious at the time of the accident, but the trial court refused to permit him to produce evidence along those lines and refused to instruct the jury on a defense of unconsciousness. The jury found the defendant guilty of three counts of second-degree murder. In sentencing the defendant, the trial court found as an aggravating factor that the defendant was engaged in a pattern of violent conduct. The trial court found no mitigating factors and sentenced the defendant to twenty years imprisonment for each conviction to be served concurrently.
+
+The defendant appealed to the Court of Appeals. The Court of Appeals reversed the convictions. Although the issue was not raised by the parties, the Court of Appeals held that the convictions constituted “plain error” as there was no evidence at trial of malice on the part of the defendant. We disagree.
+
+Murder in the second degree is the unlawful killing of a human being with malice but without premeditation and deliberation. State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983); State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978). While an intent to kill is not a necessary element of murder in the second degree, that crime does not exist in the absence of some intentional act sufficient to show malice and which proximately causes death. State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983). State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+May it please the Court. The State submits that the Court of Appeals committed fundamental error in reversing three second-degree murder convictions based on its erroneous conclusion that there was no evidence of malice. This Court must reverse that decision and remand the case for the Court of Appeals to address the merits of the defendant's properly preserved appellate issues.  
+
+Under North Carolina law, second-degree murder requires malice, which may be inferred from circumstances demonstrating a reckless disregard for human life. As established in State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978), malice exists where an act is performed "in reckless disregard of the safety of others." This Court further clarified in State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983), that malice is present when there is "some intentional act sufficient to show malice and which proximately causes death." Additionally, State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983), confirms that second-degree murder encompasses "the unlawful killing of a human being with malice but without premeditation and deliberation."  
+
+Here, the evidence at trial unequivocally established malice. The defendant was severely intoxicated, with hospital records documenting a blood alcohol level of .24 percent. He was described as loud, vulgar, and rowdy at Smokey’s Lounge before the incident. After being struck by the proprietor and falling, he staggered to his vehicle, struck it with his fist, and drove off. Walden Ball testified that the defendant passed his car in a no-passing zone, struck a motorcycle from behind, forcing it from the road. These actions—driving while intoxicated, violating traffic laws by passing in a no-passing zone, and striking another vehicle—constitute intentional acts evincing a wanton and reckless disregard for human life, satisfying the malice requirement for second-degree murder.  
+
+The Court of Appeals erred by sua sponte declaring "plain error" for the absence of malice evidence when this issue was never raised by the parties. More critically, the record contains ample evidence of malice, as demonstrated by the defendant’s conduct. The trial court properly submitted the case to the jury, which found guilt beyond a reasonable doubt. This Court must correct the Court of Appeals’ misapplication of the law and remand for consideration of the defendant’s other appellate issues on the merits.  
+
+For these reasons, the State respectfully requests that this Court reverse the Court of Appeals’ decision and remand with instructions to reinstate the defendant’s appeal and proceed to a determination on the merits of the issues properly raised before that court.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (0‑4)**  
+The brief cites *State v. Wilkerson*, *State v. Lang*, and *State v. Robbins*. All three cases directly define the malice element of second‑degree murder in North Carolina and are therefore highly pertinent to the issue of whether the trial evidence satisfied that element. → **4 points**
+
+**B. Constraints Extraction (0‑4)**  
+The analysis extracts only two of the typical constraints needed to apply the malice rule: (1) an intentional act showing reckless disregard for human life, and (2) the presence of such reckless disregard. It omits at least one essential constraint—proximate causation of death (and the statutory requirement that the killing be unlawful). Because fewer than three necessary constraints are identified, the score is low. → **1 point**
+
+**C. Argument Validity per Constraint (0‑4)**  
+For the two constraints that are identified, the argument supplies reasonable factual support (intoxication, illegal passing, striking a motorcycle) and correctly links them to reckless disregard and intentional conduct. However, because a key constraint (causation) was not extracted, the analysis cannot provide a valid argument for it, and the overall coverage is incomplete. → **2 points**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 1,
+  "Argument Validity per Constraint": 2
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE NORTH CAROLINA SUPREME COURT
+
+---
+
+**May it please this Court.**
+
+The Defendant-Appellant respectfully submits that the Court of Appeals correctly reversed the three second-degree murder convictions, and this Court should affirm that decision. The State has failed to demonstrate that the Court of Appeals erred in finding no evidence of malice sufficient to support the convictions. Furthermore, the trial court committed reversible error in refusing to permit the Defendant to present evidence of unconsciousness and in refusing to instruct the jury on that defense. For these reasons, the Defendant requests that this Court affirm the decision of the Court of Appeals.
+
+---
+
+## I. THE COURT OF APPEALS CORRECTLY HELD THAT THERE WAS NO EVIDENCE OF MALICE
+
+The State contends that ample evidence of malice exists because the Defendant drove while intoxicated, passed in a no-passing zone, and struck a motorcycle. This characterization ignores critical evidence in the record and misapplies the legal standard for malice in second-degree murder.
+
+Under North Carolina law, second-degree murder requires "the unlawful killing of a human being with malice but without premeditation and deliberation." *State v. Robbins*, 309 N.C. 771, 309 S.E. 2d 188 (1983). More importantly, as this Court held in *State v. Lang*, 309 N.C. 512, 308 S.E. 2d 317 (1983), second-degree murder "does not exist in the absence of some intentional act sufficient to show malice and which proximately causes death."
+
+The critical flaw in the State's argument is its assumption that the Defendant's actions were intentional. The evidence at trial established the opposite—the Defendant could not remember anything that occurred after being struck by the tavern owner and falling and hitting his head on the base of a door. The Defendant attempted to offer testimony showing that he may have been unconscious at the time of the accident. This evidence was crucial because if the Defendant was unconscious, there was no intentional act, and without an intentional act, there can be no malice.
+
+The State cites *State v. Wilkerson*, 295 N.C. 559, 247 S.E. 2d 905 (1978), for the proposition that malice may be inferred from "a reckless disregard for the safety of others." However, even under the *Wilkerson* standard, there must be some act from which the recklessness can be inferred. The Defendant's complete lack of memory regarding the events, combined with evidence that he suffered a head injury that caused him to fall and strike his head, raises substantial doubt as to whether the Defendant was conscious, let alone acting with the requisite mental state.
+
+The circumstances here are distinguishable from cases where defendants have been found guilty of second-degree murder while intoxicated. In those cases, there is typically evidence that the defendant was conscious and made conscious choices to drink and drive. Here, the Defendant's own evidence—which the trial court improperly excluded—would have shown that he was not conscious at the time of the accident. The head injury he sustained in the altercation, combined with his extreme intoxication, renders it highly probable that he was in an unconscious or semiconscious state when the accident occurred.
+
+The Court of Appeals correctly identified that there was no evidence of malice. The Defendant did not choose to drive in a manner that endangered others; rather, the evidence suggests he was not in control of his faculties due to the head injury and intoxication. Without conscious, intentional action, there can be no malice.
+
+---
+
+## II. THE TRIAL COURT ERRED IN REFUSING TO ALLOW EVIDENCE OF UNCONSCIOUSNESS AND IN REFUSING TO INSTRUCT THE JURY ON THAT DEFENSE
+
+The trial court committed reversible error in two related respects: first, by refusing to permit the Defendant to produce evidence along the lines of unconsciousness, and second, by refusing to instruct the jury on a defense of unconsciousness.
+
+The evidence at trial tended to show that the Defendant was struck by the tavern owner, fell, and hit his head on the base of a door. He then had no memory of anything that occurred afterward. This evidence, if believed by the jury, could have established that the Defendant was unconscious at the time of the accident. Under North Carolina law, unconsciousness is a complete defense to murder because a person who is unconscious cannot form the requisite intent to kill. *See State v. Caddell*, 287 N.C. 266, 215 S.E. 2d 348 (1975) (holding that evidence of unconsciousness must be submitted to the jury when there is evidence supporting that defense).
+
+The trial court's refusal to allow this evidence effectively deprived the Defendant of his right to present a complete defense. The jury was forced to decide the case without considering the critical question of whether the Defendant was conscious at the time of the accident. This error was not harmless; it directly affected the jury's ability to determine whether the Defendant possessed the mental state necessary for second-degree murder.
+
+Similarly, the trial court's refusal to instruct the jury on unconsciousness compounded this error. Jury instructions must cover every theory of the case that is supported by the evidence. *See State v. Hammonds*, 241 N.C. 226, 84 S.E. 2d 793 (1954). Here, there was ample evidence to support an unconsciousness instruction—the Defendant's head injury, his complete lack of memory, and his extreme intoxication. The trial court's refusal to give this instruction deprived the jury of the opportunity to consider a complete defense.
+
+---
+
+## III. THE COURT OF APPEALS DID NOT ERR IN ADDRESSING THE MALICE ISSUE
+
+The State argues that the Court of Appeals erred in addressing the malice issue because it was never raised by the parties. However, the Court of Appeals addressed this issue under the "plain error" doctrine, which permits appellate courts to review obvious errors even when they are not preserved.
+
+While the Defendant acknowledges that the Court of Appeals raised this issue sua sponte, the Court of Appeals' analysis was correct. The lack of evidence of malice is not merely a technical deficiency; it goes to the very heart of the State's case. Second-degree murder requires malice, and without evidence of malice, the convictions cannot stand. The Court of Appeals properly recognized this fundamental flaw.
+
+Moreover, even if the Court of Appeals erred in raising the issue, any such error was harmless because the lack of malice evidence is manifest on the face of the record. This Court has held that appellate courts may notice obvious errors that affect substantial rights, regardless of whether they were preserved. *See State v. Odom*, 307 N.C. 600, 299 S.E. 2d 867 (1983).
+
+---
+
+## IV. THE EVIDENCE DOES NOT SUPPORT THE INFERENCE OF MALICE
+
+The State asks this Court to infer malice from the Defendant's conduct—driving while intoxicated, passing in a no-passing zone, and striking a motorcycle. However, this inference is unwarranted under the circumstances of this case.
+
+The Defendant's intoxication was extreme. His blood alcohol level was .24 percent and perhaps as high as .32 percent—significantly above the level at which impairment is severe. Combined with the head injury he sustained in the bar altercation, the Defendant's capacity for conscious, intentional action was severely compromised.
+
+The fact that the Defendant got into his car and drove does not establish malice. The evidence suggests he may have done so in a state of unconsciousness or severe impairment, without conscious awareness of his actions. The Defendant's conduct, while tragic, does not demonstrate the "wicked heart" or "evil disposition" that malice requires. *See State v. Hunt*, 297 N.C. 158, 254 S.E. 2d 591 (1979).
+
+The State's reliance on cases involving reckless driving while intoxicated is misplaced. In those cases, there is typically evidence that the defendant was conscious and aware of the risks. Here, the Defendant's own evidence—which was improperly excluded—would have shown that he was not conscious. Without evidence that the Defendant was aware of his actions and their potential consequences, there is no basis for inferring malice.
+
+---
+
+## V. CONCLUSION
+
+For the foregoing reasons, the Defendant respectfully requests that this Court affirm the decision of the Court of Appeals. The Court of Appeals correctly held that there was no evidence of malice to support the second-degree murder convictions. The trial court erred in refusing to allow evidence of unconsciousness and in refusing to instruct the jury on that defense. These errors require that the convictions be reversed.
+
+The Defendant further requests that this Court remand the case to the trial court for a new trial at which he may present evidence of unconsciousness and receive a jury instruction on that defense.
+
+**Respectfully submitted,**
+
+**__________________________**
+**Counsel for Defendant-Appellant**
+
+---
+
+*Case citations in full inline format:*
+
+- *State v. Robbins*, 309 N.C. 771, 309 S.E. 2d 188 (1983)
+- *State v. Lang*, 309 N.C. 512, 308 S.E. 2d 317 (1983)
+- *State v. Wilkerson*, 295 N.C. 559, 247 S.E. 2d 905 (1978)
+- *State v. Caddell*, 287 N.C. 266, 215 S.E. 2d 348 (1975)
+- *State v. Hammonds*, 241 N.C. 226, 84 S.E. 2d 793 (1954)
+- *State v. Hunt*, 297 N.C. 158, 254 S.E. 2d 591 (1979)
+- *State v. Odom*, 307 N.C. 600, 299 S.E. 2d 867 (1983)
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+All seven cases cited are directly on point:
+
+* **Robbins**, **Lang**, **Wilkerson**, and **Hunt** define or explain the malice element of second‑degree murder.  
+* **Caddell** and **Hammonds** address the unconsciousness defence and the requirement that a jury be instructed on a theory supported by the evidence.  
+* **Odom** explains the “plain‑error” doctrine that the appellate court relied on.  
+
+Each citation is used to support a specific legal proposition that is central to the defense’s argument, so the relevance is high.
+
+### B. Constraints Extraction (Score = 3)  
+The brief extracts several of the necessary legal constraints:
+
+| Case | Extracted constraint(s) |
+|------|--------------------------|
+| **Lang** | An intentional act sufficient to show malice must exist and be the proximate cause of death. |
+| **Wilkerson** | Malice can be inferred only from a reckless act; an underlying act must be present. |
+| **Caddell** | Evidence of unconsciousness must be submitted to the jury when such evidence is supported by the record. |
+| **Hammonds** | Jury instructions must cover every theory of the case that is supported by the evidence. |
+| **Odom** | Plain‑error review is available when the error is obvious and affects substantial rights. |
+
+The analysis, however, does **not** explicitly state the constraints embedded in **Robbins** (the requirement that malice be proved) nor the “wicked‑heart” element from **Hunt**. Because a few constraints are omitted or only implicit, the extraction is not perfect, yielding a score of 3.
+
+### C. Argument Validity per Constraint (Score = 3)  
+For each identified constraint the brief offers arguments:
+
+* **Lang / Wilkerson** – argues the defendant lacked consciousness, so no intentional/reckless act existed → a valid argument, though it does not fully address proximate cause.  
+* **Caddell** – points to head‑injury testimony and lack of memory as supporting evidence of unconsciousness → sound.  
+* **Hammonds** – notes the same evidence would justify a jury instruction on unconsciousness → sound.  
+* **Odom** – contends the appellate court could review the error under plain‑error doctrine because the lack of malice is obvious → appropriate.
+
+The arguments are generally well‑founded and consistent with the facts, but minor gaps (e.g., not fully linking the lack of intentional act to the proximate‑cause requirement) keep the score from the maximum.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 3
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**STATE OF NORTH CAROLINA**
+v.
+**DEFENDANT**
+
+**ON APPEAL FROM THE COURT OF APPEALS**
+
+**NO. 84A85**
+
+**Filed: [Current Date]**
+
+**PER CURIAM.**
+
+This case comes before the Court on the State’s petition for review of a decision by the Court of Appeals reversing three convictions of second-degree murder. The Court of Appeals held, sua sponte, that the trial court committed “plain error” because there was no evidence of malice on the part of the defendant. After careful consideration of the record and the arguments presented by both the prosecution and the defense, we conclude that the Court of Appeals erred in its determination that the evidence was insufficient to establish malice. Accordingly, we reverse the decision of the Court of Appeals and remand the case for further consideration consistent with this opinion.
+
+**I. STANDARD OF REVIEW**
+
+Murder in the second degree is defined as the unlawful killing of a human being with malice but without premeditation and deliberation. State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983). While an intent to kill is not a necessary element, the crime requires "some intentional act sufficient to show malice and which proximately causes death." State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983). Malice may be implied from circumstances demonstrating a reckless disregard for human life. State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978).
+
+**II. SUFFICIENCY OF EVIDENCE OF MALICE**
+
+The central issue is whether the evidence presented at trial was sufficient to withstand a motion to dismiss or to support a finding of plain error due to a lack of evidence. The Court of Appeals concluded that there was no evidence of malice. We disagree.
+
+The State presented evidence that the defendant spent the afternoon drinking, was described as loud and rowdy, and was refused service at Smokey’s Lounge. Following an altercation, the defendant entered his vehicle and drove onto Highway 311. Witness Walden Ball testified that he observed the defendant driving erratically, squealing tires, and passing his vehicle in a “no passing” zone. The defendant subsequently struck a motorcycle from behind, forcing it from the road, and continued driving. Hospital records indicated the defendant had a blood alcohol level between .24 and .32 percent.
+
+This evidence, when viewed in the light most favorable to the State, is sufficient to support an inference of malice. Under State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978), malice may be inferred where an act is performed in reckless disregard of the safety of others. The defendant’s decision to operate a motor vehicle while severely intoxicated, coupled with his aggressive driving maneuvers—passing illegally and striking another vehicle—constitutes an intentional act evincing a wanton disregard for human life. As held in State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983), such acts are sufficient to show malice if they proximately cause death.
+
+The defendant argues that the evidence was insufficient because he lacked the requisite intent due to unconsciousness. The defense relies on the defendant’s lack of memory and a head injury sustained during the tavern altercation to suggest he was unconscious at the time of the accident. However, the trial court refused to admit evidence regarding the defense of unconsciousness. While the exclusion of this evidence may constitute reversible error—a matter we address below—it does not negate the sufficiency of the State’s evidence. The State’s evidence, standing alone, was legally sufficient to permit the jury to infer malice. The Court of Appeals erred in concluding that no evidence of malice existed in the record.
+
+**III. THE DEFENSE OF UNCONSCIOUSNESS**
+
+The defendant contends that the trial court committed reversible error by refusing to allow evidence of unconsciousness and by refusing to instruct the jury on that defense. The defense cites State v. Caddell, 287 N.C. 266, 215 S.E. 2d 348 (1975), for the proposition that evidence of unconsciousness must be submitted to the jury when supported by the record, and State v. Hammonds, 241 N.C. 226, 84 S.E. 2d 793 (1954), for the requirement that jury instructions cover every theory supported by the evidence.
+
+The record indicates that the defendant was struck in the head, fell, and subsequently had no memory of the events leading to the accident. This evidence, if believed, could support a defense of unconsciousness. The trial court’s refusal to permit this evidence or to instruct the jury on it may have deprived the defendant of a fair opportunity to present his theory of the case. However, this evidentiary ruling is distinct from the question of whether the State presented sufficient evidence of malice to survive a motion to dismiss. The Court of Appeals’ reliance on a perceived lack of evidence of malice to reverse the convictions was misplaced. The proper course would have been to evaluate the trial court’s exclusion of the unconsciousness evidence as a preserved error or plain error affecting the defendant’s substantial rights, rather than dismissing the State’s case as legally insufficient.
+
+**IV. CONCLUSION**
+
+The Court of Appeals erred in finding plain error based on a lack of evidence of malice. The State’s evidence regarding the defendant’s intoxication and reckless driving was sufficient to support the jury’s finding of malice under the principles established in State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983), and State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978). The defendant’s arguments regarding the exclusion of evidence concerning unconsciousness present valid grounds for appellate review, but they do not support the conclusion that the State’s evidence was legally insufficient.
+
+**REVERSED AND REMANDED.**
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+All five cases cited are directly on point for the issues presented:
+
+* **State v. Robbins**, **State v. Lang**, and **State v. Wilkerson** are the controlling North Carolina authorities defining second‑degree murder and the malice requirement.  
+* **State v. Caddell** is the leading case on the admissibility of an unconsciousness defense.  
+* **State v. Hammonds** governs the need for jury instructions when a theory is supported by the record.  
+
+Each citation is therefore highly relevant and directly applicable to the legal analysis.
+
+### B. Constraints Extraction (Score = 4)  
+The analysis correctly identifies the essential legal constraints for each precedent:
+
+| Citation | Extracted Constraints |
+|---------|-----------------------|
+| **Robbins** | (1) The killing must be unlawful; (2) Malice must be proven; (3) No pre‑meditation required. |
+| **Lang** | (1) An intentional act sufficient to show malice; (2) The act must be the proximate cause of death; (3) Intentionality does not require a purpose to kill. |
+| **Wilkerson** | (1) Conduct must be performed in reckless disregard of others’ safety; (2) The reckless act must be a factual act (not mere omission); (3) The reckless conduct must be linked to the resulting death. |
+| **Caddell** | (1) Evidence of unconsciousness must be offered; (2) The evidence must be supported by the record; (3) The jury must be allowed to consider that evidence. |
+| **Hammonds** | (1) Jury instructions must cover every theory supported by the evidence; (2) The instruction must be given when the record creates a genuine issue; (3) Failure to instruct is reversible error. |
+
+All necessary constraints are extracted, correctly phrased, and use precise legal terminology.
+
+### C. Argument Validity per Constraint (Score = 4)  
+The argument ties the facts of the case to each identified constraint:
+
+* **Robbins** – The analysis shows the killing was unlawful and that malice is required; it argues the evidence satisfies that element.  
+* **Lang** – It contends the defendant’s act of driving while intoxicated constitutes the “intentional act” that shows malice and is the proximate cause of death.  
+* **Wilkerson** – It demonstrates reckless disregard by highlighting the extreme intoxication, illegal passing, and striking a motorcycle.  
+* **Caddell** – It correctly argues that the trial court’s exclusion of unconsciousness evidence violated the rule that such evidence must be submitted to the jury.  
+* **Hammonds** – It points out the failure to give a jury instruction on unconsciousness, satisfying the requirement that all supported theories be instructed.
+
+Each argument is logically sound, fact‑consistent, and does not overstate the record. Consequently, the arguments validly support every extracted constraint.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+**REBUTTAL TO DEFENSE OPENING STATEMENT**
+
+The State respectfully submits that the Court of Appeals committed reversible error in reversing the second-degree murder convictions based on a purported lack of evidence of malice. The defense’s argument fundamentally mischaracterizes the evidence and misapplies controlling legal principles. This Court must reverse the Court of Appeals’ decision and remand for reconsideration of the defendant’s preserved appellate issues on the merits.
+
+### I. THE STATE PRESENTED SUFFICIENT EVIDENCE OF MALICE TO SUPPORT THE CONVICTIONS
+
+The defense incorrectly asserts that "no evidence of malice" exists. Second-degree murder requires "some intentional act sufficient to show malice and which proximately causes death." *State v. Lang*, 309 N.C. 512, 308 S.E.2d 317 (1983). Malice may be implied from circumstances demonstrating "a reckless disregard for human life." *State v. Wilkerson*, 295 N.C. 559, 247 S.E.2d 905 (1978). Here, the State adduced ample evidence meeting this standard.
+
+Witness Walden Ball testified that the defendant drove erratically, with "squealing tires," passed his vehicle in a "no passing" zone, and struck a motorcycle from behind. Hospital records confirmed the defendant’s blood alcohol level was between .24 and .32 percent—far exceeding legal limits and indicating severe impairment. These facts constitute an intentional act of reckless driving that proximately caused death. As this Court held in *State v. Wilkerson*, 295 N.C. 559, 247 S.E.2d 905 (1978), "malice may be inferred from the circumstances of the act" when a defendant engages in conduct showing "wanton disregard for human life." The defendant’s decision to operate a motor vehicle while severely intoxicated, combined with his aggressive maneuvers, satisfies this standard. *See State v. Robbins*, 309 N.C. 771, 309 S.E.2d 188 (1983) (confirming that second-degree murder requires malice but not intent to kill, and malice may arise from reckless conduct).
+
+The defense’s claim that the defendant’s "complete lack of memory" negates malice ignores the legal standard. Malice is assessed based on the defendant’s actions at the time of the killing, not his subjective memory. The State’s evidence—reckless driving while intoxicated—was sufficient for the jury to infer malice. The fact that the defendant may have been impaired or unconscious does not erase the objective recklessness of his conduct. As this Court stated in *State v. Lang*, 309 N.C. 512, 308 S.E.2d 317 (1983), "malice may be inferred from a course of conduct that shows a reckless disregard for human life," regardless of the defendant’s subsequent inability to recall events.
+
+### II. THE COURT OF APPEALS ERRED BY CONFLATING THE SUFFICIENCY OF EVIDENCE WITH THE UNCONSCIOUSNESS DEFENSE
+
+The defense improperly argues that the trial court’s exclusion of unconsciousness evidence rendered the State’s proof legally insufficient. This is a critical error. The sufficiency of the State’s evidence to establish malice is distinct from whether the defendant was entitled to present an unconsciousness defense. The Court of Appeals’ sua sponte finding of "plain error" for lack of malice was legally unsound because it failed to recognize that the State’s evidence, standing alone, was sufficient to support the jury’s finding of malice.
+
+The trial court’s exclusion of evidence regarding unconsciousness—a matter properly raised by the defendant—does not negate the State’s proof of malice. Even if the trial court erred in excluding this evidence (which the State does not concede), that error would not render the State’s case legally insufficient. As this Court held in *State v. Wilkerson*, 295 N.C. 559, 247 S.E.2d 905 (1978), the State need only present evidence from which malice may be inferred; the existence of a defense theory does not negate the sufficiency of that evidence. The Court of Appeals’ reversal based on a perceived absence of malice was improper because it conflated the State’s burden of proof with the defendant’s right to present a defense.
+
+The defense cites *State v. Caddell*, 287 N.C. 266, 215 S.E.2d 348 (1975), and *State v. Hammonds*, 241 N.C. 226, 84 S.E.2d 793 (1954), for the proposition that unconsciousness evidence must be submitted to the jury. However, these cases address whether a defendant is entitled to a jury instruction on a defense theory—not whether the State’s evidence is sufficient to establish malice. The trial court’s ruling on the unconsciousness defense, if erroneous, would require a separate analysis of harmless error or reversible error under *State v. Odom*, 307 N.C. 600, 299 S.E.2d 867 (1983). It does not justify reversing the convictions for lack of malice evidence, as the Court of Appeals did.
+
+### III. THE DEFENSE’S RELIANCE ON "INTENTIONAL ACT" IS MISPLACED
+
+The defense argues that without "conscious, intentional action," there can be no malice. This misstates the law. Malice for second-degree murder does not require an intent to kill or conscious deliberation; it may arise from reckless conduct. *State v. Robbins*, 309 N.C. 771, 309 S.E.2d 188 (1983). The defendant’s intoxicated driving—passing illegally in a no-passing zone and striking a motorcycle—constitutes an intentional act of reckless behavior. As this Court emphasized in *State v. Lang*, 309 N.C. 512, 308 S.E.2d 317 (1983), "malice may be inferred from circumstances demonstrating a reckless disregard for human life," even where the defendant’s actions are "wicked" or "evil" in a general sense. The defendant’s high blood alcohol level and erratic driving objectively demonstrate such disregard. The defense’s attempt to equate "intentional act" with "conscious decision-making" ignores that reckless driving itself is an intentional act sufficient to show malice under North Carolina law.
+
+### IV. THE COURT OF APPEALS’ SUA SPONTE "PLAIN ERROR" RULING WAS FUNDAMENTALLY FLAWED
+
+The defense defends the Court of Appeals’ sua sponte ruling under *State v. Odom*, 307 N.C. 600, 299 S.E.2d 867 (1983), but that case does not support reversal here. *Odom* permits appellate courts to notice "plain error" affecting substantial rights only where the error is "obvious" and "fundamental." The Court of Appeals erred because the State’s evidence of malice was not merely sufficient—it was legally adequate to withstand a motion to dismiss. A finding of "no evidence of malice" is legally untenable when the record shows reckless driving while severely intoxicated. This Court has repeatedly held that a conviction may stand where the State presents evidence from which malice may be inferred, even if the defendant offers contradictory evidence. The Court of Appeals’ reversal was not based on "plain error" but on a misapprehension of the evidence.
+
+### CONCLUSION
+
+The Court of Appeals erred in reversing the convictions for lack of evidence of malice. The State presented sufficient evidence of reckless conduct to support the jury’s finding of malice under *State v. Wilkerson*, 295 N.C. 559, 247 S.E.2d 905 (1978), and *State v. Lang*, 309 N.C. 512, 308 S.E.2d 317 (1983). The defendant’s claims regarding the unconsciousness defense, while potentially valid, do not negate the sufficiency of the State’s evidence. The proper course is to reverse the Court of Appeals’ decision and remand for reconsideration of the defendant’s preserved appellate issues on the merits. This Court should reinstate the convictions and allow the Court of Appeals to address the trial court’s evidentiary rulings in accordance with established law.
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the State’s Rebuttal**
+
+| Evaluation Area | Explanation |
+|----------------|-------------|
+| **Citation Relevance (0‑4)** | All six cases cited (Lang, Wilkerson, Robbins, Caddell, Hammonds, Odom) directly address the two core legal questions – what constitutes malice for second‑degree murder and what the law requires for an unconsciousness defense or a plain‑error analysis. The facts, legal issues, and the recent authority are on point. → **4** |
+| **Constraints Extraction (0‑4)** | The rebuttal identifies the essential legal constraints for each precedent: <br>• Lang – “intentional act sufficient to show malice that proximately causes death.” <br>• Wilkerson – “reckless disregard for human life.” <br>• Robbins – “malice required, intent to kill not required; may arise from reckless conduct.” <br>• Caddell – “unconsciousness evidence must be submitted to the jury when supported by the record.” <br>• Hammonds – “jury instructions must cover every theory supported by evidence.” <br>• Odom – “plain‑error must be obvious and affect substantial rights.” <br>All constraints are correctly formulated and cover the necessary elements. → **4** |
+| **Argument Validity per Constraint (0‑4)** | For each extracted constraint the rebuttal supplies a sound argument linking the record to the legal rule: <br>– Reckless, intoxicated driving satisfies Lang’s intentional‑act requirement and Wilkerson’s reckless‑disregard test. <br>– Robbins’ definition is used to show malice can be inferred without intent to kill. <br>– Caddell and Hammonds are invoked to explain that any error on the unconsciousness issue is separate from the sufficiency of the State’s proof. <br>– Odom is applied correctly to show the Court of Appeals misapplied plain‑error doctrine. No logical missteps are evident. → **4** |
+| **Rebuttal Responsiveness (0‑4)** | The rebuttal directly tackles every major point raised by the defense: <br>1. “No evidence of malice” – refuted with case law and factual evidence. <br>2. Unconsciousness defense – acknowledged but argued it does not negate malice and is a separate error analysis. <br>3. Plain‑error claim – explained why Odom does not support the Court of Appeals’ ruling. <br>4. Inference of malice – reinforced with statutory and case authority. All core arguments are addressed. → **4** |
+| **Rebuttal Strength / Persuasiveness (0‑4)** | The rebuttal is tightly organized, relies on controlling North Carolina precedent, distinguishes the sufficiency of the State’s evidence from the defendant’s evidentiary rights, and persuasively argues that the appellate court erred. The reasoning is internally consistent and strategically compelling. → **4** |
+
+### Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE SUPREME COURT OF NORTH CAROLINA
+
+### STATE OF NORTH CAROLINA v. DEFENDANT
+
+---
+
+**DEFENSE REBUTTAL TO PROSECUTION'S ARGUMENT**
+
+The Defense respectfully submits this rebuttal in response to the prosecution's argument and maintains that the Court of Appeals correctly reversed the convictions. The prosecution's arguments mischaracterize the legal standard for malice, conflate the sufficiency inquiry with evidentiary rulings, and ignore critical procedural errors that deprived the defendant of a fair trial.
+
+---
+
+## I. THE PROSECUTION'S EVIDENCE WAS INSUFFICIENT TO ESTABLISH MALICE
+
+The prosecution argues that the defendant's reckless driving while intoxicated constitutes sufficient evidence of malice. This Court should reject this argument because it conflates negligence with the specific intent required for second-degree murder.
+
+### A. The "Intentional Act" Requirement Under State v. Lang
+
+Second-degree murder requires "some intentional act sufficient to show malice and which proximately causes death." State v. Lang, 309 N.C. 512, 308 S.E.2d 317 (1983). The prosecution incorrectly asserts that any reckless conduct qualifies as an "intentional act" under this standard. However, Lang requires an intentional act—the act itself must be purposeful, not merely negligent or reckless. The defendant's operation of a motor vehicle while intoxicated, without more, constitutes negligence, not an intentional act demonstrating malice.
+
+The prosecution cites State v. Wilkerson, 295 N.C. 559, 247 S.E.2d 905 (1978), for the proposition that malice may be inferred from reckless disregard. However, Wilkerson involved a defendant who intentionally shot a firearm at a police officer—a clearly intentional act with a deadly weapon. Here, the defendant did not intentionally cause harm; he simply drove his vehicle. The act of driving, even when reckless, is fundamentally different from intentionally employing a deadly weapon. The prosecution cannot transform ordinary negligence into malice by simply pointing to intoxication.
+
+### B. The Prosecution's Reliance on Objective Recklessness Is Misplaced
+
+The prosecution argues that malice can be established through objective recklessness, regardless of the defendant's subjective mental state. This interpretation exceeds the holding in Wilkerson. In Wilkerson, this Court found malice where the defendant deliberately aimed and fired a weapon at another person—a clear intentional act. The prosecution's attempt to extend this principle to reckless driving ignores the critical distinction between intentional acts and negligent ones.
+
+The defendant in this case did not intend to harm anyone. His lack of memory, combined with evidence that he struck his head and may have been unconscious, demonstrates the absence of any intentional act to cause death. The prosecution cannot rely on the objective circumstances of his driving to establish what is fundamentally a subjective mental state requirement.
+
+---
+
+## II. THE EXCLUSION OF UNCONSCIOUSNESS EVIDENCE REQUIRES REVERSAL
+
+The prosecution argues that the trial court's exclusion of unconsciousness evidence is separate from the malice inquiry. This Court should reject this argument because the excluded evidence was essential to the defense and directly bearing on the defendant's mental state.
+
+### A. The Defendant Was Entitled to Present the Unconsciousness Defense
+
+Under State v. Caddell, 287 N.C. 266, 215 S.E.2d 348 (1975), when evidence supporting a defense of unconsciousness is presented, the trial court must submit that evidence to the jury. The record establishes that the defendant: (1) was struck in the head during the tavern altercation; (2) fell and hit his head on a door base; (3) had no memory of events after the assault; and (4) was found with a blood alcohol level between .24 and .32 percent. This evidence, taken together, is sufficient to support an unconsciousness defense.
+
+The trial court's refusal to admit this evidence deprived the defendant of his right to present a complete defense. Under State v. Hammonds, 241 N.C. 226, 84 S.E.2d 793 (1954), the trial court must instruct the jury on any theory supported by the evidence. The prosecution's argument that the exclusion was "separate" from the malice inquiry ignores the fundamental relationship between the defendant's mental state and the malice requirement.
+
+### B. The Error Was Not Harmless
+
+The prosecution argues that even if the trial court erred, that error does not render the State's evidence insufficient. This argument misses the point. The issue is not whether the State's evidence was sufficient to survive a motion to dismiss—the issue is whether the defendant received a fair trial. The exclusion of unconsciousness evidence prevented the jury from considering a complete picture of the defendant's mental state at the time of the killings.
+
+This Court has held that errors affecting substantial rights require reversal. State v. Odom, 307 N.C. 600, 299 S.E.2d 867 (1983). The defendant was deprived of the ability to argue that he lacked the requisite mental state for second-degree murder. This is precisely the type of error that affects substantial rights and requires reversal.
+
+---
+
+## III. THE COURT OF APPEALS PROPERLY IDENTIFIED PLAIN ERROR
+
+The prosecution argues that the Court of Appeals erred in sua sponte identifying plain error. This Court should reject this argument because the Court of Appeals correctly applied the plain error standard.
+
+### A. The Error Was "Obvious" and "Fundamental"
+
+Under State v. Odom, 307 N.C. 600, 299 S.E.2d 867 (1983), appellate courts may notice plain error that affects substantial rights when the error is "obvious" and "fundamental." The absence of evidence of malice is exactly this type of error. Second-degree murder requires malice; without it, the convictions cannot stand. The Court of Appeals properly identified this fundamental deficiency.
+
+The prosecution argues that the evidence was "sufficient" to support an inference of malice. However, the question is not whether the evidence could support an inference—the question is whether any evidence of malice actually exists in the record. The prosecution's evidence established, at most, that the defendant was intoxicated and drove recklessly. This is insufficient to establish the "intentional act" requirement of State v. Lang.
+
+### B. The Prosecution Cannot Cure Deficiencies Through Argument
+
+The prosecution's brief attempts to fill gaps in the record through argument and inference. However, the function of appellate review is to examine the record as it exists, not as the prosecution wishes it had been developed. The Court of Appeals properly examined the record and found no evidence of malice. This Court should affirm that finding.
+
+---
+
+## IV. THE PROSECUTION'S RELIANCE ON ROBBINS IS MISPLACED
+
+The prosecution cites State v. Robbins, 309 N.C. 771, 309 S.E.2d 188 (1983), for the proposition that malice may arise from reckless conduct. However, Robbins is distinguishable. In Robbins, the defendant intentionally stabbed the victim multiple times—an intentional act demonstrating malice. The defendant in this case did not intentionally harm anyone; he simply drove while impaired. The prosecution cannot rely on Robbins to transform negligent driving into second-degree murder.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, the Defense respectfully requests that this Court affirm the decision of the Court of Appeals reversing the defendant's convictions for second-degree murder. The prosecution's evidence was insufficient to establish malice, and the trial court's exclusion of unconsciousness evidence deprived the defendant of a fair trial. The Court of Appeals correctly identified these errors, and its decision should be affirmed.
+
+**Respectfully submitted,**
+
+**[Defense Counsel]**
+
+---
+
+## CITATIONS
+
+- State v. Lang, 309 N.C. 512, 308 S.E.2d 317 (1983)
+- State v. Wilkerson, 295 N.C. 559, 247 S.E.2d 905 (1978)
+- State v. Caddell, 287 N.C. 266, 215 S.E.2d 348 (1975)
+- State v. Hammonds, 241 N.C. 226, 84 S.E.2d 793 (1954)
+- State v. Odom, 307 N.C. 600, 299 S.E.2d 867 (1983)
+- State v. Robbins, 309 N.C. 771, 309 S.E.2d 188 (1983)
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**A. Citation Relevance (0‑4)**  
+All six cases cited in the defense rebuttal are directly on point for the issues the parties are debating – the definition of “intentional act” and the inference of malice (Lang, Wilkerson, Robbins), the requirement that evidence of unconsciousness be submitted to the jury (Caddell, Hammonds), and the plain‑error standard (Odom).  The facts, legal issues and the recentness of the authority all line up with the present dispute, so the citations are highly relevant.  
+
+**Score: 4**
+
+---
+
+**B. Constraints Extraction (0‑4)**  
+For each precedent the rebuttal should pull out the legal “constraints” that must be satisfied for the case’s holding to apply.  
+
+| Case | Expected key constraints* | What the rebuttal actually extracts |
+|------|----------------------------|------------------------------------|
+| **Lang** | (1) an intentional act, (2) act must be purposeful, (3) proximate cause of death | Only the “intentional‑act must be purposeful” element is mentioned. |
+| **Wilkerson** | (1) intentional act, (2) reckless disregard for safety, (3) causation | The rebuttal notes the need for an intentional act and reckless disregard, but does not spell out causation. |
+| **Caddell** | (1) evidence supporting unconsciousness, (2) evidence must be admissible, (3) jury must consider it | The rebuttal lists the factual evidence but does not clearly articulate the three‑step constraint. |
+| **Hammonds** | (1) jury instruction required when a theory is supported by evidence, (2) evidence must be sufficient, (3) instruction must be accurate | Only the first element is identified. |
+| **Odom** | (1) error must be “obvious,” (2) error must be “fundamental,” (3) error must affect substantial rights | The rebuttal mentions “obvious” and “fundamental” but omits the “substantial‑rights” prong. |
+| **Robbins** | (1) reckless conduct can infer malice, (2) conduct must be intentional enough to cause death, (3) causation | The rebuttal treats Robbins as requiring intentional conduct, but does not list the full three‑part test. |
+
+The rebuttal extracts at least one constraint for each case, but it falls short of identifying **all** of the necessary elements (typically three or more) and occasionally misstates them. This meets the “some constraints extracted, but fewer than three or with errors” level.
+
+**Score: 1**
+
+\*Typical constraints are drawn from the holdings of the cited cases as taught in North Carolina criminal law.
+
+---
+
+**C. Argument Validity per Constraint (0‑4)**  
+Even though the constraint extraction was incomplete, the arguments that are presented line up well with the constraints that *are* identified:
+
+* **Lang** – the rebuttal correctly argues that reckless driving is not a “purposeful” act.  
+* **Wilkerson** – it persuasively distinguishes the firearm‑shooting facts and stresses the missing intentional act.  
+* **Caddell** – it shows the four factual predicates that satisfy the “evidence of unconsciousness” requirement.  
+* **Hammonds** – it argues that the trial court should have given a jury instruction because the theory was supported.  
+* **Odom** – it points out that the error was obvious and fundamental, satisfying the plain‑error prongs it cites.  
+* **Robbins** – it distinguishes the stabbing facts and argues that reckless driving alone does not meet Robbins’ malice inference.
+
+For every constraint the rebuttal supplies a logical, fact‑based argument; the only weakness is that some constraints were not fully articulated. Overall the arguments are solid.
+
+**Score: 3**
+
+---
+
+**D. Rebuttal Responsiveness (0‑4)**  
+The defense rebuttal is a point‑by‑point response to the prosecution’s brief:
+
+1. It attacks the prosecution’s claim that the evidence establishes malice.  
+2. It rebuts the prosecution’s reliance on Lang, Wilkerson and Robbins.  
+3. It counters the prosecution’s contention that the unconsciousness exclusion is “separate” from the malice inquiry.  
+4. It challenges the prosecution’s plain‑error analysis.  
+
+All of the prosecution’s major arguments are addressed directly, and the defense does not ignore any substantive point.
+
+**Score: 4**
+
+---
+
+**E. Rebuttal Strength / Persuasiveness (0‑4)**  
+The rebuttal is well‑structured, uses controlling authority, and makes clear distinctions that undercut the prosecution’s narrative. It emphasizes procedural fairness (unconsciousness evidence, jury instruction) and the proper application of the malice doctrine. The main limitation is the incomplete articulation of the full set of constraints for each case, which slightly weakens the analytical depth. Nevertheless, the overall presentation is compelling and strategically strong.
+
+**Score: 3**
+
+---
+
+### Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 1,
+  "Argument Validity per Constraint": 3,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 3
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**STATE OF NORTH CAROLINA**
+v.
+**DEFENDANT**
+
+**ON APPEAL FROM THE COURT OF APPEALS**
+
+**NO. 84A85**
+
+**Filed: [Current Date]**
+
+**PER CURIAM.**
+
+This case is before us on the State’s petition for discretionary review of a decision by the Court of Appeals reversing three convictions of second-degree murder. The Court of Appeals held, sua sponte, that the trial court committed “plain error” because there was no evidence of malice on the part of the defendant. After reviewing the rebuttal arguments of both the prosecution and the defense, we reaffirm our conclusion that the Court of Appeals erred. The State presented sufficient evidence of malice to withstand a motion to dismiss, and the Court of Appeals improperly substituted its judgment for that of the jury. We therefore reverse the decision of the Court of Appeals and remand the case for further consideration consistent with this opinion.
+
+**I. SUFFICIENCY OF THE EVIDENCE**
+
+The central issue on appeal is whether the evidence presented at trial was sufficient to support a conviction for second-degree murder. Murder in the second degree is the unlawful killing of a human being with malice but without premeditation and deliberation. State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983). While an intent to kill is not a necessary element, the crime requires "some intentional act sufficient to show malice and which proximately causes death." State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983). Malice may be implied from circumstances demonstrating a reckless disregard for human life. State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978).
+
+The defense argues in its rebuttal that the evidence was insufficient because the defendant’s conduct constituted mere negligence rather than an "intentional act" sufficient to show malice. The defense contends that State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983), requires a purposeful act, and that driving while intoxicated, without more, is negligence. We disagree.
+
+Viewing the evidence in the light most favorable to the State, the record shows that the defendant had a blood alcohol level between .24 and .32 percent, was observed driving erratically with squealing tires, passed another vehicle in a “no passing” zone, and struck a motorcycle from behind, forcing it from the road. This evidence supports an inference that the defendant was engaged in a course of conduct demonstrating a reckless disregard for human life. As held in State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978), "malice may be inferred from the circumstances of the act" when a defendant engages in conduct showing "wanton disregard for human life." The defendant’s decision to operate a vehicle while severely impaired and to aggressively pass in a prohibited zone constitutes an intentional act of recklessness sufficient to imply malice under State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983).
+
+The defense attempts to distinguish State v. Wilkerson and State v. Robbins by noting that those cases involved the use of deadly weapons (firearms and knives) rather than an automobile. However, the principle that malice may be inferred from reckless disregard for safety is not limited to specific instrumentalities. A motor vehicle, operated in the manner described by the evidence, can be just as deadly as a firearm. The evidence here was sufficient to permit the jury to find that the defendant acted with malice.
+
+**II. THE DEFENSE OF UNCONSCIOUSNESS**
+
+The defense argues vigorously that the trial court committed reversible error by excluding evidence of the defendant’s unconsciousness and refusing to instruct the jury on that defense. The defense relies on State v. Caddell, 287 N.C. 266, 215 S.E. 2d 348 (1975), and State v. Hammonds, 241 N.C. 226, 84 S.E. 2d 793 (1954), for the proposition that the trial court erred by preventing the jury from considering whether the defendant was unconscious at the time of the accident due to a head injury sustained during the tavern altercation.
+
+We acknowledge the force of the defense’s argument regarding the exclusion of evidence. Under State v. Caddell, 287 N.C. 266, 215 S.E. 2d 348 (1975), if there is substantial evidence of unconsciousness, the trial court must instruct the jury on that defense. The record indicates the defendant was struck in the head, fell, and had no memory of subsequent events. This evidence, if believed, could support a defense of unconsciousness. The trial court’s refusal to admit this evidence or to instruct the jury may have deprived the defendant of a fair trial.
+
+However, the error in excluding this evidence is distinct from the question of whether the State presented sufficient evidence of malice to survive a motion to dismiss. The defense contends that the exclusion of the unconsciousness evidence rendered the State’s proof legally insufficient. We do not agree. The State’s evidence, standing alone, was legally sufficient to permit the jury to infer malice. The existence of a potential defense does not negate the sufficiency of the State’s prima facie case. As the prosecution correctly notes, the proper analysis for the exclusion of evidence is whether the error was harmless or reversible under State v. Odom, 307 N.C. 600, 299 S.E. 2d 867 (1983), not whether the State’s evidence was nonexistent.
+
+The Court of Appeals erred by reversing the convictions on the ground that there was "no evidence of malice." This was not the correct procedural mechanism to address the trial court’s ruling on the unconsciousness defense. The Court of Appeals should have evaluated the trial court’s evidentiary ruling as a preserved error or as plain error affecting the defendant’s substantial rights, rather than dismissing the State’s case as legally insufficient.
+
+**III. PLAIN ERROR REVIEW**
+
+The defense argues that the Court of Appeals properly identified "plain error" under State v. Odom, 307 N.C. 600, 299 S.E. 2d 867 (1983), because the absence of malice was a fundamental defect. Plain error review is appropriate only when the error is "fundamental" and "obvious." Here, the error identified by the Court of Appeals—the lack of evidence of malice—was not an error at all. Because the State presented sufficient evidence of malice, the Court of Appeals’ application of the plain error doctrine was misplaced.
+
+**IV. CONCLUSION**
+
+The Court of Appeals erred in reversing the convictions based on a finding that there was no evidence of malice. The State’s evidence regarding the defendant’s intoxication and reckless driving was sufficient to support the jury’s finding of malice under the principles established in State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983), and State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978). The defendant’s arguments regarding the exclusion of evidence concerning unconsciousness present valid grounds for appellate review, but they do not support the conclusion that the State’s evidence was legally insufficient. We reverse the decision of the Court of Appeals and remand the case to that court for consideration of the defendant’s remaining assignments of error regarding the exclusion of the unconsciousness evidence.
+
+**REVERSED AND REMANDED.**
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+All six cases cited (Robbins, Lang, Wilkerson, Caddell, Hammonds, Odom) directly address the two core issues in the brief: the definition and inference of malice for second‑degree murder and the procedural requirements for a defense of unconsciousness and plain‑error review. Each authority is used to support a specific proposition in the analysis, and the facts of the present case (intoxicated driving, reckless conduct, head injury) map closely onto the holdings of the cited cases. Therefore the citations are highly relevant.
+
+### B. Constraints Extraction (Score = 3)  
+The brief identifies the principal legal constraints for each authority:
+
+| Case | Extracted constraints (as presented in the brief) |
+|------|---------------------------------------------------|
+| **Robbins** | (1) an intentional act sufficient to show malice, (2) reckless disregard for human life, (3) proximate causation of death |
+| **Lang** | (1) intentional act, (2) act must be sufficient to show malice, (3) proximate causation |
+| **Wilkerson** | (1) conduct showing reckless disregard for human life |
+| **Caddell** | (1) substantial evidence of unconsciousness, (2) trial court must submit that evidence to the jury, (3) jury instruction required |
+| **Hammonds** | (1) jury must be instructed on any theory supported by the evidence, (2) evidence of the theory must be presented |
+| **Odom** | (1) error must be “obvious” and “fundamental”, (2) error must affect substantial rights, (3) plain‑error review applies |
+
+The brief extracts the essential elements for each precedent, but the formulation for **Robbins** is slightly imprecise – Robbins does not require an “intentional act” in the same sense as Lang; it focuses on malice as a mental state inferred from reckless conduct. Because one set of constraints is not perfectly articulated, the extraction is not flawless, yielding a score of **3**.
+
+### C. Argument Validity per Constraint (Score = 3)  
+The brief provides arguments that generally align with the identified constraints:
+
+* **Robbins / Lang** – The argument that intoxicated, reckless driving constitutes an “intentional act” is debatable; reckless driving is usually characterized as negligent rather than intentional. The factual support (BAC .24‑.32, illegal passing, collision) does back the reckless‑disregard element, but the “intentional act” prong is weak.  
+* **Wilkerson** – The inference of malice from reckless disregard is well‑supported by the facts; this argument is solid.  
+* **Caddell / Hammonds** – The brief correctly points to the head injury, memory loss, and the need for jury instruction, matching the constraints; the argument is strong.  
+* **Odom** – The discussion of “obvious” and “fundamental” error is logically consistent, though it does not fully persuade that the error was absent; still, the reasoning is coherent.
+
+Because most constraints are backed by valid arguments, but the “intentional act” requirement for Robbins/Lang is not convincingly satisfied, the overall argument validity is **3**.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 3
+}
+```
+
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+**CLOSING ARGUMENT FOR THE STATE**  
+
+Mr. Chief Justice and Justices of this Court, the Court of Appeals committed a profound legal error when it reversed three second-degree murder convictions based on a finding of "no evidence of malice." This Court must reverse the Court of Appeals and remand the case for reconsideration of the defendant’s remaining claims, as the State presented sufficient evidence of malice to sustain the jury’s verdict. The defense’s arguments mischaracterize the law, distort the evidence, and improperly conflate evidentiary rulings with the sufficiency of the State’s prima facie case.  
+
+Malice for second-degree murder does not require an intent to kill. As this Court held in *State v. Robbins, 309 N.C. 771, 309 S.E.2d 188 (1983)*, second-degree murder requires "an unlawful killing with malice but without premeditation and deliberation." Critically, malice may be implied from circumstances demonstrating "reckless disregard for human life" or an "intentional act sufficient to show malice and which proximately causes death." *State v. Lang, 309 N.C. 512, 308 S.E.2d 317 (1983)*. The defense’s assertion that malice requires a "purposeful act" or "intent to kill" is categorically incorrect. *Lang* does not demand premeditated killing; it requires only an intentional act—such as reckless operation of a vehicle—that shows a conscious disregard for the safety of others. The defendant’s conduct here fits this standard perfectly.  
+
+The evidence at trial showed the defendant was severely intoxicated, with a blood alcohol level between .24 and .32 percent. He was observed driving erratically with squealing tires, passed another vehicle in a designated "no passing" zone, and struck a motorcycle from behind, forcing it off the road. This conduct is not mere negligence—it is the very definition of an "intentional act" demonstrating malice. In *State v. Wilkerson, 295 N.C. 559, 247 S.E.2d 905 (1978)*, this Court held that malice may be inferred from "wanton disregard for human life" when a defendant engages in reckless conduct. The defendant’s decision to operate a motor vehicle while severely impaired and to pass in a prohibited zone constitutes precisely such conduct. The fact that the instrumentality was a car rather than a firearm does not alter the analysis. As *Wilkerson* makes clear, a motor vehicle driven with reckless disregard is a deadly weapon capable of supporting a finding of malice. The defense’s attempt to distinguish *Wilkerson* by highlighting the weapon used is legally frivolous and ignores the core principle: malice arises from the defendant’s reckless conduct, not the specific object used.  
+
+The defense incorrectly claims that the State’s evidence proves only "negligence" and not "malice." This misreads *Lang*. *Lang* does not require the defendant to have intended death; it requires only that the defendant commit an intentional act showing malice. Driving while severely intoxicated, passing in a no-passing zone, and striking another vehicle are intentional acts of recklessness. The defendant’s own admission of no memory of the events—coupled with evidence of his violent altercation and intoxication—confirms he consciously chose to drive despite knowing his impairment. This is not negligence; it is the reckless indifference to human life that *Lang* and *Wilkerson* recognize as malice.  
+
+The defense further argues that the trial court’s exclusion of unconsciousness evidence rendered the State’s proof insufficient. This is a fundamental error of procedure. The exclusion of evidence concerning unconsciousness, if error at all, is a separate issue from the sufficiency of the State’s case on malice. The State’s evidence—standing alone—was legally sufficient to support a finding of malice. As this Court held in *State v. Odom, 307 N.C. 600, 299 S.E.2d 867 (1983)*, the proper inquiry for evidentiary errors is whether they affected the defendant’s substantial rights, not whether they negate the State’s prima facie case. The defense confuses two distinct questions: (1) whether the State met its burden of proving malice, and (2) whether the trial court erred in excluding a defense theory. The Court of Appeals improperly merged these inquiries, reversing convictions for "no evidence of malice" when the error actually lay in the trial court’s evidentiary ruling. This procedural misstep cannot stand.  
+
+The Court of Appeals also erred in sua sponte applying "plain error" under *Odom*. Plain error review applies only when the error is "obvious" and "fundamental." Here, the Court of Appeals identified "no evidence of malice" as the error—but the State presented ample evidence of malice. The absence of malice was not an error; it was a fiction created by the Court of Appeals. *Odom* does not empower appellate courts to rewrite the record or substitute their judgment for the jury’s. The jury heard the evidence of intoxication, erratic driving, and the collision—and reasonably concluded the defendant acted with malice. The Court of Appeals’ reversal was a clear abuse of discretion.  
+
+Finally, the defense’s reliance on *State v. Robbins, 309 N.C. 771, 309 S.E.2d 188 (1983)* is misplaced. *Robbins* involved intentional stabbing, but the principle it establishes—that malice may arise from reckless conduct—is broader than the weapon used. The defendant’s actions here are no less reckless than those in *Robbins*; they simply lack the element of direct physical aggression. Reckless driving with a blood alcohol level nearly four times the legal limit, causing multiple deaths, is precisely the kind of conduct this Court has long condemned as malicious.  
+
+In sum, the Court of Appeals erred by reversing convictions based on a nonexistent lack of malice evidence. The State presented sufficient evidence of malice for the jury to convict. The trial court’s ruling on unconsciousness evidence, while potentially erroneous, does not invalidate the State’s case. The proper course is to reverse the Court of Appeals, reinstate the convictions, and remand for consideration of the defendant’s remaining assignments of error regarding the unconsciousness defense. This Court must ensure that justice is done—not by rewriting the record, but by applying the law as written.  
+
+Respectfully submitted,  
+The State of North Carolina
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the State’s Closing Argument**
+
+Below is a step‑by‑step assessment of each rubric component, followed by the final scores in JSON format.
+
+---
+
+### 1. Citation Relevance (Score = 4)
+
+| Citation | How it is used | Relevance to the legal issue |
+|----------|----------------|------------------------------|
+| **State v. Robbins**, 309 N.C. 771 (1983) | Defines second‑degree murder and states that malice may be inferred from reckless conduct. | Directly addresses the core question of whether the evidence can support a finding of malice. |
+| **State v. Lang**, 309 N.C. 512 (1983) | Holds that malice requires “some intentional act … which proximately causes death.” The argument treats reckless driving as that intentional act. | Directly governs the mental‑state element the State must prove. |
+| **State v. Wilkerson**, 295 N.C. 559 (1978) | Provides the “wanton disregard for human life” test for inferring malice. | Directly supports the inference of malice from the defendant’s reckless driving. |
+| **State v. Odom**, 307 N.C. 600 (1983) | Sets the plain‑error standard (error must be obvious, fundamental, and affect substantial rights). | Central to the State’s procedural argument that the Court of Appeals misapplied plain‑error review. |
+
+All four authorities are directly on point; none are tangential. Hence the highest rating.
+
+---
+
+### 2. Constraints Extraction (Score = 2)
+
+For each case the argument must surface the legal “constraints” that must be satisfied for the holding to apply.
+
+| Citation | Constraints that should be identified | What the argument actually extracts |
+|----------|----------------------------------------|------------------------------------|
+| Robbins | (a) unlawful killing, (b) presence of malice, (c) no pre‑meditation/deliberation. | Mentions only the malice element; does not spell out the unlawful‑killing or pre‑meditation requirements. |
+| Lang | (a) intentional act, (b) proximate causation, (c) act must be purposeful (not merely negligent). | Cites “intentional act” but does not discuss proximate cause or the purposeful‑act requirement. |
+| Wilkerson | (a) reckless conduct showing wanton disregard, (b) causation, (c) conduct must be intentional enough to be blameworthy. | Highlights “wanton disregard” but omits causation and the intentional‑blameworthiness nuance. |
+| Odom | (a) error must be “obvious” and “fundamental,” (b) error must affect substantial rights, (c) harmless‑error analysis. | Points out “obvious/fundamental” but does not mention the substantial‑rights or harmless‑error prongs. |
+
+The argument extracts at least three constraints overall, but many are incomplete or lack precise articulation. This fits the rubric’s **2‑point** level.
+
+---
+
+### 3. Argument Validity per Constraint (Score = 3)
+
+| Constraint | Argument’s support | Assessment |
+|------------|---------------------|------------|
+| Robbins – malice element | Correctly uses Robbins to say malice can be inferred from reckless conduct. | Valid. |
+| Lang – intentional act | Argues that reckless driving is an “intentional act.” Most North Carolina authority requires a purposeful act, not merely reckless conduct; the argument stretches the case law. | Weak/partially invalid. |
+| Wilkerson – wanton disregard | Accurately applies Wilkerson’s “wanton disregard” test to the facts. | Valid. |
+| Odom – plain‑error standard | Properly states the “obvious/fundamental” requirement, but omits the “substantial rights” prong, leaving the analysis incomplete. | Mostly valid, minor gap. |
+
+The State provides arguments for every identified constraint; most are sound, with only a modest flaw regarding Lang’s “intentional act” requirement. This merits a **3**.
+
+---
+
+### 4. Issue Prioritization and Synthesis (Score = 4)
+
+The closing argument:
+
+* **Prioritizes the dispositive issue** – whether the evidence establishes malice for second‑degree murder.  
+* **Integrates precedent** (Robbins, Lang, Wilkerson, Odom) with the factual record.  
+* **Separates procedural matters** (unconsciousness defense, plain‑error review) from the substantive malice inquiry, showing a clear hierarchy of arguments.  
+* **Avoids repetition** and ends with a concise, unified request for reversal and remand.
+
+The synthesis is coherent, well‑structured, and focuses on the strongest legal points. Hence the top score.
+
+---
+
+### 5. Closing Persuasiveness (Score = 3)
+
+Strengths:
+
+* Clear articulation of why the evidence satisfies the malice requirement.  
+* Strong reliance on controlling North Carolina precedent.  
+* Effective rebuttal of the defense’s “no‑malice” claim and of the plain‑error argument.  
+* Persuasive policy appeal (“justice must be done”).
+
+Weaknesses:
+
+* The claim that reckless driving is an “intentional act” is not fully supported by Lang, leaving a potential crack that a skeptical judge could exploit.  
+* The discussion of the unconsciousness defense, while competent, could have been more forceful in emphasizing harmless‑error analysis.
+
+Overall, the argument is compelling and likely to persuade the court, though not flawless.  
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 2,
+  "Argument Validity per Constraint": 3,
+  "Issue Prioritization and Synthesis": 4,
+  "Closing Persuasiveness": 3
+}
+```
+
+These scores reflect a strong, well‑cited closing argument that excels in relevance, synthesis, and overall persuasiveness, but falls short in fully extracting and articulating every legal constraint required by the cited authorities.
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING ARGUMENT FOR THE DEFENSE
+
+## MAY IT PLEASE THIS HONORABLE COURT:
+
+The prosecution's closing argument, while eloquently framed, fundamentally misapprehends the nature of the evidence presented at trial and the legal standards governing second-degree murder. The defense respectfully requests that this Court affirm the decision of the Court of Appeals, or in the alternative, remand for a new trial based on the trial court's erroneous exclusion of critical defense evidence.
+
+---
+
+## I. THE PROSECUTION FAILED TO ESTABLISH SUFFICIENT EVIDENCE OF MALICE
+
+The prosecution asks this Court to affirm the convictions by arguing that the defendant's conduct—driving while intoxicated—constitutes an "intentional act" sufficient to show malice. This argument stretches the definition of malice beyond its statutory and constitutional limits and conflates negligent conduct with malicious conduct.
+
+### A. The Evidence Established, at Most, Negligence—Not Malice
+
+Second-degree murder requires "an unlawful killing of a human being with malice but without premeditation and deliberation." State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983). While an intent to kill is not required, the crime nonetheless demands "some intentional act sufficient to show malice and which proximately causes death." State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983).
+
+The prosecution misreads State v. Lang. That case requires an intentional act demonstrating malice—not merely negligent conduct. Driving while intoxicated, while certainly negligent and potentially criminal under other statutes, does not automatically equate to malice. The prosecution's argument would effectively criminalize all drunk driving resulting in death as second-degree murder, a result the legislature never intended and that conflates distinct criminal offenses.
+
+The prosecution cites State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978), for the proposition that malice may be inferred from "wanton disregard for human life." However, Wilkerson involved a defendant who intentionally fired a firearm at a occupied dwelling, knowing people were inside. The "wanton disregard" standard applies to deliberate acts of aggression, not to the operation of a vehicle while impaired. The prosecution's attempt to equate a motor vehicle with a firearm ignores the fundamental distinction between intentional acts of violence and negligent conduct arising from impairment.
+
+### B. The Evidence Does Not Support the Inference of Malice
+
+The prosecution asks this Court to infer malice from the following evidence: (1) a blood alcohol level between .24 and .32 percent; (2) squealing tires; (3) passing in a no-passing zone; and (4) striking a motorcycle from behind. This evidence, while establishing negligent driving, does not establish the "intentional act" required by State v. Lang.
+
+Critically, the defendant could not remember any of the events after being struck in the head at the tavern. The prosecution asks the jury to infer that the defendant consciously chose to drive recklessly, but the evidence suggests the opposite—that the defendant was operating his vehicle in a state of impaired consciousness due to his head injury and intoxication. An unconscious or semi-conscious person operating a vehicle is not acting with "malice"; they are acting without conscious volition entirely.
+
+The prosecution's reliance on the defendant's intoxication as proof of malice is particularly problematic. Intoxication is not evidence of malice; it is evidence of poor judgment, but not the specific intent to cause harm that malice requires. If the prosecution's logic were accepted, any drunk driver who caused a fatal accident could be convicted of second-degree murder—a result that would transform every fatal DUI into a potential capital offense and overwhelm the criminal justice system.
+
+---
+
+## II. THE TRIAL COURT'S EXCLUSION OF UNCONSCIOUSNESS EVIDENCE REQUIRES REVERSAL
+
+The prosecution attempts to dismiss the defense's argument regarding the exclusion of unconsciousness evidence as "a separate issue from the sufficiency of the State's case." This argument is a red herring. The exclusion of this evidence is not a separate issue—it is the central issue that deprived the defendant of a fair trial.
+
+### A. The Trial Court Erred in Excluding Unconsciousness Evidence
+
+The defendant offered evidence that he was struck in the head during the altercation at Smokey's Lounge, fell and struck his head on the base of a door, and had no memory of any subsequent events. This evidence, if believed, would establish that the defendant was unconscious or operating in a state of diminished consciousness at the time of the accident.
+
+In State v. Caddell, 287 N.C. 266, 215 S.E. 2d 348 (1975), this Court held that when there is substantial evidence of unconsciousness, the trial court must instruct the jury on that defense. Similarly, in State v. Hammonds, 241 N.C. 226, 84 S.E. 2d 793 (1954), this Court recognized that unconsciousness is a complete defense to a criminal offense because an unconscious person cannot form the specific intent required for criminal liability.
+
+The trial court refused to permit the defendant to produce evidence along these lines and refused to instruct the jury on the defense of unconsciousness. This ruling was error, and it deprived the defendant of the ability to present a complete defense.
+
+### B. The Exclusion of Evidence Was Not Harmless
+
+The prosecution argues that any error in excluding unconsciousness evidence was "harmless" because the State otherwise presented sufficient evidence of malice. This argument is circular and ignores the fundamental nature of the error.
+
+The question is not whether the State presented sufficient evidence of malice in isolation. The question is whether the defendant was afforded a fair trial with the opportunity to present all relevant defenses. By excluding the unconsciousness evidence, the trial court prevented the jury from considering whether the defendant was capable of forming the requisite intent at all. The prosecution cannot cure this error by pointing to its own evidence of malice; the defense was entitled to challenge the prosecution's theory by presenting an alternative explanation for the defendant's conduct.
+
+Under State v. Odom, 307 N.C. 600, 299 S.E. 2d 867 (1983), this Court must determine whether the error "affect[ed] the defendant's substantial rights." The exclusion of evidence that could have completely negated the prosecution's case—evidence that the defendant was unconscious and could not have formed the intent to kill—clearly affected the defendant's substantial rights. A jury that heard this evidence might have reached a different conclusion.
+
+---
+
+## III. THE COURT OF APPEALS PROPERLY IDENTIFIED PLAIN ERROR
+
+The prosecution argues that the Court of Appeals erred in applying the plain error doctrine. This argument fails because the Court of Appeals correctly identified a fundamental defect in the proceedings below.
+
+### A. The Lack of Unconsciousness Instructions Was Plain Error
+
+Plain error review under State v. Odom applies to errors that are "fundamental" and "obvious." The trial court's refusal to instruct the jury on unconsciousness, when substantial evidence supported that defense, was exactly such an error. The defendant presented evidence of a head injury, loss of consciousness, and subsequent memory loss. Under State v. Caddell, this evidence required an instruction on the defense.
+
+The prosecution argues that the Court of Appeals should have evaluated the evidentiary ruling as a "preserved error" rather than applying plain error. However, the Court of Appeals' plain error analysis was appropriate because the trial court's failure to instruct on unconsciousness was an obvious defect that affected the fundamental fairness of the trial. The defendant was deprived of the ability to present a complete defense, and the jury was prevented from considering evidence that could have completely negated the prosecution's case.
+
+### B. The Court of Appeals Did Not Improperly Substitute Its Judgment
+
+The prosecution accuses the Court of Appeals of "improperly merging" the sufficiency inquiry with the evidentiary error inquiry. This accusation is without merit. The Court of Appeals correctly recognized that the trial court's error in excluding unconsciousness evidence was so fundamental that it affected the very nature of the proceedings. When a defendant is prevented from presenting a complete defense, the jury cannot fairly assess the prosecution's case.
+
+The prosecution's argument assumes that the State presented sufficient evidence of malice in a vacuum. But the prosecution's case was not presented in a vacuum; it was presented in a trial where the defendant was wrongly prevented from challenging the prosecution's theory. The Court of Appeals properly considered this context.
+
+---
+
+## IV. THE PROSECUTION'S POLICY ARGUMENTS ARE MISPLACED
+
+The prosecution's closing argument concludes with a plea to "ensure that justice is done" by affirming the convictions. But justice is not served by convicting a defendant who was deprived of the opportunity to present a complete defense. Justice is served by ensuring that all defendants receive fair trials and have the ability to challenge the prosecution's case.
+
+The prosecution argues that reversing the convictions would "overwhelm the criminal justice system" and "transform every fatal DUI into a potential capital offense." These policy arguments are better left to the legislature. This Court's role is to apply the law as written, not to expand criminal liability based on policy preferences.
+
+The defendant was charged with second-degree murder, not driving while intoxicated. The elements of second-degree murder are specific, and the prosecution must prove each element beyond a reasonable doubt. The prosecution failed to prove that the defendant acted with malice, and the trial court erred in preventing the defendant from presenting evidence that he was unconscious at the time of the accident.
+
+---
+
+## V. CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court:
+
+1. **Affirm the decision of the Court of Appeals** reversing the convictions, on the grounds that the trial court erred in excluding unconsciousness evidence and refusing to instruct the jury on that defense; or
+
+2. **In the alternative, remand the case for a new trial**, so that the defendant may present evidence of unconsciousness and the jury may consider that defense alongside the prosecution's evidence.
+
+The prosecution failed to establish sufficient evidence of malice, and the trial court's errors deprived the defendant of a fair trial. The convictions cannot stand.
+
+**Respectfully submitted,**
+
+**Counsel for the Defendant-Appellant**
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Defense Closing Argument**
+
+---
+
+### A. Citation Relevance (Score = 4)
+
+All six citations are directly on point:
+
+| Citation | Why it is highly relevant |
+|---------|--------------------------|
+| *State v. Robbins* | Defines the elements of second‑degree murder and the required malice. |
+| *State v. Lang* | Sets the “intentional act” requirement that the defense relies on to argue the prosecution’s evidence is insufficient. |
+| *State v. Wilkerson* | Provides the principle that malice may be inferred from “wanton disregard,” which the defense seeks to limit to intentional violent conduct. |
+| *State v. Caddell* | Governs when a jury must be instructed on an unconsciousness defense – the core procedural claim. |
+| *State v. Hammonds* | Reinforces that unconsciousness is a complete defense requiring instruction. |
+| *State v. Odom* | Supplies the plain‑error standard that the defense invokes to attack the appellate court’s reasoning. |
+
+Because each case is used to support a distinct element of the defense’s theory, the relevance is excellent.
+
+---
+
+### B. Constraints Extraction (Score = 3)
+
+The argument identifies the legal “constraints” that must be satisfied for each precedent to apply, though a few are stated incompletely:
+
+| Citation | Extracted constraints (as presented) |
+|---------|--------------------------------------|
+| *Lang* | 1. An “intentional act” must be shown. 2. The act must be purposeful (implied). |
+| *Wilkerson* | 1. Conduct must show “wanton disregard for human life.” 2. The act must be intentional. |
+| *Caddell* | 1. Substantial evidence of unconsciousness. 2. Jury instruction required. |
+| *Hammonds* | 1. Evidence of unconsciousness. 2. Instruction on that defense is mandatory. |
+| *Odom* | 1. Error must be “fundamental.” 2. Error must be “obvious.” 3. Error must affect substantial rights. |
+| *Robbins* | No separate constraints beyond the statutory elements (implicitly: unlawful killing + malice). |
+
+The defense extracts at least three distinct constraints overall and correctly names the key elements for most cases, but a few (e.g., causation in *Lang*, the “purposeful” element in *Wilkerson*) are not fully articulated. Hence a solid **3**.
+
+---
+
+### C. Argument Validity per Constraint (Score = 3)
+
+The defense links its factual narrative to each constraint:
+
+* **Intentional‑act requirement (*Lang*)** – Argues that intoxicated driving is not a purposeful act. This is a plausible reading, though North Carolina courts sometimes treat reckless conduct as an intentional act for malice; the argument is therefore **partially valid**.  
+* **“Wanton disregard” (*Wilkerson*)** – Distinguishes a firearm‑shooting case from impaired driving. The distinction is reasonable, but the broader principle may still apply; again **partially valid**.  
+* **Unconsciousness evidence (*Caddell* & *Hammonds*)** – Shows the head‑injury, memory loss, and high BAC as substantial evidence, correctly invoking the duty to instruct. These arguments are **strongly valid**.  
+* **Plain‑error test (*Odom*)** – Identifies the three elements (fundamental, obvious, substantial‑rights impact) and ties them to the missing instruction. This is **accurately applied**.
+
+Overall, the defense supplies arguments for every identified constraint; most are sound, with a few weaker but not outright invalid. Score **3**.
+
+---
+
+### D. Issue Prioritization and Synthesis (Score = 3)
+
+The closing argument:
+
+1. **Prioritizes the substantive issue** – whether the State proved malice.  
+2. **Moves to the procedural error** – exclusion of unconsciousness evidence.  
+3. **Links the procedural error to plain‑error review**.  
+4. **Ends with a policy rebuttal and a clear request for relief**.
+
+The structure is logical and the citations are woven throughout. Some repetition (e.g., restating the same case holdings) and a slightly weaker emphasis on the procedural error relative to the substantive claim keep the synthesis from being “excellent,” but it is nonetheless coherent and well‑organized. Score **3**.
+
+---
+
+### E. Closing Persuasiveness (Score = 3)
+
+Strengths:
+
+* Clear articulation of why the prosecution’s malice theory fails.  
+* Strong reliance on controlling authority for the unconsciousness defense.  
+* Direct response to the State’s policy arguments.
+
+Weaknesses:
+
+* The defense’s contention that reckless driving cannot satisfy the “intentional act” requirement is contrary to some North Carolina precedent, leaving a doctrinal gap.  
+* The argument that *Wilkerson* is inapplicable may not fully convince a judge who views the “wanton disregard” standard broadly.  
+* The persuasive impact is solid but not overwhelming.
+
+Overall, the argument is **generally persuasive** but not flawless. Score **3**.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 3,
+  "Issue Prioritization and Synthesis": 3,
+  "Closing Persuasiveness": 3
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**STATE OF NORTH CAROLINA**
+v.
+**DEFENDANT**
+
+**ON APPEAL FROM THE COURT OF APPEALS**
+
+**NO. 84A85**
+
+**Filed: [Current Date]**
+
+**PER CURIAM.**
+
+This case is before us on the State’s petition for discretionary review of a decision by the Court of Appeals reversing three convictions of second-degree murder. The Court of Appeals held, sua sponte, that the trial court committed “plain error” because there was no evidence of malice on the part of the defendant. After reviewing the closing arguments of both the prosecution and the defense, we reaffirm our conclusion that the Court of Appeals erred. The State presented sufficient evidence of malice to withstand a motion to dismiss, and the Court of Appeals improperly substituted its judgment for that of the jury. We therefore reverse the decision of the Court of Appeals and remand the case for further consideration consistent with this opinion.
+
+**I. SUFFICIENCY OF THE EVIDENCE**
+
+The central issue on appeal is whether the evidence presented at trial was sufficient to support a conviction for second-degree murder. Murder in the second degree is the unlawful killing of a human being with malice but without premeditation and deliberation. State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983). While an intent to kill is not a necessary element, the crime requires "some intentional act sufficient to show malice and which proximately causes death." State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983). Malice may be implied from circumstances demonstrating a reckless disregard for human life. State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978).
+
+The defense argues in its closing that the evidence was insufficient because the defendant’s conduct constituted mere negligence rather than an "intentional act" sufficient to show malice. The defense contends that State v. Lang, 309 N.C. 512, 308 S.E. 2d 317 (1983), requires a purposeful act, and that driving while intoxicated, without more, is negligence. We disagree.
+
+Viewing the evidence in the light most favorable to the State, the record shows that the defendant had a blood alcohol level between .24 and .32 percent, was observed driving erratically with squealing tires, passed another vehicle in a “no passing” zone, and struck a motorcycle from behind, forcing it from the road. This evidence supports an inference that the defendant was engaged in a course of conduct demonstrating a reckless disregard for human life. As held in State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978), "malice may be inferred from the circumstances of the act" when a defendant engages in conduct showing "wanton disregard for human life." The defendant’s decision to operate a vehicle while severely impaired and to aggressively pass in a prohibited zone constitutes an intentional act of recklessness sufficient to imply malice under State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983).
+
+The defense attempts to distinguish State v. Wilkerson and State v. Robbins by noting that those cases involved the use of deadly weapons (firearms and knives) rather than an automobile. However, the principle that malice may be inferred from reckless disregard for safety is not limited to specific instrumentalities. A motor vehicle, operated in the manner described by the evidence, can be just as deadly as a firearm. The evidence here was sufficient to permit the jury to find that the defendant acted with malice.
+
+**II. THE DEFENSE OF UNCONSCIOUSNESS**
+
+The defense argues vigorously that the trial court committed reversible error by excluding evidence of the defendant’s unconsciousness and refusing to instruct the jury on that defense. The defense relies on State v. Caddell, 287 N.C. 266, 215 S.E. 2d 348 (1975), and State v. Hammonds, 241 N.C. 226, 84 S.E. 2d 793 (1954), for the proposition that the trial court erred by preventing the jury from considering whether the defendant was unconscious at the time of the accident due to a head injury sustained during the tavern altercation.
+
+We acknowledge the force of the defense’s argument regarding the exclusion of evidence. Under State v. Caddell, 287 N.C. 266, 215 S.E. 2d 348 (1975), if there is substantial evidence of unconsciousness, the trial court must instruct the jury on that defense. The record indicates the defendant was struck in the head, fell, and had no memory of subsequent events. This evidence, if believed, could support a defense of unconsciousness. The trial court’s refusal to admit this evidence or to instruct the jury may have deprived the defendant of a fair trial.
+
+However, the error in excluding this evidence is distinct from the question of whether the State presented sufficient evidence of malice to survive a motion to dismiss. The defense contends that the exclusion of the unconsciousness evidence rendered the State’s proof legally insufficient. We do not agree. The State’s evidence, standing alone, was legally sufficient to permit the jury to infer malice. The existence of a potential defense does not negate the sufficiency of the State’s prima facie case. As the prosecution correctly notes, the proper analysis for the exclusion of evidence is whether the error was harmless or reversible under State v. Odom, 307 N.C. 600, 299 S.E. 2d 867 (1983), not whether the State’s evidence was nonexistent.
+
+The Court of Appeals erred by reversing the convictions on the ground that there was "no evidence of malice." This was not the correct procedural mechanism to address the trial court’s ruling on the unconsciousness defense. The Court of Appeals should have evaluated the trial court’s evidentiary ruling as a preserved error or as plain error affecting the defendant’s substantial rights, rather than dismissing the State’s case as legally insufficient.
+
+**III. PLAIN ERROR REVIEW**
+
+The defense argues that the Court of Appeals properly identified "plain error" under State v. Odom, 307 N.C. 600, 299 S.E. 2d 867 (1983), because the absence of malice was a fundamental defect. Plain error review is appropriate only when the error is "fundamental" and "obvious." Here, the error identified by the Court of Appeals—the lack of evidence of malice—was not an error at all. Because the State presented sufficient evidence of malice, the Court of Appeals’ application of the plain error doctrine was misplaced.
+
+**IV. CONCLUSION**
+
+The Court of Appeals erred in reversing the convictions based on a finding that there was no evidence of malice. The State’s evidence regarding the defendant’s intoxication and reckless driving was sufficient to support the jury’s finding of malice under the principles established in State v. Robbins, 309 N.C. 771, 309 S.E. 2d 188 (1983), and State v. Wilkerson, 295 N.C. 559, 247 S.E. 2d 905 (1978). The defendant’s arguments regarding the exclusion of evidence concerning unconsciousness present valid grounds for appellate review, but they do not support the conclusion that the State’s evidence was legally insufficient. We reverse the decision of the Court of Appeals and remand the case to that court for consideration of the defendant’s remaining assignments of error regarding the exclusion of the unconsciousness evidence.
+
+**REVERSED AND REMANDED.**
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Criterion | Score (0‑4) | Rationale |
+|-----------|-------------|-----------|
+| **A. Citation Relevance** | **4** | Every citation (Robbins, Lang, Wilkerson, Caddell, Hammonds, Odom) is directly on point with the issues of (1) the elements of second‑degree murder and the inference of malice, (2) the unconsciousness defense, and (3) the plain‑error standard. The cases are highly relevant and directly support the analysis. |
+| **B. Constraints Extraction** | **4** | The analysis identifies the essential legal constraints for each precedent: (i) the elements of second‑degree murder (unlawful killing, malice, no pre‑meditation), (ii) the “intentional act sufficient to show malice” requirement from *Lang*, (iii) the “wanton disregard”/reckless‑disregard test from *Wilkerson*, (iv) the “substantial evidence of unconsciousness” condition from *Caddell*, (v) the rule that unconsciousness negates specific intent from *Hammonds*, and (vi) the three‑prong plain‑error test from *Odom*. All necessary constraints are correctly extracted. |
+| **C. Argument Validity per Constraint** | **4** | For each extracted constraint the analysis supplies a sound argument linking the facts to the legal requirement: (1) the defendant’s extreme intoxication and reckless driving satisfy the malice element; (2) the conduct qualifies as an “intentional act” under *Lang*; (3) the conduct shows “wanton disregard” per *Wilkerson*; (4) the head injury and memory loss provide substantial evidence of unconsciousness, triggering the *Caddell* instruction rule; (5) unconsciousness would defeat the specific‑intent element per *Hammonds*; (6) the plain‑error doctrine is misapplied because the error was not fundamental. The arguments are coherent, legally accurate, and directly address each constraint. |
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```

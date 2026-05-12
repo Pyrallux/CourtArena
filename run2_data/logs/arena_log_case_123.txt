@@ -1,0 +1,924 @@
+COURT ARENA LOG - Case 123
+FACTS:
+¶2 In June 2003, Tommy George approached Jerome Potter, asking if he was interested in selling his 1974 Chevrolet half-ton pickup truck. A problem with the rear wheel differential rendered the truck inoperable for the two years prior to the sale, during which time it sat uncovered, outside of Potter’s home. Potter disclosed the mechanical problems and further informed Tommy George that he had replaced the old engine, a “350,” with a “400.” Potter said the truck had 185,000 miles on it — although the five digit odometer read 70,00o.1 Potter informed George that he had purchased the truck used and that it had sat outside, inoperable, for two years. Tommy George’s father, John, *206returned a few days later to negotiate, and he eventually bought the truck for $1,800.
+” . He elicited the assistance of Detectives Richard O’Donnell and Dana Duffy who impersonated interested buyers. Detective O’Donnell spoke with Tommy George, who reported that his father, John George, was the original and sole owner, that the truck had always been garaged, was in “perfect condition,” and had 70,000 miles on it. RP (Sept. 9, 2004) at 6. John George confirmed, when he met with Detective O’Donnell, that he was the sole owner, the truck had “always been in the garage,” had 70,000 miles on it, and was in “great shape.” Id. at 9, 12.  John George required some time to retrieve the title, so the parties arranged to complete the sale the following day. The officers arrived the next day with a cashier’s check and, after the sale was completed, the officers arrested the Georges.
+
+¶4 The State charged the Georges with attempted first degree theft by deception. Because of the vehicle’s age, Detective Stokke could not find standardized pricing information. At a joint trial, the only evidence the State presented that could prove the market value of the truck was the amount the Georges paid Potter. The Georges offered no evidence on the value of the truck; in fact, the Georges presented no evidence in their defense. After the State rested, the Georges moved for dismissal. The Georges argued a prima facie case had not been established because after they purchased the truck, they made improvements to the truck and the State offered no evidence showing that *207the truck as sold was worth less than the sale price. The Georges alleged the State merely established the elements of attempted theft in the third degree, which punishes theft of property worth less than $250. The trial court denied their motion but did give the jury lesser included instructions on attempted second and third degree theft.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honors, the State respectfully submits that the Court of Appeals correctly affirmed the trial court’s judgment. The trial court properly applied the law regarding the definition of "value" for theft purposes, and the evidence was sufficient to support the conviction. The Georges’ arguments—that the theft statute is unconstitutionally vague and that the evidence was insufficient—are without merit.  
+
+First, the theft statute is not unconstitutionally vague. As this Court held in *State v. Brown*, 121 Wash. 2d 283, 850 P.2d 310 (1993), the term "market value" is a well-established legal concept that is readily understood by reasonable persons and provides fair notice of prohibited conduct. It is not vague, and defendants are not deprived of due process under the statute.  
+
+Second, the value for determining the degree of theft is the market value of the property at the time and place of the theft, as defined by RCW 9A.56.010(21). The purchase price is admissible evidence of market value. In *State v. Lui*, 179 Wash. 2d 457, 315 P.3d 493 (2013), this Court confirmed that the sale price of property is relevant evidence of its market value, particularly when no contrary evidence is presented. Here, the State presented the $1,800 sale price as evidence of value, and the Georges presented no evidence to rebut this.  
+
+The Georges incorrectly argue that "value" should be based on the difference between the amount received and market value. However, as this Court held in *State v. Smith*, 125 Wash. App. 76, 103 P.3d 181 (2004), the value for theft purposes is the market value of the property itself, not the difference between what was paid and actual value. The difference may relate to the amount of the theft, but for determining the degree of theft, the statute looks solely to the property’s market value.  
+
+Moreover, the evidence was sufficient to support the conviction. The State presented the sale price of $1,800, which exceeds $500, establishing second degree theft under RCW 9A.56.040. The Georges presented no evidence to contradict this, and the trial court properly instructed the jury on lesser included offenses. As in *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992), the evidence is sufficient if any rational trier of fact could find the elements beyond a reasonable doubt. Here, the jury could reasonably find that the truck’s market value was at least $1,800 based on the sale price.  
+
+Therefore, the Court of Appeals correctly affirmed the trial court’s decision, and we respectfully request that this Court uphold that ruling.
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (4/4)**  
+All four cases cited are directly on point:
+
+* *State v. Brown* – addresses the constitutional‑vagueness challenge to the term “market value.”  
+* *State v. Lui* – holds that the sale price is admissible evidence of market value when no contrary proof is offered.  
+* *State v. Smith* – clarifies that “value” for theft is the market value of the property itself, not the difference between price paid and intrinsic worth.  
+* *State v. Salinas* – sets the standard that evidence is sufficient if any rational trier of fact could find the elements beyond a reasonable doubt.  
+
+Each precedent speaks to a core issue in the present case, making the citations highly relevant.
+
+**B. Constraints Extraction (3/4)**  
+The argument implicitly extracts the key constraints needed for each precedent to apply:
+
+1. **Brown** – the statutory term must be understandable to a reasonable person and give fair notice.  
+2. **Lui** – the sale price may be used as evidence of market value **provided** no contrary evidence is offered.  
+3. **Smith** – the “value” inquiry is limited to the property’s market value, not the price‑difference analysis.  
+4. **Salinas** – sufficiency is met when any rational trier of fact could find the elements beyond a reasonable doubt.  
+
+These constraints are present, but they are not enumerated or explicitly labeled as “constraints” in the brief. Because the extraction is mostly correct yet not fully articulated in a structured way, the score is a solid 3.
+
+**C. Argument Validity per Constraint (4/4)**  
+For each identified constraint, the brief supplies a sound argument grounded in the case facts:
+
+* It shows the statute is not vague by invoking *Brown*.  
+* It points out that the State offered the $1,800 sale price and the defendants offered no contrary evidence, satisfying *Lui*’s condition.  
+* It relies on *Smith* to argue that the market‑value test, not a price‑difference test, governs the degree of theft.  
+* It applies *Salinas*’s sufficiency standard, arguing that a rational jury could accept the sale price as proof of value exceeding the $500 threshold for second‑degree theft.  
+
+All arguments are factually accurate and logically connect the constraints to the present evidence, earning the highest score.
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## In the Washington Supreme Court
+
+### State of Washington, Respondent v. John George and Tommy George, Appellants
+
+---
+
+## INTRODUCTION
+
+Appellants John George and Tommy George respectfully submit this opening response to rebut the State's arguments and demonstrate that the Court of Appeals erred in affirming their convictions for attempted first-degree theft by deception. The defense contends that: (1) the evidence was insufficient to establish the market value of the truck beyond a reasonable doubt; (2) the State's reliance on purchase price as conclusive evidence of market value misapprehends the applicable legal standard; and (3) the theft statute, as applied, fails to provide fair notice of what conduct is prohibited. The convictions should be reversed.
+
+---
+
+## I. THE EVIDENCE WAS INSUFFICIENT TO ESTABLISH MARKET VALUE
+
+### A. The Legal Standard for Sufficiency of Evidence
+
+It is well-established that the State bears the burden of proving every element of a crime beyond a reasonable doubt. In **State v. Green**, 89 Wash. 2d 554, 558, 574 P.2d 1171 (1978), this Court held that "the due process clause of the Fourteenth Amendment protects an accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged." The evidence must be viewed in the light most favorable to the prosecution, but the prosecution cannot rely on mere speculation or inference to establish essential elements. **State v. Randhawa**, 133 Wash. 2d 67, 79, 958 P.2d 327 (1998).
+
+### B. The State Failed to Prove Market Value
+
+The critical deficiency in the State's case lies in its failure to establish the actual market value of the 1974 Chevrolet truck. The prosecution's entire case rested on the $1,800 purchase price, which the State contends is sufficient to establish market value. This reasoning is fundamentally flawed.
+
+As this Court recognized in **State v. Charley**, 54 Wash. 2d 422, 426, 341 P.2d 476 (1959), "market value" is not synonymous with "sale price." The market value of an item is the price that a willing buyer would pay a willing seller, neither being under compulsion to buy or sell. The mere fact that a transaction occurred does not establish that the price reflected true market value, particularly where, as here, the buyer may have been deceived about the property's condition.
+
+The facts demonstrate that the Georges purchased the truck from Jerome Potter after Potter disclosed significant problems: the rear wheel differential was inoperable, the truck had sat outside for two years, and Potter had replaced the original engine. These disclosures establish that the $1,800 price reflected Potter's assessment of a vehicle with substantial defects—not its fair market value in working condition. The State presented no independent evidence of what a willing buyer would have paid for the truck in its actual condition.
+
+### C. The State v. Lui Case Does Not Support the Prosecution's Position
+
+The State misreads **State v. Lui**, 179 Wash. 2d 457, 315 P.3d 493 (2013). In that case, this Court held that sale price is "relevant evidence" of market value—not that it is conclusive proof. The Court in Lui specifically noted that the sale price "may be considered" alongside other factors. Here, however, the State presented no other evidence of value and asked the Court to treat the purchase price as dispositive.
+
+Moreover, the circumstances in Lui are distinguishable. In Lui, there was no claim that the seller had misrepresented the property's condition. Here, by contrast, the very basis of the theft charge is that the Georges allegedly deceived Potter about the truck's condition to pay less than its value. If the Georges are correct that they deceived Potter, then the purchase price was artificially low—not reflective of market value.
+
+---
+
+## II. THE PROSECUTION FAILED TO ESTABLISH THE ELEMENTS OF FIRST-DEGREE THEFT
+
+### A. The Degree of Theft Depends on Actual Market Value
+
+Under RCW 9A.56.010(21), "value" means "the market value of the property or services at the time and place of the crime." For first-degree theft, the property must exceed $1,000 in value. RCW 9A.56.030. For second-degree theft, the property must exceed $250 but be worth $1,000 or less. RCW 9A.56.040.
+
+The State presented no evidence of the truck's market value at the time of the theft. The fact that the Georges paid $1,800 establishes only what they paid—not what the truck was worth. Given the extensive evidence of the truck's poor condition—mechanical problems, two years of exposure to the elements, engine replacement, and actual mileage of 185,000 miles—there is no basis for concluding that $1,800 reflected fair market value.
+
+### B. The Georges' Improvements Do Not Establish Value
+
+The State argues that the Georges' post-purchase improvements are irrelevant. This is correct, but the State's reasoning proves too much. If post-purchase improvements are irrelevant to determining value at the time of the theft, then the purchase price itself is equally irrelevant unless the State establishes that the price reflected fair market value.
+
+The record establishes that the Georges made improvements to the truck after purchasing it. These improvements do not establish the truck's value at the time of the theft, but they do establish that the truck required significant work—further supporting the conclusion that the purchase price did not reflect fair market value.
+
+---
+
+## III. THE THEFT STATUTE IS VAGUE AS APPLIED
+
+### A. The Constitutional Requirement
+
+The Due Process Clause of the Fourteenth Amendment requires that criminal statutes give fair notice of prohibited conduct. A statute is void for vagueness if it "fails to provide a person of ordinary intelligence fair notice of what is prohibited, or is so standardless that it invites arbitrary enforcement." **State v. Hennings**, 129 Wash. 2d 512, 527, 919 P.2d 580 (1996).
+
+### B. The Statute Fails Here
+
+The Georges were charged with attempted first-degree theft based on allegations that they deceived Potter about the truck's value. Yet the State never established what the truck's actual market value was. The prosecution's theory—that the purchase price equals market value—creates an impossible standard for defendants to understand.
+
+A person of ordinary intelligence cannot determine whether their conduct constitutes first-degree theft, second-degree theft, or no theft at all, when the determination depends on establishing market value through evidence that the State itself acknowledges is merely "relevant" rather than conclusive. The Georges had no way of knowing whether they had committed a felony or a misdemeanor, because the statute provides no guidance on how value should be calculated when the purchase price is the only evidence available.
+
+In **State v. Brown**, 121 Wash. 2d 283, 850 P.2d 310 (1993), this Court held that "market value" is not vague because it is a "well-established legal concept." However, the State's application of that concept here renders the statute impermissibly vague. The State cannot simultaneously argue that market value is established by the purchase price (making it easy to prove) while also claiming that the statute provides fair notice (requiring defendants to know what a willing buyer would pay). These positions are inconsistent.
+
+---
+
+## IV. THE COURT OF APPEALS ERRED
+
+The Court of Appeals erred in affirming the convictions because the evidence was insufficient to establish the market value of the truck. The State's reliance on the purchase price, without more, failed to prove that the truck was worth more than $1,000—the threshold for first-degree theft.
+
+In **State v. Salinas**, 119 Wash. 2d 192, 829 P.2d 1068 (1992), this Court held that evidence is sufficient if any rational trier of fact could find the essential elements beyond a reasonable doubt. However, the Salinas standard requires some evidence from which the trier of fact could make that finding. Here, the State presented no evidence from which a rational jury could determine the truck's market value—the only evidence was the purchase price, which does not establish market value as a matter of law.
+
+The trial court erred in denying the Georges' motion for dismissal, and the Court of Appeals compounded that error by applying the wrong legal standard.
+
+---
+
+## CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court reverse the Court of Appeals' decision and dismiss the attempted first-degree theft convictions. The evidence was insufficient to establish the market value of the truck, the State's reliance on purchase price as conclusive evidence of market value misapprehends the applicable legal standard, and the statute, as applied, fails to provide fair notice of prohibited conduct.
+
+Respectfully submitted,
+
+**DEFENSE COUNSEL**
+
+---
+
+## CITATIONS
+
+**Cases Cited:**
+
+- State v. Brown, 121 Wash. 2d 283, 850 P.2d 310 (1993)
+- State v. Charley, 54 Wash. 2d 422, 341 P.2d 476 (1959)
+- State v. Green, 89 Wash. 2d 554, 574 P.2d 1171 (1978)
+- State v. Hennings, 129 Wash. 2d 512, 919 P.2d 580 (1996)
+- State v. Lui, 179 Wash. 2d 457, 315 P.3d 493 (2013)
+- State v. Randhawa, 133 Wash. 2d 67, 958 P.2d 327 (1998)
+- State v. Salinas, 119 Wash. 2d 192, 829 P.2d 1068 (1992)
+- State v. Smith, 125 Wash. App. 76, 103 P.3d 181 (2004)
+
+**Statutes Cited:**
+
+- RCW 9A.56.010(21)
+- RCW 9A.56.030
+- RCW 9A.56.040
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+All eight cases cited are directly on point for the issues raised:
+
+* **Brown**, **Charley**, **Lui**, **Smith**, and the statutes – address the definition and proof of “market value” for theft offenses.  
+* **Green**, **Randhawa** – discuss the prosecution’s burden of proving every element beyond a reasonable doubt.  
+* **Hennings** – governs the vagueness/notice requirement.  
+* **Salinas** – sets the standard for sufficiency of evidence.  
+
+Each citation is highly relevant to the defense’s arguments concerning market‑value proof, the theft‑degree thresholds, and constitutional vagueness. Hence the highest relevance rating.
+
+### B. Constraints Extraction (Score = 4)  
+The analysis correctly extracts the essential legal constraints that must be satisfied for each precedent to apply:
+
+| Case / Authority | Extracted Constraint(s) |
+|------------------|--------------------------|
+| **Brown** | “Market value” is a well‑established legal concept that must be determinable. |
+| **Charley** | Market value = price a willing buyer would pay a willing seller, not merely the sale price. |
+| **Lui** | Sale price is *relevant* evidence of market value, but not conclusive; other evidence is required. |
+| **Green / Randhawa** | Prosecution must prove every element beyond a reasonable doubt; speculation is insufficient. |
+| **Hennings** | Statute must give fair notice; vagueness occurs when a person of ordinary intelligence cannot determine prohibited conduct. |
+| **Salinas** | Evidence is sufficient only if a rational trier of fact could find the element beyond a reasonable doubt. |
+| **Statutes (RCW 9A.56.010‑040)** | Theft degree hinges on the property’s market value at the time of the crime (>$1,000 for first‑degree, $250‑$1,000 for second‑degree). |
+
+All necessary constraints (well over the minimum three) are identified, correctly phrased, and tied to the governing legal standards.
+
+### C. Argument Validity per Constraint (Score = 4)  
+For each extracted constraint, the defense provides a sound argument grounded in the case facts:
+
+* **Market‑value definition** – Shows the truck’s defects (inoperable differential, high mileage, exposure) make the $1,800 price inconsistent with true market value, satisfying Charley’s “willing buyer” test.  
+* **Relevance vs. conclusiveness of sale price** – Cites Lui to argue the sale price alone cannot establish market value; the State offered no additional evidence.  
+* **Burden of proof** – Invokes Green and Randhawa to demonstrate the State relied on speculation, violating the beyond‑reasonable‑doubt requirement.  
+* **Vagueness/notice** – Uses Hennings and Brown to argue the statute, as applied, gives no clear guidance on how defendants should calculate market value, rendering it vague.  
+* **Sufficiency of evidence** – Applies Salinas to show the State’s evidence is insufficient because no independent valuation evidence exists.  
+* **Statutory thresholds** – Aligns the lack of market‑value proof with the requirement that first‑degree theft exceed $1,000, showing the element is not met.
+
+The arguments are internally consistent, correctly apply the law, and are supported by the factual record. No material misstatements or logical gaps are evident.
+
+---
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**State of Washington, Respondent v. John George and Tommy George, Appellants.**
+
+**PENDING BEFORE THE COURT** is the appeal of Appellants John George and Tommy George following their convictions for attempted first degree theft by deception. The Court has reviewed the opening arguments of the Prosecution and the Defense, the record provided, and the applicable legal standards. Based solely on the facts and arguments presented, the Court issues the following preliminary ruling.
+
+**I. ANALYSIS OF SUFFICIENCY OF EVIDENCE**
+
+The primary issue on appeal is whether the State presented sufficient evidence to support the element of value required for first degree theft. The Appellants contend that the State failed to prove the market value of the truck at the time and place of the crime, relying instead on the purchase price paid for the truck in a different condition.
+
+The legal standard for sufficiency of evidence is well established. In *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992), this Court held that evidence is sufficient if any rational trier of fact could find the essential elements of the crime beyond a reasonable doubt. Furthermore, the State bears the burden of proving every element of the crime, including the value of the property, beyond a reasonable doubt. *State v. Green*, 89 Wash. 2d 554, 574 P.2d 1171 (1978).
+
+The value of property for theft purposes is defined as the market value at the time and place of the crime. RCW 9A.56.010(21). In *State v. Lui*, 179 Wash. 2d 457, 315 P.3d 493 (2013), this Court confirmed that the sale price of property is relevant evidence of its market value, particularly when no contrary evidence is presented. The State presented evidence that the Appellants purchased the truck for $1,800. While the Appellants argue, citing *State v. Charley*, 54 Wash. 2d 422, 341 P.2d 476 (1959), that sale price is not synonymous with market value, *Charley* does not preclude the jury from considering sale price as evidence of value. It merely defines market value as the price a willing buyer would pay a willing seller.
+
+Here, the evidence established that the Appellants purchased the truck for $1,800. The Appellants argue that this price reflected a truck with substantial defects and therefore did not represent the "fair market value" of the truck in its improved condition at the time of the attempted sale to the undercover officers. However, this argument inadvertently supports the conviction. The Appellants themselves alleged that they made improvements to the truck after purchasing it. If the market value of the truck in its defective state was $1,800, the value of the truck in its improved condition at the time of the attempted sale must have been equal to or greater than $1,800.
+
+The State was required to prove that the value of the property exceeded $1,000 to sustain a conviction for first degree theft. RCW 9A.56.030. By establishing that the truck was worth $1,800 in its broken, unimproved state, the State necessarily established that the value exceeded the $1,000 threshold. The Appellants presented no evidence to rebut the $1,800 figure or to suggest that the value of the improved truck had somehow fallen below the statutory threshold. Therefore, a rational trier of fact could conclude that the value of the truck at the time of the crime exceeded $1,000. *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992).
+
+**II. ANALYSIS OF STATUTORY VAGUENESS**
+
+The Appellants argue that the theft statute is unconstitutionally vague as applied because the State's theory—that purchase price equals market value—fails to provide fair notice of prohibited conduct. This argument is unpersuasive.
+
+In *State v. Brown*, 121 Wash. 2d 283, 850 P.2d 310 (1993), this Court held that the term "market value" is a well-established legal concept that provides fair notice of prohibited conduct and is not unconstitutionally vague. The fact that the State may use purchase price as evidence of market value does not render the statute vague; it simply speaks to the method of proof. The statute clearly defines the prohibited conduct (theft) and the element of value (market value). The Appellants' inability to predict the exact evidentiary path the State would use to prove that element does not render the statute void for vagueness under the standard set forth in *State v. Hennings*, 129 Wash. 2d 512, 919 P.2d 580 (1996).
+
+**III. CONCLUSION**
+
+The State presented sufficient evidence for a rational jury to find that the value of the truck exceeded $1,000. The purchase price of $1,800 was admissible evidence of market value, and the Appellants' admission of improvements precludes any argument that the value fell below the statutory threshold for first degree theft. The theft statute is not unconstitutionally vague.
+
+Accordingly, the Court affirms the decision of the Court of Appeals.
+
+**DATED:** this day.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (4/4)**  
+All eight citations are directly on point. *Salinas* and *Green* set the standard for sufficiency of evidence and the burden of proof, which are the core issues. The statutory provisions (RCW 9A.56.010(21) and 9A.56.030) define “value” and the $1,000 threshold – essential to the theft‑theft analysis. *Lui* and *Charley* speak directly to whether a sale price can stand in for market value. *Brown* and *Hennings* are the controlling authority on the vagueness claim. Thus every citation is highly relevant.
+
+**B. Constraints Extraction (4/4)**  
+The analysis extracts the necessary legal constraints for each authority:
+
+1. **Salinas** – evidence must allow a rational trier of fact to find every element beyond a reasonable doubt.  
+2. **Green** – the State bears the burden of proving each element beyond a reasonable doubt.  
+3. **Lui** – a sale price is admissible *relevant* evidence of market value when no contrary evidence is offered.  
+4. **Charley** – market value is the price a willing buyer would pay a willing seller; it is not automatically identical to the sale price.  
+5. **Brown** – “market value” is a well‑established, non‑vague term that gives fair notice.  
+6. **Hennings** – a statute is vague only if it fails to give ordinary people fair notice of prohibited conduct.  
+7. **RCW 9A.56.010(21)** – “value” means market value at the time and place of the crime.  
+8. **RCW 9A.56.030** – first‑degree theft requires value > $1,000.
+
+All constraints are correctly identified, phrased in proper legal terminology, and cover the doctrinal elements, statutory thresholds, and vagueness standards required for the cited authorities to apply.
+
+**C. Argument Validity per Constraint (4/4)**  
+For each extracted constraint the analysis supplies a sound argument:
+
+* The *Salinas* and *Green* standards are applied to show the State met its burden.  
+* The *Lui* argument correctly treats the $1,800 purchase price as sufficient *relevant* evidence because the defense offered none.  
+* The *Charley* discussion acknowledges the distinction between sale price and market value but argues that the sale price may still be considered, which aligns with the case.  
+* The *Brown* and *Hennings* arguments correctly assert that the statute is not vague and that fair‑notice requirements are satisfied.  
+* The statutory provisions are accurately read and applied to the facts (the truck’s price exceeds the $1,000 threshold).  
+
+No factual misstatements or over‑extensions are present; the reasoning is logically consistent and grounded in the cited authority.
+
+**Scores**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+The prosecution respectfully submits this rebuttal to the defense's opening statement. The Court of Appeals correctly affirmed the convictions, and the defense's arguments lack merit under established legal principles. The State presented sufficient evidence of value for first degree theft, and the theft statute is not unconstitutionally vague.  
+
+### I. The State Presented Sufficient Evidence of Value  
+The defense incorrectly asserts that the $1,800 purchase price cannot establish market value. Under State v. Lui, 179 Wash. 2d 457, 315 P.3d 493 (2013), "sale price is relevant evidence of market value, particularly when no contrary evidence is presented." Here, the Georges presented no evidence to rebut the purchase price as market value. Instead, they admitted making improvements to the truck after purchase, which confirms the truck had value exceeding $1,000 at the time of the transaction. As this Court held in State v. Salinas, 119 Wash. 2d 192, 829 P.2d 1068 (1992), evidence is sufficient if "any rational trier of fact could find the essential elements of the crime beyond a reasonable doubt." The purchase price alone satisfies the $1,000 threshold for first degree theft under RCW 9A.56.030.  
+
+The defense's reliance on State v. Charley, 54 Wash. 2d 422, 341 P.2d 476 (1959), is misplaced. Charley defines market value as "the price a willing buyer would pay a willing seller" but does not hold that sale price is irrelevant to market value. Lui explicitly confirms that sale price may be considered as evidence of market value, especially when no contradictory evidence exists. The defense's argument that "sale price is not synonymous with market value" is legally correct but irrelevant; the issue is whether the sale price may serve as evidence of market value, and Lui settles this question affirmatively.  
+
+Moreover, the Georges' own admissions regarding the truck's condition—disclosed by Potter to include an inoperable rear differential, two years of outdoor exposure, engine replacement, and actual mileage of 185,000 miles—do not undermine the State's evidence. The purchase price reflects the value of the truck *in its actual condition at the time of sale*. The State was not required to prove the truck's value in an improved state; the $1,800 price for the defective truck alone exceeds the $1,000 threshold for first degree theft. The defense's claim that the State "failed to prove market value" ignores that the purchase price is sufficient evidence when uncontradicted.  
+
+### II. The Theft Statute Is Not Unconstitutionally Vague  
+The defense's vagueness argument fails under State v. Brown, 121 Wash. 2d 283, 850 P.2d 310 (1993), which holds that "market value" is a "well-established legal concept" that provides fair notice of prohibited conduct. The statute defines "value" as "the market value of the property or services at the time and place of the crime," RCW 9A.56.010(21), and this definition is clear and established in law. As this Court stated in State v. Hennings, 129 Wash. 2d 512, 919 P.2d 580 (1996), a statute is not void for vagueness merely because the State uses a particular method of proof. Here, the State's reliance on purchase price as evidence of market value does not render the statute vague; it merely addresses the evidentiary standard, not the substantive definition of value.  
+
+The defense claims the statute fails to provide fair notice because defendants cannot "determine whether their conduct constitutes first-degree theft, second-degree theft, or no theft at all." This misstates the law. The statute clearly requires proof of value exceeding $1,000 for first degree theft, and the purchase price of $1,800—uncontradicted by the defense—easily satisfies this threshold. The defense's inability to predict the State's evidentiary path does not equate to statutory vagueness. Brown and Hennings establish that fair notice exists when the statute defines prohibited conduct and essential elements with sufficient clarity, which it does here.  
+
+### III. The Court of Appeals Properly Affirmed the Convictions  
+The defense's assertion that the Court of Appeals "applied the wrong legal standard" is incorrect. The trial court correctly denied the motion for dismissal because the State presented sufficient evidence of value. Under State v. Green, 89 Wash. 2d 554, 574 P.2d 1171 (1978), the State bears the burden of proving every element beyond a reasonable doubt, but it need not present independent evidence of market value when the sale price is uncontradicted. The Georges' failure to present any evidence to rebut the $1,800 purchase price—despite having the opportunity to do so—means the jury permissibly relied on that figure to find the value exceeded $1,000. The Court of Appeals correctly applied Salinas and Lui in affirming the convictions.  
+
+In sum, the defense's arguments rest on mischaracterizations of controlling precedent and a misunderstanding of the evidentiary standard. The State presented sufficient evidence of value through the uncontradicted purchase price, and the theft statute is not unconstitutionally vague. The Court of Appeals properly affirmed the convictions, and this Court should do the same.  
+
+Respectfully submitted,  
+**PROSECUTION COUNSEL**
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Criterion | Explanation |
+|-----------|-------------|
+| **Citation Relevance** | All of the cases and statutes cited ( *Lui*, *Salinas*, *Charley*, *Brown*, *Hennings*, *Green* and the relevant RCWs) directly address the two core issues raised by the defense – the evidentiary sufficiency of a sale‑price to prove market value and whether the theft statute is unconstitutionally vague. The authority is on‑point and recent enough to be controlling in Washington. **Score: 4** |
+| **Constraints Extraction** | The rebuttal implicitly identifies the legal conditions that must be met for each precedent to apply: <br>1. *Lui* – sale price may be used **only when no contrary evidence is offered**. <br>2. *Salinas* – the “rational‑trier” sufficiency test. <br>3. *Brown* / *Hennings* – the statute must give **clear notice** and **not be vague**. <br>4. *Green* – the State bears the **burden of proof beyond a reasonable doubt**. <br>These constraints are correctly stated, though they are not enumerated in a separate list. Because the analysis extracts at least three necessary constraints correctly, it meets the rubric’s threshold. **Score: 3** |
+| **Argument Validity per Constraint** | For each identified constraint the rebuttal supplies a sound argument: <br>• It shows the defense offered no contrary evidence, satisfying *Lui*’s condition. <br>• It argues the purchase price alone meets the *Salinas* “any rational trier” test. <br>• It explains why the statutory language satisfies the *Brown*/*Hennings* notice‑vagueness requirements. <br>• It reiterates the State’s burden under *Green*. The reasoning is legally accurate and directly tied to the facts. **Score: 4** |
+| **Rebuttal Responsiveness** | The defense’s three main attacks are (1) insufficient proof of market value, (2) misuse of purchase‑price evidence, and (3) vagueness of the theft statute. The prosecution’s rebuttal addresses each point head‑on, cites controlling authority, and refutes the defense’s contentions. No major argument is ignored. **Score: 4** |
+| **Rebuttal Strength / Persuasiveness** | The rebuttal is concise, well‑structured, and marshals the strongest Washington precedent to undermine the defense’s theory. It maintains internal consistency, emphasizes the uncontradicted sale price, and convincingly argues that the statute provides fair notice. The overall persuasive effect is high. **Score: 4** |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE SUPREME COURT OF WASHINGTON
+
+### State of Washington, Respondent v. John George and Tommy George, Appellants
+
+---
+
+**DEFENSE REBUTTAL TO PROSECUTION'S REBUTTAL**
+
+---
+
+## I. INTRODUCTION
+
+The prosecution's rebuttal mischaracterizes the applicable legal standards and ignores fundamental flaws in the State's theory of value. The defense respectfully requests that this Court reverse the convictions because the State failed to present sufficient evidence that the truck's market value exceeded $1,000 at the time of the attempted sale, and because the theft statute as applied failed to provide fair notice of the conduct prohibited.
+
+---
+
+## II. THE PROSECUTION'S REBUTTAL FAILS TO ESTABLISH SUFFICIENT EVIDENCE OF VALUE
+
+### A. The Purchase Price of the Defective Truck Does Not Establish the Value of the Improved Truck at the Time of the Crime
+
+The prosecution erroneously conflates the purchase price of a defective vehicle with the market value of an improved vehicle at the time of the attempted sale. This conflation violates the fundamental principle established in *State v. Charley*, 54 Wash. 2d 422, 341 P.2d 476 (1959), that market value must be determined "at the time and place of the crime."
+
+The facts demonstrate the fatal flaw in the prosecution's theory. The Georges purchased the truck in June 2003 for $1,800 in its defective condition: the rear wheel differential was inoperable, the truck had sat outside for two years, and the actual mileage was 185,000 miles. The attempted sale to the undercover officers occurred sometime thereafter. The prosecution presented no evidence whatsoever regarding the condition of the truck at the time of the attempted sale, the nature or extent of the improvements made, or the market value of the truck in its improved condition.
+
+The prosecution's argument that "the $1,800 price for the defective truck alone exceeds the $1,000 threshold" fundamentally misapprehends the crime of theft. The Georges were not charged with attempting to sell the truck in its defective condition for $1,800—they were charged with attempting to sell the truck to the undercover officers based on false representations about the truck's condition and mileage. The relevant inquiry is the market value of the truck *as it was represented and as it existed at the time of the attempted sale*, not the price paid for a different, defective version of the truck months earlier.
+
+### B. The Prosecution's Misreading of Lui Does Not Support the Conviction
+
+The prosecution relies heavily on *State v. Lui*, 179 Wash. 2d 457, 315 P.3d 493 (2013), for the proposition that "sale price is relevant evidence of market value." However, the prosecution ignores the critical distinction between *relevant evidence* and *sufficient evidence*. While sale price may be considered as evidence of market value, it is not *dispositive* of market value, particularly when the property's condition has materially changed between the sale and the crime.
+
+In *Lui*, the court permitted the jury to consider sale price as evidence of market value because "no contrary evidence was presented." However, *Lui* does not stand for the proposition that sale price alone, without any evidence connecting the sale price to the condition of the property at the time of the crime, is sufficient to establish market value beyond a reasonable doubt. Here, the prosecution presented absolutely no evidence regarding the condition of the truck at the time of the attempted sale or the relationship between the $1,800 purchase price and the truck's value in its improved condition.
+
+### C. The Georges' Alleged Improvements Do Not Establish Value—They Raise Questions About Value That the State Failed to Answer
+
+The prosecution's assertion that "the Georges' admission of improvements...confirms the truck had value exceeding $1,000" represents a logical fallacy. The admission that improvements were made does not establish the *value* of those improvements or the resulting market value of the improved truck. Improvements may add value, but they may also add less value than their cost, or the truck may have deteriorated despite the improvements.
+
+The burden of proof rests entirely on the State, not on the defendants. *State v. Green*, 89 Wash. 2d 554, 574 P.2d 1171 (1978). The Georges had no obligation to present evidence regarding the value of the truck in its improved condition. The prosecution's attempt to shift this burden by noting that "the Georges presented no evidence to rebut the purchase price" misapprehends the State's constitutional burden to prove every element of the crime beyond a reasonable doubt. *In re Winship*, 397 U.S. 358 (1970).
+
+The prosecution's theory effectively requires defendants to prove their innocence by presenting evidence that their property is worth less than the statutory threshold—a burden-shifting mechanism expressly rejected by Washington law. The State was required to prove, and failed to prove, that the truck as it existed at the time of the attempted sale had a market value exceeding $1,000.
+
+### D. The Prosecution Ignores the Distinction Between Purchase Price and Market Value
+
+As this Court recognized in *State v. Charley*, 54 Wash. 2d 422, 341 P.2d 476 (1959), "market value" is defined as "the price a willing buyer would pay a willing seller" at the time and place of the crime. The prosecution conflates sale price with market value, but these are distinct concepts. The sale price of $1,800 reflected a specific transaction between a willing buyer and a willing seller *for a truck in its defective condition*. The prosecution presented no evidence of what a willing buyer would pay a willing seller for the truck *in its improved condition* at the time of the attempted sale.
+
+The prosecution's reliance on the absence of contrary evidence presented by the defense is misplaced. The State bears the burden of affirmatively establishing every element of the crime. The absence of defense evidence does not relieve the State of this burden or convert insufficient evidence into sufficient evidence.
+
+---
+
+## III. THE THEFT STATUTE AS APPLIED IS UNCONSTITUTIONALLY VAGUE
+
+### A. The Prosecution's Reliance on Brown Is Misplaced
+
+The prosecution cites *State v. Brown*, 121 Wash. 2d 283, 850 P.2d 310 (1993), for the proposition that "market value" is a well-established legal concept that provides fair notice. However, the prosecution conflates the *definition* of market value with the *method of proof* employed by the State.
+
+While "market value" as a term may be sufficiently definite, the State's theory in this case—using the purchase price of a defective truck to establish the value of an improved truck at a later time—creates an impossible standard for defendants to understand. A defendant cannot know whether his conduct constitutes first-degree theft, second-degree theft, or no theft at all when the State is permitted to rely on a purchase price from a prior transaction involving a materially different version of the property.
+
+### B. The Prosecution Misapplies Hennings
+
+The prosecution's reliance on *State v. Hennings*, 129 Wash. 2d 512, 919 P.2d 580 (1996), is similarly misplaced. In *Hennings*, the Court held that a statute is not void for vagueness merely because "the State uses a particular method of proof." However, the instant case presents a different situation: the State has not merely used a particular method of proof, but has used a method of proof that bears no rational relationship to the element it purports to prove.
+
+The prosecution's theory permits the State to satisfy the value element by presenting evidence of a prior sale price without any evidence connecting that price to the condition of the property at the time of the crime. This creates an arbitrary and unpredictable standard that fails to provide fair notice of what conduct is prohibited.
+
+---
+
+## IV. THE PROSECUTION'S REBUTTAL FAILS TO ADDRESS THE FUNDAMENTAL INSUFFICIENCY OF THE EVIDENCE
+
+The prosecution's rebuttal entirely fails to address the core deficiency in the State's case: the complete absence of evidence regarding the market value of the truck *at the time and place of the crime*. The prosecution presented evidence only of the purchase price of a defective truck months earlier. The prosecution presented no evidence of:
+
+1. The condition of the truck at the time of the attempted sale;
+2. The nature or extent of any improvements made;
+3. The market value of the truck in its improved condition;
+4. Any expert testimony regarding the value of the truck; or
+5. Any comparable sales of similar trucks in similar condition.
+
+Under *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992), evidence is sufficient only if "any rational trier of fact could find the essential elements of the crime beyond a reasonable doubt." A rational trier of fact could not find that the market value of the truck exceeded $1,000 based solely on evidence that the defendants purchased a defective truck for $1,800 months earlier, when the prosecution presented no evidence regarding the truck's value at the time of the crime.
+
+---
+
+## V. CONCLUSION
+
+For the foregoing reasons, the defense respectfully requests that this Court reverse the convictions for attempted first degree theft by deception and remand for further proceedings consistent with this opinion.
+
+Respectfully submitted,
+
+**DEFENSE COUNSEL**
+
+---
+
+## TABLE OF CITATIONS
+
+**Cases:**
+
+- *State v. Charley*, 54 Wash. 2d 422, 341 P.2d 476 (1959)
+- *State v. Lui*, 179 Wash. 2d 457, 315 P.3d 493 (2013)
+- *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992)
+- *State v. Green*, 89 Wash. 2d 554, 574 P.2d 1171 (1978)
+- *State v. Brown*, 121 Wash. 2d 283, 850 P.2d 310 (1993)
+- *State v. Hennings*, 129 Wash. 2d 512, 919 P.2d 580 (1996)
+- *In re Winship*, 397 U.S. 358 (1970)
+
+**Statutes:**
+
+- RCW 9A.56.010(21)
+- RCW 9A.56.030
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**A. Citation Relevance (0‑4)**  
+All of the cases cited by the defense rebuttal are directly on point to the two legal issues raised in the prosecution’s rebuttal: (1) what evidence is sufficient to prove the “market‑value” element of theft, and (2) whether the theft statute gives fair notice (vagueness).  
+
+* *State v. Charley* defines market value “at the time and place of the crime” – the exact proposition the defense is contesting.  
+* *State v. Lui* is the leading Washington case on the evidentiary weight of a sale price; the defense uses it to argue that sale price is only “relevant” and not dispositive.  
+* *State v. Salinas* supplies the standard for sufficiency of evidence, which the defense invokes to show the State’s proof is inadequate.  
+* *State v. Green* and *In re Winship* articulate the State’s burden of proof – central to the defense’s argument that the burden was not met.  
+* *State v. Brown* and *State v. Hennings* are the controlling cases on the vagueness challenge.  
+
+No citation is tangential or unrelated; each is highly pertinent. **Score: 4**
+
+---
+
+**B. Constraints Extraction (0‑4)**  
+For each authority the defense identifies the legal “constraints” that must be satisfied for the precedent to apply:
+
+| Citation | Extracted constraint(s) |
+|----------|------------------------|
+| Charley | Market‑value must be measured **at the time and place of the crime**. |
+| Lui | Sale price is **relevant, not dispositive**; it must be linked to the property’s condition at the relevant time. |
+| Salinas | Evidence must allow **any rational trier of fact** to find the element beyond a reasonable doubt. |
+| Green / Winship | **State bears the burden** of proving every element; defendants need not prove innocence. |
+| Brown | “Market value” is a **well‑established concept** that gives fair notice. |
+| Hennings | A statute is not vague merely because of a **method of proof**, but the method must have a rational relationship to the element. |
+
+All necessary constraints (at least three, and the ones that are essential to each holding) are identified, and they are articulated correctly with proper legal terminology. **Score: 4**
+
+---
+
+**C. Argument Validity per Constraint (0‑4)**  
+The rebuttal ties each extracted constraint to the factual record and explains why the prosecution’s evidence fails to satisfy it:
+
+* **Charley** – the defense points out that the prosecution never proved the truck’s value *at the time of the attempted sale*.  
+* **Lui** – it emphasizes that the sale price of $1,800 is merely relevant and, without evidence connecting that price to the later condition, cannot satisfy the value element.  
+* **Salinas** – the defense argues that no rational juror could infer the required value from the lone piece of evidence.  
+* **Green/Winship** – it stresses that the State, not the defendants, must prove the value; the State’s reliance on the defendants’ silence does not meet that burden.  
+* **Brown** – the rebuttal shows that the statute’s definition is clear, but the State’s application creates an unforeseeable standard, undermining fair notice.  
+* **Hennings** – it demonstrates that the method of proof (using a prior defective‑truck price) bears no rational relationship to the element, rendering the application arbitrary.
+
+All arguments are fact‑accurate, do not distort the background, and directly support the identified constraints. **Score: 4**
+
+---
+
+**D. Rebuttal Responsiveness (0‑4)**  
+The defense rebuttal systematically addresses each of the prosecution’s points:
+
+1. It counters the claim that the purchase price proves value.  
+2. It refutes the prosecution’s reliance on *Lui* by distinguishing “relevant” from “sufficient.”  
+3. It attacks the argument that the defendants’ improvements prove value.  
+4. It rebuts the vagueness argument by dissecting the use of *Brown* and *Hennings*.  
+5. It points out the prosecution’s failure to produce any evidence of the truck’s condition at the time of the attempted sale.
+
+No major argument from the prosecution is left unaddressed, and the defense’s responses are direct and focused. **Score: 4**
+
+---
+
+**E. Rebuttal Strength / Persuasiveness (0‑4)**  
+The rebuttal is strategically strong:
+
+* It marshals the most authoritative Washington precedents on both the value element and vagueness.  
+* It highlights a clear evidentiary gap—no proof of the truck’s condition at the relevant time—making the State’s case untenable.  
+* It underscores constitutional due‑process principles, shifting the burden back to the State.  
+* The writing is logically coherent, internally consistent, and presents a compelling narrative that the conviction cannot stand.
+
+While no argument can guarantee reversal, the rebuttal is highly persuasive and substantially weakens the prosecution’s position. **Score: 4**
+
+---
+
+### Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**State of Washington, Respondent v. John George and Tommy George, Appellants.**
+
+**FINAL RULING**
+
+**PENDING BEFORE THE COURT** is the appeal of Appellants John George and Tommy George following their convictions for attempted first degree theft by deception. The Court has reviewed the rebuttals of the prosecution and defense, the record provided, and the applicable legal standards. Based solely on the facts and arguments presented, the Court issues the following final ruling.
+
+**I. SUFFICIENCY OF THE EVIDENCE**
+
+The Appellants contend that the State failed to present sufficient evidence to establish the value of the truck at the time and place of the crime, a necessary element for first degree theft. Specifically, the Appellants argue that the State’s reliance on the $1,800 purchase price was erroneous because that price reflected the truck’s value in a defective condition, whereas the crime involved the truck in an allegedly improved condition.
+
+The legal standard for reviewing a sufficiency challenge is well settled. In *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992), this Court held that evidence is sufficient if, after viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could find the essential elements of the crime beyond a reasonable doubt. The State bears the burden of proving every element of the offense, including the value of the property. *State v. Green*, 89 Wash. 2d 554, 574 P.2d 1171 (1978).
+
+The Appellants rely on *State v. Charley*, 54 Wash. 2d 422, 341 P.2d 476 (1959), for the proposition that market value must be determined "at the time and place of the crime." While the Court agrees with this definition, the Appellants’ application of it to the facts is unpersuasive. The State presented evidence that the Appellants purchased the truck for $1,800 in June 2003. At that time, the truck was inoperable due to a rear wheel differential problem, had sat outside for two years, and had high mileage. This $1,800 figure represents the market value of the truck in a significantly depreciated, defective state.
+
+The Appellants argue that because they made improvements to the truck prior to the attempted sale, the State was required to present new evidence of the truck’s value in its improved condition. However, this argument ignores the logical inference arising from the evidence presented. If the market value of the truck was $1,800 while it was inoperable and neglected, it follows that the value of the truck in a repaired, "perfect" condition—as represented by the Appellants to the undercover officers—was equal to or greater than $1,800.
+
+The State was required to prove that the value of the property exceeded $1,000 to sustain a conviction for first degree theft under RCW 9A.56.030. By establishing that the truck was worth $1,800 in its defective state, the State necessarily established that the value exceeded the statutory threshold. The Appellants’ speculation that the improvements might not have added value, or that the truck might have deteriorated, does not negate the sufficiency of the State's evidence. The State is not required to disprove every hypothetical scenario that might lower the value; it need only produce evidence from which a rational jury can find the value exceeded the threshold. *State v. Lui*, 179 Wash. 2d 457, 315 P.3d 493 (2013), confirms that sale price is relevant evidence of market value, particularly when no contrary evidence is presented. Here, the $1,800 purchase price provides a sufficient evidentiary basis for the jury to conclude the value exceeded $1,000.
+
+**II. STATUTORY VAGUENESS**
+
+The Appellants argue that the theft statute is unconstitutionally vague as applied because the State’s use of the purchase price of a defective truck to prove the value of an improved truck fails to provide fair notice. This argument is without merit.
+
+In *State v. Brown*, 121 Wash. 2d 283, 850 P.2d 310 (1993), this Court held that the term "market value" is a well-established legal concept that provides fair notice of prohibited conduct. The statute clearly defines the prohibited act (theft) and the element of value (market value at the time and place of the crime). The fact that the State utilized the purchase price of the truck in a prior transaction as evidence of that value does not render the statute vague. As stated in *State v. Hennings*, 129 Wash. 2d 512, 919 P.2d 580 (1996), a statute is not void for vagueness merely because the State employs a particular method of proof. The Appellants’ inability to predict the precise evidentiary strategy the State would employ does not equate to a lack of notice regarding the criminality of their conduct.
+
+**III. CONCLUSION**
+
+The State presented sufficient evidence for a rational jury to find that the value of the truck exceeded $1,000. The purchase price of $1,800 for the truck in a defective condition established a baseline value that satisfied the statutory threshold for first degree theft, particularly where the Appellants admitted to making improvements prior to the attempted sale. The theft statute is not unconstitutionally vague.
+
+Accordingly, the Court affirms the decision of the Court of Appeals.
+
+**DATED:** this day.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+### A. Citation Relevance (Score = 4)  
+All of the cases cited—*Salinas*, *Green*, *Charley*, *Lui*, *Brown*, *Hennings*—and the two statutes directly address the two core issues on appeal: (1) whether the State proved the “value” element of first‑degree theft, and (2) whether the theft statute is unconstitutionally vague. Each authority is a Washington Supreme Court decision that interprets the same statutory provisions (RCW 9A.56.010, 9A.56.030) and therefore is highly relevant. No citation is tangential or unrelated.
+
+### B. Constraints Extraction (Score = 3)  
+The analysis identifies the principal legal constraints that must be satisfied for each precedent to apply:
+
+| Citation | Extracted constraint(s) |
+|----------|--------------------------|
+| *Salinas* | (i) Evidence must be viewed in the light most favorable to the prosecution; (ii) any rational trier of fact could find each element beyond a reasonable doubt. |
+| *Green*   | (i) The State bears the burden of proving every element of the crime beyond a reasonable doubt. |
+| *Charley* | (i) “Market value” is measured at the time and place of the crime. |
+| *Lui*     | (i) Sale price is admissible as evidence of market value when no contrary evidence is offered. |
+| *Brown*   | (i) “Market value” is a well‑established legal concept that gives fair notice. |
+| *Hennings*| (i) A statute is not void for vagueness merely because the State uses a particular method of proof. |
+
+The analysis captures the essential constraints for each case, but it omits a few finer points (e.g., *Salinas*’ “light most favorable to the prosecution” phrase is not explicitly mentioned, and *Lui*’s requirement that the sale price be “relevant to the condition of the property at the time of the crime” is not spelled out). Because the core constraints are present but not fully articulated, the score is **3**.
+
+### C. Argument Validity per Constraint (Score = 3)  
+The argument links the facts to each constraint:
+
+* **Salinas** – correctly argues that the $1,800 purchase price allows a rational jury to infer the value element; the reasoning follows the sufficiency standard.  
+* **Green** – accurately states the State’s burden and notes the defendants offered no rebuttal evidence.  
+* **Charley** – acknowledges the “time‑and‑place” requirement and argues that the $1,800 figure, even for a defective truck, establishes a floor value that cannot be lower after improvements. The inference is logical but not conclusively proven, making the argument somewhat weak.  
+* **Lui** – properly cites that sale price is relevant evidence when uncontested; the analysis applies this correctly.  
+* **Brown / Hennings** – persuasively contend that the statute’s language provides fair notice and that the method of proof does not create vagueness.
+
+Overall, the arguments are sound and factually accurate, but a few rely on logical leaps (e.g., assuming improvements cannot reduce value) that prevent a perfect rating. Hence a **3**.
+
+---
+
+### Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 3
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+Your Honors, the Court properly affirmed the Court of Appeals because the State presented sufficient evidence to establish the value element for attempted first degree theft under RCW 9A.56.030, and the theft statute is not unconstitutionally vague as applied. The defense’s arguments mischaracterize the law, ignore the clear evidentiary record, and improperly shift the burden of proof onto the State. We urge this Court to uphold the convictions.
+
+First, the State met its burden of proving the truck’s market value exceeded $1,000—a required element for first degree theft. The evidence showed the Georges purchased the truck for $1,800 in June 2003 while it was inoperable due to a rear wheel differential problem, had sat uncovered outside for two years, and carried 185,000 miles (despite an odometer reading of 70,000). This $1,800 purchase price directly established the truck’s market value at the time of the prior transaction. As this Court held in *State v. Lui*, 179 Wash. 2d 457, 315 P.3d 493 (2013), "sale price is relevant evidence of market value, particularly when no contrary evidence is presented." Here, the defense presented no evidence whatsoever to contradict this value or challenge its relevance to the truck’s worth at any relevant time. The defense’s claim that the $1,800 price reflects only a "defective" truck’s value—and thus cannot prove the value of an "improved" truck—is legally irrelevant. The $1,800 figure alone exceeds the $1,000 statutory threshold for first degree theft. That the Georges later misrepresented the truck as "perfect condition" with 70,000 miles does not alter this baseline: the value of the defective truck was already sufficient to satisfy the statute. As this Court emphasized in *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992), evidence is sufficient if "any rational trier of fact could find the essential elements of the crime beyond a reasonable doubt" when viewed in the light most favorable to the prosecution. A rational jury could—and did—conclude that a truck worth $1,800 in a severely degraded state inherently exceeded $1,000, making the value element indisputably proven. The defense’s speculation about whether improvements added or subtracted value is irrelevant; the State need not disprove hypothetical scenarios, as confirmed in *State v. Lui*, 179 Wash. 2d 457, 315 P.3d 493 (2013).  
+
+Second, the defense’s argument that the State failed to prove market value "at the time and place of the crime" misapplies *State v. Charley*, 54 Wash. 2d 422, 341 P.2d 476 (1959). *Charley* defines market value as "the price a willing buyer would pay a willing seller" at the relevant time, but it does not require the State to present separate evidence for each stage of the property’s condition. Here, the crime was the attempted sale based on false representations about the truck’s condition. The truck’s value at the time of the prior sale—$1,800 for the defective vehicle—was the only market value evidence presented, and it inherently satisfied the statutory threshold. The defense’s insistence that the State must prove the truck’s value *in its improved condition* ignores that the value of the defective truck alone was sufficient. The defense’s own conduct—claiming the truck was "in great shape" and "garaged" when it was actually inoperable and exposed—only reinforced that the truck’s true value was less than represented, but the $1,800 baseline alone was enough to meet the $1,000 requirement.  
+
+Third, the theft statute is not unconstitutionally vague. The defense argues that using a prior sale price to establish value for a later misrepresentation creates "impossible standards" for defendants, but this conflates evidentiary challenges with statutory vagueness. As this Court held in *State v. Brown*, 121 Wash. 2d 283, 850 P.2d 310 (1993), "market value" is a "well-established legal concept that provides fair notice of prohibited conduct." The statute clearly defines the prohibited act (theft) and the element of value (market value at the time and place of the crime), and the defense’s inability to predict the State’s evidentiary strategy does not render the statute vague. *State v. Hennings*, 129 Wash. 2d 512, 919 P.2d 580 (1996), squarely rejects the defense’s position: "a statute is not void for vagueness merely because the State employs a particular method of proof." The defense’s real complaint is about the sufficiency of evidence—not the statute’s clarity—and this Court has consistently held that evidentiary disputes do not implicate vagueness concerns.  
+
+Finally, the defense’s burden-shifting argument fails. The defense claims the State must prove the value of the truck "in its improved condition," but this misstates the law. As established in *State v. Green*, 89 Wash. 2d 554, 574 P.2d 1171 (1978), the State bears the burden of proving every element beyond a reasonable doubt, but the defense’s failure to present evidence does not relieve the State of this burden—it simply means the State’s evidence stands uncontradicted. Here, the State presented the $1,800 purchase price as evidence of market value, and the defense offered no evidence to rebut it. This is consistent with *In re Winship*, 397 U.S. 358 (1970), which requires the State to meet its burden but does not shift the burden to the defense to prove innocence. The defense’s claim that the State must "disprove every hypothetical scenario" about improvements is legally unsound; the State need only produce evidence from which a rational jury could find the value exceeded $1,000, which it did.  
+
+In sum, the trial court and Court of Appeals correctly applied the law. The State proved the value element beyond a reasonable doubt through the $1,800 purchase price for the defective truck—a figure that inherently exceeds the $1,000 threshold for first degree theft. The theft statute is not vague, and the defense’s arguments are rooted in evidentiary missteps, not constitutional errors. We respectfully request that this Court affirm the Court of Appeals and uphold the convictions.
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Closing Argument**
+
+| Evaluation Area | Score (0‑4) | Rationale |
+|-----------------|-------------|-----------|
+| **A. Citation Relevance** | **4** | Every case cited (Lui, Salinas, Charley, Brown, Hennings, Green, *In re Winship*) directly addresses the two core legal questions – (1) what evidence is sufficient to prove the “market‑value” element of theft and (2) whether the theft statute is unconstitutionally vague. The citations are therefore highly relevant and directly applicable. |
+| **B. Constraints Extraction** | **4** | The argument extracts the essential legal constraints for each precedent: <br>• *Lui* – sale price is admissible *and* “relevant” when no contrary evidence is offered. <br>• *Salinas* – sufficiency test: any rational trier could find every element beyond a reasonable doubt. <br>• *Charley* – market value = price a willing buyer would pay a willing seller **at the time and place of the crime**. <br>• *Brown* – “market value” is a well‑defined concept that gives fair notice. <br>• *Hennings* – a statute is not vague merely because the State uses a particular method of proof. <br>• *Green* – the State bears the burden of proving every element beyond reasonable doubt. <br>• *Winship* – the burden never shifts to the defendant. All necessary constraints are identified with correct legal terminology. |
+| **C. Argument Validity per Constraint** | **3** | The argument correctly applies most constraints: it shows the $1,800 price is relevant under *Lui*, meets the *Salinas* sufficiency standard, and correctly states the burden rules from *Green* and *Winship*. It also cites *Brown* and *Hennings* accurately on vagueness. The weakest link is the use of *Charley*: the argument treats the value of the **defective** truck as sufficient for the attempted sale of an **improved** truck, which stretches the “time and place” requirement of *Charley*. That mis‑application prevents a perfect score. |
+| **D. Issue Prioritization and Synthesis** | **3** | The closing argument prioritizes the most dispositive issues – (1) proof of the value element, (2) statutory vagueness, and (3) burden of proof – and weaves the cited authority into a coherent narrative. It avoids unnecessary repetition, but it could have more sharply distinguished the “defective‑truck” vs “improved‑truck” factual distinction, and it repeats the same line of reasoning (sale‑price sufficiency) several times. Hence a solid but not flawless synthesis. |
+| **E. Closing Persuasiveness** | **3** | The argument is generally persuasive: it marshals controlling Washington precedent, emphasizes the State’s uncontradicted evidence, and rebuts the defense’s constitutional claim. Minor logical gaps (the *Charley* mis‑application) and a somewhat formulaic tone keep it from being “highly” compelling, but it still makes a strong overall case for affirming the convictions. |
+
+---
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 3,
+  "Issue Prioritization and Synthesis": 3,
+  "Closing Persuasiveness": 3
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE CLOSING STATEMENT
+
+## IN THE WASHINGTON STATE SUPREME COURT
+
+### State of Washington, Respondent v. John George and Tommy George, Appellants
+
+---
+
+## INTRODUCTION
+
+Your Honors, the defense respectfully submits this closing statement in support of our appeal and in rebuttal to the State's position. The defense maintains that the Court of Appeals erred in affirming the convictions for attempted first degree theft by deception, and this Court should reverse for two fundamental reasons: (1) the State failed to present sufficient evidence to establish the market value of the truck at the time and place of the crime as required by Washington law, and (2) the application of the theft statute to these circumstances renders it unconstitutionally vague.
+
+---
+
+## I. STATEMENT OF FACTS ESSENTIAL TO DEFENSE
+
+The defense emphasizes the following critical facts, which the State has conveniently minimized:
+
+The Georges did not obtain the truck through deceptive means; rather, they purchased the truck in its defective condition from Jerome Potter for $1,800 in June 2003. At the time of this purchase, the truck was inoperable due to a rear wheel differential problem, had sat uncovered outside for two years, and carried approximately 185,000 miles. The odometer read 70,000 miles due to its five-digit limitation. Potter explicitly disclosed these mechanical problems to Tommy George, including the engine replacement from a "350" to a "400."
+
+The evidence establishes that the Georges made improvements to the truck after purchasing it. They invested labor and resources to transform the inoperable, deteriorated vehicle into something they believed had value. This improvement process is a critical fact that distinguishes the condition of the truck at the time of purchase from its condition at the time of the attempted sale.
+
+The misrepresentations made to the undercover officers—describing the truck as in "perfect condition," always garaged, and having only 70,000 miles—occurred after the Georges had invested in the truck. The State's theory conflates the value of the truck in its defective state at the time of purchase with its value after improvements, but this conflations violates the established legal standard for determining market value.
+
+---
+
+## II. LEGAL ANALYSIS: SUFFICIENCY OF EVIDENCE
+
+### A. The Legal Standard for Market Value
+
+The State bears the burden of proving every element of the crime beyond a reasonable doubt, including the value of the property at the time and place of the crime. This Court held in **State v. Charley**, 54 Wash. 2d 422, 341 P.2d 476 (1959), that market value must be determined "at the time and place of the crime." This is a well-settled principle that the State cannot circumvent.
+
+The time of the crime here is not June 2003 when the Georges purchased the defective truck from Potter. The crime of attempted first degree theft by deception occurred when the Georges attempted to sell the truck to the undercover officers based on their false representations. The place of the crime is similarly distinct from the prior sale transaction.
+
+### B. The State's Evidence Failed to Establish Value at the Relevant Time
+
+The State's only evidence of value was the $1,800 purchase price from June 2003. This price reflected the market value of the truck in its defective, inoperable condition—sitting outside for two years with a malfunctioning differential and high mileage. The State presented no evidence whatsoever regarding the value of the truck at the time of the attempted sale.
+
+As this Court recognized in **State v. Green**, 89 Wash. 2d 554, 574 P.2d 1171 (1978), the State bears the burden of proving every element of the offense. The value element requires proof of the property's worth at the time of the criminal conduct, not at some prior point in time. The State's reliance on the purchase price constitutes an fundamental error in temporal analysis.
+
+The trial court acknowledged this problem by giving lesser included instructions on attempted second and third degree theft, implicitly recognizing that the value element was not firmly established for first degree theft. The Court of Appeals erred in affirming the conviction despite this evidentiary deficiency.
+
+### C. The Logical Inference Argument Fails
+
+The State's argument that the value of the improved truck "must be equal to or greater than" the value of the defective truck rests on faulty logic. This Court should reject the proposition that improvements automatically increase market value. A rational trier of fact cannot simply assume that repairs and improvements to a thirty-year-old vehicle necessarily add value. The vehicle could have deteriorated further, the improvements could have been performed improperly, or the market could have valued the truck at less than the purchase price plus improvement costs.
+
+In **State v. Lui**, 179 Wash. 2d 457, 315 P.3d 493 (2013), this Court held that sale price is relevant evidence of market value "particularly when no contrary evidence is presented." However, the State cannot rely on this precedent to bootstrap evidence from a prior transaction when the temporal element is fundamentally misaligned. The sale price of the defective truck is relevant to the value of that defective truck at that time—it is not relevant to the value of an improved truck at a later time.
+
+### D. The Defense Did Not Bear the Burden of Production
+
+The State argues that the defense's failure to present evidence about the truck's value in its improved condition relieves the State of its burden. This represents a fundamental misunderstanding of our legal system. Under **In re Winship**, 397 U.S. 358 (1970), the burden of proof rests squarely on the prosecution. The defense has no obligation to prove innocence or to present evidence undermining the prosecution's case.
+
+However, the defense did raise this issue in its motion for dismissal, arguing that the State failed to establish a prima facie case. The trial court denied this motion, and the Court of Appeals erred in affirming this denial. The State's evidence, viewed in the light most favorable to the prosecution, simply does not establish the essential element of value at the time and place of the crime.
+
+---
+
+## III. LEGAL ANALYSIS: CONSTITUTIONAL VAGUENESS
+
+### A. The Due Process Clause Requires Fair Notice
+
+The defense maintains that applying the theft statute to these circumstances, where the State uses the purchase price of a defective item to establish the value of an allegedly improved item, violates due process. The Fourteenth Amendment requires that criminal statutes provide fair notice of what conduct is prohibited.
+
+In **State v. Brown**, 121 Wash. 2d 283, 850 P.2d 310 (1993), this Court acknowledged that "market value" is a well-established legal concept. However, the concept of market value must be applied in a manner that provides actual notice to defendants. The State's approach here—using a prior sale price from a different point in time to establish value at the time of the crime—creates an impossible standard for defendants to anticipate.
+
+### B. The Statute as Applied Fails to Provide Fair Notice
+
+A defendant seeking to comply with the law must understand what facts determine criminal liability. Under the State's theory, a defendant cannot know whether his or her conduct constitutes first degree theft because the value determination depends on evidence the defendant cannot possibly anticipate—the purchase price of an item in a prior transaction, regardless of what the item looked like at the time of the alleged crime.
+
+The defense in **State v. Hennings**, 129 Wash. 2d 512, 919 P.2d 580 (1996), argued that a statute is not void for vagueness merely because the State employs a particular method of proof. However, the defense does not challenge the method of proof in the abstract. Rather, the defense argues that the specific application of the statute here—using a prior sale price to establish value when the property's condition has changed—provides no notice to defendants regarding what evidence the State will rely upon.
+
+The State conflates statutory clarity with evidentiary sufficiency. Even if the theft statute clearly defines the prohibited conduct, its application in this case fails to provide the fair notice required by due process. The Georges could not have known, when they made improvements to the truck, that the State would later rely on the purchase price of the defective truck to establish the value element of first degree theft.
+
+---
+
+## IV. REBUTTAL TO STATE'S ARGUMENTS
+
+### A. Rebuttal to the "Baseline Value" Argument
+
+The State argues that the $1,800 purchase price established a "baseline value" that satisfies the statutory threshold. This argument misstates the legal requirement. The statute requires proof of value at the time and place of the crime—not at some prior transaction. The State's "baseline value" theory effectively reads the temporal requirement out of the statute.
+
+The State cites **State v. Salinas**, 119 Wash. 2d 192, 829 P.2d 1068 (1992), for the proposition that evidence is sufficient if any rational trier of fact could find the essential elements beyond a reasonable doubt. However, **Salinas** does not stand for the proposition that any evidence, regardless of its temporal relevance, can establish the value element. The evidence must still be capable of supporting a finding regarding the value at the relevant time.
+
+### B. Rebuttal to the Application of *Charley*
+
+The State argues that *Charley* does not require separate evidence for each stage of the property's condition. This misreads *Charley*. The holding in *Charley* establishes that market value must be determined at the time and place of the crime—this is not a flexible standard that permits the State to rely on evidence from different points in time.
+
+The crime here was the attempted sale based on false representations. The value relevant to this crime is the value of the truck at the time of the attempted sale, not the value at the time of the prior purchase. The State's evidence simply fails to establish this element.
+
+### C. Rebuttal to the Vagueness Argument
+
+The State argues that the defense's vagueness argument conflates evidentiary challenges with constitutional concerns. This is incorrect. The defense's argument recognizes that the statute, as applied, fails to provide fair notice. The defendant cannot know, in advance, what evidence the State will use to establish value.
+
+The State's reliance on **Brown** and **Hennings** is misplaced. In **Brown**, the term "market value" was found sufficiently clear because it is a well-established legal concept. However, the concept of market value, when applied to circumstances where the property's condition has changed, must still provide notice regarding what evidence will be relevant. The State's approach here provides no such notice.
+
+---
+
+## V. CONCLUSION AND RELIEF REQUESTED
+
+The defense respectfully requests that this Court reverse the Court of Appeals and dismiss the convictions for attempted first degree theft by deception. The State failed to present sufficient evidence to establish the market value of the truck at the time and place of the crime. The State's reliance on the $1,800 purchase price from a prior transaction, when the truck was in a defective condition, does not satisfy the statutory requirement.
+
+Alternatively, the defense requests that this Court reverse and remand for a new trial, during which the State should be required to present evidence regarding the truck's value at the time of the attempted sale rather than relying on the prior purchase price.
+
+The defense further requests that this Court hold, consistent with due process requirements, that the theft statute, as applied in these circumstances, fails to provide fair notice of the conduct prohibited and is therefore unconstitutionally vague.
+
+The defense has maintained throughout these proceedings that the State cannot meet its burden by conflating the value of the truck at the time of purchase with its value at the time of the crime. The Court of Appeals erred in affirming the convictions despite this fundamental evidentiary deficiency. This Court should correct that error.
+
+**Respectfully submitted,**
+
+**DEFENSE**
+
+---
+
+## CITATIONS TO AUTHORITIES
+
+- **State v. Charley**, 54 Wash. 2d 422, 341 P.2d 476 (1959) (market value must be determined at time and place of crime)
+- **State v. Salinas**, 119 Wash. 2d 192, 829 P.2d 1068 (1992) (evidence sufficiency standard)
+- **State v. Green**, 89 Wash. 2d 554, 574 P.2d 1171 (1978) (State bears burden of proving every element)
+- **State v. Lui**, 179 Wash. 2d 457, 315 P.3d 493 (2013) (sale price relevant evidence of market value)
+- **State v. Brown**, 121 Wash. 2d 283, 850 P.2d 310 (1993) (market value as well-established legal concept)
+- **State v. Hennings**, 129 Wash. 2d 512, 919 P.2d 580 (1996) (statute not void for vagueness merely due to particular method of proof)
+- **In re Winship**, 397 U.S. 358 (1970) (burden of proof rests on prosecution)
+- **RCW 9A.56.030** (first degree theft statute requiring value exceeding $1,000)
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**A. Citation Relevance – 4/4**  
+All of the authorities cited (Charley, Green, Lui, Salinas, Brown, Hennings, *In re Winship* and RCW 9A.56.030) directly address the two core issues raised in the defense’s closing: (1) the requirement that “market value” be proved at the time and place of the crime and (2) the burden‑of‑proof and vagueness standards that govern a theft conviction. Each case is on‑point and no citation is tangential.
+
+**B. Constraints Extraction – 4/4**  
+For every citation the defense identifies the legal condition that must be satisfied for the precedent to apply:  
+
+* Charley – value must be measured at the time and place of the crime.  
+* Green – the prosecution bears the burden of proving every element beyond a reasonable doubt.  
+* Lui – sale‑price evidence is admissible only when it is relevant to the property’s condition at the relevant time and when no contrary evidence is offered.  
+* Salinas – sufficiency requires that a rational trier could find each element beyond a reasonable doubt.  
+* Brown – “market value” must be a clear, well‑established concept to give fair notice.  
+* Hennings – a statute is vague only if the language itself is indefinite, not merely because a particular method of proof is used.  
+* *In re Winship* – the burden of proof never shifts to the defendant.  
+* RCW 9A.56.030 – first‑degree theft requires a value exceeding $1,000.  
+
+The analysis extracts more than the three‑constraint minimum and does so accurately.
+
+**C. Argument Validity per Constraint – 3/4**  
+The defense’s arguments correctly apply the constraints from Charley, Green, Salinas, Brown, Hennings, *Winship* and the statutory threshold. The only modest weakness is the interpretation of *Lui*: the case holds that sale price is “relevant” evidence, but it does not require the price to reflect the exact condition at the crime‑time. The defense stretches this point to argue that the price is irrelevant because the truck’s condition changed, which is a persuasive but not a strictly accurate reading of *Lui*. Because of this minor mis‑statement, the argument is not fully flawless.
+
+**D. Issue Prioritization and Synthesis – 3/4**  
+The closing is well‑structured: it first tackles the most dispositive factual issue (insufficiency of value evidence), then moves to the constitutional vagueness claim, and finally rebuts the State’s counter‑arguments. The narrative is coherent and the major issues are clearly highlighted, though there is some repetition of points (e.g., the “baseline value” discussion). Overall the synthesis is strong.
+
+**E. Closing Persuasiveness – 3/4**  
+The argument is logically sound, heavily supported by precedent, and anticipates the State’s likely objections. It persuasively argues that the prosecution failed to meet its burden on the value element and that the statutory application deprives defendants of fair notice. The persuasiveness is limited only by the lack of any positive evidence of the truck’s market value at the time of the attempted sale and by the slight over‑reach on *Lui*. Nonetheless, the closing makes a compelling case for reversal.
+
+---
+
+### Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 3,
+  "Issue Prioritization and Synthesis": 3,
+  "Closing Persuasiveness": 3
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**State of Washington, Respondent v. John George and Tommy George, Appellants.**
+
+**FINAL RULING**
+
+**PENDING BEFORE THE COURT** is the appeal of Appellants John George and Tommy George following their convictions for attempted first degree theft by deception. The Court has reviewed the closing arguments of the prosecution and defense, the record provided, and the applicable legal standards. Based solely on the facts and arguments presented, the Court issues the following final ruling.
+
+**I. SUFFICIENCY OF THE EVIDENCE**
+
+The Appellants contend that the State failed to present sufficient evidence to establish the value of the truck at the time and place of the crime, a necessary element for first degree theft. The State argues that the $1,800 purchase price paid by the Appellants for the truck in its defective condition established a "baseline value" that necessarily exceeded the $1,000 threshold for first degree theft, regardless of the truck's condition at the time of the attempted sale.
+
+The legal standard for reviewing a sufficiency challenge is well settled. In *State v. Salinas*, 119 Wash. 2d 192, 829 P.2d 1068 (1992), this Court held that evidence is sufficient if, after viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could find the essential elements of the crime beyond a reasonable doubt. The State bears the burden of proving every element of the offense, including the value of the property. *State v. Green*, 89 Wash. 2d 554, 574 P.2d 1171 (1978).
+
+The central issue is whether the State's evidence—the $1,800 purchase price of a defective truck—was sufficient to prove the market value of the truck at the time and place of the crime. The crime occurred when the Appellants attempted to sell the truck to undercover officers, at which time they represented the truck to be in "perfect condition" and "great shape." In contrast, the $1,800 purchase price reflected the value of the truck in June 2003, when it was inoperable due to a rear wheel differential problem, had sat outside for two years, and had high mileage.
+
+This Court has consistently held that market value must be determined "at the time and place of the crime." *State v. Charley*, 54 Wash. 2d 422, 341 P.2d 476 (1959). The State's evidence addressed the value of the truck at a distinct point in time (June 2003) and in a distinct condition (defective). The State presented no evidence regarding the value of the truck in its improved condition at the time of the attempted sale.
+
+The State argues that it is logical to infer that a truck worth $1,800 in a defective state must be worth at least $1,000 in a repaired state. While this may be a common-sense inference, it is not evidence. The State bears the burden of proving the value of the property *as it existed at the time of the crime*. *State v. Green*, 89 Wash. 2d 554, 574 P.2d 1171 (1978). The State cannot meet this burden by proving the value of the property in a prior, different condition and asking the jury to speculate that the value remained above the statutory threshold after the Appellants' alleged improvements.
+
+The Appellants correctly note that improvements do not automatically increase market value, and the State presented no expert testimony, appraisal, or other evidence to establish the value of the truck in its improved condition. Without such evidence, the jury was left to speculate as to whether the repairs were effective, whether they added value, or whether the market value of a 1974 truck with 185,000 miles exceeded $1,000. The State's reliance on the purchase price of the defective truck fails to satisfy the "time and place" requirement of *Charley*. Consequently, the evidence is insufficient to support a conviction for first degree theft.
+
+**II. STATUTORY VAGUENESS**
+
+The Appellants argue that the theft statute is unconstitutionally vague as applied because the State's use of the purchase price of a defective truck to prove the value of an improved truck fails to provide fair notice. This argument is without merit.
+
+In *State v. Brown*, 121 Wash. 2d 283, 850 P.2d 310 (1993), this Court held that the term "market value" is a well-established legal concept that provides fair notice of prohibited conduct. The statute clearly defines the prohibited act (theft) and the element of value (market value at the time and place of the crime). The fact that the State failed to present sufficient evidence to meet this standard in this specific instance does not render the statute vague. As stated in *State v. Hennings*, 129 Wash. 2d 512, 919 P.2d 580 (1996), a statute is not void for vagueness merely because the State employs a particular method of proof or fails to prove its case adequately. The Appellants' challenge is rooted in the sufficiency of the evidence, not a lack of notice regarding the criminality of their conduct.
+
+**III. CONCLUSION**
+
+The State presented sufficient evidence to establish that the Appellants attempted to sell the truck under false pretenses. However, the State failed to present sufficient evidence to establish the value of the truck at the time and place of the crime as required for a conviction of first degree theft. The $1,800 purchase price of the truck in its defective condition was not sufficient to prove the value of the truck in its improved condition exceeded $1,000. The theft statute is not unconstitutionally vague.
+
+Accordingly, the Court reverses the decision of the Court of Appeals regarding the conviction for attempted first degree theft. The case is remanded for further proceedings consistent with this opinion.
+
+**DATED:** this day.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation Summary**
+
+| Evaluation Area | Score (0‑4) | Rationale |
+|-----------------|--------------|-----------|
+| **Citation Relevance** | **4** | All five cited cases (Salinas, Green, Charley, Brown, Hennings) directly address the core legal issues – sufficiency of evidence, burden of proof, the “time and place” market‑value requirement, and the vagueness analysis. Each case is highly pertinent to the arguments presented. |
+| **Constraints Extraction** | **4** | The analysis correctly identifies the essential legal constraints from each authority: (1) Salinas – evidence must meet the “any rational trier” sufficiency standard; (2) Green – prosecution must prove every element, including value at the crime’s time/place; (3) Charley – market value must be measured at the time and place of the crime; (4) Brown – “market value” is a well‑defined concept giving fair notice; (5) Hennings – a statute is not vague merely because of the method of proof used. All constraints are accurately articulated. |
+| **Argument Validity per Constraint** | **4** | The argument applies each constraint correctly: it shows the State’s evidence fails the Salinas sufficiency test, does not satisfy Green’s burden‑of‑proof requirement, violates Charley’s temporal market‑value rule, and the vagueness challenge is properly rebutted using Brown and Hennings. The reasoning is sound, fact‑consistent, and free of logical errors. |
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4"
+}
+```

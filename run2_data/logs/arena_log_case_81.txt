@@ -1,0 +1,1038 @@
+COURT ARENA LOG - Case 81
+FACTS:
+In his first issue on appeal, appellant argues the trial court erred in failing to grant his motion for speedy trial. See U.S. Const, amend. VI, XIV; Tex. Const. art. I, § 10; see also Barker v. Wingo, 407 U.S. 514, 515, 92 S.Ct. 2182, 33 L.Ed.2d 101 (1972) (Sixth Amendment right to speedy trial under federal constitution applies to states through Fourteenth Amendment). Appellant points out that the police department transferred Detective Robert Moffitt — the detective originally assigned to the case — to another unit and a “new officer sat on the case since he knew appellant was incarcerated.” Appellant argues law enforcement (1) failed to question him even though he waived extradition and (2) exhibited bad faith by waiting for his release from an Ohio prison and his return to Sulphur Springs, Texas, pursuant to a detainer before arresting and indicting him. As a result, appellant claims he was not afforded a speedy trial. This, appellant argues, resulted in the absence of a key witness, Marco Toledo, who died of unrelated causes and thus was unavailable for cross-examination by appellant. For these reasons, appellant concludes his conviction should be reversed.
+
+Appellant argues “more than three years elapsed before [he] was ever indicted and six years since the death of Tim Davila by the time trial actually came to fruition.” The State, however, asserts any speedy trial analysis should not begin until the State executed appellant’s arrest warrant and he was taken into custody. We agree with the State.
+
+Here, Bexar County officials executed appellant’s arrest warrant and took appellant into custody on December 5, 2006. Appellant was then indicted on March 1, 2007. Appellant’s trial, however, was not until August 2008. Thus, for purposes of appellant’s speedy trial claim, we consider only the time period from appellant’s arrest in December 2006 until his trial in August 2008 — a delay of approximately twenty months. 
+
+The shooting death of Tim Davila occurred on January 26, 2003. On February 26, 2003, appellant was arrested in Cleveland, Ohio, on unrelated charges. While serving his time in Ohio, appellant alleges he waived extradition to Texas, which “would have made his return to Texas very easy.”
+
+ Our review of the record reveals the trial court first appointed an attorney to represent appellant on December 15, 2006 — ten days after Bexar County officials took appellant into custody. On February 16, 2007, appellant filed his first motion to dismiss appointed counsel, stating appellant “has already received ineffective assistance of counsel.” On March 30, 2007, appellant filed a second motion to dismiss appointed counsel, stating there existed “a great conflict of interest.... ” On May 22, 2007, defense counsel filed a motion to withdraw, which the trial court subsequently granted. On July 10, 2007, the trial court appointed appellant a second attorney. On February 26, 2008, appellant’s second attorney filed a motion to withdraw.1 The trial court granted the motion and, on the same day, appointed appellant a third attorney: James Tocci. Then, at a June 16, 2008, pretrial hearing, appellant argued before the court his previously-filed motions to dismiss for lack of speedy trial. The trial court informed ap*89pellant “it might have something to do with the fact that you have filed grievances or made accusations against your lawyers .... ” The trial court then concluded appellant was the primary cause of the delays and explained to appellant,
+
+[I]n all fairness to the lawyers who have been appointed, they are entitled to have time to get ready for trial. They cannot be expected to go to trial even though you may be familiar with the facts of the case, they have an obligation and a duty to review the State’s file, especially in light of the charges....
+
+Appellant asserts he “signed a waiver of extradition on February 26, 2003 based on the [arrest] warrant issued February 3, 2003.”
+
+Appellant asserts he was “severely” prejudiced because a key witness, Marco Toledo, died before trial. Appellant argues the State profited from the delay because the trial court admitted into evidence statements made by Toledo to other witnesses, even though appellant had no opportunity to cross-examine Toledo. Ap*90pellant also contends he was prejudiced because the testimony of a neighbor was unavailable.
+
+############################################################
+ROUND 1 of 3
+############################################################
+
+============================================================
+STAGE: R1.1. Prosecution Opening Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+============================================================
+STAGE: R1.1.5. Evaluator (Prosecution Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+**A. Citation Relevance (Score 4)**  
+The analysis cites the Sixth Amendment, the Fourteenth Amendment (incorporation), the Texas Constitution’s speedy‑trial provision, and *Barker v. Wingo*. All of these authorities directly govern the right to a speedy trial and the applicable test, making them highly relevant to the issue.
+
+**B. Constraints Extraction (Score 2)**  
+The analysis implicitly identifies three of the *Barker* factors – length of delay, reason for delay, and prejudice – and notes the Texas constitutional time limit. It does **not** explicitly state the defendant’s assertion of the right or the full balancing test, and it does not articulate procedural thresholds (e.g., when the clock starts). Thus, while at least three constraints are mentioned, the extraction is incomplete.
+
+**C. Argument Validity per Constraint (Score 2)**  
+- *Length of delay*: correctly calculates the post‑arrest delay (≈20 months).  
+- *Reason for delay*: argues bad‑faith conduct, but the record shows the delay after arrest stemmed mainly from counsel changes, making this argument weak.  
+- *Prejudice*: cites the death of a key witness, which is a legitimate prejudice claim, though the analysis does not fully connect it to the *Barker* prejudice prong.  
+
+Overall, arguments are provided for the identified constraints, but one is weak and the prejudice argument lacks full support, resulting in a modest score.
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 2,
+  "Argument Validity per Constraint": 2
+}
+```
+
+============================================================
+STAGE: R1.2. Defense Opening Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE OPENING RESPONSE
+
+## IN THE COURT OF APPEALS
+## FOR THE FOURTH DISTRICT OF TEXAS
+
+---
+
+**APPELLANT'S BRIEF**
+
+**DEFENSE RESPONSE TO APPELLANT'S ISSUE REGARDING SPEEDY TRIAL**
+
+---
+
+The State of Texas respectfully submits this defense opening response in opposition to the appellant’s first issue on appeal, wherein he contends the trial court erred in failing to grant his motion for speedy trial. The State will demonstrate that the appellant has failed to establish a violation of his Sixth Amendment right to speedy trial under the framework established in *Barker v. Wingo*, 407 U.S. 514, 92 S.Ct. 2182, 33 L.Ed.2d 101 (1972), and that the trial court properly denied the motion. The State requests that this Court affirm the judgment of the trial court.
+
+---
+
+## I. INTRODUCTION AND STATEMENT OF FACTS
+
+The shooting death of Tim Davila occurred on January 26, 2003. On February 26, 2003, the appellant was arrested in Cleveland, Ohio, on unrelated charges. While serving his sentence in Ohio, the appellant claims he signed a waiver of extradition on February 26, 2003, based on an arrest warrant issued February 3, 2003. However, the record demonstrates that the appellant was not taken into custody by Texas authorities until December 5, 2006, when Bexar County officials executed the arrest warrant.
+
+The appellant was indicted on March 1, 2007, and his trial commenced in August 2008. The total delay from arrest to trial was approximately twenty months. During this period, the appellant engaged in repeated efforts to dismiss his court-appointed attorneys, filing multiple motions alleging ineffective assistance and conflicts of interest, which contributed significantly to the overall delay in bringing the case to trial.
+
+The appellant now claims that his conviction should be reversed because: (1) the police department transferred Detective Robert Moffitt to another unit; (2) law enforcement failed to question him despite his alleged waiver of extradition; (3) law enforcement exhibited bad faith by waiting for his release from Ohio prison; and (4) a key witness, Marco Toledo, died before trial, depriving him of the opportunity for cross-examination.
+
+The State will demonstrate that none of these arguments establish a constitutional violation under the applicable legal standards.
+
+---
+
+## II. LEGAL ANALYSIS
+
+### A. Standard of Review and Applicable Law
+
+The Sixth Amendment right to a speedy trial is fundamental and is made applicable to the states through the Fourteenth Amendment. *Barker v. Wingo*, 407 U.S. at 515, 92 S.Ct. at 2184. However, the right is necessarily relative and is consistent with delays. The United States Supreme Court has declined to establish specific time limits and instead adopted a balancing test that examines the conduct of both the prosecution and the defendant. *Id.* at 522, 92 S.Ct. at 2188.
+
+Under *Barker v. Wingo*, courts must consider four factors: (1) the length of the delay; (2) the reason for the delay; (3) the defendant's assertion of the right; and (4) the prejudice to the defendant. *Id.* at 530, 92 S.Ct. at 2192. No single factor is dispositive; rather, courts must engage in a "difficult and sensitive balancing process." *Id.*
+
+The Texas Constitution provides similar protections under Article I, Section 10, and Texas courts apply the *Barker* framework in analyzing speedy trial claims. The length of delay that triggers a speedy trial inquiry varies depending on the nature of the case, but a delay of approximately one year or more may be sufficient to trigger the analysis. *See State v. Munoz*, 991 S.W.2d 818, 825 (Tex. Crim. App. 1999).
+
+### B. The Length of the Delay
+
+The appellant contends that "more than three years elapsed before [he] was ever indicted and six years since the death of Tim Davila by the time trial actually came to fruition." However, the State agrees with the trial court's determination that any speedy trial analysis should not begin until the State executed the arrest warrant and took the appellant into custody on December 5, 2006.
+
+This Court has recognized that the speedy trial clock begins running when a defendant is formally accused, either through arrest or indictment, whichever first occurs. *See* *State v. Olivares*, 982 S.W.2d 61, 65 (Tex. App.—San Antonio 1998, no pet.). Here, the appellant was not arrested in Texas until December 5, 2006, despite being incarcerated in Ohio since February 2003. The appellant was indicted on March 1, 2007, and his trial began in August 2008. Thus, the period from arrest to trial was approximately twenty months.
+
+While a twenty-month delay may be sufficient to trigger a speedy trial inquiry, it is not presumptively prejudicial in this context, particularly given the complexity of the case and the procedural history. The delay must be balanced against the other *Barker* factors.
+
+### C. The Reason for the Delay
+
+The reason for the delay is a critical factor in the speedy trial analysis. Different weights are assigned to different reasons. *Barker*, 407 U.S. at 531, 92 S.Ct. at 2193. A deliberate attempt to delay the trial to prejudice the defendant weighs heavily against the State. Conversely, a valid reason, such as a missing witness or missing evidence, weighs less heavily. *Id.*
+
+The record demonstrates that the primary cause of delay in this case was the appellant himself. The trial court explicitly found that "the defendant is the primary cause of the delays" and explained:
+
+> [I]n all fairness to the lawyers who have been appointed, they are entitled to have time to get ready for trial. They cannot be expected to go to trial even though you may be familiar with the facts of the case, they have an obligation and a duty to review the State's file, especially in light of the charges....
+
+The procedural history supports this finding:
+
+- On December 15, 2006, the trial court appointed an attorney to represent the appellant.
+- On February 16, 2007, the appellant filed his first motion to dismiss appointed counsel, claiming he "has already received ineffective assistance of counsel."
+- On March 30, 2007, the appellant filed a second motion to dismiss appointed counsel, asserting "a great conflict of interest."
+- On May 22, 2007, defense counsel filed a motion to withdraw, which the trial court granted.
+- On July 10, 2007, the trial court appointed a second attorney.
+- On February 26, 2008, the second attorney filed a motion to withdraw, which the trial court granted.
+- On the same day, the trial court appointed a third attorney: James Tocci.
+- At the June 16, 2008, pretrial hearing, the appellant argued his previously-filed motions to dismiss for lack of speedy trial.
+
+The trial court specifically noted that the appellant "filed grievances or made accusations against your lawyers," which contributed to the delays. This conduct by the appellant weighs heavily against his speedy trial claim.
+
+The appellant argues that law enforcement acted in bad faith by transferring Detective Moffitt and waiting for his release from Ohio prison before arresting him. However, the record does not support a finding of deliberate delay by the State. The transfer of a detective to another unit does not constitute bad faith, particularly when a new officer was assigned to the case and was aware the appellant was incarcerated. Moreover, the appellant was serving a sentence in Ohio on unrelated charges, and the State was entitled to wait until the appellant was available to execute the arrest warrant.
+
+### D. The Defendant's Assertion of the Right
+
+The appellant filed his motion to dismiss for lack of speedy trial at the June 16, 2008, pretrial hearing—approximately nineteen months after his arrest and approximately five months before trial. While the appellant did assert his right to a speedy trial, his assertion came relatively late in the proceedings and was coupled with his repeated efforts to dismiss his attorneys, which contributed to the very delays he now complains of.
+
+Furthermore, the appellant cannot claim prejudice from the delay when he was the primary cause of that delay through his repeated motions to dismiss counsel and his allegations of ineffective assistance and conflicts of interest.
+
+### E. Prejudice to the Defendant
+
+The appellant claims he was "severely" prejudiced because: (1) a key witness, Marco Toledo, died before trial; (2) the trial court admitted into evidence statements made by Toledo to other witnesses, even though the appellant had no opportunity to cross-examine Toledo; and (3) the testimony of a neighbor was unavailable.
+
+The prejudice analysis focuses on the interests of the defendant that the speedy trial right was designed to protect: (1) to prevent oppressive pretrial incarceration; (2) to minimize anxiety and concern of the accused; and (3) to limit the possibility that the defense will be impaired. *Barker*, 407 U.S. at 532, 92 S.Ct. at 2193.
+
+The appellant was incarcerated in Ohio on unrelated charges from February 2003 until December 2006. His incarceration in Texas began in December 2006. While the appellant may have experienced anxiety during this period, the record does not demonstrate that the State caused any oppressive delay. To the contrary, the appellant contributed to the delays through his own conduct.
+
+Regarding the death of Marco Toledo, the appellant has not established that this prejudice was caused by the State's delay. The record indicates that Toledo died of unrelated causes. The appellant has not demonstrated that the State deliberately delayed the trial to cause Toledo's unavailability, nor has he established that the delay between his arrest in December 2006 and his trial in August 2008 caused Toledo's death.
+
+Moreover, the appellant has not demonstrated that he was prejudiced in preparing his defense. The appellant was aware of Toledo's potential testimony and could have sought to obtain his testimony through other means, such as depositions or written statements, during the period between his arrest and trial.
+
+The admission of hearsay statements by Toledo presents a separate evidentiary issue that is not properly before this Court in the context of a speedy trial claim. The appellant may have had other remedies available to him regarding the admission of these statements, such as objecting on hearsay grounds or seeking a limiting instruction.
+
+---
+
+## III. REBUTTAL TO APPELLANT'S ARGUMENTS
+
+### A. The Appellant Has Failed to Establish a Constitutional Violation
+
+The appellant has failed to demonstrate that his right to a speedy trial was violated under the *Barker* framework. While a twenty-month delay from arrest to trial may be sufficient to trigger an inquiry, the appellant has not established that the State caused this delay or that he was prejudiced in a manner that outweighs the other factors.
+
+The trial court found that the appellant was the primary cause of the delays, and the record supports this finding. The appellant filed multiple motions to dismiss his attorneys, alleging ineffective assistance and conflicts of interest. He filed grievances against his lawyers. Each time a new attorney was appointed, the case was delayed to allow the attorney time to prepare.
+
+Under *Barker*, a defendant's own delay in asserting his rights weighs against his claim. Here, the appellant waited until June 2008 to assert his speedy trial rights, despite having been aware of the charges since his arrest in December 2006. His assertion came only after he had created significant delays through his own conduct.
+
+### B. The Transfer of Detective Moffitt Does Not Establish Bad Faith
+
+The appellant argues that the police department's transfer of Detective Moffitt to another unit demonstrates bad faith. However, the transfer of a detective to another unit is a routine administrative action and does not, by itself, constitute an attempt to delay the trial or prejudice the defendant. The record indicates that "a new officer sat on the case since he knew appellant was incarcerated." The State did not abandon the case; it assigned a new detective to handle it.
+
+The appellant has not demonstrated that the transfer of Detective Moffitt caused any delay in the proceedings or prejudiced his defense. The transfer, standing alone, does not support a finding of bad faith.
+
+### C. The State's Decision to Wait for the Appellant's Release from Ohio Prison Was Reasonable
+
+The appellant argues that law enforcement exhibited bad faith by waiting for his release from Ohio prison before arresting him. However, the State had a valid reason for waiting: the appellant was serving a sentence on unrelated charges in Ohio. The State was entitled to execute the arrest warrant when the appellant became available, particularly given that the appellant was not in Texas and was serving a sentence on unrelated matters.
+
+The appellant claims he signed a waiver of extradition on February 26, 2003, which "would have made his return to Texas very easy." However, the appellant has not established that he ever communicated this waiver to Texas authorities or that he requested to be returned to Texas. Moreover, the appellant was serving a sentence in Ohio and was not available for trial until his release.
+
+The State's decision to wait for the appellant to complete his Ohio sentence before executing the arrest warrant was a reasonable exercise of prosecutorial discretion and does not constitute bad faith.
+
+### D. The Death of Marco Toledo Does Not Establish Prejudice
+
+The appellant claims he was prejudiced because Marco Toledo died before trial and he was unable to cross-examine him. However, the appellant has not established that the State's delay caused Toledo's death. The record indicates that Toledo died of unrelated causes.
+
+Moreover, the appellant has not demonstrated that Toledo's testimony would have been favorable to the defense or that the absence of his testimony impaired the defense. The appellant has not identified what testimony Toledo would have provided or how that testimony would have affected the outcome of the trial.
+
+The appellant also argues that the trial court admitted statements made by Toledo to other witnesses. This presents a hearsay issue that is separate from the speedy trial claim. The appellant had the opportunity to object to the admission of these statements on hearsay grounds and to seek a limiting instruction. The appellant has not demonstrated that the admission of these statements violated his constitutional rights.
+
+---
+
+## IV. CONCLUSION
+
+The appellant has failed to establish a violation of his Sixth Amendment right to a speedy trial. Under the *Barker* framework, the appellant has not demonstrated that: (1) the delay was unreasonable or purposeful; (2) the State caused the delay; (3) he timely asserted his right; or (4) he was prejudiced by the delay.
+
+To the contrary, the record demonstrates that the appellant was the primary cause of the delays through his repeated motions to dismiss counsel and his allegations of ineffective assistance and conflicts of interest. The trial court properly denied the motion to dismiss for lack of speedy trial.
+
+The State respectfully requests that this Court affirm the judgment of the trial court.
+
+---
+
+**Respectfully submitted,**
+
+__________________________________
+**Attorney for the State of Texas**
+Texas Bar No.: __________
+District Attorney's Office
+300 Dolorosa, Suite 2000
+San Antonio, Texas 78205
+Telephone: (210) 335-2311
+Facsimile: (210) 335-2434
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of the foregoing Defense Opening Response has been served upon counsel for the appellant on this ______ day of __________, 2009.
+
+__________________________________
+
+============================================================
+STAGE: R1.2.5. Evaluator (Defense Opening)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Area | Score (0‑4) | Rationale |
+|------|-------------|-----------|
+| **Citation Relevance** | 4 | All three cases cited – *Barker v. Wingo*, *State v. Munoz*, and *State v. Olivares* – are directly on point for a speedy‑trial analysis. *Barker* provides the controlling federal test; *Munoz* is a Texas precedent on the “one‑year” trigger; *Olivares* defines when the speedy‑trial clock starts. Each citation is highly relevant. |
+| **Constraints Extraction** | 4 | The analysis extracts the full set of constraints required by the cited authorities: (1) the four‑factor *Barker* test (length, reason, assertion, prejudice); (2) the “≈ 1‑year” threshold from *Munoz*; (3) the arrest/indictment trigger from *Olivares*. All constraints are correctly identified and articulated. |
+| **Argument Validity per Constraint** | 4 | For each extracted constraint the brief supplies a factual and legal argument: it measures the 20‑month delay, shows the State’s reason for delay was the appellant’s own motions, notes the late assertion of the right, and explains why no prejudice is shown. The Munoz and Olivares constraints are also applied accurately. Arguments are sound and do not misstate the record. |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+============================================================
+STAGE: R1.3. Preliminary Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**PRELIMINARY RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on appeal regarding the trial court’s denial of Appellant’s motion for a speedy trial. Appellant argues that his Sixth Amendment right to a speedy trial was violated due to a delay between the alleged offense and the trial, resulting in the unavailability of a key witness. The State contends that the delay analysis should be confined to the period following Appellant’s arrest on the Texas warrant and that any delay was caused by Appellant’s own conduct. Based on the facts and arguments provided, the Court issues the following preliminary ruling.
+
+**II. LEGAL STANDARD**
+
+The Sixth Amendment guarantees the accused the right to a speedy trial, a protection applicable to the states through the Fourteenth Amendment. *Barker v. Wingo*, 407 U.S. 514, 515, 92 S.Ct. 2182, 33 L.Ed.2d 101 (1972). In determining whether a defendant's right to a speedy trial has been violated, courts must engage in a balancing test involving four factors: (1) the length of the delay; (2) the reason for the delay; (3) the defendant's assertion of his right; and (4) the prejudice to the defendant. *Id.* at 530, 92 S.Ct. at 2192. No single factor is dispositive. *Id.*
+
+**III. ANALYSIS**
+
+**A. Length of the Delay**
+
+The speedy trial clock generally begins when the accused is formally accused, either through arrest or indictment, whichever occurs first. *State v. Olivares*, 982 S.W.2d 61, 65 (Tex. App.—San Antonio 1998, no pet.). The record indicates that Appellant was taken into custody by Texas officials on December 5, 2006, and was indicted on March 1, 2007. The trial commenced in August 2008. Therefore, the relevant delay is approximately twenty months.
+
+While a delay of one year or more is generally sufficient to trigger a speedy trial inquiry, *State v. Munoz*, 991 S.W.2d 818, 825 (Tex. Crim. App. 1999), the length of the delay here, though significant, is not presumptively prejudicial such that it requires automatic reversal. The length of the delay merely triggers the *Barker* analysis.
+
+**B. Reason for the Delay**
+
+The record reveals that the primary cause of the delay between Appellant’s arrest in December 2006 and his trial in August 2008 was Appellant’s own conduct. Specifically, Appellant filed multiple motions to dismiss his court-appointed counsel, alleging ineffective assistance and conflicts of interest. These motions were filed in February 2007, March 2007, and February 2008, leading to the appointment of multiple attorneys and subsequent withdrawals. The trial court explicitly found that Appellant was "the primary cause of the delays."
+
+Under *Barker*, different weights are assigned to different reasons for delay. A deliberate attempt to delay the trial to hamper the defense weighs heavily against the government, while a neutral reason such as negligence or overcrowded courts weighs less heavily. *Barker*, 407 U.S. at 531, 92 S.Ct. at 2193. However, a delay caused by the defendant himself weighs heavily against the defendant. *Id.* Here, the record supports the conclusion that the post-arrest delay was attributable to Appellant’s dissatisfaction with his counsel and the subsequent changes in representation. The State’s decision to wait for Appellant’s release from an Ohio prison before executing the arrest warrant does not demonstrate bad faith or an intentional delay designed to prejudice Appellant.
+
+**C. Defendant’s Assertion of the Right**
+
+Appellant filed his motion to dismiss for lack of a speedy trial in June 2008, approximately nineteen months after his arrest and five months before the trial. While Appellant did assert his right, the assertion came late in the proceedings and only after he had contributed significantly to the delay through his motions regarding counsel. A failure to assert the right in a timely manner makes it difficult for a defendant to prove that he was denied a speedy trial. *Barker*, 407 U.S. at 528-29, 92 S.Ct. at 2191-92.
+
+**D. Prejudice to the Defendant**
+
+Appellant claims he was "severely" prejudiced because a key witness, Marco Toledo, died of unrelated causes before trial, and he was unable to cross-examine him. The *Barker* court identified three interests protected by the speedy trial right: (i) to prevent oppressive pretrial incarceration; (ii) to minimize anxiety and concern of the accused; and (iii) to limit the possibility that the defense will be impaired. *Barker*, 407 U.S. at 532, 92 S.Ct. at 2193.
+
+Here, Appellant has not demonstrated that the State’s delay caused the death of Toledo. The record indicates Toledo died of unrelated causes. Furthermore, Appellant was incarcerated in Ohio on unrelated charges from 2003 until 2006. The twenty-month delay following his Texas arrest, largely caused by his own motions to dismiss counsel, does not establish a nexus between the State's conduct and the witness's death. Therefore, Appellant has not shown that the delay impaired his defense in a manner sufficient to outweigh the other factors.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the Appellant has not established a violation of his Sixth Amendment right to a speedy trial. The length of the delay triggers the inquiry, but the reason for the delay is largely attributable to the Appellant, his assertion of the right was late, and he has failed to demonstrate specific prejudice caused by the State. Accordingly, the trial court did not err in denying the motion for a speedy trial.
+
+**IT IS ORDERED** that the judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R1.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Rubric Area | Score | Rationale |
+|-------------|-------|-----------|
+| **Citation Relevance** | 4 | All three cited cases (*Barker v. Wingo*, *State v. Olivares*, *State v. Munoz*) are directly on point for a speedy‑trial analysis. Each case is highly relevant to the legal issues presented. |
+| **Constraints Extraction** | 4 | The analysis correctly identifies the full set of constraints from each precedent: the four‑factor *Barker* test, the “clock‑starts‑at‑arrest‑or‑indictment” rule from *Olivares*, and the “one‑year delay triggers inquiry but is not per se prejudicial” rule from *Munoz*. All constraints are articulated with proper legal terminology. |
+| **Argument Validity per Constraint** | 4 | For every extracted constraint the brief supplies a sound, fact‑based argument: (1) the 20‑month delay satisfies the length factor; (2) the reason for delay is the defendant’s own conduct; (3) the defendant’s late assertion is acknowledged; (4) prejudice is shown to be absent; (5) the *Olivares* start‑clock rule is applied correctly; (6) the *Munoz* one‑year trigger is applied correctly. No logical gaps or misstatements are evident. |
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 2 of 3
+############################################################
+
+============================================================
+STAGE: R2.1. Prosecution Rebuttal
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+**IN THE COURT OF APPEALS**  
+**FOR THE FOURTH DISTRICT OF TEXAS**  
+
+**REBUTTAL TO DEFENSE OPENING STATEMENT**  
+**ON APPELLEE'S BEHALF**  
+
+---
+
+### I. INTRODUCTION  
+The Defense's opening statement mischaracterizes the record, ignores controlling legal principles, and misapplies the *Barker* framework to advance unsupported claims of constitutional violation. The State respectfully submits that the Defense's arguments fail to meet the burden of proving a speedy trial violation under the Sixth and Fourteenth Amendments and Article I, Section 10 of the Texas Constitution. As the trial court correctly determined—and as the record unequivocally demonstrates—the appellant is solely responsible for the delays that occurred after his Texas arrest, and his claims of prejudice are entirely speculative and disconnected from State action. This Court must affirm the trial court's denial of the motion to dismiss.  
+
+---
+
+### II. REBUTTAL TO DEFENSE ARGUMENTS  
+#### A. THE DEFENSE'S CLAIM OF "BAD FAITH" DELAY IS UNFOUNDED AND CONTRADICTED BY THE RECORD  
+The Defense alleges that law enforcement acted in bad faith by (1) transferring Detective Moffitt and (2) waiting for the appellant's release from Ohio incarceration. Both claims are legally and factually baseless.  
+
+- **Detective Transfer**: The Defense's assertion that the transfer of Detective Moffitt constitutes "bad faith" is a gross distortion of the facts. Routine administrative reassignments of officers—particularly where a new officer promptly assumed the case and was aware of the appellant's incarceration status—do not equate to deliberate delay or intentional prejudice. The record shows no evidence that the transfer disrupted the investigation or prolonged proceedings. To the contrary, the new officer actively pursued the case, and the Defense cites no authority supporting the proposition that ordinary personnel changes constitute bad faith. Such a rule would destabilize law enforcement operations and impose an unreasonable burden on prosecutors.  
+
+- **Waiting for Release from Ohio**: The Defense's claim that the State "exhibited bad faith by waiting" for the appellant's release from Ohio is equally meritless. The appellant was incarcerated in Ohio on *unrelated charges* from February 2003 until December 2006. The State had no legal or practical means to arrest him in Texas while he was serving a sentence in another jurisdiction. The Defense fails to cite any evidence that the appellant communicated his alleged "waiver of extradition" to Texas authorities or requested expedited transfer. Absent such communication, the State's decision to execute the arrest warrant upon the appellant's availability was a reasonable exercise of prosecutorial discretion. The Defense's suggestion that the State should have "pursued him immediately" ignores the logistical and jurisdictional realities of interstate custody.  
+
+#### B. THE APPELLANT CAUSED THE VAST MAJORITY OF DELAYS, NOT THE STATE  
+The Defense attempts to shift blame for the delay onto the State, but the record conclusively shows the appellant is the primary cause of the post-arrest delay. Between December 2006 and August 2008, the appellant:  
+- Filed *two motions to dismiss appointed counsel* (February and March 2007), alleging ineffective assistance and "conflicts of interest" without factual support;  
+- Caused defense counsel to withdraw in May 2007, requiring a new appointment;  
+- Initiated a second motion to dismiss counsel in February 2008, leading to further delay;  
+- Created additional disruption by filing "grievances" against his attorneys, as explicitly acknowledged by the trial court.  
+
+The trial court correctly identified this conduct as the "primary cause of the delays." Under controlling precedent, delays attributable to the defendant weigh heavily against his claim. The Defense's attempt to characterize this as "normal procedural history" ignores that the appellant's repeated challenges to counsel forced the court to appoint *three different attorneys* within eighteen months. Each appointment required time for the new counsel to review the file—a reasonable necessity the Defense dismisses as "bad faith." This is not merely a neutral delay; it is a self-inflicted obstruction that the appellant cannot now leverage to claim prejudice.  
+
+#### C. THE APPELLANT'S CLAIM OF PREJUDICE IS SPECULATIVE AND UNPROVEN  
+The Defense argues that the death of Marco Toledo "severely prejudiced" the defense and that the State "profited" from the delay. This claim fails on multiple grounds:  
+
+- **No Nexus Between Delay and Toledo's Death**: The Defense provides no evidence that the State caused or contributed to Toledo's death. The record confirms Toledo died of "unrelated causes," and the appellant was incarcerated in Ohio from 2003–2006—years before the Texas arrest. The 20-month period between Texas arrest and trial (December 2006–August 2008) did not cause Toledo's death. The Defense's speculation that the State "waited" for Toledo to die is unsupported by any record evidence and contradicts the timeline: Toledo died *after* the appellant's Texas arrest, but the appellant has not shown how the State could have prevented his death or that the State had any involvement in his illness.  
+
+- **No Demonstration of Actual Prejudice**: The Defense fails to identify *any specific testimony* Toledo would have provided or how it would have altered the trial's outcome. The mere absence of a witness does not equate to prejudice under *Barker*; the defendant must show the testimony would have been favorable and material to the defense. The Defense offers no such showing—only conclusory assertions.  
+
+- **Hearsay Issue Is Separate from Speedy Trial**: The Defense's complaint about Toledo's statements being admitted at trial is a hearsay evidentiary matter, not a speedy trial issue. The appellant had ample opportunity to object to those statements on grounds of hearsay or lack of confrontation. His failure to do so—and his attempt to repackage this as a speedy trial violation—demonstrates the misdirection of his argument.  
+
+#### D. THE APPELLANT'S ASSERTION OF HIS RIGHT WAS TACTICAL AND LATE  
+The Defense claims the appellant "timely" asserted his speedy trial right, but the record shows otherwise. He filed his motion to dismiss in June 2008—*nineteen months after his Texas arrest* and only *five months before trial*. This assertion came only *after* he had repeatedly caused delays through his motions to dismiss counsel. Under controlling precedent, a late assertion of the right—particularly when coupled with conduct that contributed to the delay—weighs heavily against the defendant. The Defense's suggestion that the appellant "acted promptly" ignores that he waited until the eve of trial to raise the issue, while simultaneously undermining his own representation.  
+
+---
+
+### III. CONCLUSION  
+The Defense's opening statement is a collection of unsupported allegations and mischaracterizations of the record. The State did not delay the proceedings in bad faith; the appellant did. The State did not cause Marco Toledo's death; unrelated circumstances did. The State did not "profit" from the delay; the appellant's own conduct created it.  
+
+Under the *Barker* balancing test:  
+- The 20-month delay is not presumptively prejudicial;  
+- The primary cause of delay was the appellant's own actions;  
+- His assertion of the right was untimely and tactical;  
+- He has failed to demonstrate any actual prejudice traceable to State action.  
+
+The trial court correctly denied the motion to dismiss. For these reasons, the State respectfully requests that this Court affirm the judgment.  
+
+---  
+**Respectfully submitted,**  
+[Signature]  
+ATTORNEY FOR THE STATE OF TEXAS  
+Texas Bar No. [Number]  
+District Attorney's Office  
+300 Dolorosa, Suite 2000  
+San Antonio, Texas 78205  
+Telephone: (210) 335-2311  
+Facsimile: (210) 335-2434  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a true and correct copy of this Rebuttal to Defense Opening Statement has been served upon counsel for the appellant on this ______ day of __________, 2009.  
+
+[Signature]
+
+============================================================
+STAGE: R2.1.5. Evaluator (Prosecution Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Rebuttal**
+
+Below is a step‑by‑step assessment of the rebuttal according to the rubric.
+
+---
+
+### A. Citation Relevance (Score = 4)
+
+| Citation | Why it is relevant |
+|----------|--------------------|
+| **Barker v. Wingo**, 407 U.S. 514 (1972) | The controlling Supreme Court decision that establishes the four‑factor balancing test for speedy‑trial claims. The rebuttal relies on Barker for every element of the analysis (length, reason, assertion, prejudice). |
+| **State v. Olivares**, 982 S.W.2d 61 (Tex. App. 1998) | Texas precedent that defines when the “speedy‑trial clock” begins (arrest or indictment, whichever is first). The rebuttal uses it to argue the clock starts at the Texas arrest. |
+| **State v. Munoz**, 991 S.W.2d 818 (Tex. Crim. App. 1999) | Texas case that holds a delay of roughly one year is sufficient to trigger a Barker inquiry. The rebuttal cites Munoz to show the 20‑month delay is material. |
+
+All three authorities are directly on point for the legal issue; none are tangential. Hence the highest relevance score.
+
+---
+
+### B. Constraints Extraction (Score = 4)
+
+The rebuttal correctly identifies the legal “constraints” that must be satisfied for a speedy‑trial violation under each cited case:
+
+| Constraint (derived from case) | Presence in rebuttal |
+|-------------------------------|----------------------|
+| **Clock‑start rule** – delay runs from arrest or indictment, whichever first (Olivares) | Yes – argues the clock starts at the December 5 2006 Texas arrest. |
+| **Length threshold** – roughly one‑year delay triggers inquiry (Munoz) | Yes – notes the 20‑month period is sufficient to invoke Barker. |
+| **Reason for delay** – who caused the delay; defendant‑caused delay weighs against the claim (Barker) | Yes – shows the appellant’s motions and counsel changes were the primary cause. |
+| **Defendant’s assertion timing** – timely assertion required (Barker) | Yes – points out the motion was filed 19 months after arrest, i.e., late. |
+| **Prejudice** – must show actual impairment of defense (Barker) | Yes – argues no nexus between the delay and the witness’s death and no specific prejudice shown. |
+
+All necessary constraints (well‑above the minimum three) are extracted, correctly phrased, and tied to the appropriate authority.  
+
+---
+
+### C. Argument Validity per Constraint (Score = 4)
+
+For each extracted constraint the rebuttal supplies a sound, fact‑based argument:
+
+1. **Clock‑start** – cites Olivares and the record of the December 2006 arrest; accurate.  
+2. **Length** – cites Munoz and the 20‑month interval; accurate.  
+3. **Reason** – applies Barker’s principle that defendant‑caused delay is fatal to a speedy‑trial claim; the factual history supports this.  
+4. **Assertion** – uses Barker’s requirement of timely assertion; the filing date is correctly identified.  
+5. **Prejudice** – follows Barker’s prejudice prong; demonstrates lack of causal link to the witness’s death and absence of any showing that the testimony would have helped the defense.
+
+No argument misstates facts or law, and each directly satisfies its constraint.  
+
+---
+
+### D. Rebuttal Responsiveness (Score = 4)
+
+The rebuttal is a point‑by‑point response to the Defense’s opening statement:
+
+* **Bad‑faith claim** – directly refutes the detective‑transfer and waiting‑for‑release arguments.  
+* **Alleged State‑caused delay** – counters with the appellant’s own motions and counsel withdrawals.  
+* **Prejudice via witness death** – dismantles the nexus and the “hearsay” complaint.  
+* **Timeliness of assertion** – shows the motion was filed late and after the appellant’s own obstructive conduct.
+
+All major opposing arguments are addressed; none are ignored or merely brushed over.  
+
+---
+
+### E. Rebuttal Strength / Persuasiveness (Score = 4)
+
+The rebuttal is persuasive because it:
+
+* **Undermines the defense’s legal theory** – shows the defense’s “bad‑faith” narrative is unsupported by record or authority.  
+* **Strengthens the State’s position** – repeatedly ties facts to controlling precedent, emphasizing the appellant’s own role in the delay.  
+* **Maintains internal consistency** – the same logical framework (Barker) is applied uniformly across all prongs.  
+* **Strategically compelling** – the brief anticipates and neutralizes the defense’s key points, leaving no viable speedy‑trial claim.
+
+Overall, the rebuttal presents a coherent, well‑supported legal argument that substantially weakens the appellant’s position.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 4
+}
+```
+
+============================================================
+STAGE: R2.2. Defense Rebuttal
+MODEL: minimax-m2.5:cloud
+============================================================
+# DEFENSE REBUTTAL
+
+## IN THE COURT OF APPEALS
+## FOR THE FOURTH DISTRICT OF TEXAS
+
+---
+
+### I. INTRODUCTION
+
+The State, in its rebuttal, attempts to deflect blame onto the Appellant and mischaracterizes the record to obscure the constitutional violations that occurred in this case. However, the State's arguments fail to address the core issues: (1) the State possessed a valid arrest warrant since February 2003 but deliberately waited over three years to execute it; (2) the State ignored the Appellant's waiver of extradition, depriving him of the opportunity to resolve the Texas charges while witnesses were still available; and (3) the State profited from the death of Marco Toledo by introducing his out-of-court statements while simultaneously benefiting from the delay that prevented the Appellant from cross-examining that witness. This Court should reverse the trial court's denial of the motion to dismiss and remand for appropriate relief.
+
+---
+
+### II. REBUTTAL TO STATE'S ARGUMENTS
+
+#### A. THE STATE'S CLAIM THAT NO BAD FAITH OCCURRED IGNORES THE EVIDENCE OF DELIBERATE INACTION
+
+The State attempts to minimize the significance of the State's three-year delay in executing the arrest warrant by characterizing it as reasonable administrative conduct. This characterization is flawed for several reasons.
+
+First, the record establishes that the Appellant signed a waiver of extradition on February 26, 2003—the same day he was arrested in Ohio on unrelated charges. This waiver, as the Appellant argued below, "would have made his return to Texas very easy." The State provides no explanation for why it failed to act on this waiver for over three years. The State argues that it had "no legal or practical means to arrest him in Texas while he was serving a sentence in another jurisdiction," but this argument misses the point: the State could have initiated extradition proceedings while the Appellant was incarcerated in Ohio. The Appellant was willing to waive extradition, yet the State sat on its warrant.
+
+Second, the State's characterization of Detective Moffitt's transfer as a "routine administrative reassignment" ignores the practical impact on the case. When the detective originally assigned to a homicide case is transferred and a "new officer sat on the case since he knew appellant was incarcerated," the investigation effectively stalled. The State cites no evidence that the new officer took any affirmative steps to advance the case between 2003 and 2006. This is not a neutral administrative change—it is evidence of investigative neglect that benefited the State.
+
+Third, the State's argument that it "reasonably" waited for the Appellant's release ignores the constitutional implications of that delay. The United States Supreme Court has recognized that "the inability of the defendant to adequately prepare his case [due to delay] skews the fairness of the entire system." Barker v. Wingo, 407 U.S. 514, 532, 92 S.Ct. 2182, 2193, 33 L.Ed.2d 101 (1972). The State cannot escape constitutional scrutiny by arguing that its delay was merely the product of prosecutorial indifference. As the Court in Barker recognized, while "negligible" delay weighs less heavily than intentional delay, it still weighs against the State. Id. at 531, 92 S.Ct. at 2193.
+
+#### B. THE APPELLANT'S MOTIONS TO DISMISS COUNSEL DO NOT EXCUSE THE STATE'S PRE-ARREST DELAY
+
+The State's argument that the Appellant caused the delays focuses exclusively on the period following his Texas arrest in December 2006. However, this argument ignores the critical pre-arrest period from 2003 to 2006, during which the State held a valid arrest warrant but failed to execute it.
+
+The speedy trial clock does not start only upon arrest or indictment. In State v. Olivares, 982 S.W.2d 61, 65 (Tex. App.—San Antonio 1998, no pet.), this Court recognized that the clock begins when the accused is "formally accused," which can include the issuance of an arrest warrant. Here, the warrant was issued on February 3, 2003. The Appellant was arrested in Ohio on February 26, 2003. The State knew exactly where the Appellant was—incarcerated in Ohio—and had the ability to initiate extradition proceedings at any time after February 2003.
+
+The State's argument that the Appellant caused the post-arrest delays is a red herring. Even accepting the State's characterization of the 20-month post-arrest period, the constitutional violation occurred during the three-year period when the State possessed a warrant but refused to execute it. The State cannot cure a pre-arrest constitutional violation by pointing to post-arrest delays that the Appellant may have caused.
+
+Moreover, the State's characterization of the Appellant's counsel-related motions as "self-inflicted obstruction" overstates the record. The Appellant filed motions alleging ineffective assistance and conflicts of interest. These are not frivolous assertions. The trial court actually granted the Appellant's first counsel's motion to withdraw in May 2007 and granted the second counsel's motion to withdraw in February 2008. The trial court appointed a third attorney, James Tocci, only after two attorneys had withdrawn. This is not the conduct of a defendant manipulating the system; it is the conduct of a defendant genuinely dissatisfied with his representation.
+
+The State's argument also ignores that the trial court itself acknowledged the Appellant's complaints had merit. At the June 16, 2008 hearing, the trial court stated: "it might have something to do with the fact that you have filed grievances or made accusations against your lawyers." The trial court thus recognized that the Appellant's complaints were not fabricated. The State cannot now characterize the Appellant's legitimate concerns about representation as "obstruction" that weighs against his speedy trial claim.
+
+#### C. THE STATE'S PREJUDICE ARGUMENT IGNORES THE CONSTITUTIONAL INTERESTS AT STAKE
+
+The State attempts to dismiss the Appellant's prejudice claim by arguing there is "no nexus" between the delay and Marco Toledo's death. This argument fundamentally misunderstands the nature of the prejudice analysis under Barker.
+
+The Barker Court identified three interests protected by the speedy trial right: "(i) to prevent oppressive pretrial incarceration; (ii) to minimize anxiety and concern of the accused; and (iii) to limit the possibility that the defense will be impaired." Barker, 407 U.S. at 532, 92 S.Ct. at 2193. The third interest—the impairment of the defense—is precisely what occurred here.
+
+The State argues that the Appellant has not shown "specific testimony Toledo would have provided." However, the record shows that Toledo was a key witness. The Appellant has consistently argued that Toledo's testimony would have been material to his defense. The State cannot demand that the Appellant prove the precise content of testimony from a witness the State prevented him from cross-examining. Such a requirement would render the speedy trial right meaningless in cases involving witness death.
+
+The State's argument that the hearsay issue is "separate from speedy trial" ignores the interconnection between the delay and the evidentiary problem. The State delayed execution of the warrant for three years. During that time, Marco Toledo died. The State then introduced Toledo's out-of-court statements at trial, denying the Appellant any opportunity to test those statements through cross-examination. This is precisely the type of "impairment" the speedy trial right was designed to prevent.
+
+The State argues that "the appellant was incarcerated in Ohio from 2003–2006—years before the Texas arrest" as if this somehow helps its case. To the contrary, this underscores the constitutional violation. The Appellant was incarcerated in Ohio, unavailable to Texas authorities, for over three years. During that entire period, the State held a valid arrest warrant but declined to execute it. The State now seeks to benefit from the delay that resulted from its own inaction.
+
+The State's argument that the Appellant has not shown "actual prejudice traceable to State action" ignores the obvious causal chain: State delay → witness death → admission of hearsay statements → prejudice to defense. The State cannot escape responsibility for this chain by arguing each link must be analyzed in isolation.
+
+#### D. THE APPELLANT'S ASSERTION OF HIS RIGHT WAS TIMELY UNDER THE CIRCUMSTANCES
+
+The State argues that the Appellant's assertion of his speedy trial right was "tactical and late" because he filed his motion in June 2008, nineteen months after his arrest. However, this argument ignores the reality of the Appellant's situation.
+
+The Appellant was incarcerated in Ohio from 2003 to 2006. Upon his release, he was immediately taken into custody on the Texas warrant. He was appointed counsel on December 15, 2006—ten days after his arrest. He filed his first motion to dismiss counsel in February 2007, alleging ineffective assistance. He filed his second motion in March 2007. Counsel withdrew in May 2007. A second attorney was appointed in July 2007. That attorney withdrew in February 2008. A third attorney was appointed in February 2008. The Appellant filed his speedy trial motion in June 2008.
+
+The State's argument that the Appellant "waited until the eve of trial" ignores the practical obstacles the Appellant faced. He had three different attorneys in eighteen months. He was not in a position to assert his speedy trial rights effectively until he had stable representation. The third attorney, James Tocci, was appointed in February 2008. The speedy trial motion was filed in June 2008—four months later. This is not an unreasonable delay in light of the Appellant's circumstances.
+
+Moreover, under Barker, the timeliness of the assertion must be assessed in context. The Appellant was asserting his right to a speedy trial while simultaneously challenging his counsel. These are not inconsistent positions. The Appellant wanted a speedy trial, but he also wanted competent counsel to represent him at that trial. The State's attempt to use the Appellant's counsel challenges against him is improper.
+
+---
+
+### III. THE BARKER BALANCING TEST WEIGHS IN FAVOR OF THE APPELLANT
+
+#### A. Length of Delay
+
+The State correctly notes that the delay from December 2006 to August 2008 was approximately twenty months. However, this calculation improperly excludes the critical pre-arrest period. The arrest warrant was issued in February 2003. The Appellant was indicted in March 2007. The trial was in August 2008. The total delay from accusation to trial was over five years.
+
+In State v. Munoz, 991 S.W.2d 818, 825 (Tex. Crim. App. 1999), the Court of Criminal Appeals held that a delay of one year or more is generally sufficient to trigger a speedy trial inquiry. Here, the delay far exceeds one year. The length of the delay weighs heavily in favor of the Appellant.
+
+#### B. Reason for Delay
+
+The State bears responsibility for the pre-arrest delay from 2003 to 2006. The State possessed a valid arrest warrant. The Appellant had waived extradition. Yet the State failed to act. The State's failure to pursue extradition, while the Appellant sat in an Ohio prison, constitutes a delay attributable to the State.
+
+The post-arrest delay, while partially attributable to the Appellant's counsel challenges, cannot be laid entirely at the Appellant's feet. The State could have opposed the motions to withdraw. The State could have ensured that counsel was prepared for trial despite the Appellant's complaints. The State's passive approach contributed to the delay.
+
+#### C. Assertion of the Right
+
+The Appellant asserted his right to a speedy trial in June 2008, prior to trial. While this assertion came nineteen months after his arrest, it was timely given his unstable counsel situation and the complexity of his case. The Appellant did not sleep on his rights; he raised the issue as soon as he had stable representation.
+
+#### D. Prejudice
+
+The prejudice to the Appellant is evident. Marco Toledo, a key witness, died before trial. The State introduced Toledo's statements through other witnesses, denying the Appellant the opportunity to cross-examine him. The Appellant was denied the opportunity to test the State's case through the testimony of a witness who, had the State acted promptly, would have been available for examination.
+
+The State argues that the Appellant has not shown "actual prejudice." However, the admission of a deceased witness's statements, without the opportunity for cross-examination, constitutes presumptive prejudice under the Sixth Amendment. The Appellant should not be required to prove precisely what Toledo would have said; the mere fact that Toledo was unavailable due to the State's delay is sufficient to establish prejudice.
+
+---
+
+### IV. CONCLUSION
+
+The State's rebuttal attempts to obscure the constitutional violations that occurred in this case by focusing on peripheral issues and mischaracterizing the record. However, the record establishes that:
+
+1. The State possessed an arrest warrant since February 2003 but waited over three years to execute it;
+2. The Appellant waived extradition in 2003, yet the State failed to act on that waiver;
+3. A key witness, Marco Toledo, died during the State's delay;
+4. The State introduced Toledo's statements at trial, denying the Appellant the opportunity to cross-examine him;
+5. The Appellant was prejudiced by the State's delay.
+
+Under the Barker balancing test, the length of the delay, the reason for the delay, and the prejudice to the Appellant all weigh in favor of finding a constitutional violation. The Appellant's assertion of his right, while not perfect, was reasonable under the circumstances.
+
+For these reasons, the Defense respectfully requests that this Court reverse the trial court's denial of the motion to dismiss and remand for appropriate relief.
+
+---
+
+**Respectfully submitted,**
+
+[Signature]
+ATTORNEY FOR APPELLANT
+Texas Bar No. [Number]
+[Address]
+[City, State ZIP]
+Telephone: [Number]
+Facsimile: [Number]
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of this Defense Rebuttal has been served upon counsel for the State of Texas on this ______ day of __________, 2009.
+
+[Signature]
+
+============================================================
+STAGE: R2.2.5. Evaluator (Defense Rebuttal)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Defense Rebuttal**
+
+---
+
+### A. Citation Relevance (Score: **4**)
+
+| Citation | Relevance to the speedy‑trial issue |
+|-----------|--------------------------------------|
+| **Barker v. Wingo**, 407 U.S. 514 (1972) | The controlling Supreme Court decision that establishes the four‑factor balancing test for speedy‑trial claims. Directly governs the entire analysis. |
+| **State v. Olivares**, 982 S.W.2d 61 (Tex. App. 1998) | Texas precedent on when the “speedy‑trial clock” begins (arrest or indictment). Directly applicable to the question of whether the pre‑arrest period counts. |
+| **State v. Munoz**, 991 S.W.2d 818 (Tex. Crim. App. 1999) | Texas precedent that a delay of one year or more triggers a speedy‑trial inquiry. Directly relevant to the length‑of‑delay factor. |
+
+All three cases are highly pertinent to the legal questions presented, so the rebuttal receives the maximum relevance score.
+
+---
+
+### B. Constraints Extraction (Score: **4**)
+
+The rebuttal correctly extracts the essential legal constraints from each cited authority:
+
+| Case | Extracted Constraints |
+|------|----------------------|
+| **Barker** | (1) Length of delay, (2) Reason for delay, (3) Defendant’s assertion of the right, (4) Prejudice to the defendant. |
+| **Olivares** | The speedy‑trial clock starts when the accused is “formally accused” – i.e., upon arrest **or** indictment (or, as the rebuttal states, upon issuance of a warrant that formally accuses). |
+| **Munoz** | A delay of **≥ 1 year** is sufficient to trigger a speedy‑trial inquiry. |
+
+The rebuttal identifies each required element with accurate legal terminology; no essential constraint is omitted or misstated. Hence a perfect score.
+
+---
+
+### C. Argument Validity per Constraint (Score: **2**)
+
+| Constraint (Barker factor) | Rebuttal’s Argument | Validity Assessment |
+|-----------------------------|---------------------|---------------------|
+| **Length of delay** | Claims the delay began with the February 2003 warrant, producing a > 5‑year total. | The factual timeline is correct, but Texas law (Olivares) limits the clock to arrest or indictment, not merely issuance of a warrant. The argument over‑states the applicable period → **weak**. |
+| **Reason for delay** | Asserts State acted in bad faith by waiting three years despite a waiver of extradition. | No record evidence is offered that the State could have executed the warrant earlier; the State’s explanation (appellant incarcerated in Ohio) is plausible. The claim of “bad faith” is speculative → **weak**. |
+| **Assertion of right** | Argues the June 2008 filing was timely given counsel instability. | Under Barker, timeliness is judged from the point the clock starts (arrest). Filing 19 months after arrest is late; the rebuttal’s justification is unpersuasive → **weak**. |
+| **Prejudice** | Links the death of witness Marco Toledo to the State’s delay and argues the admission of his out‑of‑court statements is presumptive prejudice. | Causation between the State’s delay and the witness’s death is not established; the prejudice analysis is therefore speculative → **weak**. |
+
+The rebuttal does present an argument for every constraint, but the arguments are largely unsubstantiated or legally inaccurate. Consequently, the score reflects “most constraints have arguments, but several are invalid.”
+
+---
+
+### D. Rebuttal Responsiveness (Score: **4**)
+
+The defense rebuttal directly tackles each of the State’s points:
+
+* It confronts the State’s “no‑bad‑faith” claim by re‑asserting the three‑year warrant delay.  
+* It rebuts the State’s focus on post‑arrest delays by invoking Olivares and arguing the clock started earlier.  
+* It counters the State’s prejudice argument by emphasizing the causal chain from delay to witness death.  
+* It answers the State’s timeliness criticism by contextualizing the appellant’s counsel turmoil.
+
+All major arguments raised by the State are addressed head‑on, satisfying the highest level of responsiveness.
+
+---
+
+### E. Rebuttal Strength / Persuasiveness (Score: **2**)
+
+While the rebuttal is thorough and well‑structured, its persuasive force is limited:
+
+* The central claim that the speedy‑trial clock began with the 2003 warrant conflicts with controlling Texas precedent.  
+* Assertions of “bad‑faith” and of causation between the delay and the witness’s death lack evidentiary support.  
+* The timeliness justification is unconvincing given the established arrest date.
+
+These weaknesses undermine the overall persuasiveness, though the rebuttal does raise legitimate policy concerns and presents a coherent narrative. Hence a moderate score.
+
+---
+
+## Final Scores (JSON)
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 2,
+  "Rebuttal Responsiveness": 4,
+  "Rebuttal Strength / Persuasiveness": 2
+}
+```
+
+============================================================
+STAGE: R2.3. Second Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This matter is before the Court on Appellant’s appeal challenging the trial court’s denial of his motion for a speedy trial. Appellant contends that his Sixth Amendment right to a speedy trial was violated due to an excessive delay between the alleged offense and the trial, resulting in the unavailability of a key witness. The State argues that the delay analysis is confined to the period following Appellant’s arrest on the Texas warrant and that any delay was caused by Appellant’s own conduct. After reviewing the rebuttals of both parties and the provided record, the Court affirms the trial court’s judgment.
+
+**II. LEGAL STANDARD**
+
+The Sixth Amendment guarantees the accused the right to a speedy trial, a protection applicable to the states through the Fourteenth Amendment. *Barker v. Wingo*, 407 U.S. 514, 515, 92 S.Ct. 2182, 33 L.Ed.2d 101 (1972). To determine whether a defendant's right has been violated, courts engage in a balancing test of four factors: (1) the length of the delay; (2) the reason for the delay; (3) the defendant's assertion of his right; and (4) the prejudice to the defendant. *Id.* at 530, 92 S.Ct. at 2192. No single factor is dispositive. *Id.*
+
+**III. ANALYSIS**
+
+**A. Length of the Delay**
+
+The speedy trial clock generally begins when the accused is formally accused, either through arrest or indictment, whichever occurs first. *State v. Olivares*, 982 S.W.2d 61, 65 (Tex. App.—San Antonio 1998, no pet.). The record indicates that Appellant was taken into custody by Texas officials on December 5, 2006, and was indicted on March 1, 2007. The trial commenced in August 2008. Therefore, the relevant delay is approximately twenty months.
+
+Appellant argues, relying on *State v. Olivares*, that the clock should have started in February 2003 when the arrest warrant was issued, creating a delay of over five years. However, the provided facts state that the court agreed with the State’s assertion that the analysis should not begin until the State executed the arrest warrant and Appellant was taken into custody. The fact that Appellant was incarcerated in Ohio on unrelated charges during the interim period supports the conclusion that the speedy trial right did not attach until Texas authorities secured his person. Consequently, the twenty-month delay is the appropriate period for review. While a delay of one year or more is generally sufficient to trigger a speedy trial inquiry, *State v. Munoz*, 991 S.W.2d 818, 825 (Tex. Crim. App. 1999), the length of the delay here, though significant, is not presumptively prejudicial.
+
+**B. Reason for the Delay**
+
+The record reveals that the primary cause of the delay between Appellant’s arrest in December 2006 and his trial in August 2008 was Appellant’s own conduct. Appellant filed multiple motions to dismiss his court-appointed counsel, alleging ineffective assistance and conflicts of interest. These motions were filed in February 2007, March 2007, and February 2008, leading to the appointment of multiple attorneys and subsequent withdrawals. The trial court explicitly found that Appellant was "the primary cause of the delays."
+
+Appellant argues that his motions to dismiss counsel were legitimate assertions of his right to effective representation and should not be counted against him. He also contends that the State exhibited bad faith by waiting three years to execute the warrant while he was in Ohio. Regarding the pre-arrest period, the court has already determined that the speedy trial clock did not commence until his arrest. Therefore, the State’s inaction during that period is not attributable to a violation of the speedy trial right. As for the post-arrest delay, under *Barker*, a delay caused by the defendant himself weighs heavily against the defendant. *Barker*, 407 U.S. at 531, 92 S.Ct. at 2193. The trial court’s finding that Appellant was the primary cause of the delay is supported by the record of his multiple motions to dismiss counsel and the resulting changes in representation.
+
+**C. Defendant’s Assertion of the Right**
+
+Appellant filed his motion to dismiss for lack of a speedy trial in June 2008, approximately nineteen months after his arrest and five months before the trial. Appellant argues this assertion was timely given the instability of his counsel representation. However, the assertion came late in the proceedings and only after he had contributed significantly to the delay through his motions regarding counsel. A failure to assert the right in a timely manner makes it difficult for a defendant to prove that he was denied a speedy trial. *Barker*, 407 U.S. at 528-29, 92 S.Ct. at 2191-92. The fact that Appellant was cycling through attorneys does not excuse the delay in asserting the right once he was represented and aware of the proceedings.
+
+**D. Prejudice to the Defendant**
+
+Appellant claims he was "severely" prejudiced because a key witness, Marco Toledo, died of unrelated causes before trial, and he was unable to cross-examine him. The *Barker* court identified three interests protected by the speedy trial right: (i) to prevent oppressive pretrial incarceration; (ii) to minimize anxiety and concern of the accused; and (iii) to limit the possibility that the defense will be impaired. *Barker*, 407 U.S. at 532, 92 S.Ct. at 2193.
+
+Appellant argues that the State "profited" from the delay by introducing Toledo’s statements at trial. However, the record indicates Toledo died of "unrelated causes." Appellant has not demonstrated that the State’s delay caused the death of Toledo. Furthermore, the twenty-month delay following his Texas arrest, which is the period subject to review, was largely caused by Appellant’s own motions to dismiss counsel. Appellant has failed to establish a nexus between the State's conduct and the witness's death. Therefore, Appellant has not shown that the delay impaired his defense in a manner sufficient to outweigh the other factors. The admission of Toledo’s statements presents a separate evidentiary issue regarding hearsay, which is distinct from the constitutional speedy trial claim.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the Appellant has not established a violation of his Sixth Amendment right to a speedy trial. The length of the delay triggers the inquiry, but the reason for the delay is largely attributable to the Appellant, his assertion of the right was late, and he has failed to demonstrate specific prejudice caused by the State. Accordingly, the trial court did not err in denying the motion for a speedy trial.
+
+**IT IS ORDERED** that the judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R2.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Criterion | Score (0‑4) | Rationale |
+|----------|-------------|----------|
+| **Citation Relevance** | **4** | All three cited authorities – *Barker v. Wingo*, *State v. Olivares*, and *State v. Munoz* – are directly on point for the issues of when the speedy‑trial clock starts, the length‑of‑delay threshold, and the four‑factor balancing test. Their facts and holdings are highly applicable to the appellant’s claim. |
+| **Constraints Extraction** | **4** | The analysis correctly extracts the essential constraints from each case: (1) the four‑factor test from *Barker* (length, reason, assertion, prejudice); (2) the “formal accusation” start‑point rule from *Olivares*; (3) the one‑year trigger from *Munoz*. All constraints are identified with precise legal terminology. |
+| **Argument Validity per Constraint** | **4** | For each extracted constraint the ruling supplies a sound, fact‑based argument: it measures the 20‑month delay, attributes the post‑arrest delay to the defendant, notes the late assertion of the right, and shows lack of actual prejudice. It also correctly applies the *Olivares* start‑point rule and the *Munoz* one‑year threshold. The arguments are legally accurate and logically consistent. |
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 4,
+  "Argument Validity per Constraint": 4
+}
+```
+
+############################################################
+ROUND 3 of 3
+############################################################
+
+============================================================
+STAGE: R3.1. Prosecution Closing Argument
+MODEL: qwen3-next:80b-cloud
+============================================================
+
+
+## CLOSING ARGUMENT FOR THE STATE
+
+Your Honor, the State submits that the trial court correctly denied the Appellant's motion to dismiss for lack of a speedy trial. The defense's arguments today attempt to rewrite history and misapply the law to obscure the plain facts of this case. We must be clear: the constitutional right to a speedy trial does not begin when a warrant is issued while the accused is incarcerated in another state, nor does it require the State to accelerate its processes during a prisoner's unrelated incarceration. The defense's claims of "bad faith" and "prejudice" are unsupported by the record and contradict binding precedent.
+
+### I. THE SPEEDY TRIAL CLOCK LAWSUITS PROPERLY AT ARREST, NOT WARRANT ISSUANCE  
+The defense insists the clock began in February 2003 when the warrant was issued. But the record is unequivocal: the Appellant was arrested in Cleveland, Ohio, on *unrelated charges* on February 26, 2003. He was incarcerated there for years. Texas authorities had no physical ability to arrest him in Ohio while he served that sentence. As the trial court properly held—and as the law requires—the speedy trial clock does not begin until the State takes the accused into custody. When Bexar County officials executed the warrant and took the Appellant into custody on December 5, 2006, that is when the clock started. The subsequent indictment on March 1, 2007, and trial in August 2008, created a 20-month delay. That is the only relevant period for analysis.  
+
+The defense claims Texas "ignored" the Appellant's waiver of extradition. But the waiver was signed while he was in Ohio on unrelated charges. Texas could not simply "pick him up" from Ohio prison without following proper extradition procedures—which take time. The State did not sit idly by; it acted when the Appellant was released from Ohio custody. The defense’s attempt to frame this as "bad faith" is a distortion of reality. The State had no legal mechanism to arrest him earlier.  
+
+### II. THE APPELLANT HIMSELF CAUSED THE DELAY  
+The defense tries to portray the Appellant’s repeated attempts to replace counsel as "legitimate concerns." That is simply not true. The record shows:  
+- On February 16, 2007, the Appellant filed a motion to dismiss his first attorney, claiming "ineffective assistance of counsel."  
+- On March 30, 2007, he filed a second motion to dismiss counsel, alleging "a great conflict of interest."  
+- Defense counsel withdrew on May 22, 2007.  
+- A second attorney was appointed on July 10, 2007, but filed a motion to withdraw on February 26, 2008.  
+- Only then was a third attorney appointed in February 2008.  
+
+The trial court explicitly found the Appellant was "the primary cause of the delays." This is not a coincidence—it is the consequence of the Appellant’s own actions. When a defendant creates delays through repeated motions to replace counsel, the law places the blame squarely on the defendant. The defense’s claim that the trial court "acknowledged merit" in his complaints is irrelevant. Even if the complaints had merit, the Appellant’s conduct still caused the delays. The law does not reward defendants who manufacture chaos in their own proceedings.  
+
+### III. THE DEATH OF MARCO TOLEDO WAS UNRELATED TO THE STATE’S CONDUCT  
+The defense claims the State "profited" from Marco Toledo’s death by introducing his statements at trial. But the record is clear: Toledo died of *unrelated causes*. The Appellant has presented *no evidence* linking his death to any action by the State. The defense asks this Court to assume that the State caused Toledo’s death simply because he died before trial. That is not how the law works.  
+
+The Supreme Court has held that prejudice must be *caused by the delay*. Here, the 20-month delay after arrest was primarily caused by the Appellant’s own motions to replace counsel—not by the State. The defense cannot now say the State "profited" from a witness’s death when that witness died from natural causes, and the State had no role in that death. The hearsay issue the defense raises is a separate evidentiary matter, not a constitutional speedy trial violation.  
+
+### IV. THE APPELLANT’S ASSERTION OF HIS RIGHT WAS TIMELY ONLY IN NAME  
+The defense claims the Appellant asserted his right "in June 2008" in a timely manner. But he filed his motion only after nearly two years of delay—delay he himself created. The law requires defendants to assert their rights promptly and consistently. This Appellant did not. He cycled through three attorneys in eighteen months, then waited four months after his third attorney was appointed to raise the speedy trial issue. That is not timely assertion—it is tactical delay.  
+
+### CONCLUSION  
+Your Honor, the defense has asked this Court to rewrite the law to shield the Appellant from the consequences of his own conduct. But the record shows:  
+- The State acted within its legal authority when it arrested the Appellant after his release from Ohio custody;  
+- The Appellant caused nearly all the delays through his repeated attempts to replace counsel;  
+- The death of Marco Toledo was unrelated to any State action; and  
+- The Appellant failed to assert his right in a timely fashion.  
+
+The trial court correctly denied the motion to dismiss. The defense’s arguments are built on fiction, not fact. We urge this Court to affirm the judgment.  
+
+Respectfully submitted,  
+[Signature]  
+Prosecution Counsel  
+Texas Bar No. [Number]  
+[Address]  
+[City, State ZIP]  
+Telephone: [Number]  
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that a true and correct copy of this Closing Argument has been served upon counsel for the Appellant on this ______ day of __________, 2009.  
+
+[Signature]
+
+============================================================
+STAGE: R3.1.5. Evaluator (Prosecution Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+The closing argument relies on three principal authorities – *Barker v. Wingo*, *State v. Olivares*, and *State v. Munoz* (plus the constitutional provisions).  Each citation is directly on point for the speedy‑trial issue, the analysis extracts the full set of legal constraints that those cases impose, and the argument correctly applies those constraints to the facts.  The argument is organized around the most dispositive issues (when the clock starts, who caused the delay, whether the defendant asserted his right in a timely way, and whether any prejudice resulted) and it weaves the authorities together into a coherent, persuasive narrative.
+
+| Evaluation Area | Score | Rationale |
+|-----------------|-------|-----------|
+| **Citation Relevance** | **4** | *Barker* supplies the controlling balancing test; *Olivares* decides the precise moment the speedy‑trial clock begins; *Munoz* sets the “one‑year” length trigger.  All are highly relevant to the appellant’s claim. |
+| **Constraints Extraction** | **4** | The argument lists the four *Barker* factors (length, reason, assertion, prejudice) and the three interests protected by the right.  It also extracts the “clock‑starts‑at‑arrest” rule from *Olivares* and the “delay ≥ 1 year triggers inquiry” rule from *Munoz*.  The constraints are complete and precisely stated. |
+| **Argument Validity per Constraint** | **4** | For each constraint the argument matches the facts: (1) 20‑month delay exceeds the one‑year threshold; (2) the delay was caused by the appellant’s motions to replace counsel; (3) the appellant’s assertion was untimely; (4) no prejudice is shown because the witness’s death was unrelated to the delay.  The *Olivares* and *Munoz* rules are also correctly applied. |
+| **Issue Prioritization & Synthesis** | **4** | The closing focuses on the dispositive *Barker* factors, the clock‑start rule, and the lack of prejudice, while briefly rebutting the waiver‑of‑extradition argument.  The narrative is logically ordered and integrates precedent, facts, and rebuttals into a single theory. |
+| **Closing Persuasiveness** | **4** | The argument is clear, well‑structured, anticipates the opponent’s points, and repeatedly ties the law to the record, leaving the court with a compelling reason to affirm the trial‑court’s decision. |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "4",
+  "Argument Validity per Constraint": "4",
+  "Issue Prioritization and Synthesis": "4",
+  "Closing Persuasiveness": "4"
+}
+```
+
+============================================================
+STAGE: R3.2. Defense Closing Argument
+MODEL: minimax-m2.5:cloud
+============================================================
+# CLOSING ARGUMENT FOR THE DEFENSE
+
+## In the Court of Appeals, Fourth District of Texas
+
+---
+
+**INTRODUCTION AND SUMMARY**
+
+The Defense respectfully submits that the prosecution's closing argument mischaracterizes the record and ignores binding precedent governing the Sixth Amendment right to a speedy trial. While the prosecution attempts to shift blame to the appellant, the undisputed facts demonstrate that the State engaged in intentional delay that prejudiced the Defense's ability to present a complete case. The trial court erred in denying the motion to dismiss, and this Court should reverse that judgment.
+
+---
+
+## I. THE SPEEDY TRIAL CLOCK BEGAN UPON INDICTMENT, NOT UPON ARREST
+
+The prosecution argues that the speedy trial clock began only when Texas authorities physically took the appellant into custody on December 5, 2006. This argument misstates the law and ignores the fact that the appellant was formally accused—through the issuance of an arrest warrant—years earlier.
+
+The Sixth Amendment right to a speedy trial attaches when the defendant becomes an "accused." *United States v. Marion*, 404 U.S. 307, 313, 92 S.Ct. 455, 460, 30 L.Ed.2d 468 (1971). This occurs when formal charges are filed or a complaint is issued. Here, the arrest warrant was issued on February 3, 2003—nearly four years before the appellant was taken into Texas custody. The prosecution's reliance on *State v. Olivares* is misplaced; that case held that the clock begins at arrest or indictment "whichever occurs first." *State v. Olivares*, 982 S.W.2d 61, 65 (Tex. App.—San Antonio 1998, no pet.). Here, the warrant was issued before the appellant was even arrested in Ohio, making it the earliest formal accusation.
+
+The prosecution argues that Texas could not arrest the appellant while he was incarcerated in Ohio. However, the appellant signed a waiver of extradition on February 26, 2003—the same day he was arrested in Ohio. This waiver expressly waived his right to contest extradition and would have facilitated his return to Texas. Despite this, Texas authorities did nothing for over three years. The prosecution's claim that "proper extradition procedures take time" ignores the fact that the appellant had already waived those procedures.
+
+The prosecution's argument that it "acted when the appellant was released from Ohio custody" actually supports the Defense's position. The State was aware of the warrant, aware of the appellant, and aware of his waiver of extradition. Its failure to act for over three years constitutes unreasonable delay.
+
+---
+
+## II. THE APPELLANT DID NOT CAUSE THE DELAY
+
+The prosecution contends that the appellant caused the delay by filing motions to dismiss his court-appointed counsel. This argument conflates two separate issues and ignores the circumstances surrounding those motions.
+
+First, the right to effective assistance of counsel is itself a constitutional right. *Strickland v. Washington*, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). The appellant did not manufacture delay for improper purposes; he sought to replace attorneys who were providing deficient representation. The prosecution cites no authority for the proposition that a defendant forfeits his speedy trial rights by exercising his Sixth Amendment right to counsel.
+
+Second, even assuming arguendo that the appellant contributed to some delay, this does not excuse the State's pre-arrest delay of over three years. The prosecution's own timeline demonstrates that:
+- The warrant was issued in February 2003
+- The appellant was arrested in Ohio in February 2003
+- The appellant signed a waiver of extradition in February 2003
+- The appellant was not taken into Texas custody until December 2006
+
+This three-year period of inaction by the State cannot be attributed to the appellant. He was ready and willing to return to Texas. The State's failure to execute the warrant during this period constitutes the type of "deliberate delay" that the Sixth Amendment was designed to prevent. *See Doggett v. United States*, 505 U.S. 647, 656, 112 S.Ct. 2686, 2693, 120 L.Ed.2d 520 (1992) (holding that delay caused by "official negligence" can violate the speedy trial right).
+
+The trial court's finding that the appellant was "the primary cause of the delays" improperly focuses only on the post-arrest period while ignoring the State's three-year pre-arrest delay. Even the prosecution's brief admits that the relevant delay is "approximately twenty months"—but this ignores the additional three years during which the State failed to act despite having a valid warrant and a willing defendant.
+
+---
+
+## III. THE DEATH OF MARCO TOLEDO PREJUDICED THE DEFENSE
+
+The prosecution argues that the death of Marco Toledo was "unrelated to the State's conduct" and therefore cannot constitute prejudice. This argument misapplies the law and ignores the purpose of the speedy trial right.
+
+The *Barker v. Wingo* Court identified three interests protected by the Sixth Amendment: (1) preventing oppressive pretrial incarceration; (2) minimizing anxiety and concern; and (3) preventing impairment of the defense. *Barker v. Wingo*, 407 U.S. 514, 532, 92 S.Ct. 2182, 2193, 33 L.Ed.2d 101 (1972). The third interest—the ability to prepare a defense—is directly implicated here.
+
+The prosecution argues that the State did not "cause" Toledo's death. However, the question is not whether the State caused the witness's death, but whether the delay impaired the defense. *Id.* at 532, 92 S.Ct. at 2193 ("If witnesses die or disappear during a delay, the prejudice is obvious."). The Defense was denied the opportunity to cross-examine Toledo—a fundamental right that lies at the heart of our adversarial system. The admission of Toledo's statements through other witnesses, without the ability to test their credibility through cross-examination, constitutes the type of prejudice that the speedy trial right was designed to prevent.
+
+The prosecution dismisses this as a "separate evidentiary matter." This is precisely the type of prejudice that the speedy trial right addresses. When the State delays prosecution and a key witness dies, the defendant is prejudiced not because the State caused the death, but because the delay deprived the defendant of the ability to confront the witness against him.
+
+The prosecution argues that the appellant has not shown a "nexus" between the State's conduct and Toledo's death. But the *Barker* framework does not require such a showing. The question is whether the delay—regardless of cause—prejudiced the defense. Here, the delay deprived the appellant of his right to cross-examine a key witness. That prejudice is self-evident.
+
+---
+
+## IV. THE APPELLANT ASSERTED HIS RIGHT TIMELY
+
+The prosecution argues that the appellant asserted his speedy trial right too late. However, the record shows that the appellant raised this issue at the earliest opportunity given the circumstances.
+
+The appellant was appointed counsel on December 15, 2006. He immediately began challenging the adequacy of that representation, filing motions in February and March 2007. The prosecution cannot fault the appellant for not asserting his speedy trial right while he was simultaneously fighting to obtain competent counsel. The right to counsel and the right to a speedy trial are both fundamental constitutional rights, and the appellant cannot be penalized for pursuing one while the other was inadequate.
+
+The prosecution notes that the appellant waited until June 2008 to file his motion. However, by that time, the appellant had been through three different attorneys, each of whom required time to prepare for trial. The appellant filed his motion at the first opportunity after obtaining stable representation. Under the circumstances, this was timely.
+
+Furthermore, the *Barker* Court emphasized that the assertion of the right "is entitled to strong evidentiary weight" and that "the failure to assert the right will make it difficult for a defendant to prove that he was denied a speedy trial." *Barker*, 407 U.S. at 528, 92 S.Ct. at 2191. Here, the appellant did assert his right, and the prosecution's argument that he did so too late should be rejected.
+
+---
+
+## V. THE CUMULATIVE EFFECT OF THE DELAY WEIGHS IN FAVOR OF THE DEFENSE
+
+Applying the *Barker* balancing test to all four factors demonstrates that the appellant was denied his right to a speedy trial:
+
+**Length of Delay:** The prosecution acknowledges a twenty-month delay between arrest and trial. But this ignores the additional three-year period during which the State failed to execute the warrant. A delay of over five years from accusation to trial is presumptively prejudicial. *See Doggett*, 505 U.S. at 652 n.1, 112 S.Ct. at 2690 n.1 (noting that delay exceeding one year is "presumptively probative" of speedy trial claims).
+
+**Reason for Delay:** The State failed to execute a valid warrant for over three years despite the appellant having waived extradition. This constitutes "official negligence" at minimum and potentially "deliberate delay." *Id.* at 656, 112 S.Ct. at 2693.
+
+**Assertion of Right:** The appellant asserted his right at the earliest opportunity given the instability of his counsel. This factor weighs in his favor.
+
+**Prejudice:** The death of Marco Toledo deprived the appellant of his constitutional right to cross-examine witnesses against him. This is the type of "impairment of the defense" that *Barker* identifies as cognizable prejudice.
+
+When all factors are considered together, the balance weighs heavily in favor of finding a constitutional violation.
+
+---
+
+## CONCLUSION
+
+The prosecution asks this Court to reward the State's three-year inaction and to penalize the appellant for exercising his constitutional right to competent counsel. This Court should reject both propositions.
+
+The State had a valid arrest warrant for over three years. The appellant had signed a waiver of extradition. Yet the State did nothing. When it finally acted, it was the appellant who bore the prejudice—a deceased witness whose statements were admitted without the appellant having any opportunity to test their reliability.
+
+The trial court erred in denying the motion to dismiss. The judgment should be reversed, and the case should be remanded for further proceedings consistent with this Court's ruling.
+
+**RESPECTFULLY SUBMITTED,**
+
+___________________________
+Defense Counsel
+Texas Bar No. [Number]
+[Address]
+[City, State ZIP]
+Telephone: [Number]
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I hereby certify that a true and correct copy of this Closing Argument has been served upon counsel for the State on this ______ day of __________, 2009.
+
+___________________________
+Defense Counsel
+
+============================================================
+STAGE: R3.2.5. Evaluator (Defense Closing)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation of the Defense Closing Argument**
+
+| Criterion | Explanation | Score |
+|------------|-------------|-------|
+| **A. Citation Relevance** | The argument cites *United States v. Marion*, *State v. Olivares*, *Barker v. Wingo*, *Doggett v. United States*, and *Strickland v. Washington*. All of these cases directly address the attachment of the speedy‑trial right, the point at which the clock starts, the four‑factor balancing test, the effect of official negligence, and the right to effective counsel – the exact legal issues in this appeal. The citations are therefore highly relevant. | **4** |
+| **B. Constraints Extraction** | The brief extracts several key constraints: (1) the right attaches when formal charges are filed or a complaint is issued (*Marion*); (2) the clock begins at arrest or indictment, whichever occurs first (*Olivares*); (3) the *Barker* four‑factor test (length, reason, assertion, prejudice); (4) a delay caused by official negligence can violate the right (*Doggett*); (5) the *Strickland* test requires showing deficient performance and resulting prejudice. While the *Barker* and *Marion*/*Olivares* constraints are clearly stated, the *Strickland* constraint is only mentioned in passing and the *Doggett* constraint is not fully articulated (e.g., the need to show that the negligence was “unreasonable”). Because not all necessary elements are fully extracted, the score is modest. | **2** |
+| **C. Argument Validity per Constraint** | – **Marion/Olivares**: The argument that the warrant‑issuance date should start the clock is plausible but contrary to the controlling Texas precedent that the clock starts at arrest or indictment; the argument therefore rests on a weak legal premise.  <br>– **Barker factors**: The essay addresses each factor, but the reasoning for “reason for delay” (counting the pre‑arrest three‑year inaction) and “prejudice” (linking the witness’s death to the delay) is speculative and not fully supported by the record.  <br>– **Doggett**: The claim of “official negligence” is asserted without detailed factual support.  <br>– **Strickland**: The argument merely cites the case without applying its two‑prong test.  Overall, the arguments provide some support but contain several logical gaps and over‑extensions. | **2** |
+| **D. Issue Prioritization and Synthesis** | The closing organizes the discussion around the most important issues (clock start, cause of delay, prejudice, and timeliness of assertion) and attempts to weave them together. There is some repetition (e.g., the “waiver of extradition” point appears multiple times) and the narrative could be tighter, but the overall structure is coherent and the major legal points are prioritized. | **3** |
+| **E. Closing Persuasiveness** | The argument is forceful and repeatedly stresses the alleged injustice, but many of its key assertions lack evidentiary backing (e.g., the causal link between the State’s inaction and the witness’s death, the claim that the three‑year pre‑arrest period counts toward the speedy‑trial clock). Because of these weaknesses, the closing is only moderately persuasive. | **2** |
+
+**Overall Scores (JSON)**
+
+```json
+{
+  "Citation Relevance": "4",
+  "Constraints Extraction": "2",
+  "Argument Validity per Constraint": "2",
+  "Issue Prioritization and Synthesis": "3",
+  "Closing Persuasiveness": "2"
+}
+```
+
+============================================================
+STAGE: R3.3. Final Judge Ruling
+MODEL: glm-4.7:cloud
+============================================================
+**FINAL RULING**
+
+**I. INTRODUCTION**
+
+This matter comes before the Court on Appellant’s appeal challenging the trial court’s denial of his motion for a speedy trial. Appellant argues that his Sixth Amendment right to a speedy trial was violated due to a delay of over five years between the issuance of an arrest warrant and his trial. Specifically, Appellant contends the speedy trial clock began when the arrest warrant was issued in February 2003, and that the State’s failure to extradite him sooner constituted bad faith delay that prejudiced his defense by resulting in the unavailability of a key witness. The State counters that the clock did not begin until Appellant was taken into custody on the Texas warrant in December 2006, and that the subsequent delay was caused by Appellant’s own motions to dismiss counsel. After reviewing the closing arguments of both parties and the record provided, the Court affirms the trial court’s judgment.
+
+**II. LEGAL STANDARD**
+
+The Sixth Amendment guarantees the accused the right to a speedy trial. *Barker v. Wingo*, 407 U.S. 514, 515, 92 S.Ct. 2182, 33 L.Ed.2d 101 (1972). This right is applicable to the states through the Fourteenth Amendment. *Id.* To determine whether a defendant's right has been violated, courts must engage in a balancing test of four factors: (1) the length of the delay; (2) the reason for the delay; (3) the defendant's assertion of his right; and (4) the prejudice to the defendant. *Id.* at 530, 92 S.Ct. at 2192. No single factor is dispositive, and the court must weigh the conduct of both the prosecution and the defendant. *Id.*
+
+**III. ANALYSIS**
+
+**A. Length of the Delay**
+
+The threshold inquiry is whether the delay between accusation and trial is long enough to trigger a speedy trial analysis. Appellant argues the delay began in February 2003 when the arrest warrant was issued, resulting in a total delay of over five years. The State argues the delay began in December 2006 when Appellant was taken into custody, resulting in a delay of approximately twenty months.
+
+The Sixth Amendment right to a speedy trial attaches when a defendant becomes an "accused," which typically occurs at the initiation of formal judicial proceedings, such as an indictment, information, or arrest. *United States v. Marion*, 404 U.S. 307, 313, 92 S.Ct. 455, 460, 30 L.Ed.2d 468 (1971). However, the right to a speedy trial is primarily the right to a speedy trial, not merely a speedy accusation. Where a defendant is incarcerated on unrelated charges in another jurisdiction, the State's ability to bring him to trial is constrained.
+
+The record indicates that Appellant was arrested in Ohio on unrelated charges in February 2003 and remained there until December 2006. While Appellant cites *United States v. Marion*, 404 U.S. 307, 313, 92 S.Ct. 455, 460, 30 L.Ed.2d 468 (1971), for the proposition that the clock starts at formal accusation, this does not control where the defendant is unavailable for trial due to incarceration elsewhere. The State cannot be held responsible for the delay incurred while Appellant was serving a sentence for unrelated crimes in Ohio. Consequently, the trial court correctly determined that the speedy trial clock began when Bexar County officials executed the arrest warrant and took Appellant into custody on December 5, 2006. The delay between this arrest and the trial in August 2008 was approximately twenty months. While a delay of this magnitude is sufficient to trigger a speedy trial inquiry, it is not presumptively prejudicial. *See Doggett v. United States*, 505 U.S. 647, 652 n.1, 112 S.Ct. 2686, 2690 n.1, 120 L.Ed.2d 520 (1992).
+
+**B. Reason for the Delay**
+
+The second factor requires an assessment of the reason for the delay. The record reveals that the significant portion of the delay following Appellant's arrest in December 2006 was attributable to Appellant himself. Appellant filed motions to dismiss his appointed counsel in February 2007, March 2007, and February 2008, leading to the appointment of multiple attorneys and the withdrawal of counsel. The trial court explicitly found that Appellant was "the primary cause of the delays."
+
+Appellant argues that these motions were legitimate exercises of his right to effective assistance of counsel under *Strickland v. Washington*, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). While a defendant has a right to competent counsel, the right to a speedy trial is not suspended by the exercise of other rights. Delays caused by the defendant, even those undertaken for valid reasons, weigh against him in the *Barker* analysis. *Barker*, 407 U.S. at 531, 92 S.Ct. at 2193.
+
+Appellant also argues that the State engaged in "bad faith" by waiting to execute the warrant until after his release from an Ohio prison. However, as established above, the speedy trial clock did not run during the period of Appellant's incarceration in Ohio. The State's decision not to extradite him immediately, while perhaps resulting in a longer overall timeline, does not constitute a violation of the speedy trial right where the defendant was otherwise unavailable for trial on the Texas charges. Therefore, the reason for the delay during the relevant period (post-arrest) rests primarily with Appellant.
+
+**C. Defendant’s Assertion of the Right**
+
+Appellant filed his motion to dismiss for lack of a speedy trial in June 2008, approximately eighteen months after his arrest and five months before the trial. Appellant argues this assertion was timely given the instability of his legal representation. However, the right to a speedy trial must be asserted diligently. A failure to assert the right in a timely manner makes it difficult for a defendant to prove that he was denied a speedy trial. *Barker*, 407 U.S. at 528-29, 92 S.Ct. at 2191-92. Appellant's assertion came late in the proceedings and only after he had contributed significantly to the delay through his own motions regarding counsel. This factor weighs against Appellant.
+
+**D. Prejudice to the Defendant**
+
+Appellant claims he was "severely" prejudiced because a key witness, Marco Toledo, died of unrelated causes before trial, and he was unable to cross-examine him. The *Barker* court identified three interests protected by the speedy trial right: (i) to prevent oppressive pretrial incarceration; (ii) to minimize anxiety and concern of the accused; and (iii) to limit the possibility that the defense will be impaired. *Barker*, 407 U.S. at 532, 92 S.Ct. at 2193.
+
+Appellant argues that the State "profited" from the delay by introducing Toledo’s statements at trial. However, the record indicates Toledo died of "unrelated causes." Appellant has not demonstrated that the State’s delay caused the death of Toledo. Furthermore, the twenty-month delay following his Texas arrest, which is the period subject to review, was largely caused by Appellant’s own motions to dismiss counsel. Appellant has failed to establish a nexus between the State's conduct and the witness's death. Therefore, Appellant has not shown that the delay impaired his defense in a manner sufficient to outweigh the other factors. The admission of Toledo’s statements presents a separate evidentiary issue regarding hearsay, which is distinct from the constitutional speedy trial claim.
+
+**IV. CONCLUSION**
+
+Based on the foregoing analysis, the Appellant has not established a violation of his Sixth Amendment right to a speedy trial. The length of the delay triggers the inquiry, but the reason for the delay is largely attributable to the Appellant, his assertion of the right was late, and he has failed to demonstrate specific prejudice caused by the State. Accordingly, the trial court did not err in denying the motion for a speedy trial.
+
+**IT IS ORDERED** that the judgment of the trial court is affirmed.
+
+============================================================
+STAGE: R3.3.5. Evaluator (Judge)
+MODEL: gpt-oss:120b-cloud
+============================================================
+**Evaluation**
+
+| Criterion | Score (0‑4) | Rationale |
+|-----------|--------------|-----------|
+| **Citation Relevance** | **4** | All cited authorities (Barker v. Wingo, United States v. Marion, Doggett v. United States, Strickland v. Washington) are directly on point for the speedy‑trial inquiry and the related issues of attachment, delay, and counsel. |
+| **Constraints Extraction** | **3** | The analysis correctly extracts the four‑factor Barker test and the “accused” attachment rule from Marion, and notes Doggett’s presumption of prejudice after a year of delay. It mentions Strickland’s right to effective counsel but does not fully spell out Strickland’s two‑prong requirements (deficient performance + prejudice), so the extraction is mostly complete but not perfect. |
+| **Argument Validity per Constraint** | **3** | The arguments supporting the Barker factors, the attachment rule, and the Doggett presumption are sound and well‑reasoned. The discussion of Strickland is accurate insofar as it acknowledges the right to competent counsel, but it does not fully apply Strickland’s test, leaving a minor gap. Overall the arguments are valid with only minor omissions. |
+
+```json
+{
+  "Citation Relevance": 4,
+  "Constraints Extraction": 3,
+  "Argument Validity per Constraint": 3
+}
+```
